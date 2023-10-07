@@ -1,0 +1,7 @@
+MAP_GLOBAL_VARS:
+
+MVAR_Reserv_00                  :=0;    //      (0)
+MVAR_Reserv_01                  :=0;    //      (1)
+MVAR_Reserv_02                  :=0;    //      (2)
+MVAR_Reserv_03                  :=0;    //      (3)
+MVAR_Reserv_04                  :=0;    //      (4)

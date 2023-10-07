@@ -1,0 +1,12 @@
+MAP_GLOBAL_VARS:
+
+MVAR_Made_Car                   :=0;    //      (0)
+MVAR_PnxVlt_Alarm               :=0;    //      (1)
+MVAR_PnxVlt_Dopusk              :=0;    //      (2)
+MVAR_PnxVlt_MainComp            :=0;    //      (3)
+MVAR_PnxVlt_LabComp             :=0;    //      (4)
+MVAR_PnxVlt_OwrTrap             :=0;    //      (5)
+MVAR_PnxVlt_06                  :=0;    //      (6)
+MVAR_PnxVlt_07                  :=0;    //      (7)
+MVAR_PnxVlt_08                  :=0;    //      (8)
+MVAR_PnxVlt_09                  :=0;    //      (9)

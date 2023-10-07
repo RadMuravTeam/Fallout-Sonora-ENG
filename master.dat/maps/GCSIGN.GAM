@@ -1,0 +1,12 @@
+MAP_GLOBAL_VARS:
+
+MVAR_Made_Car                   :=0;    //      (0)
+MVAR_GARAGE_BARTER              :=0;    //      (1)
+MVAR_GARAGE_BAR_PUT             :=0;    //      (2)
+MVAR_GARAGE_BAR_COMBAT          :=0;    //      (3)
+MVAR_GARAGE_MOTEL_DAY           :=0;    //      (4)
+MVAR_GARAGE_QSTBRAHMIN          :=0;    //      (5)
+MVAR_GARAGE_MOTEL_BOYS          :=0;    //      (6)
+MVAR_Reserv_07                  :=0;    //      (7)
+MVAR_Reserv_08                  :=0;    //      (8)
+MVAR_Reserv_09                  :=0;    //      (9)

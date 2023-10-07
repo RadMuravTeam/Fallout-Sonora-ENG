@@ -1,0 +1,12 @@
+MAP_GLOBAL_VARS:
+
+MVAR_Made_Car                   :=0;    //      (0)
+MVAR_BRAHMIN_GOO_BRAM           :=0;    //      (1)
+MVAR_BRAHMIN_CHILD_VIS          :=0;    //      (2)
+MVAR_Reserv_03                  :=0;    //      (3)
+MVAR_Reserv_04                  :=0;    //      (4)
+MVAR_Reserv_05                  :=0;    //      (5)
+MVAR_Reserv_06                  :=0;    //      (6)
+MVAR_Reserv_07                  :=0;    //      (7)
+MVAR_Reserv_08                  :=0;    //      (8)
+MVAR_Reserv_09                  :=0;    //      (9)

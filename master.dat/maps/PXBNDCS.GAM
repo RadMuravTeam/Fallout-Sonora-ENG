@@ -1,0 +1,14 @@
+MAP_GLOBAL_VARS:
+
+MVAR_Made_Car                   :=0;    //      (0)
+MVAR_PNX_RING_START             :=0;    //      (1)
+MVAR_PNX_BNDCS_FEMALY           :=0;    //      (2)
+MVAR_PNX_MOTO_STATUS            :=0;    //      (3)
+MVAR_PNX_CARDINALS_DOPUSK       :=0;    //      (4)
+MVAR_PNX_CARDINALS_ATTAK        :=0;    //      (5)
+MVAR_PNX_BAIK_KILLER            :=0;    //      (6)
+MVAR_PNX_LARRY_STOP             :=0;    //      (7)
+MVAR_PNX_LOH_HOME               :=0;    //      (8)
+MVAR_PNX_RING_BODY              :=0;    //      (9)
+MVAR_PNX_TRENER_INFO            :=0;    //     (10)
+MVAR_PNX_CARDINALS_ENEMY        :=0;    //     (11)

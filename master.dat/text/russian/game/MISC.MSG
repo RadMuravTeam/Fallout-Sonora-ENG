@@ -1,0 +1,99 @@
+#--------------------------------------------------
+# Interface options
+#--------------------------------------------------
+{0}{}{Are you sure you want to quit?}
+{1}{}{Demo version}
+{2}{}{The default character will be used.}
+{3}{}{Screenshot saved.}
+{4}{}{Fast loading of the game was successful.}
+{5}{}{Quick save of the game was successful.}
+{6}{}{The demo version has expired.}
+{7}{}{Pip-Boy is unavailable during the fight!}
+{8}{}{Error saving screenshot.}
+{9}{}{INTRO}
+{10}{}{NEW GAME}
+{11}{}{LOAD GAME}
+{12}{}{OPTIONS}
+{13}{}{CREDITS}
+{14}{}{EXIT}
+{15}{}{Action Points}
+{16}{}{Health}
+{17}{}{The motion sensor is not installed.}
+{18}{}{The motion sensor has run out of power.}
+{20}{}{11.09.23 [ReBuild by Foxx] ENG: Violator, Adolf, and rockerdahedgehog}
+
+{30}{}{Do you want to continue the game?}
+{50}{}{To start the game, insert the disc!}
+{100}{}{Error saving the game configuration file!}
+{101}{}{The game settings are not saved.}
+
+#--------------------------------------------------
+# Some radiation messages used in critter.c
+#--------------------------------------------------
+{1000}{}{You feel very sick.}
+{1001}{}{You feel very sick. After vomiting, you feel slightly tired.}
+{1002}{}{You feel very tired, vomiting does not stop, and your recovery time increases.}
+{1003}{}{You're bleeding very badly. You are terribly ill and your hair is falling out.}
+{1004}{}{You have severe and prolonged bleeding. You're vomiting blood. The skin peels off.}
+{1005}{}{You have internal bleeding and terrible diarrhea. In addition, you have bloating and terrible agony.}
+{1006}{}{You are dying of radiation sickness.}
+{1007}{}{You get a large dose of radiation.}
+{1008}{}{The Geiger counter is ticking.}
+{1009}{}{The Geiger counter is ticking like crazy.}
+#
+# Message used in actions.c
+#
+{2000}{}{You can't get there.}
+{2001}{}{The lock is stuck.}
+#
+# poison messages from critter.c
+#
+{3000}{}{You are poisoned!}
+{3001}{}{You take poison damage.}
+{3002}{}{You feel a little better.}
+{3003}{}{You feel better.}
+#
+# from queue.c
+#
+{4000}{}{Because of your clumsiness, the bomb explodes ahead of time.}
+#
+# from combatai.c
+#
+{5000}{}{uses}
+{5001}{}{remains without ammunition for weapons}
+{5002}{}{reloads weapons}
+#
+# from gdialog.c - new tell me about stuff
+#
+{6000}{}{What should I ask?}
+{7000}{}{You don't have a Pip-Boy with you!}
+{8000}{}{You are overloaded.}
+{8001}{}{%s carries too much.}
+{8500}{}{You get %d experience for using a survival skill.}
+
+#--------------------------------------------------
+# Replicas over the head of teammates when they get a new level
+#--------------------------------------------------
+
+{9000}{}{%s gets new qualities.}
+
+{9010}{}{Wow. What an unexpected rush of experience.}
+{9011}{}{Level up, baby! One level higher!}
+{9012}{}{I feel great disturbances in the Force. It's like all my skills have improved (+%).}
+{9013}{}{I feel cooler. Stronger. Smarter.}
+
+{9020}{}{I want to know more!}
+{9021}{}{I have a great theory!}
+{9022}{}{Everything brilliant is simple.}
+
+{9030}{}{The training was not in vain.}
+{9031}{}{Will I be promoted after all these trips?}
+{9032}{}{I'm getting stronger. The Order should conduct field work more often.}
+
+{9040}{}{You know, I'm getting better at it.}
+{9041}{}{Now I'm definitely going to hit the jackpot in this case.}
+{9042}{}{I think I'm ready for a big adventure now.}
+
+{9050}{}{Oh, if only my brothers and sisters knew about it...}
+{9051}{}{Now I understand: knowledge is insignificant without practice.}
+{9052}{}{Thank you for our journey.}

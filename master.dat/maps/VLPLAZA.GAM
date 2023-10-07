@@ -1,0 +1,12 @@
+MAP_GLOBAL_VARS:
+
+MVAR_Made_Car                   :=0;    //      (0)
+MVAR_Plaza_Meteo                :=0;    //      (1)
+MVAR_Plaza_SaifPswrd            :=0;    //      (2)
+MVAR_Plaza_MedicMetod           :=0;    //      (3)
+MVAR_Plaza_DeadBody             :=0;    //      (4)
+MVAR_Plaza_Council              :=0;    //      (5)
+MVAR_Plaza_OldRespect           :=0;    //      (6)
+MVAR_Plaza_PwrArmr              :=0;    //      (7)
+MVAR_Reserv_08                  :=0;    //      (8)
+MVAR_Reserv_09                  :=0;    //      (9)

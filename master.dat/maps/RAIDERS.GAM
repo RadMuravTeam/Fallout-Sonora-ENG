@@ -1,0 +1,12 @@
+MAP_GLOBAL_VARS:
+
+MVAR_Made_Car                   :=0;    //      (0)
+MVAR_CAR_PRESENT                :=0;    //      (1)
+MVAR_ROADWAR_DOPUSK             :=0;    //      (2)
+MVAR_ROADWAR_TRAPS_VSBL         :=0;    //      (3)
+MVAR_ROADWAR_TILE_BOSS          :=0;    //      (4)
+MVAR_ROADWAR_BOYS               :=0;    //      (5)
+MVAR_ROADWAR_TILE_BOY_A         :=0;    //      (6)
+MVAR_ROADWAR_TILE_BOY_B         :=0;    //      (7)
+MVAR_Reserv_08                  :=0;    //      (8)
+MVAR_Reserv_09                  :=0;    //      (9)

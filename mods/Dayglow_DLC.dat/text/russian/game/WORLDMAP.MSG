@@ -1,0 +1,627 @@
+#######################################################
+#
+# Names of districts for the loading window of locations
+#
+#######################################################
+
+
+# Villa
+{200}{}{Sleeping area}
+{201}{}{Plaza de la Sombra}
+{202}{}{Villa Cellars}
+{203}{}{Maize plantations}
+{204}{}{Ancient ruins}
+{205}{}{Founder's Crypt}
+#
+# Flagstaff
+{210}{}{Colony}
+{211}{}{Garrison}
+{212}{}{Uranium mine}
+{213}{}{Abandoned area}
+{214}{}{Mine drifts}
+{215}{}{Randy's Farm}
+#
+# Garage City
+{220}{}{Business district}
+{221}{}{Shacks}
+{222}{}{Abandoned factory}
+{223}{}{Route 66}
+{224}{}{Cattle breeders' camp}
+{225}{}{Mojave Water Pump}
+{226}{}{Clek Canyon}
+#
+# San Brahmin
+{230}{}{Missionaries' Camp}
+{231}{}{Pueblo}
+{232}{}{Brahmin Pens}
+{233}{}{The Buried City}
+{234}{}{Oasis}
+#
+# Two-Sun
+{240}{}{Settlement}
+{241}{}{Workshop}
+{242}{}{Storage}
+{243}{}{Control Center}
+{244}{}{Ambush site}
+{245}{}{Old Town}
+#
+# Puerto Penasco
+{250}{}{Main Street}
+{251}{}{Old port}
+{252}{}{Brotherhood of Steel Base}
+#
+# Rangers
+{260}{}{The road to the dam}
+{261}{}{Dam}
+{262}{}{Aqueduct}
+{263}{}{Radio station}
+{264}{}{Crossing}
+{265}{}{Repeater}
+{266}{}{Giers-Wash}
+{267}{}{Citadel}
+#
+# Phoenix
+{270}{}{City gates}
+{271}{}{Downtown}
+{272}{}{Slums}
+{273}{}{Power plant}
+{274}{}{The Area of the Atom}
+{275}{}{Cathedral}
+{276}{}{Vault 25}
+{277}{}{Phoenix Ruins}
+{278}{}{Collectors}
+{279}{}{Core-Cola Warehouse}
+#
+# Oil Platform
+{280}{}{Fishermen's Village}
+{281}{}{Oil platform}
+{282}{}{Oil platform}
+{283}{}{Oil platform}
+{284}{}{Black Lagoon}
+#
+# Casa Grande
+{290}{}{Water station}
+{291}{}{Hacienda}
+{292}{}{Burial ground}
+{293}{}{Ruins of the school}
+{294}{}{Abandoned bar}
+{295}{}{Railway station}
+#
+# Hermosillo
+{300}{}{Rancho Dominguez}
+{301}{}{Garrison}
+{302}{}{Fort}
+#
+# San Felipe (Old Lighthouse)
+{310}{}{Settlement at the lighthouse}
+{311}{}{Fondeport}
+{312}{}{Cerro Picacho del Diablo}
+#
+# Inferno
+{320}{}{Traffic congestion}
+{321}{}{Sleeping quarter}
+{322}{}{Supermarket}
+{323}{}{Police station}
+{324}{}{The mysterious mansion}
+{325}{}{Main Highway}
+#
+# Casa Nueva
+{330}{}{Settlement}
+{331}{}{Agave plantations}
+{332}{}{Greenhouses}
+{333}{}{Greenhouses}
+{334}{}{Quarry}
+#
+# ! Empty slot
+{340}{}{Desert}
+#
+# Dead Motel
+{350}{}{Old Motel}
+#
+# Dayglow DLC
+{360}{}{Ruins of Tijuana}
+{361}{}{Camp in San Isidro}
+{362}{}{Bonita Dam}
+{363}{}{Camp in the Old Town}
+{364}{}{Ruins of San Isidro}
+{365}{}{Chula Vista Nuclear Mines}
+{366}{}{Ruins of National City}
+{367}{}{The Heart of San Diego}
+{368}{}{Piers}
+{369}{}{Vault 24}
+{370}{}{US Navy Base}
+#
+# ! Empty slot
+{370}{}{Desert}
+#
+# Santa Ana
+{380}{}{Plaza Zaragoza}
+{381}{}{Ancient monument}
+{382}{}{Ancient cemetery}
+#
+# ! Empty slot
+{390}{}{Desert}
+#
+# Jackals
+{400}{}{Lair of Jackals}
+#
+# Motorcycle without power
+{410}{}{Pit stop}
+#
+# Destroyed Arroyo (do not use!)
+{420}{}{Desert}
+#
+# Vault 27
+{430}{}{Entrance to the Vault}
+{431}{}{Vault Rooms}
+#
+# Brotherhood Camp
+{440}{}{Desert camp}
+{441}{}{Camp in Kaborka}
+{442}{}{Camp in the mountains}
+#
+# Raiders
+{450}{}{Mainline Camp}
+#
+# Random Encounter Desert (Wasteland)
+{460}{}{Desert}
+{461}{}{Desert}
+{462}{}{Desert}
+{463}{}{Desert}
+{464}{}{Desert}
+#
+# Random Encounter Mountain (Mountainous terrain)
+{470}{}{Gorge}
+{471}{}{Gorge}
+{472}{}{Gorge}
+{473}{}{Gorge}
+{474}{}{Gorge}
+{475}{}{Gorge}
+{476}{}{Chernolesye}
+{477}{}{Chernolesye}
+{478}{}{Gorge}
+#
+# Random Encounter City (Ruins)
+{480}{}{Ruins}
+{481}{}{Ruins}
+{482}{}{Ruins}
+{483}{}{Ruins}
+{484}{}{Ruins}
+{485}{}{Autoroute}
+{486}{}{Autoroute}
+{487}{}{Autoroute}
+{488}{}{Autoroute}
+{489}{}{Highway}
+#
+# Random Encounter Coast
+{490}{}{The coast}
+{491}{}{The coast}
+{492}{}{The coast}
+{493}{}{Coast}
+#
+# Explosion crater in Puerto
+{500}{}{Defeat Zone}
+#
+# Special Encounter - Gold
+{510}{}{Sonora Wasteland}
+#
+# Special Encounter - Henry Beamis
+{520}{}{Sonora Wasteland}
+#
+# Special Encounter - Roadside Cafe
+{530}{}{Sonoran Wasteland}
+#
+# Special Encounter - Bomber
+{540}{}{Sonora Wasteland}
+#
+# Special Encounter - Petro-Chico Truck
+{550}{}{Sonoran Wasteland}
+#
+# Special Encounter - The Cry of Silence
+{560}{}{Sonora Wasteland}
+#
+# Special Encounter - Night Movie Screening
+{570}{}{Sonoran Wasteland}
+#
+# Special Encounter - Padre
+{580}{}{Sonoran Wasteland}
+#
+# Special Encounter - Baron of Arizona
+{590}{}{Sonora Wasteland}
+#
+# Special Encounter - Snowfall
+{600}{}{Sonoran Wasteland}
+#
+# Special Encounter - The Lost Refuge (Van Buren)
+{610}{}{Sonoran Wasteland}
+#
+# Special Encounter - Mobile Fortress of the Creator's Army
+{620}{}{Sonoran Wasteland}
+#
+# Special Encounter - Rail Nomads
+{630}{}{Sonora Wasteland}
+#
+# ! Empty slot
+{640}{}{Sonora Wasteland}
+#
+# ! Empty slot
+{650}{}{Sonora Wasteland}
+#
+# Irradiated Village (Quartzsite)
+{660}{}{Ruins of the Quartzsite}
+#
+# Shadow Worlds
+{670}{}{Desert}
+{671}{}{Desert}
+{672}{}{Federal Highway}
+{673}{}{Phoenix Suburb}
+{674}{}{Desert}
+{675}{}{Desert}
+{676}{}{Desert}
+{677}{}{Desert}
+{678}{}{Desert}
+{679}{}{Desert}
+#
+# Winon Camp
+{680}{}{Camp in the mountains}
+
+
+#######################################################
+#
+# Miscellaneous
+#
+#######################################################
+
+# Signature when hovering the cursor over the GG marker (does not work, a vestige of Fallout 1):
+{1000}{}{Desert}
+{1001}{}{Mountains}
+{1002}{}{Ruins}
+{1003}{}{The coast}
+
+# Signature of the location not yet studied:
+{1004}{}{Unknown}
+
+# Miscellaneous:
+{1500}{}{You have gained 10,000 experience points!}
+{1501}{}{Ruins}
+{1502}{}{Your motorcycle has run out of energy.}
+{1503}{}{It's a motorcycle. Apparently, it doesn't work.}
+
+
+#######################################################
+#
+# Description of meetings on the world map
+#
+#######################################################
+
+{2998}{}{You encounter:}
+{2999}{}{Do you wish to encounter:}
+
+# Encounter Table 0 -- TEST_D
+{3000}{}{Red Rider.}
+{3001}{}{Rockfall!}
+{3002}{}{Radioactive fog!}
+{3003}{}{Dust storm!}
+{3004}{}{Dehydration!}
+{3005}{}{Giant ants.}
+{3006}{}{A group of radmurts.}
+{3007}{}{A swarm of mantises.}
+{3008}{}{A pack of rats.}
+{3009}{}{A flock of pig rats.}
+{3010}{}{A flock of mole rats.}
+{3011}{}{A pack of coyotes.}
+{3012}{}{A pack of stray dogs.}
+{3013}{}{A pack of wolves.}
+{3014}{}{A group of radscorpions.}
+{3015}{}{The radscorpion group.}
+{3016}{}{Wild Brahmins.}
+{3017}{}{Monsters.}
+{3018}{}{The robot.}
+{3019}{}{Giant scolopendra.}
+{3020}{}{Gold!}
+{3021}{}{Henry Beamis.}
+{3022}{}{Roadside cafe.}
+{3023}{}{The crashed bomber.}
+{3024}{}{Petro-Chico truck.}
+{3025}{}{The cry of silence.}
+{3026}{}{Night movie screening.}
+{3027}{}{Snowfall.}
+{3028}{}{Lost Vault.}
+{3029}{}{Mobile fortress.}
+{3030}{}{Legend City.}
+
+# Encounter Table 1 -- VILL_D
+{3050}{}{Giant ants.}
+{3051}{}{A pack of coyotes.}
+{3052}{}{A flock of pig rats.}
+{3053}{}{A group of radscorpions.}
+{3054}{}{Jackals.}
+{3055}{}{Gang from Nevada.}
+{3056}{}{Gold!}
+{3057}{}{Henry Beamis.}
+{3058}{}{Roadside cafe.}
+{3059}{}{A crashed bomber.}
+{3060}{}{Petro-Chico truck.}
+{3061}{}{The cry of silence.}
+{3062}{}{Night movie screening.}
+{3063}{}{Snowfall.}
+{3064}{}{Lost Vault.}
+{3065}{}{Mobile fortress.}
+{3066}{}{Legend City.}
+
+# Encounter Table 2 -- FLAG_D
+{3100}{}{Red Rider.}
+{3101}{}{A flock of pig rats.}
+{3102}{}{A pack of wolves.}
+{3103}{}{A herd of wild Brahmins.}
+{3104}{}{Savages.}
+{3105}{}{The White Mountain Detachment.}
+{3106}{}{Hunter.}
+{3107}{}{Gold!}
+{3108}{}{Henry Beamis.}
+{3109}{}{Roadside cafe.}
+{3110}{}{A crashed bomber.}
+{3111}{}{Petro-Chico truck.}
+{3112}{}{The cry of silence.}
+{3113}{}{Night movie screening.}
+{3114}{}{Flying Padre.}
+{3115}{}{Snowfall.}
+{3116}{}{Lost Refuge.}
+{3117}{}{Mobile fortress.}
+{3118}{}{Legend City.}
+
+# Encounter Table 3 -- FLAG_M
+{3150}{}{Red Rider.}
+{3151}{}{Rockfall!}
+{3152}{}{A flock of mole rats.}
+{3153}{}{A pack of wolves.}
+{3154}{}{A body gnawed by animals.}
+{3155}{}{Hunter.}
+{3156}{}{Savages.}
+{3157}{}{Gold!}
+{3158}{}{Henry Beamis.}
+{3159}{}{Roadside cafe.}
+{3160}{}{The crashed bomber.}
+{3161}{}{Petro-Chico truck.}
+{3162}{}{A cry of silence.}
+{3163}{}{Night movie screening.}
+{3164}{}{Lost Refuge.}
+{3165}{}{Legend City.}
+
+# Encounter Table 4 -- FLAG_R
+{3200}{}{Red Rider.}
+{3201}{}{A flock of pig rats.}
+{3202}{}{Robbers.}
+{3203}{}{Robbers.}
+{3204}{}{Fugitive criminal.}
+{3205}{}{Caravan.}
+{3206}{}{Colonizer group.}
+{3207}{}{Stray dogs.}
+
+# Encounter Table 5 -- RNGR_D
+{3250}{}{Red Rider.}
+{3251}{}{Dust storm!}
+{3252}{}{A pack of coyotes.}
+{3253}{}{A group of radscorpions.}
+{3254}{}{Raiders.}
+{3255}{}{Farmer.}
+{3256}{}{Rangers.}
+{3257}{}{The Rangers are chasing the rustlers.}
+{3258}{}{Giant scolopendra.}
+{3259}{}{Gold!}
+{3260}{}{Henry Beamis.}
+{3261}{}{Roadside cafe.}
+{3262}{}{The crashed bomber.}
+{3263}{}{Petro-Chico truck.}
+{3264}{}{The cry of silence.}
+{3265}{}{Night movie screening.}
+{3266}{}{Snowfall.}
+{3267}{}{Lost Refuge.}
+{3268}{}{Mobile fortress.}
+{3269}{}{Legend City.}
+{3270}{}{Bankrupt farmer.}
+{3271}{}{The terrible monster of La Fantasma!}
+
+# Encounter Table 6 -- DSRT_A
+{3300}{}{Dust storm!}
+{3301}{}{Dehydration!}
+{3302}{}{Radscorpion group.}
+{3303}{}{The legendary radscorpion!}
+{3304}{}{Giant scolopendra.}
+{3305}{}{Gold!}
+{3306}{}{Henry Beamis.}
+{3307}{}{Roadside cafe.}
+{3308}{}{The crashed bomber.}
+{3309}{}{Petro-Chico truck.}
+{3310}{}{The cry of silence.}
+{3311}{}{Night movie screening.}
+{3312}{}{Snowfall.}
+{3313}{}{Lost Refuge.}
+{3314}{}{Mobile fortress.}
+{3315}{}{Legend City.}
+
+# Encounter Table 7 -- DSRT_B
+{3350}{}{Dust storm!}
+{3351}{}{Dehydration!}
+{3352}{}{Radscorpion group.}
+{3353}{}{Giant scolopendra.}
+{3354}{}{Swarm of mantises.}
+{3355}{}{Gold!}
+{3356}{}{Henry Beamis.}
+{3357}{}{Roadside cafe.}
+{3358}{}{A crashed bomber.}
+{3359}{}{Petro-Chico truck.}
+{3360}{}{The cry of silence.}
+{3361}{}{Night movie screening.}
+{3362}{}{Shy robot.}
+{3363}{}{Snowfall.}
+{3364}{}{Lost Refuge.}
+{3365}{}{Mobile fortress.}
+{3366}{}{Legend City.}
+{3367}{}{A wrecked car.}
+
+# Encounter Table 8 -- MEXI_D
+{3400}{}{Red Rider.}
+{3401}{}{Radscorpion group.}
+{3402}{}{Swarm of mantises.}
+{3403}{}{Giant scolopendra.}
+{3404}{}{Mexican Army patrol.}
+{3405}{}{A group of immigrants.}
+{3406}{}{The body of an immigrant who died in the desert.}
+{3407}{}{Alejo vs. the Mexicans.}
+{3408}{}{Gold!}
+{3409}{}{Henry Beamis.}
+{3410}{}{Roadside cafe.}
+{3411}{}{A crashed bomber.}
+{3412}{}{Petro-Chico truck.}
+{3413}{}{The cry of silence.}
+{3414}{}{Night movie screening.}
+{3415}{}{Flying Padre.}
+{3416}{}{Snowfall.}
+{3417}{}{Mobile fortress.}
+{3418}{}{Legend City.}
+{3419}{}{The Mexican runs away from the scolopendra.}
+
+# Encounter Table 9 -- MEXI_M
+{3450}{}{Red Rider.}
+{3451}{}{Rockfall!}
+{3452}{}{A flock of mole rats.}
+{3453}{}{Giant scolopendra.}
+{3454}{}{Mexican Army patrol.}
+{3455}{}{A group of immigrants.}
+{3456}{}{Gold!}
+{3457}{}{Henry Beamis.}
+{3458}{}{Roadside cafe.}
+{3459}{}{The crashed bomber.}
+{3460}{}{Petro-Chico truck.}
+{3461}{}{The cry of silence.}
+{3462}{}{Night movie screening.}
+{3463}{}{Flying Padre.}
+{3464}{}{Legend City.}
+
+# Encounter Table 10 -- CALF_D
+{3500}{}{Red Rider.}
+{3501}{}{Radioactive fog!}
+{3502}{}{A pack of rats.}
+{3503}{}{A group of radscorpions.}
+{3504}{}{A few scavengers.}
+{3505}{}{A traveler with a dog.}
+{3506}{}{Gold!}
+{3507}{}{Henry Beamis.}
+{3508}{}{Roadside cafe.}
+{3509}{}{The crashed bomber.}
+{3510}{}{Petro-Chico truck.}
+{3511}{}{The cry of silence.}
+{3512}{}{Night movie screening.}
+{3513}{}{Snowfall.}
+{3514}{}{Lost Refuge.}
+{3515}{}{Mobile fortress.}
+{3516}{}{Legend City.}
+
+# Encounter Table 11 -- PHNX_D
+{3550}{}{Red Rider.}
+{3551}{}{A pack of rats.}
+{3552}{}{Stray dogs.}
+{3553}{}{The Los Panchos Gang.}
+{3554}{}{The Los Panchos Gang.}
+{3555}{}{The Los Panchos Gang.}
+{3556}{}{Bandits.}
+{3557}{}{Bandits.}
+{3558}{}{A group of civilians.}
+{3559}{}{Psychomaniac.}
+{3560}{}{Gangsters take out the debtor.}
+{3561}{}{Snowfall.}
+{3562}{}{Lost Refuge.}
+{3563}{}{Legend City.}
+
+# Encounter Table 12 -- PHNX_M
+{3600}{}{Radioactive fog!}
+{3601}{}{A group of radmurts.}
+{3602}{}{The body of an unlucky marauder.}
+{3603}{}{A lone scavenger.}
+{3604}{}{The Mad Mr. Assistant.}
+
+# Encounter Table 13 -- ROAD_D
+{3650}{}{Red Rider.}
+{3651}{}{Body abandoned on the road.}
+{3652}{}{A pack of rats.}
+{3653}{}{A group of radscorpions.}
+{3654}{}{Raiders.}
+{3655}{}{Raiders.}
+{3656}{}{Warriors of the road.}
+{3657}{}{Caravan.}
+{3658}{}{The looted wagon.}
+{3659}{}{Highway man vs bounty hunters.}
+{3660}{}{The Lost Refuge.}
+{3661}{}{Legend City.}
+
+# Encounter Table 14 -- TUSN_D
+{3700}{}{Red Rider.}
+{3701}{}{A pack of rats.}
+{3702}{}{A group of radscorpions.}
+{3703}{}{Raiders.}
+{3704}{}{Raiders.}
+{3705}{}{A scout robot.}
+{3706}{}{The corpse of a runaway slave.}
+{3707}{}{Cyberpsih.}
+
+# Encounter Table 15 -- TUSN_M
+{3750}{}{Rockfall!}
+{3751}{}{A flock of mole rats.}
+{3752}{}{A pack of wolves.}
+{3753}{}{Males divide the territory.}
+{3754}{}{Hermit.}
+{3755}{}{Cannibal on the hunt.}
+{3756}{}{Gold!}
+{3757}{}{Henry Beamis.}
+{3758}{}{Roadside cafe.}
+{3759}{}{The crashed bomber.}
+{3760}{}{Petro-Chico truck.}
+{3761}{}{The cry of silence.}
+{3762}{}{Night movie screening.}
+{3763}{}{The Lost Refuge.}
+{3764}{}{Legend City.}
+
+# Encounter Table 16 -- INFN_D
+{3800}{}{Radioactive fog!}
+{3801}{}{A group of radmurts.}
+{3802}{}{Scavengers.}
+{3803}{}{The Rippers.}
+{3804}{}{Agent USBP.}
+{3805}{}{Harvey.}
+
+# Encounter Table 17 -- PORT_D
+{3850}{}{Red Rider.}
+{3851}{}{Dehydration!}
+{3852}{}{Giant ants.}
+{3853}{}{A swarm of mantises.}
+{3854}{}{A group of radscorpions.}
+{3855}{}{The Brotherhood of Steel Patrol.}
+
+# Encounter Table 18 -- ISLD_D
+{3900}{}{A group of radmuravs explores the coast.}
+{3901}{}{Monster.}
+{3902}{}{Body washed ashore.}
+{3903}{}{Fishermen.}
+{3904}{}{The body of the scout.}
+{3905}{}{Bandits are torturing the clerk.}
+
+# Encounter Table 19 -- ISLD_M
+{3950}{}{Rockfall!}
+{3951}{}{Radioactive fog!}
+{3952}{}{Rad-Ant group.}
+{3953}{}{Monsters.}
+{3954}{}{Army robot.}
+{3955}{}{Pilgrims.}
+{3956}{}{Gold!}
+{3957}{}{Henry Beamis.}
+{3958}{}{Roadside cafe.}
+{3959}{}{The crashed bomber.}
+{3960}{}{Petro-Chico truck.}
+{3961}{}{The cry of silence.}
+{3962}{}{Night movie screening.}
+{3963}{}{Flying Padre.}
+{3964}{}{Legend City.}
+
+# Encounter Table 20 -- OCEAN_O
+{4000}{}{Radioactive fog!}

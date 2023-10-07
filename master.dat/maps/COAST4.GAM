@@ -1,0 +1,6 @@
+MAP_GLOBAL_VARS:
+
+MVAR_Made_Car                   :=0;    //      (0)
+MVAR_Reserv_01                  :=0;    //      (1)
+MVAR_Reserv_02                  :=0;    //      (2)
+MVAR_Reserv_03                  :=0;    //      (3)

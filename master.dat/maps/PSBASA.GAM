@@ -1,0 +1,12 @@
+MAP_GLOBAL_VARS:
+
+MVAR_Made_Car                   :=0;    //      (0)
+MVAR_PUERTO_SLAVE_DIALOG        :=0;    //      (1)
+MVAR_Reserv_02                  :=0;    //      (2)
+MVAR_PUERTO_MEDIC_FLOAT         :=0;    //      (3)
+MVAR_PUERTO_ALARM_A             :=0;    //      (4)
+MVAR_PUERTO_ALARM_BOS           :=0;    //      (5)
+MVAR_PUERTO_ALARM_SCLAD         :=0;    //      (6)
+MVAR_PUERTO_SOLAR_B             :=0;    //      (7)
+MVAR_PUERTO_SOLAR_C             :=0;    //      (8)
+MVAR_Reserv_09                  :=0;    //      (9)

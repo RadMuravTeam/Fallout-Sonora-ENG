@@ -1,0 +1,1 @@
+{102}{}{you can hear the robot making squeaking and clicking sounds.}

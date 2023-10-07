@@ -1,0 +1,1 @@
+{101}{}{"The assistant does not allow you to touch this priceless relic.}

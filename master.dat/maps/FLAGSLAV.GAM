@@ -1,0 +1,12 @@
+MAP_GLOBAL_VARS:
+
+MVAR_Made_Car                   :=0;    //      (0)
+MVAR_RoyDopusk                  :=0;    //      (1)
+MVAR_Freedom_Villa              :=0;    //      (2)
+MVAR_DoorSlavActiv              :=0;    //      (3)
+MVAR_RadioSlave                 :=0;    //      (4)
+MVAR_UmnikDialog                :=0;    //      (5)
+MVAR_DolgSten                   :=0;    //      (6)
+MVAR_SlavVillaRun               :=0;    //      (7)
+MVAR_Reserv_08                  :=0;    //      (8)
+MVAR_Reserv_09                  :=0;    //      (9)

@@ -1,0 +1,1031 @@
+#######################################################
+#
+#   FALLOUT SONORA: БОЕВЫЕ СООБЩЕНИЯ В ЛОГЕ
+#
+#   Важно: все значения %d будут заполнены числом больше на 1
+#
+#   Текст взят от Fallout 2 с многочисленными переработками (автор изменений А.Пошелюжин, 2019)
+#
+#######################################################
+
+# Common phrases (without gender and number corrections)
+#
+{100}{}{You lack action points.}
+{101}{}{Out of ammo.}
+{102}{}{Target out of reach.}
+{103}{}{The fight will not end if there are hostile creatures nearby.}
+{104}{}{You don't see the target.}
+{105}{}{You cannot use a weapon while you have both hands damaged.}
+{106}{}{You cannot use a two-handed weapon while your hand is damaged.}
+{107}{}{You don't have enough strength to use this weapon.}
+{108}{}{ and }
+#
+# Fighting phrases (for male GG)
+#
+{200}{}{unconscious}
+{201}{}{on earth}
+{202}{}{cripples your left leg}
+{203}{}{cripples your right leg}
+{204}{}{cripples your left hand}
+{205}{}{cripples your right hand}
+{206}{}{can't see}
+{207}{}{you are dying}
+{208}{}{blow}
+{209}{}{critical}
+{210}{}{on fire}
+{211}{}{notice that your armor is pierced}
+{212}{}{your weapon exploded}
+{213}{}{your weapon broke}
+{214}{}{you dropped your weapon}
+{215}{}{lose your next move}
+{216}{}{fall into yourself}
+{217}{}{losing your remaining ammo}
+{218}{}{doing a blank shot}
+{219}{}{hurt yourself}
+{220}{}{hit at random}
+{221}{}{injuring a limb}
+{222}{}{get a lot of shards}
+#
+# Fighting phrases (for female GG)
+#
+{250}{}{unconscious}
+{251}{}{on earth}
+{252}{}{cripples your left leg}
+{253}{}{cripples your right leg}
+{254}{}{cripples your left hand}
+{255}{}{cripples your right hand}
+{256}{}{can't see}
+{257}{}{you are dying}
+{258}{}{blow}
+{259}{}{critical}
+{260}{}{on fire}
+{261}{}{notice that your armor is pierced}
+{262}{}{your weapon exploded}
+{263}{}{your weapon broke}
+{264}{}{you dropped your weapon}
+{265}{}{lose your next move}
+{266}{}{fall into yourself}
+{267}{}{losing your remaining ammo}
+{268}{}{doing a blank shot}
+{269}{}{hurt yourself}
+{270}{}{hit at random}
+{271}{}{injuring a limb}
+{272}{}{get a lot of shards}
+#
+# Fighting phrases (for male NPCs)
+#
+{300}{}{unconscious}
+{301}{}{on earth}
+{302}{}{cripples his left leg}
+{303}{}{cripples his right leg}
+{304}{}{cripples his left arm}
+{305}{}{cripples his right hand}
+{306}{}{can't see}
+{307}{}{died}
+{308}{}{blow}
+{309}{}{critical}
+{310}{}{on fire}
+{311}{}{got a hole in the armor}
+{312}{}{his weapon exploded}
+{313}{}{his weapon broke}
+{314}{}{dropped the weapon}
+{315}{}{lost his next move}
+{316}{}{hit myself}
+{317}{}{lost the remaining ammunition}
+{318}{}{makes a blank shot}
+{319}{}{hurt himself}
+{320}{}{hits at random}
+{321}{}{damages a limb}
+{322}{}{gets a lot of shards}
+#
+# Battle phrases (for female NPCs)
+#
+{400}{}{unconscious}
+{401}{}{on earth}
+{402}{}{cripples her left leg}
+{403}{}{cripples her right leg}
+{404}{}{cripples her left arm}
+{405}{}{cripples her right arm}
+{406}{}{can't see}
+{407}{}{died}
+{408}{}{blow}
+{409}{}{critical}
+{410}{}{on fire}
+{411}{}{got a hole in the armor}
+{412}{}{her weapon exploded}
+{413}{}{her weapon broke}
+{414}{}{dropped the weapon}
+{415}{}{lost her next move}
+{416}{}{hit herself}
+{417}{}{lost the remaining ammunition}
+{418}{}{makes a blank shot}
+{419}{}{hurt herself}
+{420}{}{hits at random}
+{421}{}{damages a limb}
+{422}{}{gets a lot of shrapnel}
+#
+# Various combat cues (for male GG)
+# Remark: the first %s inserts line 506,
+# the second %s indicates the name of the body part
+# After these replicas, replicas starting from 1000 can be glued.
+#
+{506}{}{You}
+{509}{}{Oops! %s got hit instead of (%s)!}
+{511}{}{%s got critically hit for %d hit points}
+{512}{}{%s hit (%s) for %d hit points}
+{513}{}{%s got hit for %d hit points}
+{514}{}{%s critically missed}
+{515}{}{%s missed}
+{520}{}{%s got critically hit for %d hit points}
+{521}{}{%s critically hit (%s) for 1 hit point}
+{522}{}{%s hit (%s) by 1 hit point}
+{523}{}{%s got hit by 1 hit point}
+{524}{}{%s was critically hit and lost 1 hit point}
+{525}{}{%s critically hit (%s) without loss of health}
+{526}{}{%s got hit by (%s) without losing health}
+{527}{}{%s got hit without losing health}
+{528}{}{%s received a critical hit without losing health}
+{533}{}{%s critically missed and lost 1 hit point}
+{534}{}{%s critically missed and lost %d hit point(S)}
+#
+# Various combat cues (for female GG)
+#
+{556}{}{You}
+{559}{}{Oops! %s got hit instead of (%s)!}
+{561}{}{%s got critically hit for %d hit points}
+{562}{}{%s hit (%s) for %d hit points}
+{563}{}{%s got hit for %d hit points}
+{564}{}{%s critically missed}
+{565}{}{%s missed}
+{570}{}{%s got critically hit for %d hit points}
+{571}{}{%s critically hit (%s) for 1 hit point}
+{572}{}{%s hit (%s) by 1 hit point}
+{573}{}{%s got hit by 1 hit point}
+{574}{}{%s was critically hit and lost 1 hit point}
+{575}{}{%s critically hit (%s) without loss of health}
+{576}{}{%s got hit by (%s) without losing health}
+{577}{}{%s got hit without losing health}
+{578}{}{%s received a critical hit without losing health}
+{583}{}{%s critically missed and lost 1 hit point}
+{584}{}{%s critically missed and lost %d hit point(S)}
+#
+# Various combat cues (for male NPCs)
+#
+{608}{}{Oops! %s got hit instead of you!}
+{609}{}{Oops! %s got hit instead of (%s)!}
+{611}{}{%s critically hit (%s) %d health}
+{612}{}{%s hit (%s) for %d hit points}
+{613}{}{%s got hit for %d hit points}
+{614}{}{%s critically missed}
+{615}{}{%s missed}
+{620}{}{%s got critically hit for %d hit points}
+{621}{}{%s critically hit (%s) for 1 hit point}
+{622}{}{%s hit (%s) by 1 hit point}
+{623}{}{%s got hit by 1 hit point}
+{624}{}{%s was critically hit and lost 1 hit point}
+{625}{}{%s critically hit (%s) without loss of health}
+{626}{}{%s got hit by (%s) without losing health}
+{627}{}{%s got hit without losing health}
+{628}{}{%s received a critical hit without losing health}
+{633}{}{%s critically missed and lost 1 hit point}
+{634}{}{%s critically missed and lost %d hit point(S)}
+#
+# Various combat cues (for female NPCs)
+#
+{708}{}{Oops! %s got hit instead of you!}
+{709}{}{Oops! %s got hit instead of (%s)!}
+{711}{}{%s critically hit (%s) %d health}
+{712}{}{%s hit (%s) for %d hit points}
+{713}{}{%s got hit for %d hit points}
+{714}{}{%s critically missed}
+{715}{}{%s missed}
+{720}{}{%s got critically hit for %d hit points}
+{721}{}{%s critically hit (%s) for 1 hit point}
+{722}{}{%s hit (%s) by 1 hit point}
+{723}{}{%s got hit by 1 hit point}
+{724}{}{%s was critically hit and lost 1 hit point}
+{725}{}{%s critically hit (%s) without loss of health}
+{726}{}{%s got hit by (%s) without losing health}
+{727}{}{%s got hit without losing health}
+{728}{}{%s received a critical hit without losing health}
+{733}{}{%s critically missed and lost 1 hit point}
+{734}{}{%s critically missed and lost %d hit point(S)}
+#
+
+################################################################
+#
+# Targeted shooting
+#
+################################################################
+
+#
+# An ordinary person
+#
+{1110}{}{head}
+{1111}{}{left hand}
+{1112}{}{right hand}
+{1113}{}{torso}
+{1114}{}{right leg}
+{1115}{}{left leg}
+{1116}{}{eyes}
+{1117}{}{groin}
+{1118}{}{unknown}
+#
+# Brahmin
+#
+{1150}{}{head}
+{1151}{}{left hind leg}
+{1152}{}{right hind leg}
+{1153}{}{torso}
+{1154}{}{right front leg}
+{1155}{}{left front leg}
+{1156}{}{eyes}
+{1157}{}{udder}
+{1158}{}{unknown}
+#
+# Dog, coyote, wolf
+#
+{1160}{}{head}
+{1161}{}{left leg}
+{1162}{}{right leg}
+{1163}{}{torso}
+{1164}{}{right paw}
+{1165}{}{left paw}
+{1166}{}{eyes}
+{1167}{}{groin}
+{1168}{}{unknown}
+#
+# Mr. Handy
+#
+{1170}{}{processor}
+{1171}{}{manipulator}
+{1172}{}{manipulator}
+{1173}{}{building}
+{1174}{}{engine}
+{1175}{}{engine}
+{1176}{}{sensors}
+{1177}{}{regulator}
+{1178}{}{unknown}
+#
+# Supermutant (not used? see below 1210-1218)
+#
+{1180}{}{head}
+{1181}{}{left hand}
+{1182}{}{right hand}
+{1183}{}{torso}
+{1184}{}{right leg}
+{1185}{}{left leg}
+{1186}{}{eyes}
+{1187}{}{groin}
+{1188}{}{unknown}
+#
+# Mole rat, rat god
+#
+{1190}{}{head}
+{1191}{}{left paw}
+{1192}{}{right paw}
+{1193}{}{torso}
+{1194}{}{right leg}
+{1195}{}{left leg}
+{1196}{}{eyes}
+{1197}{}{groin}
+{1198}{}{unknown}
+#
+# Super Mutants
+#
+{1210}{}{head}
+{1211}{}{left hand}
+{1212}{}{right hand}
+{1213}{}{torso}
+{1214}{}{right leg}
+{1215}{}{left leg}
+{1216}{}{eyes}
+{1217}{}{groin}
+{1218}{}{unknown}
+#
+# Radscorpion
+#
+{1220}{}{head}
+{1221}{}{tail}
+{1222}{}{claw}
+{1223}{}{shell}
+{1224}{}{front legs}
+{1225}{}{hind legs}
+{1226}{}{eyes}
+{1227}{}{brain}
+{1228}{}{unknown}
+#
+# Flyer
+#
+{1230}{}{head}
+{1231}{}{mouth}
+{1232}{}{front mouth}
+{1233}{}{torso}
+{1234}{}{air bag}
+{1235}{}{tail}
+{1236}{}{nerve center}
+{1237}{}{ovipositor}
+{1238}{}{unknown}
+#
+# Common rat
+#
+{1240}{}{head}
+{1241}{}{left paw}
+{1242}{}{right paw}
+{1243}{}{torso}
+{1244}{}{right leg}
+{1245}{}{left leg}
+{1246}{}{eyes}
+{1247}{}{groin}
+{1248}{}{unknown}
+#
+# Centaur
+#
+{1250}{}{head}
+{1251}{}{left hand}
+{1252}{}{right hand}
+{1253}{}{torso}
+{1254}{}{right leg}
+{1255}{}{left leg}
+{1256}{}{eyes}
+{1257}{}{groin}
+{1258}{}{unknown}
+#
+# Dwarfs and children
+#
+{1270}{}{head}
+{1271}{}{left hand}
+{1272}{}{right hand}
+{1273}{}{torso}
+{1274}{}{right leg}
+{1275}{}{left leg}
+{1276}{}{eyes}
+{1277}{}{groin}
+{1278}{}{unknown}
+#
+# Overseer # Fallout Sonora: not used
+#
+{1460}{}{head}
+{1461}{}{left hand}
+{1462}{}{right hand}
+{1463}{}{torso}
+{1464}{}{right leg}
+{1465}{}{left leg}
+{1466}{}{eyes}
+{1467}{}{groin}
+{1468}{}{unknown}
+#
+# Gizmo # Fallout Sonora: not used
+#
+{1490}{}{head}
+{1491}{}{left hand}
+{1492}{}{right hand}
+{1493}{}{torso}
+{1494}{}{right leg}
+{1495}{}{left leg}
+{1496}{}{eyes}
+{1497}{}{groin}
+{1498}{}{unknown}
+#
+# The Master! # Fallout Sonora: Not used
+#
+{1500}{}{head}
+{1501}{}{???}
+{1502}{}{???}
+{1503}{}{ housing}
+{1504}{}{???}
+{1505}{}{???}
+{1506}{}{ eyes}
+{1507}{}{processor}
+{1508}{}{unknown}
+#
+# Death Claw
+#
+{1510}{}{head}
+{1511}{}{left paw}
+{1512}{}{right paw}
+{1513}{}{torso}
+{1514}{}{right leg}
+{1515}{}{left leg}
+{1516}{}{eyes}
+{1517}{}{groin}
+{1518}{}{unknown}
+#
+# Mantis
+#
+{1520}{}{head}
+{1521}{}{grasping limb}
+{1522}{}{grasping limb}
+{1523}{}{backside}
+{1524}{}{legs}
+{1525}{}{wings}
+{1526}{}{eyes}
+{1527}{}{abdomen}
+{1528}{}{unknown}
+#
+# Robot brain
+#
+{1530}{}{processor}
+{1531}{}{manipulator}
+{1532}{}{manipulator}
+{1533}{}{building}
+{1534}{}{engine}
+{1535}{}{engine}
+{1536}{}{sensors}
+{1537}{}{regulator}
+{1538}{}{unknown}
+#
+# Roboglaz
+#
+{1540}{}{processor}
+{1541}{}{manipulator}
+{1542}{}{manipulator}
+{1543}{}{building}
+{1544}{}{engine}
+{1545}{}{engine}
+{1546}{}{sensors}
+{1547}{}{regulator}
+{1548}{}{unknown}
+#
+# Pig-rat
+#
+{1550}{}{head}
+{1551}{}{left paw}
+{1552}{}{right paw}
+{1553}{}{torso}
+{1554}{}{right leg}
+{1555}{}{left leg}
+{1556}{}{eyes}
+{1557}{}{groin}
+{1558}{}{unknown}
+#
+# Egg
+#
+{1580}{}{shell}
+{1581}{}{shell}
+{1582}{}{shell}
+{1583}{}{shell}
+{1584}{}{shell}
+{1585}{}{shell}
+{1586}{}{shell}
+{1587}{}{shell}
+{1588}{}{unknown}
+#
+# Small radscorpion
+#
+{1590}{}{head}
+{1591}{}{tail}
+{1592}{}{claw}
+{1593}{}{shell}
+{1594}{}{front legs}
+{1595}{}{hind legs}
+{1596}{}{eyes}
+{1597}{}{brain}
+{1598}{}{unknown}
+#
+# Small Death Claw
+#
+{1600}{}{head}
+{1601}{}{left paw}
+{1602}{}{right paw}
+{1603}{}{torso}
+{1604}{}{right leg}
+{1605}{}{left leg}
+{1606}{}{eyes}
+{1607}{}{groin}
+{1608}{}{unknown}
+#
+# Predatory plant
+#
+{1650}{}{mouth}
+{1651}{}{stem}
+{1652}{}{stem}
+{1653}{}{central stem}
+{1654}{}{roots}
+{1655}{}{roots}
+{1656}{}{tentacles}
+{1657}{}{base}
+{1658}{}{unknown}
+#
+# Security robot
+#
+{1660}{}{head}
+{1661}{}{hand with rocket}
+{1662}{}{hand with barrel}
+{1663}{}{torso}
+{1664}{}{right leg}
+{1665}{}{left leg}
+{1666}{}{sensors}
+{1667}{}{lower torso}
+{1668}{}{unknown}
+#
+# GECKo 2 # Fallout Sonora: not used
+#
+{1670}{}{head}
+{1671}{}{left claw}
+{1672}{}{right claw}
+{1673}{}{torso}
+{1674}{}{right leg}
+{1675}{}{left leg}
+{1676}{}{eyes}
+{1677}{}{groin}
+{1678}{}{unknown}
+#
+# GECKo # Fallout Sonora: not used
+#
+{1680}{}{head}
+{1681}{}{left claw}
+{1682}{}{right claw}
+{1683}{}{torso}
+{1684}{}{right leg}
+{1685}{}{left leg}
+{1686}{}{eyes}
+{1687}{}{groin}
+{1688}{}{unknown}
+#
+# Alien # Fallout Sonora: not used
+#
+{1800}{}{head}
+{1801}{}{left tentacle}
+{1802}{}{right tentacle}
+{1803}{}{torso}
+{1804}{}{right foot}
+{1805}{}{left foot}
+{1806}{}{eyes?}
+{1807}{}{groin area}
+{1808}{}{unknown}
+#
+# Scolopendra
+#
+{1810}{}{head}
+{1811}{}{left pectoral leg}
+{1812}{}{right pectoral leg}
+{1813}{}{shell}
+{1814}{}{right abdominal leg}
+{1815}{}{left abdominal leg}
+{1816}{}{eyes}
+{1817}{}{abdomen}
+{1818}{}{unknown}
+#
+# End Boss # Fallout Sonora: not used
+#
+{1850}{}{head}
+{1851}{}{left hand}
+{1852}{}{right hand}
+{1853}{}{torso}
+{1854}{}{right leg}
+{1855}{}{left leg}
+{1856}{}{eyes}
+{1857}{}{groin}
+{1858}{}{unknown}
+#
+# Alien 2 # Fallout Sonora: Not used
+#
+{1860}{}{head}
+{1861}{}{left tentacle}
+{1862}{}{right tentacle}
+{1863}{}{torso}
+{1864}{}{right foot}
+{1865}{}{left foot}
+{1866}{}{eyes?}
+{1867}{}{groin area}
+{1868}{}{unknown}
+#
+# Turret # Fallout Sonora: not used
+#
+{1900}{}{processor}
+{1901}{}{servomotor guns}
+{1902}{}{servomotor guns}
+{1903}{}{building}
+{1904}{}{main servo motor}
+{1905}{}{main servo motor}
+{1906}{}{sensors}
+{1907}{}{regulator}
+{1908}{}{unknown}
+#
+# Huge ant
+#
+{1970}{}{head}
+{1971}{}{left front leg}
+{1972}{}{right front leg}
+{1973}{}{backside}
+{1974}{}{right hind leg}
+{1975}{}{left hind leg}
+{1976}{}{mustache}
+{1977}{}{abdomen}
+{1978}{}{unknown}
+#
+# Goris in a robe # Fallout Sonora: not used
+#
+{1990}{}{head}
+{1991}{}{left hand}
+{1992}{}{right hand}
+{1993}{}{torso}
+{1994}{}{right leg}
+{1995}{}{left leg}
+{1996}{}{eyes}
+{1997}{}{groin}
+{1998}{}{unknown}
+#
+# Goris without robes # Fallout Sonora: not used
+#
+{2000}{}{head}
+{2001}{}{left hand}
+{2002}{}{right hand}
+{2003}{}{torso}
+{2004}{}{right leg}
+{2005}{}{left leg}
+{2006}{}{eyes}
+{2007}{}{groin}
+{2008}{}{unknown}
+#
+# Turret # Fallout Sonora: not used
+#
+{2010}{}{processor}
+{2011}{}{servomotor guns}
+{2012}{}{servomotor guns}
+{2013}{}{building}
+{2014}{}{main servo motor}
+{2015}{}{main servo motor}
+{2016}{}{sensors}
+{2017}{}{regulator}
+{2018}{}{unknown}
+
+
+################################################################
+#
+# Critical hits
+#
+################################################################
+
+#
+# 5000 is a man
+#
+{5000}{}{, and it hurts a lot}
+{5001}{}{. A serious wound has been inflicted}
+{5002}{}{ in the absence of armor}
+{5003}{}{. A strong blow knocks him unconscious}
+{5004}{}{. The blow knocks him down}
+{5005}{}{. A strong blow to the head knocks him unconscious}
+{5006}{}{. A crushing blow to the temple. Good night, darling}
+{5007}{}{, instant death occurs}
+{5008}{}{, causing severe shoulder bursitis}
+{5009}{}{, knocking out the joint}
+{5010}{}{, leaving a big bruise}
+{5011}{}{, severely injuring the left arm}
+{5012}{}{, while the arm is almost completely detached}
+{5013}{}{. Now this arm looks like a bloody stump}
+{5014}{}{, severely injuring the right hand}
+{5015}{}{. His right hand turns to dust with this powerful blow}
+{5016}{}{ with a strong impact}
+{5017}{}{ with a blow that pierced the armor}
+{5018}{}{, additional damage is inflicted}
+{5019}{}{ in the absence of armor, while the opponent falls to the ground}
+{5020}{}{ shaking the air, he falls to the ground, and the fight ends}
+{5021}{}{. Unfortunately, his spine is now clearly visible from the front}
+{5022}{}{ at the same time, he severely damages his leg}
+{5023}{}{, at the same time he falls to the ground like a pin knocked down by a ball}
+{5024}{}{, at the same time he falls and cripples his leg}
+{5025}{}{, at the same time he knocks out his knee a lot. He's falling}
+{5026}{}{. Severe pain when tearing off his leg forces him to end the fight}
+{5027}{}{ at the same time, the pain becomes even stronger}
+{5028}{}{, at the same time, unfortunately for him, he goes blind}
+{5029}{}{, and since there is no protection there, the blow causes severe pain}
+{5030}{}{, and this sharp blow blinds him}
+{5031}{}{. The loss of an eye is too much for him, and he falls to the ground}
+{5032}{}{ unfortunately, he is too busy with the unexpected influx of air to the brain to notice the approach of death}
+{5033}{}{. Oh-oh! It must have hurt}
+{5034}{}{, and there is no protection on it}
+{5035}{}{, and since there is no protection, he falls, groaning in agony}
+{5036}{}{. He cannot bear such pain and falls like a rag}
+{5037}{}{. He mumbles, "Mom," his eyes are completely rolled up}
+#
+# 5100 - a woman
+#
+{5100}{}{, and it hurts a lot}
+{5101}{}{. A serious wound has been inflicted}
+{5102}{}{ in the absence of armor}
+{5103}{}{. A strong blow knocks her unconscious}
+{5104}{}{. The blow knocks her off her feet}
+{5105}{}{. A strong blow to the head knocks her unconscious}
+{5106}{}{. A crushing blow to the temple. Good night, dear}
+{5107}{}{, instant death occurs}
+{5108}{}{, causing severe shoulder bursitis}
+{5109}{}{, knocking out the joint}
+{5110}{}{, leaving a big bruise}
+{5111}{}{, severely injuring the left arm}
+{5112}{}{. Her left hand barely rests on her shoulder}
+{5113}{}{. Now this arm looks like a bloody stump}
+{5114}{}{, severely injuring the right hand}
+{5115}{}{. The blow turned her right arm into mincemeat}
+{5116}{}{ with a strong impact}
+{5117}{}{ punching her armor}
+{5118}{}{, additional damage is inflicted}
+{5119}{}{. In the absence of armor, the blow knocks her down}
+{5120}{}{. Shaking the air, she settles to the ground}
+{5121}{}{. Unfortunately, her main internal organs are visible to the naked eye}
+{5122}{}{. At the same time, her leg is severely damaged}
+{5123}{}{. At the same time, she loses consciousness, as on the first blind date}
+{5124}{}{, at the same time she falls and cripples her leg}
+{5125}{}{it looks like her kneecap will be found in the next town. The woman falls as if knocked down}
+{5126}{}{. She screams from the pain of her broken leg}
+{5127}{}{ at the same time, the pain becomes even stronger}
+{5128}{}{, which causes blindness. She winces}
+{5129}{}{, and since there is no protection there, the blow causes severe pain}
+{5130}{}{. The wound causes complete blindness. As if it happens incomplete}
+{5131}{}{. A blinding blow renders her unconscious}
+{5132}{}{. Unfortunately, she didn't have time to pray to her gods before meeting them}
+{5133}{}{. She takes the blow like a man. In other words, it hurts her too}
+{5134}{}{, which knocks her down}
+{5135}{}{. She settles to the ground. It seems that from now on she is threatened with infertility}
+#
+# 5200 - children
+#
+{5200}{}{. A small child starts crying}
+{5201}{}{. A small child falls, losing consciousness}
+{5202}{}{. Oh, oh!}
+{5203}{}{. The blow is right, and the child loses consciousness}
+{5204}{}{, while the child is carried away like a light feather}
+{5205}{}{. There is now a wound on the child's left arm}
+{5206}{}{, while the blow knocks the child off his feet}
+{5207}{}{, while the hand breaks with a loud crunch. Tears begin to flow immediately}
+{5208}{}{, while the hand breaks like a dry twig}
+{5209}{}{. The right hand begins to swell, like an inflated balloon}
+{5210}{}{, and the baby starts crying}
+{5211}{}{. The blow falls right on the most sensitive spot}
+{5212}{}{. A blow to a vital organ knocks the spirit out of a child}
+{5213}{}{. The blow knocks a small child off his feet like a toy}
+{5214}{}{. From now on, this little child will never know real life}
+{5215}{}{, while the child gets a severe cut}
+{5216}{}{. The blow knocks the child down. His leg is broken}
+{5217}{}{, which causes great harm to a small child}
+{5218}{}{. A small child looks up and starts crying}
+{5219}{}{, while the child goes blind}
+{5220}{}{. The blow falls directly on the baby's nose}
+{5221}{}{. A cut appears above the eyes, and blood begins to flow down the face}
+{5222}{}{. The eye bursts like a grape. The child seems to be in shock}
+{5223}{}{, which causes blindness. A small child falls to the ground}
+{5224}{}{. A blow pierces a child's skull}
+{5225}{}{. The child looks shocked and scared}
+{5226}{}{. The blow knocks down a small victim}
+#
+# 5300 - super mutants
+#
+{5300}{}{, which causes severe damage to the mighty mutant}
+{5301}{}{. The blow falls on a vital place}
+{5302}{}{. The blow falls on a vital place and knocks the mutant off his feet}
+{5303}{}{. The huge mutant looks around in confusion and smoothly settles to the ground}
+{5304}{}{. The mutant's head explodes like a huge, bloody watermelon}
+{5305}{}{, which causes great harm to the mighty mutant}
+{5306}{}{. The giant spends a few seconds cursing the entire universe}
+{5307}{}{. On impact, a nerve is touched, and the pain causes the giant to grab his hand}
+{5308}{}{. The blow breaks the elbow joint. Probably not the most pleasant feelings}
+{5309}{}{. At the same time, the mutant's thick arm breaks, and his blood floods the ground around}
+{5310}{}{, after which the giant swings for a couple of seconds, and then falls like a mown tree}
+{5311}{}{, and tons of entrails spill out onto the ground}
+{5312}{}{, after which the giant flies to the floor}
+{5313}{}{. The mutant staggers and falls, as his legs can no longer hold him}
+{5314}{}{. The blow falls in a vital place. The mutant writhes, clutching his broken leg}
+{5315}{}{. The pain of a broken leg overwhelms the mighty mutant}
+{5316}{}{, while the mutant practically goes blind}
+{5317}{}{, while the enraged mutant goes blind}
+{5318}{}{. The mutant is almost blinded and loses his balance}
+{5319}{}{. The blinded mutant staggers and does not have time to prepare for the next blow}
+{5320}{}{, while the unconscious mutant goes blind}
+{5321}{}{. The mutant's eyes flash for a moment and then go out. Forever}
+#
+# 5400 - ghouls
+#
+{5400}{}{. The ghoul is surprised and does not have time to defend himself from this blow}
+{5401}{}{. This blow destroys the ghoul}
+{5402}{}{. The paralyzed ghoul's hands unclench}
+{5403}{}{. The blow penetrates through his armor and hits the most vulnerable spot}
+{5404}{}{. The blow penetrates through his armor and rips off his arm}
+{5405}{}{. The ghoul makes the wrong move in the wrong direction and loses an eye}
+{5406}{}{. The ghoul has no armor there}
+{5407}{}{. Due to the lack of armor, the ghoul goes blind}
+{5408}{}{. In the last seconds of his life, the ghoul takes a stunned look}
+#
+# 5500 - Brahmins
+#
+{5500}{}{, which knocks the animal down}
+{5501}{}{, while both brains are paralyzed, and the huge animal falls}
+{5502}{}{. The brahmin makes a loud, frightened moo}
+{5503}{}{. At the same time, the brahmin breaks one of his legs}
+{5504}{}{, causing serious wounds to a brahmin}
+{5505}{}{. The blow easily pierces the thick hide of a huge animal}
+{5506}{}{. The blow simultaneously pierces both hearts of the two-headed brute}
+{5507}{}{. The blow simultaneously blinds both pairs of the brahmin's eyes}
+{5508}{}{. The blow paralyzes the animal, blinding both of its heads}
+{5509}{}{. The wound completely blinds the brahmin and knocks the spirit out of him}
+{5510}{}{. The animal stands staggering for a while}
+{5511}{}{. The brahmin is trembling with rage}
+{5512}{}{. The brahmin wheezes in pain}
+{5513}{}{. The Brahmin really did not like this blow to the udder}
+#
+# 5600 - radscorpions
+#
+{5600}{}{. The radscorpion jumps from the blow and lands on its back}
+{5601}{}{. The blow tears the head off the shell}
+{5602}{}{. The blow seriously damages the tail of the radscorpion}
+{5603}{}{. The main blow falls on his claws}
+{5604}{}{. The blow penetrates through the durable shell of the radscorpion}
+{5605}{}{. The solid shell was not even able to slow down the impact}
+{5606}{}{. The blow pierces the natural armor and knocks the spirit out of the radscorpion}
+{5607}{}{. Radscorpion cannot cope with new sensations, or rather, with the absence of internal organs}
+{5608}{}{. The blow hits the radscorpion on the ground, and it damages the legs}
+{5609}{}{. The blow falls on the unprotected joint of the leg, severely damaging it}
+{5610}{}{. The blow seriously injures and blinds the mutant}
+{5611}{}{. The blow goes almost to the brain. And you say - crush the beetle}
+{5612}{}{. The blow goes almost to the brain, blinding the animal}
+{5613}{}{. The blow is very cruel and too difficult for this primitive creature}
+{5614}{}{. If there was a man in front of you, you could swear that he was furious}
+{5615}{}{. The blow knocks the spirit out of the poor creature}
+{5616}{}{. The blow chains his brain to the floor}
+#
+# 5700 - rats
+#
+{5700}{}{. The rodent's skull makes several unnatural sounds}
+{5701}{}{. At the same time, the rodent's skull is crushed like a wet paper bag}
+{5702}{}{. Now the left paw looks somewhat flat}
+{5703}{}{. The rat tears off the left paw}
+{5704}{}{. The right paw is badly damaged}
+{5705}{}{. At the same time, the rat tears off the right paw}
+{5706}{}{. At this blow, the rat gets a serious wound}
+{5707}{}{. The blow severely wounds the rat and throws it back}
+{5708}{}{, smearing the rat all over the floor}
+{5709}{}{, which damages the right leg}
+{5710}{}{, which leaves a large hole in the left leg}
+{5711}{}{, while the blow falls on a sensitive spot, causing additional damage}
+{5712}{}{. The great Pied piper in heaven calls this poor fellow to himself}
+#
+# 5800 - flyers
+#
+{5800}{}{. The worm falls to the ground}
+{5801}{}{. The worm falls to the ground without signs of life}
+{5802}{}{. The blow threatens serious consequences if this creature survives}
+{5803}{}{. The blow paralyzes this creature}
+{5804}{}{. The blow falls on the vulnerable spot and paralyzes the worm}
+{5805}{}{. After the impact, the worm begins to tremble violently, spraying scarlet liquid}
+{5806}{}{. The blow causes some kind of creepy reaction in this creature}
+{5807}{}{. The worm is suddenly engulfed in flames}
+{5808}{}{. The creature twitches and begins to tremble with a small tremor, like jelly}
+{5809}{}{. The blow falls on a vulnerable place}
+{5810}{}{. This creature is clearly agitated}
+#
+# 5900 - centaurs
+#
+{5900}{}{. Terrible as fate, the blow overturns and paralyzes the centaur}
+{5901}{}{. The blow falls on a vital point}
+{5902}{}{. The blow causes a severe nervous system failure}
+{5903}{}{. A hard blow paralyzes this creature}
+{5904}{}{, while the blow damages the centaur's arm}
+{5905}{}{. The blow falls on a vital point and damages the arm}
+{5906}{}{. The blow knocks the centaur to the ground and damages one of its legs}
+{5907}{}{. The blow damages the centaur's leg, knocking him to the ground and paralyzing him}
+{5908}{}{. The blow blinds him}
+{5909}{}{. The surprised centaur staggers blindly}
+{5910}{}{. The surprised centaur falls to the ground}
+{5911}{}{. Surprised centaur falls into a pile of manure}
+{5912}{}{. The blow wasn't as effective as it could have been}
+#
+# 6000 - robots
+#
+{6000}{}{. The blow does some damage to the body}
+{6001}{}{. Sparks fly, and the robot instantly fails}
+{6002}{}{. The blow falls on an important part, and the robot fails}
+{6003}{}{. The blow falls on an important part and causes a severe malfunction of the robot}
+{6004}{}{. The robot tries to compensate for the blow}
+{6005}{}{. The robot makes an attempt to compensate for the impact}
+{6006}{}{. The blow falls on a key part and causes severe damage}
+{6007}{}{. The blow causes severe damage to the robot structure}
+{6008}{}{. The blow falls on an important detail and causes severe damage}
+{6009}{}{. The robot shudders from the strongest blow}
+{6010}{}{. The blow blows the robot apart}
+{6011}{}{. The robot tries to compensate for the damage, but it fails, and it falls to the ground}
+{6012}{}{. The robot cannot withstand such pressure and falls to the ground}
+{6013}{}{. Impact shatters sensor lenses}
+#
+# 6100 - dogs, coyotes, wolves
+#
+{6100}{}{. The blow knocks the mutt off his feet}
+{6101}{}{. The blow falls right on the muzzle}
+{6102}{}{. The dog is falling, but still breathing}
+{6103}{}{. Dog coughs up blood}
+{6104}{}{. The blow damages the paw}
+{6105}{}{. The blow damages the paw. The animal tries to stay on its feet, but to no avail}
+{6106}{}{. The blinded animal howls in pain}
+{6107}{}{. From a blow, the poor man becomes a castrate}
+#
+# 6200 - mantises
+#
+{6200}{}{. The blow knocks down this mutant insect}
+{6201}{}{. It falls to the ground}
+{6202}{}{. Mantis wonders if it's worth living on}
+{6203}{}{. The blow damages one of the creature's limbs}
+{6204}{}{. The mantis begins to lick its wounds. He holds his limb in a strange way}
+{6205}{}{. The blow pierces the chitinous armor}
+{6206}{}{. The mantis emits a piercing inhuman cry and begins to tremble violently}
+{6207}{}{. The blow knocks the mantis off its feet. His limb is bent at a strange angle}
+{6208}{}{. The blow cuts off the wings}
+{6209}{}{. The blow pierces the strong armor and throws the mantis back}
+{6210}{}{. Precise blow blinds insect}
+#
+# 6300 - death claws
+#
+{6300}{}{. This strong blow disturbed even such a creature}
+{6301}{}{. The blow bypasses the monster's huge claws and hits the target. Death Claw shudders and growls}
+{6302}{}{. The result of the impact is severe damage to the eyes of the Death Claw}
+#
+# 6400 - predatory plants
+#
+{6400}{}{. The blow breaks through the plant's defense mechanism}
+{6401}{}{. The blow tears off a few leaves}
+{6402}{}{. The blow breaks several appendages}
+{6403}{}{. The impact damages the organ of chlorophyll absorption}
+{6404}{}{. The blow knocks the pollen out of him}
+{6405}{}{. The impact almost rips him out of the ground}
+{6406}{}{. The blow breaks several branches}
+#
+# 6500 - THE MAIN CHARACTER
+#
+{6500}{}{. Tomorrow you will have a very bad headache. If you live}
+{6501}{}{. Your armor can't protect you from this precise strike}
+{6502}{}{. For a few seconds you feel a sharp pain, after which you are consumed by darkness ...}
+{6503}{}{. The blow pierces your armor and knocks you down}
+{6504}{}{. The shock makes your eyes go dark. After some time, you notice that your vision does not return}
+{6505}{}{. You get a rare opportunity to contemplate your body from the side while your head is in free flight}
+{6506}{}{. To your surprise, you don't feel that much pain}
+{6507}{}{. It will paralyze you for a while}
+{6508}{}{. What a pain}
+{6509}{}{. Because of the impact, your arm becomes completely useless}
+{6510}{}{. The blow pierces your armor, breaking bones in your hand like dry twigs}
+{6511}{}{. The blow pierces your armor. Now your hand is hanging lifeless at the side}
+{6512}{}{. It turned out to be a great bruise. And scars will surely attract the attention of the opposite sex at parties}
+{6513}{}{. The impact damages your internal organs. You are hardly capable of anything other than spitting blood}
+{6514}{}{. It turns you upside down}
+{6515}{}{. The shock pulse knocks you back and you break your leg}
+{6516}{}{. The blow pierces the armor and knocks you down, seriously injuring your knee}
+{6517}{}{. The pain of a broken leg renders you unconscious}
+{6518}{}{. You wince in pain, but otherwise everything is fine}
+{6519}{}{. Unfortunately for you, a stroke causes immediate loss of vision}
+{6520}{}{. You spend some time trying to wipe the blood from your eyes}
+{6521}{}{. The blow pierces your armor. Realizing that you are blind, you cannot move from your place}
+{6522}{}{. You have a strange feeling in your head. Do you understand that this is brain paralysis}
+{6523}{}{. You're writhing in pain}
+{6524}{}{. You grab your groin and fall to the ground in pain}
+{6525}{}{. The pain is so intense that you lose consciousness. Oh-oh}
+{6526}{}{. There are not enough words in the entire universe to describe the pain you are feeling right now}
+#
+# 6600 - ???
+#
+{6600}{}{.}
+#
+# 6700 - scolopendra
+#
+{6700}{}{. The blow pierces the shell of the scolopendra}
+{6701}{}{. The blow rips out a piece of slippery shell}
+{6702}{}{. The blow breaks several insect limbs}
+{6703}{}{. The blow damages her antennae}
+{6704}{}{. The blow disorients the creature}
+{6705}{}{. The shock pulse almost overturns the insect}
+{6706}{}{. The blow damages several limbs}
+#
+# 6800 - aliens
+#
+{6800}{}{. The blow breaks through the creature's defense}
+{6801}{}{. The blow knocks the slime off the creature}
+{6802}{}{. The blow almost tears off the tentacles of the creature}
+{6803}{}{. The blow damages the respiratory (?) organ}
+{6804}{}{. When hit, something nasty pops out of the creature}
+{6805}{}{. The shock pulse almost knocks the creature over}
+{6806}{}{. The blow damages the tentacles of the creature}
+#
+# 6900 - ants
+#
+{6900}{}{. The blow pierces the ant's shell}
+{6901}{}{. The blow tears off his antennae}
+{6902}{}{. The blow damages his antennae}
+{6903}{}{. The blow harms his health}
+{6904}{}{. The shock pulse carries him back}
+{6905}{}{. The shock pulse almost knocks the creature over}
+{6906}{}{. The blow damages his exoskeleton}
+#
+# 7000 - Gun Turret -- WIP! Won't Work! (rudiment F2?)
+#
+{7000}{}{. The blow pierces the ant's shell}
+{7001}{}{. The blow tears off his antennae}
+{7002}{}{. The blow damages his antennae}
+{7003}{}{. The blow harms his health}
+{7004}{}{. The shock pulse carries him back}
+{7005}{}{. The shock pulse almost knocks the creature over}
+{7006}{}{. The impact damages his exoskeleton}
+
+# 7100 - Horrigan (rudiment F2, not used in FS)
+{7100}{}{. The blow pierces the Bodyguard's armor}
+{7101}{}{. The blow causes the Bodyguard to fall to his knees}
+{7102}{}{. The impact destroys his hand control mechanism}
+{7103}{}{. The impact destroys his foot control mechanism}
+{7104}{}{. The blow damages his bionic eye}
+{7105}{}{. He needs time to recover from your blow}
+{7106}{}{. The impact damages his chest plate}

@@ -1,0 +1,2 @@
+{110}{}{This is a tribal totem, assembled from skulls and what savages consider "garbage". But you don't agree with them in everything.}
+{111}{}{The totem is destroyed. Perhaps there is something useful in this pile of garbage.}

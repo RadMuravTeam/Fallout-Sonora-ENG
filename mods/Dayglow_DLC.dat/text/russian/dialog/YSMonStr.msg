@@ -1,0 +1,1 @@
+{100}{}{You go up to the station, but you don't find anything of value there and go back down.}

@@ -1,0 +1,317 @@
+#######################################################
+#
+# Prototype descriptions in the BIS editor
+#
+#######################################################
+
+{10}{}{<No>}
+
+#
+# Material Type
+#
+{100}{}{Glass}
+{101}{}{Metal}
+{102}{}{Plastic}
+{103}{}{Tree}
+{104}{}{Earth}
+{105}{}{Stone}
+{106}{}{Cement}
+{107}{}{Leather}
+
+#
+# Inventory Type
+#
+{150}{}{Clothing}
+{151}{}{Container}
+{152}{}{Chemical}
+{153}{}{Weapons}
+{154}{}{Ammunition}
+{155}{}{Miscellaneous}
+{156}{}{Key}
+
+#
+# Environment type
+#
+{200}{}{The door}
+{201}{}{Stairs}
+{202}{}{Elevator}
+{203}{}{Bottom of the stairs}
+{204}{}{Top of the stairs}
+{205}{}{General landscape}
+
+#
+# Damage Types
+#
+{250}{}{normal}
+{251}{}{laser}
+{252}{}{fire}
+{253}{}{plasma}
+{254}{}{electr.}
+{255}{}{AMY}
+{256}{}{explosion}
+
+#
+# Ammunition calibers
+#
+{300}{}{None}
+{301}{}{Fuel}
+{302}{}{Nuclear block}
+{303}{}{Battery C}
+{304}{}{Battery D}
+{305}{}{12 gauge}
+{306}{}{.22LR}
+{307}{}{9 mm}
+{308}{}{10 mm}
+{309}{}{.44}
+{310}{}{.50}
+{311}{}{5 mm}
+{312}{}{.308}
+{313}{}{40 mm}
+{314}{}{SP}
+{315}{}{-}
+{316}{}{-}
+{317}{}{-}
+{318}{}{-}
+{319}{}{-}
+
+#
+# Races
+#
+{350}{}{The white race}
+{351}{}{African race}
+
+#
+# Body Type
+#
+{400}{}{A bipedal creature}
+{401}{}{A multi-legged creature}
+{402}{}{Robot}
+#
+# Kill Types names
+#
+# Note: These were moved to 1450+ to handle new ones!
+{450}{}{Men}
+{451}{}{Women}
+{452}{}{Children}
+{453}{}{Super Mutants}
+{454}{}{Ghouls}
+{455}{}{Brahmins}
+{456}{}{Radscorpions}
+{457}{}{Rats}
+{458}{}{Flyers}
+{459}{}{Centaurs}
+{460}{}{Robots}
+{461}{}{Dogs}
+{462}{}{Mantises}
+{463}{}{Death Claws}
+{464}{}{Plants}
+#
+# Kill type info descriptions
+#
+{465}{}{The number of men you killed.}
+{466}{}{The number of women you killed.}
+{467}{}{The number of human children you have killed.}
+{468}{}{The number of super mutants you have killed.}
+{469}{}{The number of ghouls you killed.}
+{470}{}{The number of Brahmins you have killed.}
+{471}{}{The number of scorpions you have killed.}
+{472}{}{The number of rats and other rodents you have killed.}
+{473}{}{The number of mutant flyers you killed.}
+{474}{}{The number of mutant centaurs you killed.}
+{475}{}{The number of robots you destroyed.}
+{476}{}{The number of dogs you have killed and other creatures from their family.}
+{477}{}{The number of mantises you have killed.}
+{478}{}{The number of Death Claws you have killed and their spawn.}
+{479}{}{The number of predatory plants you have killed.}
+
+#
+# Use text
+#
+{480}{}{You see: %s.}
+
+#
+# Use Container text
+#
+{485}{}{You search the %s.}
+{486}{}{You close the %s.}
+{487}{}{It is locked.} # new
+
+#
+# Look text
+#
+{490}{}{You see: %s.}
+{491}{}{You see a dead: %s.}
+{492}{}{You see the remains of: %s.}
+{493}{}{You see nothing out of the ordinary.}
+
+#
+# Examine text
+#
+{500}{}{Dead}
+{501}{}{Almost Dead}
+{502}{}{Severely Wounded}
+{503}{}{Wounded}
+{504}{}{Unhurt}
+
+#
+# Examine text messages
+#
+{510}{}{AC Mod: %d}
+{511}{}{DR Mod: %d}
+{512}{}{Dmg Mod: %d/%d}
+{518}{}{You look: %s }
+{519}{}{%s %s }
+{520}{}{You look: %s.}
+{521}{}{%s %s.}
+{522}{}{He looks: %s }
+{523}{}{She looks: %s }
+{524}{}{It looks: %s }
+# (note: hps are short for hit-points)
+{525}{}{%s has %d/%d hps.}
+# (note: this is for guns that have ammo)
+{526}{}{It has %d/%d shots of %s.}
+{530}{}{and has crippled limbs.}  # These append to lines 500-504
+{531}{}{but has crippled limbs.}
+{532}{}{and have crippled limbs.}
+{533}{}{but have crippled limbs.}
+# (note: hps are short for hit-points)
+{535}{}{He has %d/%d hps}
+{536}{}{She has %d/%d hps}
+{537}{}{It has %d/%d hps}
+{540}{}{It weighs %d pounds.}
+{541}{}{It weighs %d pound.}
+{544}{}{, }
+{545}{}{.}
+{546}{}{ and is wielding a %s.}
+{547}{}{ and is wielding a %s with %d/%d shots of %s.}
+{548}{}{The car doesn't look like it's working right now.}
+{549}{}{The car is running at %d%% power.}
+
+#
+# Examine text error messages
+#
+{550}{}{\nError: lookup_val out of range!}
+{551}{}{\nError: obj_examine: proto_ptr failed!}
+
+#
+# Use text messages
+#
+{580}{}{You use the %s.}
+{581}{}{You use the %s on %s.}
+{582}{}{That does nothing.}
+{583}{}{To your dismay, you realize that it is already dead.}
+{584}{}{As you reach down, you realize that it is already dead.}
+{585}{}{Alas, you are too late.} # This is relating to a critter being dead.
+{586}{}{That won't work on the dead.}
+{587}{}{You light the flare.}
+{588}{}{The flare is already lit.}
+{589}{}{You set the timer.}
+{590}{}{The timer is already ticking!}
+{595}{}{You charge the car with more power.}
+{596}{}{The car is already full of power.}
+{597}{}{The doorway seems to be blocked.}
+
+#
+# Experience-Point messages
+#
+{620}{}{You gain %d experience points for killing: %s.}
+{621}{}{%s you earn %d exp. points.}
+{622}{}{For defeating your enemies, }  # 622-626 prepend to line 621
+{623}{}{For slaying your opponents, }
+{624}{}{You are victorious in combat, }
+{625}{}{For crushing your enemies, }
+{626}{}{For destroying your enemies without taking a scratch, }
+
+#
+# Dialog messages
+#
+{650}{}{[Done]}
+{651}{}{[More]}
+{652}{}{More}
+{653}{}{[Back]}
+{654}{}{Back}     # changed number from 653
+{655}{}{Go on}    # new
+{656}{}{Err...}   # new
+{660}{}{You can't see there.}
+{661}{}{Too far away.}
+{670}{}{Okay.}    # F2: Used in PM: CombatAI settings
+{671}{}{Sure.}    # F2: Used in PM: CombatAI settings
+{672}{}{As you wish.}       # F2: Used in PM: CombatAI settings
+{673}{}{Whatever you say.}  # F2: Used in PM: CombatAI settings
+{674}{}{I'll try.}          # F2: Used in PM: CombatAI settings
+{675}{}{I can't do that.}   # F2: Used in PM: CombatAI settings
+{676}{}{I don't think I can do that.}   # F2: Used in PM: CombatAI settings
+{677}{}{Arf!}   # F2: Used in PM: CombatAI settings -- RoboDog
+{678}{}{Woof!}  # F2: Used in PM: CombatAI settings -- RoboDog
+
+#
+# Not Enough AP message
+#
+{700}{}{You don't have enough action points.}
+#
+# Book messages
+#
+{800}{}{You read the book.}
+{801}{}{You learn nothing new.}
+{802}{}{You learn new science information.}
+{803}{}{You learn a lot about repairing broken electronics.}
+{804}{}{You learn new ways to heal injury.}
+{805}{}{You learn how to handle your guns better.}
+{806}{}{You learn a lot about wilderness survival.}
+#
+# Use on messages (and some extra stuff that Jesse needed)
+#
+{900}{}{The supplies in the Doctor's Bag run out.}
+{901}{}{The supplies in the First Aid Kit run out.}
+{902}{}{You cannot do that in combat.}
+{903}{}{This person will not barter with you.}
+{904}{}{This person has nothing to tell you about.}
+{905}{}{You cannot pick up that item. You are at your maximum weight capacity.}
+{910}{}{The supplies in the Paramedic's Bag run out.}
+{911}{}{The supplies in the Field Medic First Aid Kit run out.}
+{913}{}{This critter can't carry anything.}
+
+#
+# Kill type info descriptions
+#
+{1450}{}{Men}
+{1451}{}{Women}
+{1452}{}{Children}
+{1453}{}{Super Mutants}
+{1454}{}{Ghouls}
+{1455}{}{Brahmin}
+{1456}{}{Radscorpions}
+{1457}{}{Rats}
+{1458}{}{Floaters}
+{1459}{}{Centaurs}
+{1460}{}{Robots}
+{1461}{}{Dogs}
+{1462}{}{Manti}
+{1463}{}{DeathClaws}
+{1464}{}{Plants}
+{1465}{}{Scolopendras}
+{1466}{}{Aliens}
+{1467}{}{Giant Ants}
+{1468}{}{Reptiles}
+#
+# Kill type info descriptions
+#
+{1469}{}{The number of men you killed.}
+{1470}{}{The number of women you killed.}
+{1471}{}{The number of human children you have killed.}
+{1472}{}{The number of super mutants you have killed.}
+{1473}{}{The number of ghouls you killed.}
+{1474}{}{The number of Brahmins you killed.}
+{1475}{}{The number of scorpions you have killed.}
+{1476}{}{The number of rats and other rodents you have killed.}
+{1477}{}{The number of mutant flyers you killed.}
+{1478}{}{The number of mutant centaurs you killed.}
+{1479}{}{The number of robots you destroyed.}
+{1480}{}{The number of dogs, coyotes and wolves you have killed.}
+{1481}{}{The number of mantises you have killed.}
+{1482}{}{The number of Death Claws and their spawn killed by you.}
+{1483}{}{The number of carnivorous plants you have killed.}
+{1484}{}{The number of huge scolopendras you killed.}
+{1485}{}{The number of aliens you killed.}
+{1486}{}{The number of ants you killed.}
+{1487}{}{The number of the biggest and most vile reptiles in the entire Sonoran Wasteland, which you sent to the forefathers.}

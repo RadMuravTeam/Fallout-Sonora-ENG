@@ -1,0 +1,12 @@
+MAP_GLOBAL_VARS:
+
+MVAR_Made_Car                   :=0;    //      (0)
+MVAR_SlavStoryA                 :=0;    //      (1)
+MVAR_SlavStoryB                 :=0;    //      (2)
+MVAR_FLAG_PostSlav              :=0;    //      (3)
+MVAR_FLAG_GameStatus            :=0;    //      (4)
+MVAR_FLAG_Huligan               :=0;    //      (5)
+MVAR_FLAG_CitiznB               :=0;    //      (6)
+MVAR_FLAG_Arizona               :=0;    //      (7)
+MVAR_FLAG_Vor                   :=0;    //      (8)
+MVAR_Reserv_09                  :=0;    //      (9)

@@ -1,0 +1,608 @@
+;----------------------------------------------------------------
+;
+; [Area 02]
+;            -- номер города
+; area_name=Klamath
+;            -- название города
+; world_pos=373,123
+;            -- Положение на каpте. Считается от веpхнего левого yгла. Первая цифра - по горизонтали, вторая - по вертикали.
+; start_state=On
+;            -- есть ли на каpте пpи стаpте игры: On - есть, Off - нет.
+; lock_state=On
+;            -- только для спецвстреч, останется ли на каpте после обнаружения: On - не останется, Off - останется.
+; size=Large
+;            -- Размер кружка на карте мира: Large - большой, Medium - средний, Small - маленький
+; townmap_art_idx=158
+;            -- Загрузочная картинка города с треугольниками
+;               (указывается номер строки из файла intrface.lst, уменьшенный на единицу)
+; townmap_label_art_idx=377
+;            -- Иконка с названием города в списке городов (-1, если не нужна)
+;
+; entrance_0=On,309,203,Klamath Downtown,-1,-1,0
+;            -- Список карт, входящих в город. На карту, отмеченную "On", игрок попадет при первом заходе в город.
+;            -- Далее положение треугольников на карте города (-1,-1 - треугольник не рисуется).
+;            -- Далее название карты из maps.txt.
+;            -- Далее соответственно номер уровня, гекс и ориентация ГГ.
+;
+;----------------------------------------------------------------
+
+[Area 00]                ; Вилла
+area_name=Villa
+world_pos=285,230
+start_state=On
+size=Medium
+townmap_art_idx=156
+townmap_label_art_idx=368
+entrance_0=Off,110,220,Villa1,-1,-1,0
+entrance_1=On,235,250,Villa2,-1,-1,0
+entrance_2=Off,-1,-1,Villa3,-1,-1,0
+entrance_3=Off,350,220,Villa4,-1,-1,0
+entrance_4=Off,235,90,VillaRuins,-1,-1,0
+entrance_5=Off,235,380,VillaCrypt,-1,-1,0
+
+[Area 01]                ; Флагстафф
+area_name=Flagstaff
+world_pos=822,222
+start_state=On
+size=Large
+townmap_art_idx=157
+townmap_label_art_idx=369
+entrance_0=On,103,293,FlagstaffCity,-1,-1,0
+entrance_1=Off,245,275,FlagstaffSlave,-1,-1,0
+entrance_2=Off,320,120,FlagstaffMine,-1,-1,0
+entrance_3=Off,365,240,FlagstaffGard,-1,-1,0
+entrance_4=Off,-1,-1,FlagstaffCave,-1,-1,0
+entrance_5=Off,175,153,FlagstaffFarm,-1,-1,0
+
+[Area 02]                ; Гараж-Cити
+area_name=Hardware
+world_pos=472,222
+start_state=On
+size=Large
+townmap_art_idx=158
+townmap_label_art_idx=370
+entrance_0=On,310,310,GarageSign,-1,-1,0
+entrance_1=Off,170,310,GarageHome,-1,-1,0
+entrance_2=Off,170,150,GarageDsrt,-1,-1,0
+entrance_3=Off,320,150,GarageHist,-1,-1,0
+entrance_4=Off,370,240,GarageBram,-1,-1,0
+entrance_5=Off,260,410,RangersWater,-1,-1,0
+entrance_6=Off,100,250,GarageTrailer,-1,-1,0
+
+[Area 03]                ; Сан-Брамин
+area_name=SanBrahmin
+world_pos=672,522
+start_state=On
+size=Large
+townmap_art_idx=159
+townmap_label_art_idx=371
+entrance_0=On,230,300,SanBrahminSign,-1,-1,0
+entrance_1=Off,230,210,SanBrahminCity,-1,-1,0
+entrance_2=Off,330,160,SanBrahminTabl,-1,-1,0
+entrance_3=Off,230,80,SanBrahminCave,-1,-1,0
+entrance_4=Off,70,120,SanBrahminOasis,-1,-1,0
+
+[Area 04]                ; Ту-Сан
+area_name=TwoSun
+world_pos=1072,972
+start_state=On
+size=Large
+townmap_art_idx=160
+townmap_label_art_idx=372
+entrance_0=On,180,300,TwoSunCity,-1,-1,0
+entrance_1=Off,-1,-1,TwoSunAngar,-1,-1,0
+entrance_2=Off,270,340,TwoSunGrave,-1,-1,0
+entrance_3=Off,-1,-1,TwoSunZAX,-1,-1,0
+entrance_4=Off,150,130,TwoSunInn,-1,-1,0
+entrance_5=Off,190,210,TwoSunDstr,-1,-1,0
+
+[Area 05]                ; Пуэрто-Пеньяско (Рокки-Поинт)
+area_name=Puerto
+world_pos=572,1222
+start_state=On
+size=Large
+townmap_art_idx=161
+townmap_label_art_idx=373
+entrance_0=On,190,150,Puerto1,-1,-1,0
+entrance_1=Off,280,260,Puerto2,-1,-1,0
+entrance_2=Off,-1,-1,Puerto3,-1,-1,0
+
+[Area 06]                ; Рейнджеры
+area_name=Rangers
+world_pos=422,472
+start_state=On
+size=Large
+townmap_art_idx=162
+townmap_label_art_idx=374
+entrance_0=On,265,310,RangersRoad,-1,-1,0
+entrance_1=Off,275,105,RangersBasa,-1,-1,0
+entrance_2=Off,355,135,RangersCity,-1,-1,0
+entrance_3=Off,355,205,RangersRadio,-1,-1,0
+entrance_4=Off,190,240,RangersParom,-1,-1,0
+entrance_5=Off,370,385,RangersRetrns,-1,-1,0
+entrance_6=Off,110,295,RangersCave,-1,-1,0
+entrance_7=Off,-1,-1,RangersDumba,-1,-1,0
+
+[Area 07]                ; Феникс
+area_name=Phoenix
+world_pos=872,622
+start_state=On
+size=Large
+townmap_art_idx=163
+townmap_label_art_idx=375
+entrance_0=On,185,400,PhoenixSign,-1,-1,0
+entrance_1=Off,210,330,PhoenixCenter,-1,-1,0
+entrance_2=Off,310,330,PhoenixBndcs,-1,-1,0
+entrance_3=Off,330,260,PhoenixElctr,-1,-1,0
+entrance_4=Off,260,150,PhoenixCity,-1,-1,0
+entrance_5=Off,-1,-1,PhoenixChrch,-1,-1,0
+entrance_6=Off,-1,-1,PhoenixVlt,-1,-1,0
+entrance_7=Off,-1,-1,PhoenixDstr,-1,-1,0
+entrance_8=Off,-1,-1,PhoenixAnal,-1,-1,0
+entrance_9=Off,160,90,PhoenixCola,-1,-1,0
+
+[Area 08]                ; Деревня рыбаков (Нефтяная платформа) (Сьерра в F2)
+area_name=OilPlatform
+world_pos=384,1130
+start_state=On
+size=Medium
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,OilCity,-1,-1,0
+entrance_1=Off,-1,-1,OilPlatformB,-1,-1,0
+entrance_2=Off,-1,-1,OilPlatformC,-1,-1,0
+entrance_3=Off,-1,-1,OilPlatformD,-1,-1,0
+entrance_4=Off,-1,-1,OilCoast,-1,-1,0
+
+[Area 09]                ; Каса-Гранде
+area_name=CasaGrande
+world_pos=934,832
+start_state=On
+size=Medium
+townmap_art_idx=164
+townmap_label_art_idx=377
+entrance_0=On,100,300,CGrandeWater,-1,-1,0
+entrance_1=Off,230,300,CGrandeHomes,-1,-1,0
+entrance_2=Off,360,300,CGrandeGrave,-1,-1,0
+entrance_3=Off,360,110,CGrandeSchool,-1,-1,0
+entrance_4=Off,230,230,CGrandeBar,-1,-1,0
+entrance_5=Off,230,370,CGrandeStan,-1,-1,0
+
+[Area 10]                ; Эрмосильо
+area_name=Hermosillo
+world_pos=1072,1722
+start_state=On
+size=Large
+townmap_art_idx=440
+townmap_label_art_idx=382
+entrance_0=On,115,340,Hermosillo1,-1,-1,0
+entrance_1=Off,290,310,Hermosillo2,-1,-1,0
+entrance_2=Off,390,230,Hermosillo3,-1,-1,0
+
+[Area 11]                ; Сан-Фелипе
+area_name=SanFelipe
+world_pos=284,1332
+start_state=Off
+size=Medium
+townmap_art_idx=478
+townmap_label_art_idx=379
+entrance_0=On,360,170,SanFelipeLight,-1,-1,0
+entrance_1=Off,325,300,SanFelipeCoast,-1,-1,0
+entrance_2=Off,135,300,SanFelipeCave,-1,-1,0
+
+[Area 12]                ; Инферно
+area_name=Inferno
+world_pos=222,922
+start_state=On
+size=Large
+townmap_art_idx=165
+townmap_label_art_idx=380
+entrance_0=On,360,340,InfernoRoad,-1,-1,0
+entrance_1=Off,360,270,InfernoCity,-1,-1,0
+entrance_2=Off,290,230,InfernoShop,-1,-1,0
+entrance_3=Off,220,190,InfernoPolic,-1,-1,0
+entrance_4=Off,160,140,InfernoChurch,-1,-1,0
+entrance_5=Off,90,220,InfernoMonument,-1,-1,0
+
+[Area 13]                ; Каса-Нуэва
+area_name=CasaNueva
+world_pos=722,1072
+start_state=On
+size=Large
+townmap_art_idx=166
+townmap_label_art_idx=381
+entrance_0=On,260,170,CNuevaCity,-1,-1,0
+entrance_1=Off,150,130,CNuevaGard,-1,-1,0
+entrance_2=Off,140,280,CNuevaLab,-1,-1,0
+entrance_3=Off,-1,-1,CNuevaGidro,-1,-1,0
+entrance_4=Off,320,280,CNuevaCarier,-1,-1,0
+
+[Area 14]                ; !!! Свободный слот (Сан-Франциско в F2)
+area_name=City14
+world_pos=100,100
+start_state=Off
+size=Medium
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,50,50,Desert Encounter 999,-1,-1,0
+
+[Area 15]                ; Мертвый Мотель
+area_name=OldMotel
+world_pos=741,785
+start_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,MotelMap,-1,-1,0
+
+[Area 16]                ; Сияние Дня (Анклав в F2)
+area_name=SanDiego
+world_pos=22,922
+start_state=Off
+size=Large
+townmap_art_idx=482
+townmap_label_art_idx=384
+entrance_0=On,250,350,DiegoTijuana,-1,-1,0
+entrance_1=Off,250,300,DiegoCampSouth,-1,-1,0
+entrance_2=Off,350,200,DiegoCampEast,-1,-1,0
+entrance_3=Off,250,100,DiegoCampNorth,-1,-1,0
+entrance_4=Off,350,250,DiegoPatrulOffice,-1,-1,0
+entrance_5=Off,120,250,DiegoChulaVista,-1,-1,0
+entrance_6=Off,120,200,DiegoHospital,-1,-1,0
+entrance_7=Off,350,150,DiegoCityHeart,-1,-1,0
+entrance_8=Off,120,150,DiegoPirs,-1,-1,0
+entrance_9=Off,350,50,DiegoVault,-1,-1,0
+entrance_10=Off,120,50,DiegoCoronado,-1,-1,0
+
+[Area 17]                ; !!! Свободный слот (Эббей в F2)
+area_name=City17
+world_pos=100,100
+start_state=Off
+size=Medium
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,50,50,Desert Encounter 999,-1,-1,0
+
+[Area 18]                ; Санта Ана
+area_name=SantaAna
+world_pos=1035,1380
+start_state=On
+size=Medium
+townmap_art_idx=-1
+townmap_label_art_idx=383
+entrance_0=On,50,50,SantaAnaPlaza,-1,-1,0
+entrance_1=Off,150,150,SantaAnaMonument,-1,-1,0
+entrance_2=Off,300,300,SantaAnaGrave,-1,-1,0
+
+[Area 19]                ; !!! Свободный слот (EPA в F2)
+area_name=City19
+world_pos=100,100
+start_state=Off
+size=Medium
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,50,50,Desert Encounter 999,-1,-1,0
+
+[Area 20]                ; Шакалы
+area_name=JackalsTrbl
+world_pos=485,80
+start_state=On
+size=Medium
+townmap_art_idx=-1
+townmap_label_art_idx=378
+entrance_0=On,-1,-1,JackalsMap,-1,-1,5
+
+; NOTE: This index # CANNOT CHANGE without a code change in Worldmap.c!
+[Area 21]                ; Машина без энергии
+area_name=Car Outta Gas
+world_pos=1000,500
+start_state=Off
+lock_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Car: Desert,-1,-1,0
+
+[Area 22]                ; Разрушенный Арройо (не использовать!)
+area_name=Arroyo
+world_pos=285,230
+start_state=Off
+size=Medium
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=Off,110,220,Villa1,-1,-1,0
+entrance_1=On,235,250,Villa2,-1,-1,0
+entrance_2=Off,-1,-1,Villa3,-1,-1,0
+entrance_3=Off,350,220,Villa4,-1,-1,0
+entrance_4=Off,235,90,VillaRuins,-1,-1,0
+entrance_5=Off,235,380,VillaCrypt,-1,-1,0
+
+[Area 23]                ; Убежище 27
+area_name=Vault27
+world_pos=985,580
+start_state=Off
+size=Medium
+townmap_art_idx=446
+townmap_label_art_idx=376
+entrance_0=On,190,310,Vault27a,-1,-1,0
+entrance_1=Off,-1,-1,Vault27b,-1,-1,0
+
+[Area 24]                ; Лагеря Братства
+area_name=campBoS
+world_pos=784,1234
+start_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,BSCamp1,-1,-1,0
+entrance_1=Off,-1,-1,BSCamp2,-1,-1,0
+entrance_2=Off,-1,-1,BSCamp3,-1,-1,0
+
+[Area 25]                ; Рейдеры-магистральщики
+area_name=Raiders
+world_pos=1134,732
+start_state=On
+size=Medium
+townmap_art_idx=445
+townmap_label_art_idx=387
+entrance_0=On,235,235,RaidersMap,-1,-1,0
+
+[Area 26]                ; Карты случайных встреч в пустыне
+area_name=Random
+world_pos=100,100
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Desert Encounter 1,-1,-1,0
+entrance_1=On,-1,-1,Desert Encounter 2,-1,-1,0
+entrance_2=On,-1,-1,Desert Encounter 3,-1,-1,0
+entrance_3=On,-1,-1,Desert Encounter 4,-1,-1,0
+entrance_4=On,-1,-1,Desert Encounter 9,-1,-1,0
+
+[Area 27]                ; Карты случайных встреч в горах
+area_name=Random
+world_pos=100,100
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Mountain Encounter 1,-1,-1,0
+entrance_1=On,-1,-1,Mountain Encounter 2,-1,-1,0
+entrance_2=On,-1,-1,Mountain Encounter 3,-1,-1,0
+entrance_3=On,-1,-1,Mountain Encounter 4,-1,-1,0
+entrance_4=On,-1,-1,Mountain Encounter 5,-1,-1,0
+entrance_5=On,-1,-1,Mountain Encounter 6,-1,-1,0
+entrance_6=On,-1,-1,Mountain Encounter 7,-1,-1,0
+entrance_7=On,-1,-1,Mountain Encounter 8,-1,-1,0
+entrance_8=On,-1,-1,Mountain Encounter 9,-1,-1,0
+
+[Area 28]                ; Карты случайных встреч в урбанизированной зоне
+area_name=Random
+world_pos=100,100
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,City Encounter 1,-1,-1,0
+entrance_1=On,-1,-1,City Encounter 2,-1,-1,0
+entrance_2=On,-1,-1,City Encounter 3,-1,-1,0
+entrance_3=On,-1,-1,City Encounter 4,-1,-1,0
+entrance_4=On,-1,-1,City Encounter 9,-1,-1,0
+entrance_5=On,-1,-1,Road Encounter 1,-1,-1,0
+entrance_6=On,-1,-1,Road Encounter 2,-1,-1,0
+entrance_7=On,-1,-1,Road Encounter 3,-1,-1,0
+entrance_8=On,-1,-1,Road Encounter 4,-1,-1,0
+entrance_9=On,-1,-1,Road Encounter 5,-1,-1,0
+
+[Area 29]                ; Карты случайных встреч на побережье
+area_name=Random
+world_pos=100,100
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Coast Encounter 1,-1,-1,0
+entrance_1=On,-1,-1,Coast Encounter 2,-1,-1,0
+entrance_2=On,-1,-1,Coast Encounter 3,-1,-1,0
+entrance_3=On,-1,-1,Coast Encounter 4,-1,-1,0
+
+[Area 30]                ; Пуэрто после взрыва
+area_name=NukeDen
+world_pos=572,1222
+start_state=Off
+size=Large
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,PuertoDestroy,-1,-1,0
+
+[Area 31]                ; Специальная встреча - Золото (в F2 - Упавший кит)
+area_name=Special31
+world_pos=100,100
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Special Gold Encounter,-1,-1,0
+
+[Area 32]                ; Специальная встреча - Генри Бимис (в F2 - Железный Дровосек)
+area_name=Special32
+world_pos=100,100
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Special Bibl Encounter,-1,-1,0
+
+[Area 33]                ; Специальная встреча - Придорожное кафе (в F2 - Говорящая голова)
+area_name=Special33
+world_pos=891,435
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Special Cafe Encounter,-1,-1,0
+
+[Area 34]                ; Специальная встреча - Бомбардировщик (в F2 - Шаттл Федерации)
+area_name=Special34
+world_pos=100,100
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Special Bomber Encounter,-1,-1,0
+
+[Area 35]                ; Специальная встреча - Грузовик Петро-Чико (в F2 - Немытая деревенщина)
+area_name=Special35
+world_pos=1291,735
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Special Petro Encounter,-1,-1,0
+
+[Area 36]                ; Специальная встреча - Крик тишины (в F2 - Мост)
+area_name=Special36
+world_pos=100,100
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Special Cry Encounter,-1,-1,0
+
+[Area 37]                ; Специальная встреча - Ночной кинопоказ (в F2 - Кафе Разбитых надежд)
+area_name=Special37
+world_pos=100,100
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Special DriveIn Encounter,-1,-1,0
+
+[Area 38]                ; Специальная встреча - Падре (в F2 - Паладины)
+area_name=Special38
+world_pos=100,100
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Special Padre Encounter,-1,-1,0
+
+[Area 39]                ; Специальная встреча - Барон Аризоны (в F2 - Пещера Кэрбенног)
+area_name=Special39
+world_pos=100,100
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Special Baron Encounter,-1,-1,0
+
+[Area 40]                ; Специальная встреча - Снегопад (в F2 - Страж Вечности)
+area_name=Special40
+world_pos=100,100
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Special Snow Encounter,-1,-1,0
+
+[Area 41]                ; Специальная встреча - Затерянное убежище (в F2 - Свалка токсичных отходов)
+area_name=Special41
+world_pos=1191,385
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Special Vault Encounter,-1,-1,0
+
+[Area 42]                ; Специальная встреча - Мобильная крепость армии Создателя (в F2 - Pariahs)
+area_name=Special42
+world_pos=191,785
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Special Army Encounter,-1,-1,0
+
+[Area 43]                ; Специальная встреча - Легенд-Сити (в F2 - Бешеный брамин)
+area_name=Special43
+world_pos=100,100
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Special LegendCity Encounter,-1,-1,0
+
+[Area 44]                ; !!! Свободный слот (Caravan Encounters)
+area_name=City44
+world_pos=100,100
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Desert Encounter 999,-1,-1,0
+
+[Area 45]                ; !!! Свободный слот (Ложное убежище 13 в F2)
+area_name=City45
+world_pos=100,100
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Desert Encounter 999,-1,-1,0
+
+[Area 46]                ; Облученная деревня (Кварцсайт, Кварц)
+area_name=Quartz
+world_pos=435,630
+start_state=On
+size=Medium
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,RangersQuartz,-1,-1,0
+
+[Area 47]		 ; Локации, которые больше некуда приткнуть
+area_name=Shadow Worlds
+world_pos=100,100
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,In Game Movie,-1,-1,0
+entrance_1=Off,-1,-1,SanBrahminCaravanA,-1,-1,0
+entrance_2=Off,-1,-1,SanBrahminCaravanB,-1,-1,0
+entrance_3=Off,-1,-1,SanBrahminCaravanC,-1,-1,0
+entrance_4=Off,-1,-1,Desert Encounter 999,-1,-1,0
+entrance_5=Off,-1,-1,Desert Encounter 999,-1,-1,0
+entrance_6=Off,-1,-1,Desert Encounter 999,-1,-1,0
+entrance_7=Off,-1,-1,Desert Encounter 999,-1,-1,0
+entrance_8=Off,-1,-1,Desert Encounter 999,-1,-1,0
+entrance_9=Off,-1,-1,Desert Encounter 999,-1,-1,0
+
+[Area 48]                ; Лагерь Уайнон
+area_name=FlagWinon
+world_pos=991,185
+start_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,FlagstaffWinon,-1,-1,0

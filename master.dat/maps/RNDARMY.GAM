@@ -1,0 +1,7 @@
+MAP_GLOBAL_VARS:
+
+MVAR_Made_Car                   :=0;    //      (0)
+MVAR_ENC_SMUTANT_ALARM          :=0;    //      (1)
+MVAR_ENC_SMUTANT_DIALOG         :=0;    //      (2)
+MVAR_ENC_SMUTANT_REACTOR        :=0;    //      (3)
+MVAR_ENC_SMUTANT_DEAD           :=0;    //      (4)

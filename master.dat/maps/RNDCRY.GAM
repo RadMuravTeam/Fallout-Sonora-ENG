@@ -1,0 +1,4 @@
+MAP_GLOBAL_VARS:
+
+MVAR_Made_Car                   :=0;    //      (0)
+MVAR_ENC_CRY_STATUS             :=0;    //      (1)

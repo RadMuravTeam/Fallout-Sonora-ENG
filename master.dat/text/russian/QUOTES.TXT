@@ -1,0 +1,146 @@
+;
+; Для появления текста в главном меню надо нажать Shift + Титры
+;
+
+#FALLOUT SONORA
+#Источники вдохновения и референсов
+
+
+Фантастика 1950-х:
+
+@Harvey (1950)
+@Atom Man vs. Superman (1950)
+@The Day the Earth Stood Still (1951)
+@The Thing from Another World (1951)
+@Donovan's Brain (1953)
+@Them! (1954)
+@Creature from the Black Lagoon (1954), Revenge of the Creature (1955)
+@The Creature Walks Among Us (1956)
+@Target Earth (1954)
+@Gojira (1954), Godzilla, King of the Monsters! (1956)
+@Tarantula (1955)
+@Day the World Ended (1955)
+@Forbidden Planet (1956)
+@Invasion of the Body Snatchers (1956)
+@The Deadly Mantis (1957)
+@The Incredible Shrinking Man (1957)
+@The Monster That Challenged the World (1957)
+@The Land Unknown (1957)
+@Kronos (1957)
+@The Fly (1958)
+@Tingler (1959)
+@The Time Machine (1960)
+@Сериал "The Twilight Zone" (1959-1964):
+@- сезон 1, серия 8  
+@- сезон 1, серия 14 
+@- сезон 2, серия 24 
+@- сезон 3, серия 3  
+@- сезон 3, серия 17 
+
+
+Драмы, триллеры, военные фильмы 40-60х:
+
+@Человек со шрамом (1932)
+@Случай в Окс-Боу (1943)
+@Meet Me in St. Louis (1944)
+@The Big Clock (1948)
+@Border Incident (1949)
+@At War with the Army (1950)
+@Panic in the Streets (1950)
+@The Wild One (1953)
+@Лесси (телесериал, начался в 1954)
+@Salt of the Earth (1954)
+@Плохой день в Блэк-Роке (1955)
+@Дорожный патруль (сериал 1955-1959)
+@Тюремный рок (1957)
+@Thunder Road (1958)
+@Пулеметчик Келли (1958)
+@Последняя миля (1959)
+@Город страха (1959)
+@Pork Chop Hill (1959)
+@Ten Seconds to Hell (1959)
+@Psycho (1960)
+@The Misfits (1961)
+
+
+Постапокалипсис, ядерная угроза:
+
+@Доктор Стрейнджлав (1964)
+@Парень и его пес (1974)
+@Бегство Логана (1976)
+@Проклятая долина (1977)
+@Безумный Макс (1979) и его продолжения
+@Побег из Нью-Йорка (1981), Побег из Лос-Анджелеса (1996)
+@Blade Runner (1981), Blade Runner 2049 (2017)
+@Атомное Кафе (1982)
+@Терминатор (1984) и его продолжения
+@Шестиструнный самурай (1998)
+@Город Грехов (2005)
+@Обитель Зла 3 (2007)
+@Книга Илая (2010)
+@Разделитель (2012)
+@Философы. Урок выживания (2013)
+
+@Короткометражки:
+@- Target You (1950)
+@- Duck and Cover (1952)
+@- Self Preservation In An Atomic Attack (1950)
+@- Survival Under Atomic Attack (1951)
+@- Warning Red (1956)
+@- Nuclear War (1959)
+
+
+Вестерн, гражданская война США:
+
+@The Mark of Zorro (1940)
+@Три крестных отца (1948)
+@Красная река (1948)
+@Одинокий рейнджер (сериал 1949-1957 и комиксы 1948)
+@Винчестер `73 (1950)
+@Барон Аризоны (1950)
+@Bonanza (сериал 1959-1973)
+@Дымок из ствола (сериал 1955-1975)
+@Дымок из ствола в Тусоне (1958)
+@В 3-10 на Юму (1957)
+@Не склонившие головы (1958)
+@Форт Боуи (1958)
+@High Plains Drifter (1973)
+
+
+Мексика:
+
+@Vamonos con Pancho Villa (1935)
+@El nino perdido (1947)
+@Gangsters contra charros (1948)
+@The Treasure of the Sierra Madre (1948)
+@Los Olvidados (1950)
+@Mariachi (1950)
+@Simbad el mareado (1950)
+@El Ceniciento (1951)
+@El revoltoso (1951)
+@Que te ha dado esa mujer (1951)
+@Viva Zapata! (1952)
+@Ride, Vaquero! (1953)
+@The Littlest Outlaw (1955)
+@El jinete sin cabeza (1957)
+@Touch of Evil (1958)
+@La cabeza viviente (1963)
+
+
+Остальное:
+
+@Metropolis (1927)
+@Mexicali Rose (1929)
+@Mexicali Rose (1939)
+@Flying Padre (1951)
+@Speedy Gonzales (1955)
+@The Three Caballeros (1945)
+@The Brother from Another Planet (1984)
+@Taken (телесериал 2002)
+@The Island (2005)
+@Cry of Silence (сериал "The Outer Limits", 1964)
+@Star Trek (сериал 1966-1969)
+
+
+
+И многое, многое другое...

@@ -1,0 +1,133 @@
+;
+; Номера и опции партийцев
+;
+
+[Party Member 0]   ; Player -- Not actually used!
+party_member_pid=16777216
+area_attack_mode=always, sometimes, be_sure, be_careful, be_absolutely_sure
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, ranged, unarmed, unarmed_over_thrown, random
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime, always
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, coward, finger_hurts, bleeding, not_feeling_good, tourniquet, never
+disposition=none, custom, coward, defensive, aggressive, berserk
+level_minimum=0
+level_up_every=0
+level_pids=-1
+
+[Party Member 1]   ; pMCarTrunk_PID - Багажник личного транспорта
+party_member_pid=455
+;area_attack_mode=
+;attack_who=
+;best_weapon=
+;chem_use=
+;distance=
+;run_away_mode=
+;disposition=
+;level_minimum=0
+;level_up_every=0
+;level_pids=-1
+
+[Party Member 2]   ; Артур Каррингтон в Уб27
+party_member_pid=16777314
+area_attack_mode=always, sometimes, be_careful
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, ranged, unarmed, unarmed_over_thrown, random
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, coward, finger_hurts
+disposition=none, custom, coward, defensive, aggressive
+level_minimum=7
+level_up_every=3
+level_pids=16777346,16777347,16777348
+
+[Party Member 3]   ; Паладин Баркли в Инферно
+party_member_pid=16777330
+area_attack_mode=always, sometimes, be_sure, be_careful, be_absolutely_sure
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=ranged, ranged_over_melee, melee_over_ranged
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime, always
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, not_feeling_good, tourniquet, never
+disposition=custom, defensive, aggressive, berserk
+level_minimum=10
+level_up_every=3
+level_pids=16777349,16777350,16777351
+
+[Party Member 4]   ; Военнопленный Джек в Эрмосильо
+party_member_pid=16777340
+area_attack_mode=always, sometimes, be_sure, be_careful, be_absolutely_sure
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=ranged, ranged_over_melee, melee_over_ranged
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime, always
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, not_feeling_good, tourniquet, never
+disposition=custom, defensive, aggressive, berserk
+level_minimum=7
+level_up_every=3
+level_pids=16777352,16777353,16777354
+
+[Party Member 5]   ; Диана Последователь Апокалипсиса в Инферно
+party_member_pid=16777342
+area_attack_mode=always, sometimes, be_careful
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, ranged, unarmed, unarmed_over_thrown, random
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, coward, finger_hurts
+disposition=none, custom, coward, defensive, aggressive
+level_minimum=7
+level_up_every=3
+level_pids=16777343,16777344,16777345
+
+[Party Member 6]   ; Рядовой Куча в Сиянии
+party_member_pid=16777360
+area_attack_mode=always, sometimes, be_sure, be_careful, be_absolutely_sure
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=ranged, ranged_over_melee, melee_over_ranged
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime, always
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, not_feeling_good, tourniquet, never
+disposition=custom, defensive, aggressive, berserk
+level_minimum=0
+level_up_every=0
+level_pids=-1
+
+[Party Member 7]   ; Гуль-мариачи 1 в Сиянии
+party_member_pid=16777361
+area_attack_mode=always, sometimes, be_careful
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, ranged, unarmed, unarmed_over_thrown, random
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, coward, finger_hurts
+disposition=none, custom, coward, defensive, aggressive
+level_minimum=0
+level_up_every=0
+level_pids=-1
+
+[Party Member 8]   ; Гуль-мариачи 2 в Сиянии
+party_member_pid=16777362
+area_attack_mode=always, sometimes, be_careful
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, ranged, unarmed, unarmed_over_thrown, random
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, coward, finger_hurts
+disposition=none, custom, coward, defensive, aggressive
+level_minimum=0
+level_up_every=0
+level_pids=-1
+
+[Party Member 9]   ; Гуль-выживальщик в Тусоне
+party_member_pid=16777365
+area_attack_mode=always, sometimes
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, ranged, unarmed, unarmed_over_thrown, random
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, coward, finger_hurts, bleeding, not_feeling_good
+disposition=none, custom, coward, defensive, aggressive
+level_minimum=0
+level_up_every=0
+level_pids=-1

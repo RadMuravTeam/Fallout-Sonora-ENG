@@ -1,0 +1,18 @@
+MAP_GLOBAL_VARS:
+
+MVAR_Made_Car                   :=0;    //      (0)
+MVAR_DIEGOHSPTL_GHOULLIFE       :=0;    //      (1)
+MVAR_DIEGOHSPTL_TIMER           :=0;    //      (2)
+MVAR_DIEGOHSPTL_ALARM           :=0;    //      (3)
+MVAR_DIEGOHSPTL_CAPS            :=0;    //      (4)
+MVAR_DIEGOHSPTL_BANDLIFE        :=0;    //      (5)
+MVAR_DIEGOHSPTL_ROBOT           :=0;    //      (6)
+MVAR_DIEGOCAFE_MUTANT_LIFE      :=0;    //      (7)
+MVAR_DIEGOCAFE_GHOUL_STATUS     :=0;    //      (8)
+MVAR_DIEGOCAFE_MUTANT_QST       :=0;    //      (9)
+MVAR_DIEGOCAFE_FABRICA_LIFE     :=0;    //      (10)
+MVAR_DIEGOCAFE_FABRICA_QST      :=0;    //      (11)
+MVAR_DIEGOCAFE_FABRICA_ENEMY    :=0;    //      (12)
+MVAR_Reserv_13                  :=0;    //      (13)
+MVAR_Reserv_14                  :=0;    //      (14)
+MVAR_Reserv_15                  :=0;    //      (15)

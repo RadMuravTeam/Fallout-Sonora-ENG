@@ -1,0 +1,12 @@
+MAP_GLOBAL_VARS:
+
+MVAR_Made_Car                   :=0;    //      (0)
+MVAR_OIL_PLATFORM_POISON        :=0;    //      (1)
+MVAR_OIL_PLATFORM_BOAT_REPAIR   :=0;    //      (2)
+MVAR_OIL_PLATFORM_INFIERNOINFO  :=0;    //      (3)
+MVAR_OIL_PLATFORM_NEWHEX        :=0;    //      (4)
+MVAR_OIL_PLATFORM_GHOULSAMNT    :=0;    //      (5)
+MVAR_OIL_PLATFORM_KILL_A        :=0;    //      (6)
+MVAR_OIL_PLATFORM_KILL_B        :=0;    //      (7)
+MVAR_OIL_PLATFORM_KILL_C        :=0;    //      (8)
+MVAR_OIL_PLATFORM_KILL_D        :=0;    //      (9)

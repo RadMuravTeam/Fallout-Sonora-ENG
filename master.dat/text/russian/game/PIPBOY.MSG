@@ -1,0 +1,761 @@
+############################################################
+#
+#   Òåêñòû â Pip-Boy
+#
+############################################################
+
+#
+# Special holiday dates
+#
+{100}{}{Happy New Year's Day!}      # New years
+{101}{}{Happy Valentine's Day!}     # April fools
+{102}{}{Happy All Fool's Day!}      # April fools
+{103}{}{Happy Ship Day!}            # Shipping day!
+{104}{}{Happy Independence Day!}    # Independence day
+{105}{}{Happy Halloween!}           # Halloween
+{106}{}{Happy Thanksgiving Day!}    # Thanksgiving
+{107}{}{Merry Christmas!}           # X-mas
+
+#
+# System messages
+#
+{200}{}{MORE}
+{201}{}{BACK}
+{202}{}{STATUS}
+{203}{}{No current tasks.}
+{204}{}{CLUES}  # clues gone
+{205}{}{AUTOMAPS}
+{206}{}{VIDEO ARCHIVES}
+{207}{}{DATA}
+{208}{}{}
+{209}{}{}
+{210}{}{Status}
+{211}{}{DATA}
+{212}{}{of}
+{213}{}{Page}
+{214}{}{DONE}
+{215}{}{You cannot rest at this location!}
+
+#
+# Alarm clock
+#
+{300}{}{ALARM CLOCK}
+{301}{}{Hit Points}
+{302}{}{Rest for ten minutes}
+{303}{}{Rest for thirty minutes}
+{304}{}{Rest for an hour}
+{305}{}{Rest for two hours}
+{306}{}{Rest for three hours}
+{307}{}{Rest for four hours}
+{308}{}{Rest for five hours}
+{309}{}{Rest for six hours}
+{310}{}{Rest until morning (0800)}
+{311}{}{Rest until noon (1200)}
+{312}{}{Rest until evening (1800)}
+{313}{}{Rest until midnight (0000)}
+{314}{}{Rest until healed}
+{315}{}{Rest until party is healed}
+
+#
+# Name of videos
+#
+{500}{}{Warning}
+{501}{}{Introduction}
+{502}{}{Returning home}
+{503}{}{Pogroms at the Villa}
+{504}{}{Exile}
+{505}{}{For the first time in the wastelands}
+{506}{}{For the first time in the saddle}
+{507}{}{The Greatness of the Phoenix}
+{508}{}{Time's up}
+{509}{}{Destruction of the Cathedral of Fire}
+{510}{}{-empty-}
+{511}{}{Explosion in the Steel Port}
+{512}{}{Old photo 1}
+{513}{}{Old photo 2}
+{514}{}{Old photo 3}
+{515}{}{Old photo 4}
+{516}{}{Authors}
+#
+# Things for the Mac version to speak
+#
+#
+{600}{}{Status}
+{601}{}{Clues}  # Clues gone
+{602}{}{Automaps}
+{603}{}{Archives}
+{604}{}{Alarm Clock}
+{605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
+{606}{}{Welcome to the Rob Co Pipboy 2000.}
+{607}{}{So long.}
+{608}{}{Wake up.}
+
+
+############################################################
+#
+# Texts of recorded messages
+#
+############################################################
+
+#----------------------------------------------
+# Names of the entered entries
+#----------------------------------------------
+
+{900}{}{?}
+{901}{}{Rules of survival}
+{902}{}{Founder's Records}
+{903}{}{Diary from the shelter 27}
+{904}{}{Expedition report}
+{905}{}{The Quartz Mission}
+{906}{}{Sergeant McBain's record}
+{907}{}{Casa Grande Regulations}
+{908}{}{Field notes by J.Kruka}
+{909}{}{A letter from Vault-Tech}
+{910}{}{Letter to the shore}
+{911}{}{Luther's Records}
+{912}{}{}
+{913}{}{}
+{914}{}{}
+{915}{}{}
+{916}{}{}
+{917}{}{}
+{918}{}{}
+{919}{}{}
+#----------------------------------------------
+# Rules of survival
+# GVAR_HOLODISK_00
+#----------------------------------------------
+{1000}{}{-- EMPTY--}
+{1001}{}{**END-PAR**}
+{1002}{}{**END-DISK**}
+
+#----------------------------------------------
+# Founder's Notes
+# GVAR_HOLODISK_01
+#----------------------------------------------
+
+{2000}{}{I leave these notes to my descendants for admonition.}
+{2001}{}{Keep them secret from the rest of the inhabitants}
+{2002}{}{and pass it from son to son, as I passed it to mine.}
+{2003}{}{ }
+{2004}{}{ }
+{2005}{}{ }
+{2006}{}{The history of our people starts in the Vault 27.}
+{2007}{}{This big underground bunker was}
+{2008}{}{built before the Great War and located}
+{2009}{}{in the vicinity of Phoenix, Arizona. You, my descendants,}
+{2010}{}{will find such a place uncomfortable and alien. }
+{2011}{}{You will be used to the light of the sun and }
+{2012}{}{to the golden sand of Sonora; you won't be able }
+{2013}{}{to understand the gloomy rooms of the shelter with }
+{2014}{}{its low ceiling and cold steel walls. But it’s these}
+{2015}{}{walls and technology that saved the lives of us and our}
+{2016}{}{ancestors when the nuclear bombs fell to earth.}
+{2017}{}{**END-PAR**}
+{2018}{}{For a long time we did not dare to come to the surface.}
+{2019}{}{The world around was uninhabitable because of mutants,}
+{2020}{}{devastation, and high radiation. But the longer the}
+{2021}{}{scientists and the dwellers debated about }
+{2022}{}{this, the fewer resources there were left in the shelter}
+{2023}{}{for accommodation. Society was bursting at the seams,}
+{2024}{}{riots occurred one after another, and some}
+{2025}{}{residents voluntarily left for the wastelands.}
+{2026}{}{It would soon be necessary to make a decision. }
+{2027}{}{But the only thing that would allow us to survive is}
+{2028}{}{the Garden of Eden Creation Kit. The Great }
+{2029}{}{pre-war technology that can breathe life into the}
+{2030}{}{desert. Scientists agreed that its use }
+{2031}{}{near the shelter would be a reckless waste}
+{2032}{}{of this most valuable technology. All positive }
+{2033}{}{the effect would be leveled by the environment.}
+{2034}{}{And we could not explore more distant lands.}
+{2035}{}{**END-PAR**}
+{2036}{}{As the situation approached its limit, I gathered}
+{2037}{}{the best people I could trust at least a bit.}
+{2038}{}{We stole the GECK and left the vault,}
+{2039}{}{leaving most of the population to their own }
+{2040}{}{fate. The path was difficult. Many died }
+{2041}{}{due to radiation, mutants, and bandits.}
+{2042}{}{Some betrayed us and were executed. }
+{2043}{}{At the end of the hike, only}
+{2044}{}{some families remained. As hopes ran out, we }
+{2045}{}{came across this unremarkable place.}
+{2046}{}{The GECK detector regarded it as suitable }
+{2047}{}{to create a Garden-City. But even with }
+{2048}{}{this technology it took years}
+{2049}{}{before we managed to settle the Villa.}
+{2050}{}{**END-PAR**}
+{2051}{}{Now you know the price of our well-being. }
+{2052}{}{And although I'm not sorry at all about what happened,}
+{2053}{}{still, doubt lingers in the depths of my soul.}
+{2054}{}{Did we do the right thing?}
+{2055}{}{How many people did we betray?}
+{2056}{}{How many were ruined and condemned to torment }
+{2057}{}{after we left?}
+{2058}{}{No one will answer these questions anymore.}
+{2059}{}{Therefore, the only correct solution is to }
+{2060}{}{forget about the past and live in the future.}
+{2061}{}{**END-PAR**}
+{2062}{}{Our future is our land and our children.}
+{2063}{}{Take care of them. Keep the light of life. Stay away }
+{2064}{}{from ancient technologies. Drive strangers away,}
+{2065}{}{otherwise they’ll harm you. It only takes one}
+{2066}{}{generation to break the pattern, and the community}
+{2067}{}{will fall, just as Vault 27 fell in its time.}
+{2068}{}{**END-DISK**}
+
+#----------------------------------------------
+# Diary from Asylum 27
+# GVAR_HOLODISK_02
+#----------------------------------------------
+# - CHECK-IN
+{3000}{}{- October 23, 2077:}
+{3001}{}{I'm starting to keep a diary on the advice of a}
+{3002}{}{psychologist. My family and I were at home and engaged}
+{3003}{}{over in the usual  business when, suddenly, a siren}
+{3004}{}{roared over the Mesa. Catherine mistook the signal for}
+{3005}{}{a routine system check. Still, I insisted on taking}
+{3006}{}{shelter in a Vault, and for good reason. Already on the}
+{3007}{}{way, the first explosions were reported on the radio}
+{3008}{}{on the West Coast. And soon we saw a flash above the}
+{3009}{}{Phoenix skyline. The sound of the explosion caught up with}
+{3010}{}{us later. The check-in was terrible. There was a}
+{3011}{}{traffic jam in front of the shelter, we had to leave}
+{3012}{}{the car by the road. We got checked to our}
+{3013}{}{room and got one Pip-Boy per family. Even Mexicans}
+{3014}{}{got booked in the room! It turned out that there are}
+{3015}{}{a lot more people in the shelter than there should be.}
+{3016}{}{We were lucky - some are sleeping in the}
+{3017}{}{corridor. What were the Vault-Tech clearks looking at}
+{3018}{}{when they compiled the check-in lists?}
+{3019}{}{**END-PAR**}
+# -
+{3020}{}{- 12 November, 2077:}
+{3021}{}{My neighbors and I couldn't get along for a long time.}
+{3022}{}{We divided the room with a screen and furniture into}
+{3023}{}{two parts. Catherine demanded that I evict them. But}
+{3024}{}{what can I do in this situation? The children reconciled}
+{3025}{}{us. For their sake, we agreed to behave decently.}
+{3026}{}{Baby Susie is the hardest of all after all. And the}
+{3027}{}{overseer can't cope with overpopulation. News}
+{3028}{}{about illegal settlers turned out to be fake.}
+{3029}{}{It looks like Vault-Tech is waiting for a series}
+{3030}{}{of ruinous lawsuits. But what should we do now?}
+{3031}{}{**END-PAR**}
+# - DISTEMPER
+{3032}{}{- February 7th, 2078:}
+{3033}{}{My Mexican neighbor was murdered; suspicion fell,}
+{3034}{}{of course, on me. I spent a day in the punishment cell.}
+{3035}{}{The killer turned out to be a former trucker - a}
+{3036}{}{typical criminal, sick in the head. He went}
+{3037}{}{completely crazy and claimed the shelter was overpopulated}
+{3038}{}{by illegal Mexicans. But there is something more}
+{3039}{}{important. I used to want my neighbors to disappear.}
+{3040}{}{And now I'm worried, almost like I lost a family member.}
+{3041}{}{And by the way, only 15% of the population here is Mexican,}
+{3042}{}{their eviction won't solve the problem definitively.}
+{3043}{}{**END-PAR**}
+# -
+{3044}{}{- 11 December, 2082:}
+{3045}{}{Water and electricity supply has been cut.}
+{3046}{}{The education and entertainment sections are closed.}
+{3047}{}{Food rations on schedule are handed by hand.}
+{3048}{}{New deaths and fights burst out in the corridors.}
+{3049}{}{The medical room is full. Constant stress.}
+{3050}{}{**END-PAR**}
+# -
+{3051}{}{- 2 January, 2083:}
+{3052}{}{A new murder, this time of a white American.}
+{3053}{}{Zachary Taylor took over the investigation -}
+{3054}{}{former soldier, Anchorage veteran. He swiftly}
+{3055}{}{found the "criminal" and, along his associates,}
+{3056}{}{staged a lynching. I had to go with everyone}
+{3057}{}{so as not to arouse suspicion, but I got up myself}
+{3058}{}{to the dissenting column. We have to be careful }
+{3059}{}{and take a neutral wait-and-see attitude.}
+{3060}{}{At first I sympathized with Taylor, but when}
+{3061}{}{he offered to evict all Mexicans outside,}
+{3062}{}{I got really nervous. I wouldn't like to see}
+{3063}{}{such a person as a overseer.}
+{3064}{}{**END-PAR**}
+# -
+{3065}{}{- 13 March, 2084:}
+{3066}{}{Hugo and his gang took over the water purification}
+{3067}{}{plant and began to blackmail the overseer.}
+{3068}{}{Taylor's people took over the case. Two clans}
+{3069}{}{fought each other in close quarters to the death.}
+{3070}{}{It ended with the lynching of all the vanquished,}
+{3071}{}{as well as their accomplices and employees of the}
+{3072}{}{station. We fled to a refuge from the war, but}
+{3073}{}{the war was waiting for us here. It's probably in}
+{3074}{}{people's blood. Susie cries at night when she dreams of}
+{3075}{}{our house. I would rather come out to the surface.}
+{3076}{}{**END-PAR**}
+# -
+{3077}{}{- 16 December, 2084:}
+{3078}{}{That's the end. The overseer cut the supply of water}
+{3079}{}{and food. Taylor's guys killed the sleeping overseer}
+{3080}{}{and by force captured his post. Now Zachary Taylor is}
+{3081}{}{our new overseer. And I'm afraid to imagine what}
+{3082}{}{kind of order this old soldier will bring here.}
+{3083}{}{Twenty people disappeared from the shelter overnight.}
+{3084}{}{No one saw anything. No one knows anything.}
+{3085}{}{And under no circumstances should one ask about it.}
+{3086}{}{**END-PAR**}
+# - OPENING A SHELTER
+{3087}{}{- August 24, 2091:}
+{3088}{}{Thanks to Taylor's dictatorship, discipline and order}
+{3089}{}{have reigned in the Vault ever since. It was hard,}
+{3090}{}{but we coped. There is talk of going to the surface.}
+{3091}{}{This thought is damn invigorating, especially for Susie.}
+{3092}{}{But the overseer made it clear that it was too early}
+{3093}{}{to go out. If you think about it, a lot has changed:}
+{3094}{}{a new generation has grown, we have aged and}
+{3095}{}{got used to these cold walls. Most are afraid of}
+{3096}{}{going out. And where to go? My house probably burned}
+{3097}{}{down or crumbled to dust. What's here? We don't have}
+{3098}{}{enough food, water, air, or a blue sky over our heads.}
+{3099}{}{We need time to gather our thoughts.}
+{3100}{}{**END-PAR**}
+# -
+{3101}{}{- 18 January, 2092:}
+{3102}{}{More and more heated arguments about coming to the}
+{3103}{}{surface.Intelligence gives disappointing results.}
+{3104}{}{Some believe that the situation will be changed}
+{3105}{}{by the GECK system, but others that the effect will}
+{3106}{}{be undermined by the environment. Society seemed to}
+{3107}{}{be divided into clans again.}
+{3108}{}{But the overseer is no longer the same - he is old}
+{3109}{}{and clumsy. The old, stern stance has left his body.}
+{3110}{}{Or maybe it's the dim light that illuminates his}
+{3111}{}{tired look. Are we really going to grow old in this}
+{3112}{}{crypt? Some have left the shelter. Taylor told them}
+{3113}{}{not to come back. Susie was with them.}
+{3114}{}{I'm pathetic.}
+{3115}{}{**END-PAR**}
+# -
+{3116}{}{- 22 March, 2092:}
+{3117}{}{Felix Tejada did it. He took the GECK with a fight}
+{3118}{}{and led his companions into the wastelands.}
+{3119}{}{He had been preparing for his plan for several years.}
+{3120}{}{I also received an invitation from him, but declined.}
+{3121}{}{After all, Catherine will not go, and she is}
+{3122}{}{all I have left. And I simply don't want to.}
+{3123}{}{The overseer finally closed the security exit door.}
+{3124}{}{Funny, he used to want to evict as many people}
+{3125}{}{as possible, now he won't let anyone out.}
+{3126}{}{Now the shelter is empty.}
+{3127}{}{And quiet. Like in a crypt.}
+{3128}{}{That's good. Let it be so.}
+{3129}{}{**END-DISK**}
+
+#----------------------------------------------
+# Expedition Report
+# GVAR_HOLODISK_03
+#----------------------------------------------
+{4000}{}{Compiled by:}
+{4001}{}{Abel Dragger, Enlightened Nuclear}
+{4002}{}{Flame and Faithful Servant of the Rising Phoenix}
+{4003}{}{(postscript: the only one who can read and}
+{4004}{}{write among these idiots)}
+{4005}{}{}
+{4006}{}{**END-PAR**}
+# -
+{4007}{}{- Report #02-04:}
+{4008}{}{}
+{4009}{}{We reached our destination, but the door of the shelter,}
+{4010}{}{as the guide warned, turned out to be closed. The}
+{4011}{}{console doesn't respond to commands, it looks like}
+{4012}{}{there is no electricity in the shelter. Will have to}
+{4013}{}{dig. I am sending a list of necessary inventory items}
+{4014}{}{to the headquarters. Losses: one slave twisted}
+{4015}{}{his leg while carrying equipment, had to shoot him.}
+{4016}{}{Plans before the arrival of the convoy: to strengthen}
+{4017}{}{the camp, explore the area, start digging.}
+{4018}{}{**END-PAR**}
+# -
+{4019}{}{- Report #02-09:}
+{4020}{}{}
+{4021}{}{The cargo requested in the 02-04 report has been}
+{4022}{}{received. Just on time: a little more, and we'll get to}
+{4023}{}{the steel shelter walls. The guide hastily left the camp.}
+{4024}{}{Before leaving, he warned about the curse of the}
+{4025}{}{vault, which caused unrest among the slaves. I had}
+{4026}{}{to provide forceful pressure to shut them up.}
+{4027}{}{**END-PAR**}
+# -
+{4028}{}{- Report #02-10:}
+{4029}{}{}
+{4030}{}{The excavation is completed despite the poor work of}
+{4031}{}{the slaves. The entire supply of explosives was spent}
+{4032}{}{blowing up the wall. The condition of the shelter turned}
+{4033}{}{out to be unsatisfactory, there is no electricity,}
+{4034}{}{the elevator is blocked. Descent to the lower levels is}
+{4035}{}{not yet possible. We are sending a convoy with}
+{4036}{}{valuable finds: medical equipment (autodoc, tools),}
+{4037}{}{electrical technical components (cable coils, vacuum tubes,}
+{4038}{}{terminal parts), archival records from computers.}
+{4039}{}{This is much less than expected in the general headquarters.}
+{4040}{}{**END-PAR**}
+# -
+{4041}{}{- Report #03-01:}
+{4042}{}{}
+{4043}{}{Blew up the elevator and lowered the rope to the}
+{4044}{}{bottom of the mine. The slaves heard strange noises}
+{4045}{}{from the lower floors and mistook them for ghost voices.}
+{4046}{}{It scared the slaves and put them to flight. Casualties:}
+{4047}{}{one mercenary killed and two wounded; three slaves}
+{4048}{}{escaped, the rest were killed. For the next convoy, we}
+{4049}{}{request new slaves. The survey of the lower levels has}
+{4050}{}{been suspended. We are setting up machinery for lighting.}
+{4051}{}{**END-PAR**}
+# -
+{4052}{}{- Report #03-02:}
+{4053}{}{}
+{4054}{}{It looks like that guide was right - a shelter }
+{4055}{}{is really cursed! Something on the lower level}
+{4056}{}{grabbed the lighting repairman and dragged him into the }
+{4057}{}{darkness. Two mercenaries went after him and did not }
+{4058}{}{return. Shots were heard. The members of the expedition}
+{4059}{}{are scared. We assume a massive sweep of the levels}
+{4060}{}{by the forces of the entire remaining brigade.}
+{4061}{}{**END-PAR**}
+{4062}{}{**END-DISK**}
+
+#----------------------------------------------
+# The Quartz Mission
+# GVAR_HOLODISK_04
+#----------------------------------------------
+{5000}{}{Your mission is to carry the ideas of the Sacred Fire}
+{5001}{}{to the lands of barbarians and heretics. Be ready for}
+{5002}{}{misunderstanding and persecution by degenerate savages,}
+{5003}{}{to detachment from earthly goods and self-sacrifice.}
+{5004}{}{Don't hesitate. This is your holy burden.}
+{5005}{}{}
+{5006}{}{}
+{5007}{}{Your mission has two goals.}
+{5008}{}{}
+{5009}{}{The first, to create a Quartz-site colony on the ruins}
+{5010}{}{of the city, sympathetic to our faith. Such a colony}
+{5011}{}{will become a regional center to spread the word}
+{5012}{}{of the Sacred Fire, one of the pillars of our future.}
+{5013}{}{But beware of heretical rangers,}
+{5014}{}{their base is 50 miles north.}
+{5015}{}{For cover, pose as ordinary refugees}
+{5016}{}{from Phoenix, as if looking for a new home.}
+{5017}{}{}
+{5018}{}{The second is to collect sacred nuclear resources}
+{5019}{}{of this city and prepare them to be sent to Phoenix.}
+{5020}{}{According to our information, there is one }
+{5021}{}{of the tombs of the Atom - Petro-Chico gas station.}
+{5022}{}{Find it and open it with all respect.}
+{5023}{}{Should it become impossible to send resources,}
+{5024}{}{keep them under cover of the colony}
+{5025}{}{until the new orders of the Church are received.}
+{5026}{}{}
+{5027}{}{Maintain the strictest secrecy of the mission,}
+{5028}{}{destroy this holotape to avoid risks.}
+{5029}{}{}
+{5030}{}{May the Sacred Fire be with you.}
+{5031}{}{Amen.}
+{5032}{}{**END-PAR**}
+{5033}{}{**END-DISK**}
+
+#----------------------------------------------
+# Sergeant McBain's recording
+# GVAR_HOLODISK_05
+#----------------------------------------------
+{6000}{}{[heavy breathing] To those who find this recording...}
+{6001}{}{I'm Sergeant McBain from Davis-Monthan Air Base...}
+{6002}{}{}
+{6003}{}{... Our security robots have rebelled }
+{6004}{}{and killed almost all the team members.}
+{6005}{}{Surely this damn ZAX staged a riot!}
+{6006}{}{I told the lieutenant that we can't trust}
+{6007}{}{our lives to the soulless machines. And here is the result...}
+{6008}{}{}
+{6009}{}{... Now I'm in an isolated room.}
+{6010}{}{Robots can't get in here. But it's a matter of time.}
+{6011}{}{I still can't leave the polygon on my own.}
+{6012}{}{And there has been no help for three days...}
+{6013}{}{Radio communication is blocked, intercoms are not }
+{6014}{}{responding...And I don't know what's going on the surface...}
+{6015}{}{}
+{6016}{}{... All I have to do is disable ZAX.}
+{6017}{}{I'm going to go to lower levers, find the console}
+{6018}{}{and arrange an emergency pulse explosion to}
+{6019}{}{burn this thing and all its electronic insides!}
+{6020}{}{}
+{6021}{}{}
+{6022}{}{God help me...}
+{6023}{}{}
+{6024}{}{**END-PAR**}
+{6025}{}{**END-DISK**}
+
+#----------------------------------------------
+# Regulations for the Mayor of Casa Grande
+# GVAR_HOLODISK_06
+#----------------------------------------------
+{7000}{}{ REGULATIONS }
+{7001}{}{on the settlement of the situation in Casa Grande}
+{7002}{}{to the present and future mayor of the city}
+{7003}{}{}
+{7004}{}{}
+{7005}{}{Unstable social situation in Casa Grande}
+{7006}{}{harms the development of the entire region. Without}
+{7007}{}{this "oasis", any trading and industrial processes}
+{7008}{}{will be difficult in Southern Arizona.}
+{7009}{}{You must resolve the conflict caused by the city’s}
+{7010}{}{overpopulation as soon as possible.}
+{7011}{}{Consequences will be fatal otherwise.}
+{7012}{}{Do not be afraid to take drastic measures.}
+{7013}{}{}
+{7014}{}{Prevention and resolution measures:}
+{7015}{}{}
+{7016}{}{- Legalization of power}
+{7017}{}{}
+{7018}{}{You have to prove yourself the true leader of the city.}
+{7019}{}{Any measures are suitable for this, including threats,}
+{7020}{}{lies, and bribes. Declare yourself mayor,}
+{7021}{}{make up a legend about your achievements}
+{7022}{}{and deceive the city with fake elections.}
+{7023}{}{}
+{7024}{}{- Elimination of unwanted and conflicted citizens}
+{7025}{}{}
+{7026}{}{Only the population that supports or fears you,}
+{7027}{}{should remain.}
+{7028}{}{Come up with cunning ways - poisoning,}
+{7029}{}{accidents, execution on false charges.}
+{7030}{}{}
+{7031}{}{- Supervision and control over the population}
+{7032}{}{}
+{7033}{}{They should be afraid of you. The best way to do}
+{7034}{}{this is intimidation and public executions.}
+{7035}{}{There must be power in your hands - weapons}
+{7036}{}{and loyal soldiers. Recruit mercenaries, you may}
+{7037}{}{eliminate them in the future.}
+{7038}{}{}
+{7039}{}{- Capture the key positions of the city}
+{7040}{}{}
+{7041}{}{You have to put in charge of the water station}
+{7042}{}{the one who will become your faithful dog}
+{7043}{}{and will guard the station from outsiders.}
+{7044}{}{In case of resistance of the current owner -}
+{7045}{}{spread defamatory rumors about him and}
+{7046}{}{come up with a false excuse for an open attack}
+{7047}{}{when the forces are on your side.}
+{7048}{}{}
+{7049}{}{- Conclusion of trade unions}
+{7050}{}{}
+{7051}{}{This fight will end someday.}
+{7052}{}{But, being the winner, do not lose your vigilance.}
+{7053}{}{Without the support of the tinmen and the Church of}
+{7054}{}{the Sacred Fire, your water empire won't last long.}
+{7055}{}{}
+{7056}{}{}
+{7057}{}{Don't worry about the caps. We have the same goal,}
+{7058}{}{and we are ready to support your endeavors.}
+{7059}{}{}
+{7060}{}{And remember - History is on your side.}
+{7061}{}{}
+{7062}{}{**END-PAR**}
+{7063}{}{**END-DISK**}
+
+#----------------------------------------------
+# Field notes of J.Kruka
+# GVAR_HOLODISK_07
+#----------------------------------------------
+{8000}{}{Aaron, my lord!}
+{8001}{}{I hasten to inform you about the state of affairs.}
+{8002}{}{ }
+{8003}{}{We have been standing near San Brahmin for the third}
+{8004}{}{week. A little more, and my soldiers will start}
+{8005}{}{marrying these dirty and ugly savages.}
+{8006}{}{We are running out of provisions, I request supply center}
+{8007}{}{to send additional provisioning (full request}
+{8008}{}{is attached to the report).}
+{8009}{}{}
+{8010}{}{I have tried many times to establish contact}
+{8011}{}{with local chiefs and persuade them to ally in the past.}
+{8012}{}{But the leaders stand their ground like a stupid pack of}
+{8013}{}{brahmin. New negotiations took place today and}
+{8014}{}{I only received ridicule.}
+{8015}{}{}
+{8016}{}{We're wasting our time, my lord.}
+{8017}{}{These filthy savages cannot be assimilated}
+{8018}{}{or made into an autonomous part of the empire.}
+{8019}{}{They can only be subdued with a hard whip and }
+{8020}{}{steel shackles, like in the good ol' days.}
+{8021}{}{}
+{8022}{}{Please, Aaron. Give me more soldiers and weapons,}
+{8023}{}{and I will capture the old pueblo in a matter of}
+{8024}{}{minutes. I will disarm these savages so that they}
+{8025}{}{stop carrying a threat to ordinary residents and}
+{8026}{}{caravaneers. I will drive the remaining dissenters into}
+{8027}{}{the reservation like a herd of foolish cattle.}
+{8028}{}{Just give the order!}
+{8029}{}{}
+{8030}{}{}
+{8031}{}{Your faithful servant and like-minded person,}
+{8032}{}{Commander George Crook.}
+{8033}{}{**END-PAR**}
+{8034}{}{**END-DISK**}
+
+#----------------------------------------------
+# Letter from "Vault-Tech"
+# GVAR_HOLODISK_08
+#----------------------------------------------
+{9000}{}{Dear Mr. and Mrs. Buren!}
+{9001}{}{}
+{9002}{}{Congratulations on including your family}
+{9003}{}{to the shelter community!}
+{9004}{}{}
+{9005}{}{In the attached brochure you will find a complete rules}
+{9006}{}{summary and list of procedures regarding preparation}
+{9007}{}{to move into the Vault-Tec complex, but we would like}
+{9008}{}{to emphasize a few key points:}
+{9009}{}{}
+{9010}{}{* "Vault-Tec" provides residents with shelters,}
+{9011}{}{furnished accommodation, clothes and bed linen.}
+{9012}{}{Your personal belongings must be inspected and}
+{9013}{}{approved by an authorized Vault-Tec technical}
+{9014}{}{specialist; only then, can they be delivered to the}
+{9015}{}{shelter room reserved for you.}
+{9016}{}{In case of an emergency, move to the complex, you }
+{9017}{}{you won't be able to take any personal items with you.}
+{9018}{}{}
+{9019}{}{* All residents must participate }
+{9020}{}{in the introductory seminar. If you haven't}
+{9021}{}{participated in it during the submission and review }
+{9022}{}{process of your application, be sure to contact }
+{9023}{}{with a representative of "Vault-Tec" close to you*.}
+{9024}{}{}
+{9025}{}{* In case of activation of the shelter (both real, }
+{9026}{}{and an educational one) "Vault-Tec" will set off a siren,}
+{9027}{}{audible in the surroundings of the shelter. Residents will}
+{9028}{}{also receive a holographic message by phone number, }
+{9029}{}{specified in their accounting documents. Upon receiving }
+{9030}{}{such a signal, go to the shelter immediately and}
+{9031}{}{wait for permission to access.}
+{9032}{}{}
+{9033}{}{We are looking forward to you becoming our }
+{9034}{}{dearest guests!}
+{9035}{}{}
+{9036}{}{}
+{9037}{}{Sincerely,}
+{9038}{}{Public Relations Department of "Vault-Tec"}
+{9039}{}{Phoenix, Arizona}
+{9040}{}{**END-DISK**}
+
+#----------------------------------------------
+# A letter to the shore
+# GVAR_HOLODISK_09
+#----------------------------------------------
+{10000}{}{That's it. There are only five people left}
+{10001}{}{on the platform.}
+{10002}{}{}
+{10003}{}{It became quiet and peaceful here. Although, until}
+{10004}{}{recently, the platform was stormed by the military.}
+{10005}{}{Chaos was raging here! The workers tried to defend}
+{10006}{}{their jobs, but the state machine was stronger.}
+{10007}{}{Which was already clear from the very beginning. I}
+{10008}{}{don't understand, what did they expect?}
+{10009}{}{A big scandal broke out on the mainland, it involved}
+{10010}{}{federal television. But they are not going to get}
+{10011}{}{anything. Only a fool would go against a giant}
+{10012}{}{corporation.}
+{10013}{}{}
+{10014}{}{I myself wasn’t sure that automation of}
+{10015}{}{the station would be successful. Is it possible to}
+{10016}{}{trust such complex systems to a program?}
+{10017}{}{What if the systems go out of control? How are}
+{10018}{}{a handful of administrative employees in the middle}
+{10019}{}{of the sea supposed to cope with such a}
+{10020}{}{hulk in an emergency situation?}
+{10021}{}{}
+{10022}{}{But it seems that robots are doing even better than}
+{10023}{}{humans. And they don't need to be paid nor}
+{10024}{}{complain about difficult working conditions. Local oil}
+{10025}{}{will become the power source. The station will be}
+{10026}{}{completely autonomous and probably last a hundred years,}
+{10027}{}{or as long it takes robots to exhaust their resources.}
+{10028}{}{Of course, the company saved a lot when laying off}
+{10029}{}{workers. It's just a pity that we have to feed}
+{10030}{}{ourselves, after all, the cooks were also sent ashore.}
+{10031}{}{}
+{10032}{}{Now about the main thing - thanks to modernization}
+{10033}{}{my salary was doubled! Everything has its advantages.}
+{10034}{}{**END-DISK**}
+
+#----------------------------------------------
+# Luther 's Notes
+# GVAR_HOLODISK_10
+#----------------------------------------------
+{11000}{}{Vault 24, the caretaker's log.}
+{11001}{}{}
+{11002}{}{}
+{11003}{}{}
+{11004}{}{- February 2131:}
+{11005}{}{}
+{11006}{}{So, the resources of our Vault are almost exhausted.}
+{11007}{}{These last years we have survived only thanks to }
+{11008}{}{old technologies and objects brought }
+{11009}{}{from the ruins above. In these outings}
+{11010}{}{we have lost some of our brothers and sisters.}
+{11011}{}{We can't stay here anymore.}
+{11012}{}{Where should we go? Can we survive in the desert }
+{11013}{}{without our technology?}
+{11014}{}{}
+{11015}{}{- December 2131:}
+{11016}{}{}
+{11017}{}{A miracle happened! Today we met people }
+{11018}{}{among the ruins. These people }
+{11019}{}{came from a city called Aditum, }
+{11020}{}{(apparently located in the suburbs of Los Angeles).}
+{11021}{}{They were looking for a place they called the Glow. As}
+{11022}{}{far as we know, they meant a destroyed West-Tech}
+{11023}{}{lab, but it seems they themselves did not understand,}
+{11024}{}{what they are looking for. Old technology has become}
+{11025}{}{artifacts of myth, its meaning long been forgotten.}
+{11026}{}{We were luckier, thanks to the Vault,}
+{11027}{}{we have preserved much knowledge of pre-war era.}
+{11028}{}{But, our current plight considered, }
+{11029}{}{we will have to make contact with the savages.}
+{11030}{}{Thorough exploration should be carried out in this Aditum}
+{11031}{}{and other localities.}
+{11032}{}{}
+{11033}{}{There were plenty of volunteers.}
+{11034}{}{}
+{11035}{}{- May 2132:}
+{11036}{}{}
+{11037}{}{The scouts have returned to us.}
+{11038}{}{They brought two pieces of news.}
+{11039}{}{The good news is that on the ruins of }
+{11040}{}{Los Angeles and its surroundings are also inhabited}
+{11041}{}{by people! We could settle down near them and try }
+{11042}{}{together to revive the world.}
+{11043}{}{}
+{11044}{}{The bad news is that the local population is}
+{11045}{}{very wild, having devolved in its development by three}
+{11046}{}{centuries. We may even have to fight for our place}
+{11047}{}{amidst the ruins. But we are far from warriors.}
+{11048}{}{We are sick and weak. But enough wars!}
+{11049}{}{The world has suffered enough in the fire, we will not}
+{11050}{}{repeat the mistakes of our ancestors. Our knowledge and}
+{11051}{}{faith are our strength. We will restore factories,}
+{11052}{}{hospitals, libraries, and chapels; we will}
+{11053}{}{restore civilization to the world and heal its wounds.}
+{11054}{}{}
+{11055}{}{- January 2136:}
+{11056}{}{}
+{11057}{}{We are the last to leave the Vault, }
+{11058}{}{and most likely we won't be coming back here. Our brothers}
+{11059}{}{and sisters set up a library near Aditum and now they}
+{11060}{}{teach the locals the lost knowledge. We are}
+{11061}{}{respected, and some even take us for missionaries. This is}
+{11062}{}{our chance to create a world without war and destruction.}
+{11063}{}{Some are trying to take away this hope from us,}
+{11064}{}{but we won't allow it. The library will become our fortress.}
+{11065}{}{Knowledge is our weapon, and faith our shining armor.}
+{11066}{}{God help us.}
+{11067}{}{** END-DISK**}

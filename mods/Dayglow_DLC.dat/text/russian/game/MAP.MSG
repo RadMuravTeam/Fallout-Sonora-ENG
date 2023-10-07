@@ -1,0 +1,969 @@
+#######################################################
+#
+# Map Level Names -- AUTOMAP Names
+#
+#######################################################
+
+#----------------------------------------
+# 00: Desert Encounter 1, desert1.MAP
+#----------------------------------------
+{200}{}{Barren desert}
+{201}{}{}
+{202}{}{}
+#----------------------------------------
+# 01: Desert Encounter 2, desert2.MAP
+#----------------------------------------
+{203}{}{Desecrated Wasteland}
+{204}{}{}
+{205}{}{}
+#----------------------------------------
+# 02: Desert Encounter 3, desert3.MAP
+#----------------------------------------
+{206}{}{Cactus Forest}
+{207}{}{}
+{208}{}{}
+#----------------------------------------
+# 03: Desert Encounter 4, desert4.MAP
+#----------------------------------------
+{209}{}{Desert camp}
+{210}{}{}
+{211}{}{}
+#----------------------------------------
+# 04: Road Encounter 1, ROAD1.MAP
+#----------------------------------------
+{212}{}{ Federal highway}
+{213}{}{}
+{214}{}{}
+#----------------------------------------
+# 05: Road Encounter 2, ROAD2.MAP
+#----------------------------------------
+{215}{}{Federal Highway}
+{216}{}{}
+{217}{}{}
+#----------------------------------------
+# 06: Road Encounter 3, ROAD3.MAP
+#----------------------------------------
+{218}{}{Deserted highway}
+{219}{}{}
+{220}{}{}
+#----------------------------------------
+# 07: Road Encounter 4, ROAD4.MAP
+#----------------------------------------
+{221}{}{Deserted highway}
+{222}{}{}
+{223}{}{}
+#----------------------------------------
+# 08: City Encounter 1, city1.MAP
+#----------------------------------------
+{224}{}{Ruins of the sleeping area}
+{225}{}{}
+{226}{}{}
+#----------------------------------------
+# 09: City Encounter 2, city2.MAP
+#----------------------------------------
+{227}{}{Ruins of the business district}
+{228}{}{Collector}
+{229}{}{}
+#----------------------------------------
+# 10: City Encounter 3, city3.MAP
+#----------------------------------------
+{230}{}{Dilapidated house}
+{231}{}{}
+{232}{}{}
+#----------------------------------------
+# 11: City Encounter 4, city4.MAP
+#----------------------------------------
+{233}{}{Camp among the ruins}
+{234}{}{}
+{235}{}{}
+#----------------------------------------
+#12: Mountain Encounter 1, MOUNT1.MAP
+#----------------------------------------
+{236}{}{ Gorge}
+{237}{}{}
+{238}{}{}
+#----------------------------------------
+# 13: Mountain Encounter 2, MOUNT2.MAP
+#----------------------------------------
+{239}{}{ Gorge}
+{240}{}{}
+{241}{}{}
+#----------------------------------------
+# 14: Mountain Encounter 3, MOUNT3.MAP
+#----------------------------------------
+{242}{}{Camp in the mountains}
+{243}{}{}
+{244}{}{}
+#----------------------------------------
+# 15: Mountain Encounter 4, MOUNT4.MAP
+#----------------------------------------
+{245}{}{Gorge}
+{246}{}{Rocky Cave}
+{247}{}{}
+#----------------------------------------
+# 16: Mountain Encounter 5, MOUNT5.MAP
+#----------------------------------------
+{248}{}{ Gorge}
+{249}{}{Ring Cave}
+{250}{}{}
+#----------------------------------------
+# 17: Mountain Encounter 6, MOUNT6.MAP
+#----------------------------------------
+{251}{}{Gorge}
+{252}{}{Rocky Cave}
+{253}{}{}
+#----------------------------------------
+# 18: Coast Encounter 1, COAST1.MAP
+#----------------------------------------
+{254}{}{Dirty beach}
+{255}{}{}
+{256}{}{}
+#----------------------------------------
+# 19: Coast Encounter 2, COAST2.MAP
+#----------------------------------------
+{257}{}{Rocky shore}
+{258}{}{}
+{259}{}{}
+#----------------------------------------
+# 20: Coast Encounter 3, COAST3.MAP
+#----------------------------------------
+{260}{}{ Hut on the shore}
+{261}{}{}
+{262}{}{}
+#----------------------------------------
+# 21: Villa1, artemple.MAP
+#----------------------------------------
+{263}{}{ Sleeping area}
+{264}{}{}
+{265}{}{}
+#----------------------------------------
+# 22: Villa2, VLPlaza.MAP
+#----------------------------------------
+{266}{}{Plaza de la Sombra}
+{267}{}{The bottom of the well}
+{268}{}{Upper floor of the Town Hall}
+#----------------------------------------
+# 23: Villa3, VLCave.MAP
+#----------------------------------------
+{269}{}{Cellars of the sleeping area}
+{270}{}{Cellars of the central district}
+{271}{}{Basement of the Town Hall}
+#----------------------------------------
+# 24: Villa4, VLGard.MAP
+#----------------------------------------
+{272}{}{Maize plantations}
+{273}{}{}
+{274}{}{}
+#----------------------------------------
+# 25: FlagstaffCity, PoolCity.MAP
+#----------------------------------------
+{275}{}{ Residential area}
+{276}{}{Church basement}
+{277}{}{}
+#----------------------------------------
+# 26: FlagstaffSlave, PoolSlav.MAP
+#----------------------------------------
+{278}{}{Garrison and prison}
+{279}{}{}
+{280}{}{}
+#----------------------------------------
+# 27: FlagstaffMine, PoolMine.MAP
+#----------------------------------------
+{281}{}{ Mine Administration}
+{282}{}{}
+{283}{}{}
+#----------------------------------------
+# 28: FlagstaffGard, PoolGard.MAP
+#----------------------------------------
+{284}{}{ Abandoned area}
+{285}{}{Ranger's Hideout}
+{286}{}{}
+#----------------------------------------
+# 29: GarageSign, GCSign.MAP
+#----------------------------------------
+{287}{}{Business district}
+{288}{}{}
+{289}{}{}
+#----------------------------------------
+# 30: GarageHome, GCHome.MAP
+#----------------------------------------
+{290}{}{Scavenger shacks}
+{291}{}{}
+{292}{}{}
+#----------------------------------------
+# 31: GarageDsrt, GCDstr.MAP
+#----------------------------------------
+{293}{}{ Abandoned factory}
+{294}{}{Abandoned factory}
+{295}{}{Abandoned factory}
+#----------------------------------------
+# 32: SanBrahminSign, SBSign.MAP
+#----------------------------------------
+{296}{}{Missionaries' Camp}
+{297}{}{Dry collector}
+{298}{}{}
+#----------------------------------------
+# 33: SanBrahminCity, SBChurch.MAP
+#----------------------------------------
+{299}{}{Ancient Pueblo}
+{300}{}{Sanctuary Dungeon}
+{301}{}{The Sanctuary of the Divine Brahmin}
+#----------------------------------------
+# 34: SanBrahminTabl, SBTabl.MAP
+#----------------------------------------
+{302}{}{ Brahmin pens}
+{303}{}{}
+{304}{}{}
+#----------------------------------------
+# 35: TwoSunCity, TSCity.MAP
+#----------------------------------------
+{305}{}{Settlement of tinsmiths}
+{306}{}{}
+{307}{}{}
+#----------------------------------------
+# 36: TwoSunAngar, TSGarage.MAP
+#----------------------------------------
+{308}{}{Workshop}
+{309}{}{}
+{310}{}{}
+#----------------------------------------
+# 37: TwoSunDstr, TSDstr.MAP
+#----------------------------------------
+{311}{}{Ruins of a business center}
+{312}{}{Hiding of runaway slaves}
+{313}{}{Hiding of runaway slaves}
+#----------------------------------------
+#38: TwoSunZAX, TSGrave.MAP
+#----------------------------------------
+{314}{}{ Control Center, level 1}
+{315}{}{Control Center, level 4}
+{316}{}{Control Center, level 5}
+#----------------------------------------
+# 39: Puerto1, PSSign.MAP
+#----------------------------------------
+{317}{}{Old Town}
+{318}{}{The second floor of the hotel}
+{319}{}{Top floor of the hotel}
+#----------------------------------------
+# 40: Puerto2, PSDocs.MAP
+#----------------------------------------
+{320}{}{Pier}
+{321}{}{Add-on}
+{322}{}{Wheelhouse}
+#----------------------------------------
+# 41: Puerto3, PSBasa.MAP
+#----------------------------------------
+{323}{}{Upper deck}
+{324}{}{Lower deck}
+{325}{}{Middle deck}
+#----------------------------------------
+# 42: RangersRoad, RRoad.MAP
+#----------------------------------------
+{326}{}{The road to the dam}
+{327}{}{Vault from the raiders}
+{328}{}{}
+#----------------------------------------
+# 43: RangersBasa, RBasa.MAP
+#----------------------------------------
+{329}{}{Rangers Infocenter}
+{330}{}{Superstructure, 1st floor}
+{331}{}{Superstructure, 2nd floor}
+#----------------------------------------
+# 44: RangersRadio, RRadio.MAP
+#----------------------------------------
+{332}{}{Ranger Radio Station}
+{333}{}{Radio transmitter utility room}
+{334}{}{}
+#----------------------------------------
+# 45: RangersDumba, RDumba.MAP
+#----------------------------------------
+{335}{}{Power plant}
+{336}{}{Control Center}
+{337}{}{Elevator shaft}
+#----------------------------------------
+# 46: PhoenixSign, PXSign.MAP
+#----------------------------------------
+{338}{}{City gates}
+{339}{}{Collector Chamber}
+{340}{}{}
+#----------------------------------------
+# 47: PhoenixCenter, PXCenter.MAP
+#----------------------------------------
+{341}{}{Business center}
+{342}{}{Casino Basement}
+{343}{}{Second floor of the casino}
+#----------------------------------------
+# 48: PhoenixBndcs, PXBndcs.MAP
+#----------------------------------------
+{344}{}{Slums}
+{345}{}{Arena}
+{346}{}{Bandit district}
+#----------------------------------------
+# 49: PhoenixCity, PXCity.MAP
+#----------------------------------------
+{347}{}{Entrance to the Cathedral}
+{348}{}{Crater}
+{349}{}{}
+#----------------------------------------
+# 50: PhoenixVlt, PXVault.MAP
+#----------------------------------------
+{350}{}{Vault 25, passage}
+{351}{}{Vault 25, laboratory}
+{352}{}{Vault 25, control center}
+#----------------------------------------
+# 51: PhoenixAnal, PXAnal.MAP
+#----------------------------------------
+{353}{}{ Southern Collector}
+{354}{}{Eastern Collector}
+{355}{}{Western Collector}
+#----------------------------------------
+# 52: PhoenixDstr, PXDstr.MAP
+#----------------------------------------
+{356}{}{Union Station}
+{357}{}{Northern Collector}
+{358}{}{The Secret Lodge}
+#----------------------------------------
+# 53: Car Desert out-of-gas, CarDesrt.MAP
+#----------------------------------------
+{359}{}{Desert}
+{360}{}{}
+{361}{}{}
+#----------------------------------------
+# 54: PhoenixElctr, PXElectr.MAP
+#----------------------------------------
+{362}{}{Power plant pass-through}
+{363}{}{Power plant basements}
+{364}{}{Power plant premises}
+#----------------------------------------
+# 55: Vault27a, VaultA.MAP
+#----------------------------------------
+{365}{}{Parking lot}
+{366}{}{Underground descent}
+{367}{}{}
+#----------------------------------------
+# 56: Vault27b, VaultB.MAP
+#----------------------------------------
+{368}{}{ Residential premises}
+{369}{}{Control Center}
+{370}{}{Reactor level}
+#----------------------------------------
+# 57: CGrandeWater, CGWater.MAP
+#----------------------------------------
+{371}{}{Water station}
+{372}{}{}
+{373}{}{}
+#----------------------------------------
+# 58: CGrandeHomes, CGGrande.MAP
+#----------------------------------------
+{374}{}{Hacienda of Count Bustos}
+{375}{}{Hacienda, basement}
+{376}{}{Hacienda, 2nd floor}
+#----------------------------------------
+# 59: CGrandeGrave, CGGrave.MAP
+#----------------------------------------
+{377}{}{The territory of the burial ground}
+{378}{}{Dilapidated basement}
+{379}{}{}
+#----------------------------------------
+# 60: InfernoRoad, INFERNOa.MAP
+#----------------------------------------
+{380}{}{Motorway}
+{381}{}{Sewage system}
+{382}{}{}
+#----------------------------------------
+# 61: InfernoCity, InfCity.MAP
+#----------------------------------------
+{383}{}{Destroyed quarter}
+{384}{}{Sewage system}
+{385}{}{}
+#----------------------------------------
+# 62: InfernoShop, InfShop.Map
+#----------------------------------------
+{386}{}{Destroyed supermarket}
+{387}{}{Sewage system}
+{388}{}{}
+#----------------------------------------
+# 63: InfernoPolic, InfPolic.MAP
+#----------------------------------------
+{389}{}{Destroyed police station}
+{390}{}{Sewage system}
+{391}{}{}
+#----------------------------------------
+# 64: CNuevaCity, CNCity.MAP
+#----------------------------------------
+{392}{}{Casa Nueva Settlement}
+{393}{}{Basements of Casa Nueva}
+{394}{}{Upper floor of the Town Hall}
+#----------------------------------------
+# 65: CNuevaGard, CNGard.MAP
+#----------------------------------------
+{395}{}{Plantations of fire agave}
+{396}{}{}
+{397}{}{}
+#----------------------------------------
+#66: CNuevaLab, CNLab.MAP
+#----------------------------------------
+{398}{}{ Administration of the complex}
+{399}{}{Complex A}
+{400}{}{Complex B}
+#----------------------------------------
+# 67: RaidersMap, RAIDERS.MAP
+#----------------------------------------
+{401}{}{The mainline workers' camp}
+{402}{}{The Leader's Shack}
+{403}{}{Fuel depot}
+#----------------------------------------
+# 68: JackalsMap, JACKALS.MAP
+#----------------------------------------
+{404}{}{A house in the desert}
+{405}{}{Jackal Burrows}
+{406}{}{Jackal Warehouses}
+#----------------------------------------
+# 69: PuertoDestroy, PSDstr.MAP
+#----------------------------------------
+{407}{}{The affected area}
+{408}{}{}
+{409}{}{}
+#----------------------------------------
+# 70: FlagstaffCave, FlagCave.MAP
+#----------------------------------------
+{410}{}{Main drift}
+{411}{}{Depleted drift}
+{412}{}{Ore production}
+#----------------------------------------
+# 71: MotelMap, MOTEL.MAP
+#----------------------------------------
+{413}{}{The territory of the motel}
+{414}{}{Old Vault}
+{415}{}{}
+#----------------------------------------
+# 72: SanFelipeLight, FelipeA.MAP
+#----------------------------------------
+{416}{}{Settlement at the lighthouse}
+{417}{}{Artificial grotto}
+{418}{}{Old Lighthouse}
+#----------------------------------------
+# 73: BSCamp1, BSCampA.MAP
+#----------------------------------------
+{419}{}{Camp of the Brotherhood of Steel}
+{420}{}{Enemy camp}
+{421}{}{Enemy camp}
+#----------------------------------------
+# 74: BSCamp2, BSCampB.MAP
+#----------------------------------------
+{422}{}{Enemy camp}
+{423}{}{Enemy camp}
+{424}{}{Enemy camp}
+#----------------------------------------
+# 75: BSCamp3, BSCampC.MAP
+#----------------------------------------
+{425}{}{Enemy camp}
+{426}{}{Enemy camp}
+{427}{}{Enemy camp}
+#----------------------------------------
+# 76: PhoenixChrch, PXChrch.MAP
+#----------------------------------------
+{428}{}{The first floor of the Cathedral}
+{429}{}{The second floor of the Cathedral}
+{430}{}{The top floor of the Cathedral}
+#----------------------------------------
+# 77: TwoSunGrave, TSGrave.MAP
+#----------------------------------------
+{431}{}{Entrance to the landfill}
+{432}{}{Cemetery of decommissioned equipment}
+{433}{}{Waste recycling area}
+#----------------------------------------
+# 78: TwoSunInn, TSInn.MAP
+#----------------------------------------
+{434}{}{The place of the attack on the caravan}
+{435}{}{}
+{436}{}{}
+#----------------------------------------
+# 79: VillaRuins, VLRUINS.MAP
+#----------------------------------------
+{437}{}{Old ruins}
+{438}{}{Chris' Hideout}
+{439}{}{}
+#----------------------------------------
+# 80: RangersParom, RParom.MAP
+#----------------------------------------
+{440}{}{The left bank of Colorado}
+{441}{}{}
+{442}{}{}
+#----------------------------------------
+# 81: RangersRetrns, RRetrns.MAP
+#----------------------------------------
+{443}{}{A shack in the desert}
+{444}{}{}
+{445}{}{}
+#----------------------------------------
+# 82. RangersQuartz, RQuartz.MAP
+#----------------------------------------
+{446}{}{Quartzsite, ruins of the city}
+{447}{}{Quartzsite, basements}
+{448}{}{Quartz site, gas station}
+#----------------------------------------
+# 83. RangersCave, RCave.MAP
+#----------------------------------------
+{449}{}{The village of Giers Wash}
+{450}{}{Giers Wash Cave}
+{451}{}{}
+#----------------------------------------
+# 84: RangersCity, RCity.MAP
+#----------------------------------------
+{452}{}{A village on the Colorado coast}
+{453}{}{Aqueduct catacombs}
+{454}{}{Entrance to the aqueduct}
+#----------------------------------------
+# 85. GarageHist, GCHist.MAP
+#----------------------------------------
+{455}{}{Historical highway}
+{456}{}{}
+{457}{}{}
+#----------------------------------------
+# 86. GarageBram, GCBram.MAP
+#----------------------------------------
+{458}{}{Cattle breeders' camp}
+{459}{}{}
+{460}{}{}
+#----------------------------------------
+# 87. FlagstaffFarm, FlagFarm.MAP
+#----------------------------------------
+{461}{}{ Farm "Windmill"}
+{462}{}{}
+{463}{}{}
+#----------------------------------------
+# 88. Hermosillo1, HERMO1.MAP
+#----------------------------------------
+{464}{}{Rancho Dominguez}
+{465}{}{}
+{466}{}{}
+#----------------------------------------
+# 89. Hermosillo2, HERMO2.MAP
+#----------------------------------------
+{467}{}{Garrison}
+{468}{}{Lower drainage chamber}
+{469}{}{Garrison roofs}
+#----------------------------------------
+# 90. Hermosillo3, HERMO3.MAP
+#----------------------------------------
+{470}{}{Point of view}
+{471}{}{Upper drainage chamber}
+{472}{}{General Staff}
+#----------------------------------------
+# 91. CGrandeSchool, CGSchool.MAP
+#----------------------------------------
+{473}{}{Ruins of the old school}
+{474}{}{The cache of the mainline workers}
+{475}{}{Old school premises}
+#----------------------------------------
+# 92. CGrandeBar, CGBar.MAP
+#----------------------------------------
+{476}{}{ Abandoned bar}
+{477}{}{}
+{478}{}{}
+#----------------------------------------
+# 93. CGrandeStan, CGStan.MAP
+#----------------------------------------
+{479}{}{ Railway station}
+{480}{}{}
+{481}{}{}
+#----------------------------------------
+# 94. RangersWater, RMohave.MAP
+#----------------------------------------
+{482}{}{Mojave Water Pump}
+{483}{}{}
+{484}{}{}
+#----------------------------------------
+# 95. InfernoChurch, InfChrch.MAP
+#----------------------------------------
+{485}{}{Entrance to the Mysterious Mansion}
+{486}{}{Laboratory of the Mysterious Mansion}
+{487}{}{The Chambers of the Mysterious Mansion}
+#----------------------------------------
+# 96. Special Gold Encounter, rndGold.MAP
+#----------------------------------------
+{488}{}{The road to the wilderness}
+{489}{}{Vault in a cave}
+{490}{}{}
+#----------------------------------------
+# 97. Special Bibl Encounter, rndBibl.MAP
+#----------------------------------------
+{491}{}{Somewhere in the Sonoran Wasteland}
+{492}{}{}
+{493}{}{}
+#----------------------------------------
+# 98. Special Cafe Encounter, rndCafe.MAP
+#----------------------------------------
+{494}{}{Cafe}
+{495}{}{Vault}
+{496}{}{}
+#----------------------------------------
+# 99. Special Bomber Encounter, rndBomber.MAP
+#----------------------------------------
+{497}{}{Somewhere in the Sonoran Wasteland}
+{498}{}{}
+{499}{}{}
+#----------------------------------------
+# 100. Special Petro Encounter, rndPetro.MAP
+#----------------------------------------
+{500}{}{Somewhere in the Sonoran Wasteland}
+{501}{}{}
+{502}{}{}
+#----------------------------------------
+# 101. Special Cry Encounter, rndCry.MAP
+#----------------------------------------
+{503}{}{Somewhere in the Sonoran Wasteland}
+{504}{}{}
+{505}{}{}
+#----------------------------------------
+# 102. Special DriveIn Encounter, rndDrive.MAP
+#----------------------------------------
+{506}{}{Somewhere in the Sonoran Wasteland}
+{507}{}{}
+{508}{}{}
+#----------------------------------------
+# 103. Special Padre Encounter, rndPadre.MAP
+#----------------------------------------
+{509}{}{Somewhere in the Sonoran Wasteland}
+{510}{}{}
+{511}{}{}
+#----------------------------------------
+# 104. Special Baron Encounter, rndBaron.MAP
+#----------------------------------------
+{512}{}{Somewhere in the Sonoran Wasteland}
+{513}{}{}
+{514}{}{}
+#---------------------------------------
+- #105. Special Snow Encounter, rndSnow.MAP
+#----------------------------------------
+{515}{}{Somewhere in the Sonoran Wasteland}
+{516}{}{}
+{517}{}{}
+#----------------------------------------
+# 106. Special Vault Encounter, rndVault.MAP
+#----------------------------------------
+{518}{}{Ruins of an ancient city}
+{519}{}{Bomb Vault}
+{520}{}{Ruins of an ancient city}
+#----------------------------------------
+# 107. Special Army Encounter, rndArmy.MAP
+#----------------------------------------
+{521}{}{Camp at the platform}
+{522}{}{Technical compartments}
+{523}{}{Living quarters}
+#----------------------------------------
+# 108. Special LegendCity Encounter, rndRail.MAP
+#----------------------------------------
+{524}{}{Somewhere in the Sonoran Wasteland}
+{525}{}{Somewhere in the Sonoran Wasteland}
+{526}{}{Somewhere in the Sonoran Wasteland}
+#----------------------------------------
+# 109. VillaCrypt, VLCrypt.MAP
+#----------------------------------------
+{527}{}{Passage to the crypt}
+{528}{}{Lower galleries}
+{529}{}{Founder's Crypt}
+#----------------------------------------
+# 110. PhoenixCola, PXCola.MAP
+#----------------------------------------
+{530}{}{Warehouse of Kola kernels}
+{531}{}{}
+{532}{}{}
+#----------------------------------------
+# 111. InfernoMonument, InfMnmt.MAP
+#----------------------------------------
+{533}{}{ Main highway}
+{534}{}{Car tunnel}
+{535}{}{}
+#----------------------------------------
+# 112. CNuevaCarier, CNCarier.MAP
+#----------------------------------------
+{536}{}{ Concrete mixing plant}
+{537}{}{Lair of El Gigante}
+{538}{}{}
+#----------------------------------------
+# 113. CNuevaGidro, CNGidr.MAP
+#----------------------------------------
+{539}{}{Dome}
+{540}{}{Oriental greenhouses}
+{541}{}{Western greenhouses}
+#----------------------------------------
+# 114. SanBrahminCave, SBCave.MAP
+#----------------------------------------
+{542}{}{The Buried City}
+{543}{}{Catacombs of the Buried City}
+{544}{}{Ancient collector}
+#----------------------------------------
+# 115. SanFelipeCoast, FelipeB.MAP
+#----------------------------------------
+{545}{}{ Hut on the shore}
+{546}{}{Old ship}
+{547}{}{Old ship}
+#----------------------------------------
+# 116. SanFelipeCave, FelipeC.MAP
+#----------------------------------------
+{548}{}{Monster Lair}
+{549}{}{Monster Lair}
+{550}{}{Monster Lair}
+#----------------------------------------
+# 117. GarageTrailer, GCTrlr.MAP
+#----------------------------------------
+{551}{}{Lonely trailer}
+{552}{}{The stash of the fake rat}
+{553}{}{Lonely trailer}
+#----------------------------------------
+# 118. FlagstaffWinon, FlagCamp.MAP
+#----------------------------------------
+{554}{}{Hunter Camp}
+{555}{}{Hunter Camp}
+{556}{}{Hunter Camp}
+#----------------------------------------
+# 119. SanBrahminOasis, SBOasis.MAP
+#----------------------------------------
+{557}{}{Sullivan Lake}
+{558}{}{Sullivan Lake}
+{559}{}{Sullivan Lake}
+#----------------------------------------
+# 120. SantaAnaPlaza, SAPlaza.MAP
+#----------------------------------------
+{560}{}{Plaza Zaragoza}
+{561}{}{Basement of the old church}
+{562}{}{Premises of the old church}
+#----------------------------------------
+# 121. SantaAnaMonument, SAMnmnt.MAP
+#----------------------------------------
+{563}{}{Ancient monument}
+{564}{}{Ancient monument}
+{565}{}{Ancient monument}
+#----------------------------------------
+# 122. SantaAnaGrave, SAGrave.MAP
+#----------------------------------------
+{566}{}{Ancient cemetery}
+{567}{}{Ancient cemetery}
+{568}{}{Ancient cemetery}
+#----------------------------------------
+# 123. SanBrahminCaravanA, SBCrvnA.MAP
+#----------------------------------------
+{569}{}{Wasteland}
+{570}{}{}
+{571}{}{}
+#----------------------------------------
+# 124. SanBrahminCaravanB, SBCrvnB.MAP
+#----------------------------------------
+{572}{}{ Federal highway}
+{573}{}{}
+{574}{}{}
+#----------------------------------------
+# 125. SanBrahminCaravanC, SBCrvnC.MAP
+#----------------------------------------
+{575}{}{Phoenix Suburb}
+{576}{}{}
+{577}{}{}
+#----------------------------------------
+# 126. OilCity, OilA.MAP
+#----------------------------------------
+{578}{}{Fishermen's Village}
+{579}{}{Fishermen's Village}
+{580}{}{The Sea of Cortez}
+#----------------------------------------
+# 127. OilPlatformB, OilB.MAP
+#----------------------------------------
+{581}{}{Ascent to the platform}
+{582}{}{Platform}
+{583}{}{Landing pad}
+#----------------------------------------
+# 128. OilPlatformC, OilC.MAP
+#----------------------------------------
+{584}{}{ Residential level}
+{585}{}{Recreation area}
+{586}{}{Administrative level}
+#----------------------------------------
+# 129. OilPlatformD, OilD.MAP
+#----------------------------------------
+{587}{}{Drilling deck}
+{588}{}{Oil warehouse}
+{589}{}{Drilling rig}
+#----------------------------------------
+# 130. OilCoast, OilE.MAP
+#----------------------------------------
+{590}{}{ Black Lagoon}
+{591}{}{Black Lagoon}
+{592}{}{Black Lagoon}
+#----------------------------------------
+# 131. DiegoTijuana, DiegoA.MAP
+#----------------------------------------
+{593}{}{Tijuana, border checkpoint}
+{594}{}{Tijuana, Revolution Avenue}
+{595}{}{Monumental Plaza de Toros}
+#----------------------------------------
+# 132. DiegoCampA, DiegoC1.MAP
+#----------------------------------------
+{596}{}{San Isidro, ghoul camp}
+{597}{}{San Isidro tunnel}
+{598}{}{San Isidro, monorail stop}
+#----------------------------------------
+# 133. DiegoCampB, DiegoC2.MAP
+#----------------------------------------
+{599}{}{ Bonita Dam}
+{600}{}{Bonita Dam, engine room}
+{601}{}{Bonita Dam, control center}
+#----------------------------------------
+# 134. DiegoCampC, DiegoC3.MAP
+#----------------------------------------
+{602}{}{Old town, ghoul camp}
+{603}{}{Old town, road junction}
+{604}{}{Old Town, monorail stop}
+#----------------------------------------
+# 135. DiegoPatrulOffice, DiegoB1.MAP
+#----------------------------------------
+{605}{}{Border Patrol Office}
+{606}{}{Bridge on Route 5}
+{607}{}{Bridge on Highway 805}
+#----------------------------------------
+# 136. DiegoChulaVista, DiegoB2.MAP
+#----------------------------------------
+{608}{}{Chula Vista, mall}
+{609}{}{Chula Vista, storm sewer}
+{610}{}{Chula Vista, Otei tract}
+#----------------------------------------
+# 137. DiegoHospital, DiegoB3.MAP
+#----------------------------------------
+{611}{}{National City Hospital}
+{612}{}{National City, La Maz cafe}
+{613}{}{Aviation Electronics Factory}
+#----------------------------------------
+# 138. DiegoCityHeart, DiegoHrt.MAP
+#----------------------------------------
+{614}{}{Heart of San Diego, street}
+{615}{}{Heart of San Diego, publishing house}
+{616}{}{Heart of San Diego, upper floors}
+#----------------------------------------
+# 139. DiegoPirs, DiegoPir.MAP
+#----------------------------------------
+{617}{}{U.S. Navy Piers}
+{618}{}{Italian Quarter}
+{619}{}{Balboa Park}
+#----------------------------------------
+# 140. DiegoVault, DiegoVlt.MAP
+#----------------------------------------
+{620}{}{Upper level of the Vault 24}
+{621}{}{The average Vault level is 24}
+{622}{}{Lower level of the Vault 24}
+#----------------------------------------
+# 141. DiegoCoronado, DiegoCor.MAP
+#----------------------------------------
+{623}{}{The destroyed US Navy base}
+{624}{}{Navy base, surviving bunker}
+{625}{}{Naval base, ammunition depot}
+#----------------------------------------
+# 142. Mountain Encounter 9, MOUNT9.MAP
+#----------------------------------------
+{626}{}{ Gorge}
+{627}{}{}
+{628}{}{}
+#----------------------------------------
+# 143. Mountain Encounter 8, MOUNT8.MAP
+#----------------------------------------
+{629}{}{Burnt Forest}
+{630}{}{}
+{631}{}{}
+#----------------------------------------
+# 144. Desert Encounter 9, desert9.MAP
+#----------------------------------------
+{632}{}{Irradiated Wasteland}
+{633}{}{}
+{634}{}{}
+#----------------------------------------
+# 145. Coast Encounter 4, COAST4.MAP
+#----------------------------------------
+{635}{}{Camp on the shore}
+{636}{}{}
+{637}{}{}
+#----------------------------------------
+# 146. Road Encounter 5, ROAD5.MAP
+#----------------------------------------
+{638}{}{A halt by the road}
+{639}{}{}
+{640}{}{}
+#----------------------------------------
+# 147. Mountain Encounter 7, MOUNT7.MAP
+#----------------------------------------
+{641}{}{ Hut in the forest}
+{642}{}{}
+{643}{}{}
+#----------------------------------------
+# 148. City Encounter 9, CITY9.MAP
+#----------------------------------------
+{644}{}{Irradiated ruins}
+{645}{}{}
+{646}{}{}
+#----------------------------------------
+# 149. In Game Movie, gammovie.MAP
+#----------------------------------------
+{647}{}{Slave convoy}
+{648}{}{}
+{649}{}{}
+#----------------------------------------
+# 150. mapreserv150
+#----------------------------------------
+{650}{}{Wasteland}
+{651}{}{}
+{652}{}{}
+
+#######################################################
+#
+# Names of locations on the world map and in the mini-map
+# Numbering: 1500+Area. For the area number, see CITY.TXT sections like [Area ??]
+#
+#######################################################
+
+{1500}{}{Villa}
+{1501}{}{Flagstaff}
+{1502}{}{Garage City}
+{1503}{}{San Brahmin}
+{1504}{}{Two-Sun}
+{1505}{}{Puerto}
+{1506}{}{Rangers}
+{1507}{}{Phoenix}
+{1508}{}{Platform}
+{1509}{}{Casa Grande}
+{1510}{}{Hermosillo}
+{1511}{}{San Felipe}
+{1512}{}{Inferno}
+{1513}{}{Casa Nueva}
+{1517}{}{US Navy Base}
+{1515}{}{The motel}
+{1516}{}{The Dayglow}
+{1517}{}{-}
+{1518}{}{Santa Ana}
+{1519}{}{-}
+{1520}{}{Jackals}
+{1521}{}{Pit stop}
+{1522}{}{Villa}
+{1523}{}{Vault 27}
+{1524}{}{Brotherhood Camp}
+{1525}{}{Raiders}
+{1526}{}{Wasteland}
+{1527}{}{Mountainous terrain}
+{1528}{}{Ruins}
+{1529}{}{The coast}
+{1530}{}{Puerto}
+{1531}{}{Gold!}
+{1532}{}{Henry Beamis}
+{1533}{}{Roadside cafe}
+{1534}{}{Bomber}
+{1535}{}{Petro-Chico truck}
+{1536}{}{The cry of silence}
+{1537}{}{Outdoor cinema}
+{1538}{}{Padre}
+{1539}{}{Baron of Arizona}
+{1540}{}{Snowfall}
+{1541}{}{The Lost Refuge}
+{1542}{}{Mobile Fortress}
+{1543}{}{Legend City}
+{1544}{}{-}
+{1545}{}{-}
+{1546}{}{Quartzsite}
+{1547}{}{A chance meeting}
+{1548}{}{Winon Camp}

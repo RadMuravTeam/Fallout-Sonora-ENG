@@ -1,0 +1,1 @@
+{102}{}{"a ghost suddenly appears from the darkness!}

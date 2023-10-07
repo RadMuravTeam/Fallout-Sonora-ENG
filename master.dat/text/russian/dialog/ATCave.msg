@@ -1,0 +1,1 @@
+{100}{}{the passage is filled up with a deafening roar by a pile of stones. ÒNow the monsters will not get out of the cave.}

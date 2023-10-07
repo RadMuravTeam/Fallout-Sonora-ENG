@@ -1,0 +1,1 @@
+{110}{}{The remote is not responding. There doesn't seem to be any electricity in the Vault.}

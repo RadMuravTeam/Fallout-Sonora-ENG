@@ -1,0 +1,2001 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;  Fallout Sonora - файл настройки карты мира  ;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+; Частота встреч в процентах:
+[Data]
+Forced=100%        ; This shouldn't change (в F2 ни разу не использовался)
+Frequent=38%       ; Was 9/3d6
+Common=22%         ; Was 8/3d6
+Uncommon=12%       ; Was 6/3d6
+Rare=4%            ; Was 5/3d6
+None=0%            ; This shouldn't change (в F2 использовался только для территории океана)
+
+; Замедление скорости ГГ для каждого типа земли:
+terrain_types=Desert:1, Mountain:2, City:1, Ocean:1, Road:1
+
+; Эти короткие имена используются только для отладки:
+terrain_short_names=DES, MNT, CTY, OCN
+
+; Список карт по тегам (выше задана скорость по ним же):
+
+[Random Maps: Desert]
+map_00=Desert Encounter 1
+map_01=Desert Encounter 2
+map_02=Desert Encounter 3
+map_03=Desert Encounter 4
+map_04=Desert Encounter 9
+
+[Random Maps: Mountain]
+map_00=Mountain Encounter 1
+map_01=Mountain Encounter 2
+map_02=Mountain Encounter 3
+map_03=Mountain Encounter 4
+map_04=Mountain Encounter 5
+map_05=Mountain Encounter 6
+map_06=Mountain Encounter 7
+map_07=Mountain Encounter 8
+map_08=Mountain Encounter 9
+
+[Random Maps: City]
+map_00=City Encounter 1
+map_01=City Encounter 2
+map_02=City Encounter 3
+map_03=City Encounter 4
+map_04=City Encounter 9
+
+[Random Maps: Ocean]
+map_00=Coast Encounter 1
+map_01=Coast Encounter 2
+map_02=Coast Encounter 3
+map_03=Coast Encounter 4
+
+[Random Maps: Road]
+map_00=Road Encounter 1
+map_01=Road Encounter 2
+map_02=Road Encounter 3
+map_03=Road Encounter 4
+map_04=Road Encounter 5
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;  Newly added Random Encounter Types  ;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;-------------
+; РАСШИФРОВКА:
+;
+; Ratio:#% 		определяет частоту встречаемости
+; pid:<#> 		определяет PID генерируемой твари
+; pid:<string> 		возвращает PID твари по строке, то есть кодовому слову
+; Script:<#> 		определяет номер скрипта, который привяжется на объект PID
+; Dead - 		приставка обозначит, что тварь будет убита при загрузке карты
+; Item:<#> 		дает предмет PID в инвентарь твари PID
+; Item:<string> 	дает предмет PID в инвентарь твари PID по кодовому слову
+; Item:(#)<string>	здесь # количество предмета
+; Item:(<string>) 	задает целый список предметов
+; If:<something> 	условия, которые могут задаваться как <,>,<=,>=,==,& а также:
+;    	on Player(<характеристика/свойство/навык/прочее>), Enctr(Num_Critters),
+;    	Time, Global(<номер глоб. переменной>), Rand(шанс%)
+; position=#		расположение врагов относительно ГГ:
+;	huddle		- жмутся компактной толпой
+;	surrounding	- окружают ГГ во всех сторон
+;	straight_line	- в линейку
+;	double_line	- в двойную линию
+;	wedge		- клином
+;	cone		- конусом
+; spacing:#		(?) вероятно, направление для генерации нпс от ГГ (при #=5 полное окружение)
+; Distance:# 		Принудительное расстояние для конкретной твари (если это возможно)
+; <type_#>(номер тайла) Принудительное размещение на определенном тайле
+;    	the object listed at <type_#> (this means the last one if there were
+;    	multiples of that type).
+; TileNum:# 		Forces this object to appear at a given tile #
+; Spatial:<string> 	задает пространственный скрипт (триггер)???
+; 
+;-------------
+
+[Encounter: TRG_ROCKS]
+type_00=pid:16777222, Item:(1)46, Script:627     ; обвал камней в горах
+position=surrounding, spacing:5, distance:10
+
+[Encounter: TRG_RADACTIV]
+type_00=pid:16777222, Item:(2)46, Script:627     ; облучение
+position=surrounding, spacing:5, distance:10
+
+[Encounter: TRG_DESERT_WIND]
+type_00=pid:16777222, Item:(3)46, Script:627     ; пылевая буря
+position=surrounding, spacing:5, distance:10
+
+[Encounter: TRG_NON_WATER]
+type_00=pid:16777222, Item:(4)46, Script:627     ; обезвоживание
+position=surrounding, spacing:5, distance:10
+
+[Encounter: Special1]
+type_00=ratio:0%, pid:18                         ; болванка, необходимая для спецвстреч (внимание: используется движком, не удалять)
+
+;-------------
+
+[Encounter: ENC_Ants]
+type_00=ratio:100%, pid:16777222                 ;
+position=surrounding, spacing:5, distance:10
+
+[Encounter: ENC_AntRad]
+type_00=ratio:100%, pid:16777223                 ;
+position=surrounding, spacing:5, distance:10
+
+[Encounter: ENC_Mantis]
+type_00=ratio:100%, pid:16777225                 ;
+position=surrounding, spacing:5, distance:10
+
+[Encounter: ENC_Rats]
+type_00=ratio:100%, pid:16777228                 ;
+position=surrounding, spacing:5, distance:10
+
+[Encounter: ENC_RatPig]
+type_00=ratio:100%, pid:16777229                 ;
+position=surrounding, spacing:5, distance:10
+
+[Encounter: ENC_RatMole]
+type_00=ratio:100%, pid:16777230                 ;
+position=surrounding, spacing:5, distance:10
+
+[Encounter: ENC_Coyote]
+type_00=ratio:100%, pid:16777232                 ;
+position=surrounding, spacing:5, distance:10
+
+[Encounter: ENC_Dogs]
+type_00=ratio:100%, pid:16777233                 ;
+position=surrounding, spacing:5, distance:10
+
+[Encounter: ENC_Wolf]
+type_00=ratio:100%, pid:16777235                 ;
+position=surrounding, spacing:5, distance:10
+
+[Encounter: ENC_SmallScorpions]
+type_00=ratio:100%, pid:16777236                 ;
+position=surrounding, spacing:5, distance:10
+
+[Encounter: ENC_Scorpions]
+type_00=ratio:100%, pid:16777237                 ;
+position=surrounding, spacing:5, distance:10
+
+[Encounter: ENC_Scolopendra]
+type_00=ratio:100%, pid:16777357                 ;
+position=surrounding, spacing:5, distance:10
+
+[Encounter: ENC_ScorpLegend]
+type_00=pid:16777238, If(Global(229) == 0)       ;
+type_01=Dead, pid:16777232, If (Rand(75%))	 ; тело койота
+position=surrounding, spacing:5, distance:10
+
+[Encounter: ENC_BraminWild]
+type_00=ratio:100%, pid:16777241                 ;
+position=surrounding, spacing:5, distance:10
+
+[Encounter: ENC_Floater]
+type_00=ratio:100%, pid:16777244                 ;
+position=surrounding, spacing:5, distance:10
+
+[Encounter: ENC_Robot]
+type_00=ratio:100%, pid:16777251, Script:44      ;
+position=surrounding, spacing:5, distance:10
+
+[Encounter: ENC_DawclawFantom]
+type_00=pid:16777364, If(Global(547) == 0)       ;
+type_01=Dead, pid:16777277, Item:161, Item:(10-25)41	 ; тело бандит в кожанке М
+position=surrounding, spacing:5, distance:10
+
+;-------------
+
+[Encounter: ENC_RedRyder]
+type_00=pid:16777328, Item:150(wielded), Item:(18-24)7, Item:40, Script:444		; Ред Райдер - мстит Убийце Детей
+position=surrounding, spacing:5, distance:8
+
+[Encounter: ENC_BanditA]
+type_00=pid:16777277, Item:153(wielded), Item:(1-7)41, Script:396			; бандит в кожанке М
+type_01=pid:16777278, Item:137(wielded), Item:(1-7)41, Script:396			; бандит в кожанке Ж
+type_02=pid:16777277, Item:164(wielded), Item:(2-6)11, Item:132, Item:(1-7)41, Script:396, If (Rand(25%))	; бандит в кожанке М
+type_03=pid:16777279, Item:153(wielded), Item:(3-9)41, Script:396, If (Rand(15%))	; бандит в кожанке и синих штанах М
+position=surrounding, spacing:5, distance:15
+
+[Encounter: ENC_BanditB]
+type_00=ratio:100%, pid:16777279, Item:153(wielded), Item:(3-9)41, Script:396		; бандит в кожанке и синих штанах М
+type_01=pid:16777280, Item:137(wielded), Item:(3-9)41, Script:396, If (Rand(15%))	; бандитка в кожанке с ирокезом Ж
+position=surrounding, spacing:5, distance:15
+
+[Encounter: ENC_RaiderA]
+type_00=pid:16777281, Item:157(wielded), Item:(3-12)41, Item:(0-1)132, Script:624	; рейдер в кожброне М
+type_01=pid:16777282, Item:137(wielded), Item:(3-10)41, Script:624			; рейдер в кожброне Ж
+type_02=pid:16777281, Item:153(wielded), Item:(3-10)41, Script:624, If (Rand(25%))	; рейдер в кожброне М
+type_03=pid:16777281, Item:153(wielded), Item:(3-10)41, Script:624, If (Rand(25%))	; рейдер в кожброне М
+type_04=pid:16777281, Item:164(wielded), Item:(4-10)11, Item:(0-1)132, Item:(3-10)41, Script:624, If (Rand(25%))	; рейдер в кожброне М
+position=surrounding, spacing:5, distance:15
+
+[Encounter: ENC_RaiderB]
+type_00=pid:16777283, Item:157(wielded), Item:(3-15)41, Script:624			; рейдер в металброне М
+type_01=pid:16777283, Item:164(wielded), Item:(4-10)11, Item:(0-1)133, Item:(3-10)41, Script:624	; рейдер в металброне М
+type_02=pid:16777284, Item:137(wielded), Item:(3-10)41, Script:624, If (Rand(25%))	; рейдер в металброне Ж
+type_03=pid:16777281, Item:137(wielded), Item:(3-10)41, Script:624, If (Rand(25%))	; рейдер в кожброне М
+type_04=pid:16777281, Item:157(wielded), Item:(3-15)41, Script:624, If (Rand(25%))	; рейдер в кожброне М
+position=surrounding, spacing:5, distance:15
+
+[Encounter: ENC_Citizen]
+type_00=pid:16777267, Script:635, If (Rand(25%))					; лошина М
+type_01=pid:16777268, Script:635, If (Rand(25%))					; лошина Ж
+type_02=pid:16777269, Item:108, Script:635						; негр
+type_03=pid:16777270, Item:(1-5)41, Script:635						; женщина
+type_04=pid:16777271, Item:(0-1)132, Script:635, If (Rand(25%))				; мужик в зеленой рубахе
+type_05=pid:16777272, Item:(1-5)41, Script:635, If (Rand(25%))				; женщина
+type_06=pid:16777261, Item:(1-3)18, Script:635, If (Rand(25%))				; ребенок М
+type_07=pid:16777262, Item:(1-3)18, Script:635, If (Rand(25%))				; ребенок Ж
+position=surrounding, spacing:5, distance:10
+
+;-------------
+
+[Encounter: VILLA_Jackals]
+type_00=ratio:75%, pid:16777263, Item:137(wielded), Item:(0-2)65, Script:623		; шакал М
+type_01=ratio:25%, pid:16777264, Item:137(wielded), Item:(0-2)65, Script:623		; шакал Ж
+position=surrounding, spacing:5, distance:10
+
+[Encounter: VILLA_Banda_Nevada]
+type_00=pid:16777283, Item:169(wielded), Item:(25-35)41, Item:133, Item:40, Item:52, Script:396	; главарь с лазерным пистолетом
+type_01=pid:16777277, Item:157(wielded), Item:(4-10)41, Item:133, Script:396		; бандит М
+type_02=pid:16777278, Item:157(wielded), Item:(4-10)41, Item:133, Script:396		; бандит Ж
+position=huddle, spacing:3, distance:12
+
+[Encounter: FLAG_Savage]
+type_00=ratio:75%, pid:16777263, Item:137(wielded), Item:(0-1)60, Script:622		; дикарь М
+type_01=ratio:25%, pid:16777264, Item:137(wielded), Item:(0-1)61, Script:622		; дикарь Ж
+position=surrounding, spacing:5, distance:8
+
+[Encounter: FLAG_SavageLeader]
+type_00=pid:16777277, Item:190(wielded), Script:622					; боевой лидер дикарей с топором
+type_01=ratio:25%, pid:16777263, Item:137(wielded), Item:(0-1)60, Script:622		; дикарь М
+type_02=ratio:25%, pid:16777264, Item:137(wielded), Item:(0-1)61, Script:622		; дикарь Ж
+type_03=ratio:25%, pid:16777263, Item:137(wielded), Item:(0-1)60, Script:622		; дикарь М
+type_04=ratio:25%, pid:16777264, Item:137(wielded), Item:(0-1)61, Script:622		; дикарь Ж
+position=surrounding, spacing:5, distance:8
+
+[Encounter: FLAG_Traper]
+type_00=pid:16777275, Item:137, Item:(1-4)62, Script:631				; охотник
+position=huddle, spacing:3, distance:10
+
+[Encounter: FLAG_RunCriminal]
+type_00=pid:16777281, Item:148(wielded), Item:132, Item:(2-8)7, Item:(4-12)41, Script:396	; бандит в кожанке и синих штанах М
+position=surrounding, spacing:5, distance:15
+
+[Encounter: CALF_Maxx]
+type_00=pid:16777275, Item:164(wielded), Item:(2-3)108, Item:(6-8)11, Item:(12-16)41, Script:647	; путешественник из Калифорнии с собакой
+type_01=pid:16777233, Item:(6-8)11                 					; псина
+position=surrounding, spacing:5, distance:10
+
+[Encounter: PNX_GangstersBody]
+type_00=ratio:50%, pid:16777279, Item:153(wielded), Item:(3-9)41, Item:126, Script:396	; бандит в кожанке и синих штанах М
+type_01=ratio:50%, pid:16777279, Item:153(wielded), Item:(3-9)41, Item:126, Script:396	; бандит в кожанке и синих штанах М
+type_02=Dead, pid:16777267, Item:(30-40)43	 					; тело должника
+position=surrounding, spacing:5, distance:10
+
+[Encounter: PNX_LosPanchos_A]
+type_00=pid:16777283, Item:158(wielded), Item:(12-16)10, Item:40, Script:397, If(Global(246) == 0) ; Ataman (спокойный) - Боевая винтовка
+type_01=pid:16777281, Item:138(wielded), Item:40, Script:396                  		; Bandit - Пневмокопье
+type_02=pid:16777281, Item:161(wielded), Item:(30-35)9, Item:133, Script:396  		; Bandit - Штурмовая винтовка и нож
+type_03=pid:16777282, Item:154(wielded), Item:(28-32)5, Item:133, Script:396  		; Bandit Wmn - ПП 10 мм и нож
+position=huddle, spacing:2, distance:12
+
+[Encounter: PNX_LosPanchos_B]
+type_00=pid:16777281, Item:142(wielded), Item:(16-24)2, Item:40, Script:398, If(Global(247) == 0)  ; Ataman (псих) - Погонялка
+type_01=pid:16777277, Item:129(wielded), Item:40, Script:396                  		; Bandit - Пневмокулак
+type_02=pid:16777277, Item:165(wielded), Item:(12-16)11, Item:133, Script:396 		; Bandit - Боевой дробовик и нож
+type_03=pid:16777280, Item:154(wielded), Item:(28-32)5, Item:133, Script:396  		; Bandit Wmn - ПП 10 мм и нож
+position=huddle, spacing:2, distance:12
+
+[Encounter: PNX_LosPanchos_C]
+type_00=pid:16777284, Item:169(wielded), Item:(16-24)2, Item:40, Script:399, If(Global(248) == 0)  ; Ataman (женщина) - Лазерный пистолет
+type_01=pid:16777281, Item:138(wielded), Item:40, Script:396                		; Bandit - Пневмокопье
+type_02=pid:16777281, Item:161(wielded), Item:(30-35)9, Item:133, Script:396  		; Bandit - Штурмовая винтовка и нож
+type_03=pid:16777282, Item:154(wielded), Item:(28-32)5, Item:133, Script:396		; Bandit Wmn - ПП 10 мм и нож
+position=huddle, spacing:2, distance:12
+
+[Encounter: ROAD_RoadWar]
+type_00=pid:16777283, Item:157(wielded), Item:(9-25)41, Item:133, Script:626		; главарь
+type_01=pid:16777278, Item:153(wielded), Item:(4-10)41, Item:132, Script:626		; бандит Ж
+type_02=pid:16777277, Item:137(wielded), Item:(4-10)41, Item:(2-5)159, Script:626	; бандит М
+type_03=pid:16777277, Item:153(wielded), Item:(4-10)41, Script:626, If (Rand(25%))	; бандит М
+type_04=pid:16777277, Item:164(wielded), Item:(4-10)41, Item:132, Item:(2-5)11, Script:626, If (Rand(25%))	; бандит М
+position=huddle, spacing:3, distance:12
+
+[Encounter: ROAD_RaiderHelp]
+type_00=pid:16777279, Item:153(wielded), Item:(3-9)41, Item:126, Script:716		; магистральщик
+position=huddle, spacing:3, distance:10
+
+[Encounter: INF_GhoulA]
+type_00=Ratio:100%, pid:16777258, Item:128(wielded)					; светящийся гуль
+position=surrounding, spacing:5, distance:10
+
+[Encounter: INF_GhoulB]
+type_00=Ratio:60%, pid:16777257, Item:137(wielded)					; зеленый гуль
+type_01=Ratio:40%, pid:16777257, Item:132(wielded)					; зеленый гуль
+position=surrounding, spacing:5, distance:10
+
+[Encounter: INF_USBP]
+type_00=pid:16777255, Item:149(wielded), Item:59, Item:(4-6)7, Script:45	        ; агент пограничной службы США (USBP)
+position=surrounding, spacing:5, distance:10
+
+[Encounter: MEXI_Patrul]
+type_00=pid:16777285, Item:165(wielded), Item:134, Item:(6-10)11, Script:628		; начальник патруля в боевой броне
+type_01=pid:16777283, Item:155(wielded), Item:134, Script:628				; рядовой в металброне М
+type_02=pid:16777284, Item:155(wielded), Item:134, Script:628, If (Rand(25%))		; рядовой в металброне Ж
+type_03=pid:16777283, Item:158(wielded), Item:133, Script:628				; рядовой в металброне М
+type_04=pid:16777284, Item:158(wielded), Item:133, Script:628, If (Rand(25%))		; рядовой в металброне Ж
+position=huddle, spacing:3, distance:10
+
+[Encounter: MEXI_Alejo]
+type_00=pid:16777321, Item:134(wielded), Script:636					; Алехо
+position=huddle, spacing:3, distance:10
+
+[Encounter: PORT_Patrul]
+type_00=pid:16777295, Item:162(wielded), Item:133, Item:(2-4)9, Item:40, Script:629	; начальник патруля в силовой броне
+type_01=pid:16777294, Item:161(wielded), Item:133, Item:(2-3)9, Script:629		; рядовой в боевой броне
+type_02=pid:16777294, Item:165(wielded), Item:133, Item:(2-6)11, Script:629		; рядовой в боевой броне
+position=huddle, spacing:3, distance:10
+
+[Encounter: PORT_ScribeHelp]
+type_00=pid:16777291, Script:775							; писарь-заложник
+type_01=pid:16777283, Item:169(wielded), Item:40, Item:75, Script:396			; бандит в металлброне М
+type_02=pid:16777283, Item:169(wielded), Item:40, Script:396				; бандит в металлброне М
+position=huddle, spacing:3, distance:10
+
+[Encounter: RNGR_Rangers]
+type_00=pid:16777287, Item:157(wielded), Item:133, Script:637				; рейнджер М
+type_01=pid:16777288, Item:149(wielded), Item:133, Item:(2-6)7, Script:637		; рейнджер Ж
+position=huddle, spacing:3, distance:10
+
+[Encounter: RNGR_Farmer]
+type_00=pid:16777275, Item:132, Item:(1-4)61, Script:630				; фермер
+position=huddle, spacing:3, distance:10
+
+[Encounter: PHNX_Maroder]
+type_00=pid:16777275, Script:632							; мусорщик
+position=huddle, spacing:3, distance:10
+
+[Encounter: PHNX_Psychoman]
+type_00=pid:16777267, Item:132(wielded), Item:110, Script:642				; торчок
+type_01=Dead, pid:16777269, Script:635							; негр
+type_02=Dead, pid:16777270, Script:635							; женщина
+type_03=Dead, pid:16777262, Script:635							; ребенок Ж
+position=huddle, spacing:5, Distance:10
+
+[Encounter: RNGR_Bancrot]
+type_00=pid:16777265, Item:164(wielded), Item:(4-6)11, Script:773			; фермер-банкрот с дробовиком
+position=huddle, spacing:5, Distance:12
+
+[Encounter: INFR_Harvey]
+type_00=pid:16777332, Item:162(wielded), Script:771					; супермутант
+type_01=Dead, pid:16777258, Item:107							; гуль-потрошитель светящийся
+type_02=Dead, pid:16777257, Item:(1-4)41						; гуль-потрошитель зеленый
+type_03=Dead, pid:16777257, Item:(1-4)41						; гуль-потрошитель зеленый
+position=huddle, spacing:5, Distance:10
+
+[Encounter: PHNX_CrazyHandy]
+type_00=pid:16777249, Item:(2-4)64, Item:(2-4)106, Script:643				; одичавший робот-прислуга
+position=huddle, spacing:5, distance:10
+
+[Encounter: ISLD_GhoulPiligrim]
+type_00=Ratio:100%, pid:16777254, Item:137(wielded), Item:(0-2)70, Script:638		; гуль-паломник
+position=huddle, spacing:5, distance:10
+
+[Encounter: ISLD_Fishers]
+type_00=Ratio:100%, pid:16777263, Item:137(wielded), Script:641				; дикарь-рыбак
+position=huddle, spacing:5, distance:10
+
+[Encounter: TUSN_Hermit]
+type_00=pid:16777265, Item:132(wielded), Item:(0-2)60, Item:(0-2)61, Script:639		; отшельник
+position=huddle, spacing:5, Distance:10
+
+[Encounter: TUSN_Cannibal]
+type_00=pid:16777281, Item:138(wielded), Item:(4-5)62, Item:(5-15)41, Script:645	; каннибал
+position=huddle, spacing:5, distance:10
+
+[Encounter: TUSN_Cyberman]
+type_00=pid:16777304, Item:169(wielded), Item:141, Script:814				; киберпсих
+position=huddle, spacing:5, distance:10
+
+[Encounter: TUSN_MexSclpndr]
+type_00=pid:16777358, Item:134(wielded), Script:815					; мексиканец против сколопендры
+position=huddle, spacing:5, distance:10
+
+[Encounter: DSRT_Shybot]
+type_00=pid:16777250, Script:640							; застенчивый робот
+position=huddle, spacing:5, Distance:10
+
+;-------------
+
+[Encounter: CRVN_Brahmin]
+type_00=Ratio:100%, pid:16777239, Script:415						;
+position=surrounding, spacing:3, distance:10
+
+[Encounter: CRVN_GuardA]
+type_00=pid:16777275, Script:634							;
+type_01=Ratio:35%, pid:16777277, Item:164(wielded), Item:132, Item:(2-6)11, Script:633	; охранник в кожанке М
+type_02=Ratio:35%, pid:16777277, Item:153(wielded), Item:132, Script:633		; охранник в кожанке М
+type_03=Ratio:30%, pid:16777278, Item:137(wielded), Script:633				; охранник в кожанке Ж
+position=surrounding, spacing:3, distance:10
+
+[Encounter: CRVN_GuardB]
+type_00=pid:16777275, Script:634							;
+type_01=Ratio:35%, pid:16777283, Item:157(wielded), Item:132, Script:633		; охранник в металброне М
+type_02=Ratio:35%, pid:16777283, Item:153(wielded), Item:132, Script:633		; охранник в металброне М
+type_03=Ratio:30%, pid:16777284, Item:137(wielded), Script:633				; охранник в металброне Ж
+position=surrounding, spacing:3, distance:10
+
+;-------------
+
+[Encounter: BODY_ISLD]
+type_00=pid:16777265, Script:625						; спрайт крестьянина в желтой рубахе
+position=surrounding, spacing:3, distance:6
+
+[Encounter: BODY_PHNX]
+type_00=pid:16777277, Script:625						; спрайт в кожанке
+position=surrounding, spacing:5, distance:10
+
+[Encounter: BODY_FLAG]
+type_00=pid:16777275, Item:(0-3)62, Script:625				        ; спрайт купца в кепке
+position=surrounding, spacing:5, distance:7
+
+[Encounter: BODY_ROAD]
+type_00=pid:16777279, Script:625						; спрайт в кожанке и синих штанах
+position=surrounding, spacing:5, distance:10
+
+[Encounter: BODY_TUSN]
+type_00=pid:16777267, Script:625						; спрайт лошины
+position=surrounding, spacing:5, distance:10
+
+[Encounter: BODY_CURIER]
+type_00=pid:16777275, Item:46, Script:625					; спрайт купца в кепке
+position=surrounding, spacing:5, distance:10
+
+[Encounter: BODY_MEXI]
+type_00=pid:16777358, Item:(2)46, Script:625				        ; спрайт мексиканца
+position=surrounding, spacing:5, distance:10
+
+[Encounter: BODY_BOSCAVALER]
+type_00=Dead, pid:16777293, Item:79, Item:44					; тело разведчика БС с жетоном
+position=surrounding, spacing:5, distance:15
+
+[Encounter: CAR_ACCIDENT]
+type_00=pid:16777222, Item:(5)46, Script:627     				; встреча с разбитым автомобилем
+position=surrounding, spacing:5, distance:10
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;  Таблицы случайных встреч  ;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;-------------
+;
+; РАСШИФРОВКА:
+; 
+; lookup_name=  - уникальное наименование Encounter Table, используется в разделе Tile Data
+; maps=         - список доступных карт через запятую
+; enc_00=       - последовательно нумеруй!
+; Chance:50%    - вероятность в пределах *этого* списка Encounter Table
+;                   (суммарно все Chance должны составить 100%)
+; ENC_Rats      - наименование встречи из раздела Encounter выше
+; AMBUSH Player - положение относительно других нпс и ГГ
+;
+;-------------
+
+[Encounter Table 0]
+lookup_name=TEST_D
+maps=Desert Encounter 1
+enc_00=Chance:70%,Enc: ENC_RedRyder,If(Global(3) > 2) And If(Global(353) == 0)
+enc_01=Chance:1%,Enc: TRG_ROCKS
+enc_02=Chance:1%,Enc: TRG_RADACTIV
+enc_03=Chance:1%,Enc: TRG_DESERT_WIND
+enc_04=Chance:1%,Enc: TRG_NON_WATER
+enc_05=Chance:1%,Enc:(1-5) ENC_Ants AMBUSH Player
+enc_06=Chance:1%,Enc:(1-5) ENC_AntRad AMBUSH Player
+enc_07=Chance:1%,Enc:(2-6) ENC_Mantis AMBUSH Player
+enc_08=Chance:1%,Enc:(2-5) ENC_Rats AMBUSH Player
+enc_09=Chance:1%,Enc:(1-3) ENC_RatPig AMBUSH Player
+enc_10=Chance:1%,Enc:(1-3) ENC_RatMole AMBUSH Player
+enc_11=Chance:1%,Enc:(1-3) ENC_Coyote AMBUSH Player
+enc_12=Chance:1%,Enc:(1-3) ENC_Dogs AMBUSH Player
+enc_13=Chance:1%,Enc:(1-3) ENC_Wolf AMBUSH Player
+enc_14=Chance:1%,Enc:(1-3) ENC_SmallScorpions AMBUSH Player
+enc_15=Chance:1%,Enc:(1-3) ENC_Scorpions AMBUSH Player
+enc_16=Chance:1%,Enc:(1-3) ENC_BraminWild AMBUSH Player
+enc_17=Chance:1%,Enc:(1-3) ENC_Floater AMBUSH Player
+enc_18=Chance:1%,Enc:(1-3) ENC_Robot AMBUSH Player
+enc_19=Chance:1%,Enc:(1-3) ENC_Scolopendra AMBUSH Player
+enc_20=Chance:1%,Counter:1,Special,Map:Special Gold Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(600) == 0)
+enc_21=Chance:1%,Counter:1,Special,Map:Special Bibl Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(601) == 0)
+enc_22=Chance:1%,Counter:1,Special,Map:Special Cafe Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(602) == 0)
+enc_23=Chance:1%,Counter:1,Special,Map:Special Bomber Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(603) == 0)
+enc_24=Chance:1%,Counter:1,Special,Map:Special Petro Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(604) == 0)
+enc_25=Chance:1%,Counter:1,Special,Map:Special Cry Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(605) == 0)
+enc_26=Chance:1%,Counter:1,Special,Map:Special DriveIn Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(606) == 0)
+enc_27=Chance:1%,Counter:1,Special,Map:Special Snow Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(609) == 0)
+enc_28=Chance:1%,Counter:1,Special,Map:Special Vault Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(610) == 0)
+enc_29=Chance:1%,Counter:1,Special,Map:Special Army Encounter,Enc:Special1, If(Player(Level) > 10) And If(Global(611) == 0)
+enc_30=Chance:1%,Counter:1,Special,Map:Special LegendCity Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(612) == 0)
+
+[Encounter Table 1]
+lookup_name=VILL_D
+maps=Desert Encounter 1, Desert Encounter 3
+enc_00=Chance:20%,Enc:(1-3) ENC_Ants AMBUSH Player
+enc_01=Chance:25%,Enc:(1-3) ENC_Coyote AMBUSH Player
+enc_02=Chance:20%,Enc:(1-2) ENC_RatPig AMBUSH Player
+enc_03=Chance:16%,Enc:(1-3) ENC_SmallScorpions AMBUSH Player
+enc_04=Chance:8%,Enc:(1-2) VILLA_Jackals AMBUSH Player)
+enc_05=Chance:1%,Counter:1,Enc: VILLA_Banda_Nevada AMBUSH Player,If(Player(Level) > 4
+enc_06=Chance:1%,Counter:1,Special,Map:Special Gold Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(600) == 0)
+enc_07=Chance:1%,Counter:1,Special,Map:Special Bibl Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(601) == 0)
+enc_08=Chance:1%,Counter:1,Special,Map:Special Cafe Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(602) == 0)
+enc_09=Chance:1%,Counter:1,Special,Map:Special Bomber Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(603) == 0)
+enc_10=Chance:1%,Counter:1,Special,Map:Special Petro Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(604) == 0)
+enc_11=Chance:1%,Counter:1,Special,Map:Special Cry Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(605) == 0)
+enc_12=Chance:1%,Counter:1,Special,Map:Special DriveIn Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(606) == 0)
+enc_13=Chance:1%,Counter:1,Special,Map:Special Snow Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(609) == 0)
+enc_14=Chance:1%,Counter:1,Special,Map:Special Vault Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(610) == 0)
+enc_15=Chance:1%,Counter:1,Special,Map:Special Army Encounter,Enc:Special1, If(Player(Level) > 10) And If(Global(611) == 0)
+enc_16=Chance:1%,Counter:1,Special,Map:Special LegendCity Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(612) == 0)
+
+[Encounter Table 2]
+lookup_name=FLAG_D
+maps=Mountain Encounter 7, Mountain Encounter 8, Mountain Encounter 2
+enc_00=Chance:3%,Enc: ENC_RedRyder,If(Global(3) > 2) And If(Global(353) == 0)
+enc_01=Chance:20%,Enc:(1-3) ENC_RatPig AMBUSH Player
+enc_02=Chance:25%,Enc:(1-3) ENC_Wolf AMBUSH Player
+enc_03=Chance:16%,Enc:(1-2) ENC_BraminWild AMBUSH Player
+enc_04=Chance:15%,Enc:(1-2) FLAG_Savage AMBUSH Player
+enc_05=Chance:5%,Enc:(1-1) FLAG_SavageLeader AMBUSH Player
+enc_06=Chance:4%,Enc: FLAG_Traper
+enc_07=Chance:1%,Counter:1,Special,Map:Special Gold Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(600) == 0)
+enc_08=Chance:1%,Counter:1,Special,Map:Special Bibl Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(601) == 0)
+enc_09=Chance:1%,Counter:1,Special,Map:Special Cafe Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(602) == 0)
+enc_10=Chance:1%,Counter:1,Special,Map:Special Bomber Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(603) == 0)
+enc_11=Chance:1%,Counter:1,Special,Map:Special Petro Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(604) == 0)
+enc_12=Chance:1%,Counter:1,Special,Map:Special Cry Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(605) == 0)
+enc_13=Chance:1%,Counter:1,Special,Map:Special DriveIn Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(606) == 0)
+enc_14=Chance:1%,Counter:1,Special,Map:Special Padre Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(607) == 0)
+enc_15=Chance:1%,Counter:1,Special,Map:Special Snow Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(609) == 0)
+enc_16=Chance:1%,Counter:1,Special,Map:Special Vault Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(610) == 0)
+enc_17=Chance:1%,Counter:1,Special,Map:Special Army Encounter,Enc:Special1, If(Player(Level) > 10) And If(Global(611) == 0)
+enc_18=Chance:1%,Counter:1,Special,Map:Special LegendCity Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(612) == 0)
+
+[Encounter Table 3]
+lookup_name=FLAG_M
+maps=Mountain Encounter 1, Mountain Encounter 9, Mountain Encounter 3, Mountain Encounter 4
+enc_00=Chance:3%,Enc: ENC_RedRyder,If(Global(3) > 2) And If(Global(353) == 0)
+enc_01=Chance:10%,Enc: TRG_ROCKS
+enc_02=Chance:25%,Enc:(1-3) ENC_RatMole AMBUSH Player
+enc_03=Chance:25%,Enc:(1-3) ENC_Wolf AMBUSH Player
+enc_04=Chance:7%,Enc: BODY_FLAG
+enc_05=Chance:10%,Enc: FLAG_Traper
+enc_06=Chance:10%,Enc:(1-2) FLAG_Savage AMBUSH Player
+enc_07=Chance:1%,Counter:1,Special,Map:Special Gold Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(600) == 0)
+enc_08=Chance:1%,Counter:1,Special,Map:Special Bibl Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(601) == 0)
+enc_09=Chance:1%,Counter:1,Special,Map:Special Cafe Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(602) == 0)
+enc_10=Chance:1%,Counter:1,Special,Map:Special Bomber Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(603) == 0)
+enc_11=Chance:1%,Counter:1,Special,Map:Special Petro Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(604) == 0)
+enc_12=Chance:1%,Counter:1,Special,Map:Special Cry Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(605) == 0)
+enc_13=Chance:1%,Counter:1,Special,Map:Special DriveIn Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(606) == 0)
+enc_14=Chance:1%,Counter:1,Special,Map:Special Vault Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(610) == 0)
+enc_15=Chance:1%,Counter:1,Special,Map:Special LegendCity Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(612) == 0)
+
+[Encounter Table 4]
+lookup_name=FLAG_R
+maps=Road Encounter 3, Road Encounter 4, Road Encounter 5
+enc_00=Chance:3%,Enc: ENC_RedRyder,If(Global(3) > 2) And If(Global(353) == 0)
+enc_01=Chance:17%,Enc:(1-3) ENC_RatPig AMBUSH Player
+enc_02=Chance:20%,Enc: ENC_BanditA AMBUSH Player
+enc_03=Chance:15%,Enc:(2-3) ENC_BanditB AMBUSH Player
+enc_04=Chance:20%,Enc: FLAG_RunCriminal AMBUSH Player
+enc_05=Chance:5%,Enc: CRVN_GuardA AND (1-2) CRVN_Brahmin, If(Global(378) < 10)
+enc_06=Chance:10%,Enc: ENC_Citizen
+enc_07=Chance:10%,Enc:(1-3) ENC_Dogs AMBUSH Player
+
+[Encounter Table 5]
+lookup_name=RNGR_D
+maps=Desert Encounter 1, Desert Encounter 2, Desert Encounter 3, Desert Encounter 4
+enc_00=Chance:3%,Enc: ENC_RedRyder,If(Global(3) > 2) And If(Global(353) == 0)
+enc_01=Chance:10%,Enc: TRG_DESERT_WIND
+enc_02=Chance:20%,Enc:(1-4) ENC_Coyote AMBUSH Player
+enc_03=Chance:17%,Enc:(1-3) ENC_Scorpions AMBUSH Player
+enc_04=Chance:7%,Enc: ENC_RaiderA AMBUSH Player
+enc_05=Chance:5%,Enc: RNGR_Farmer
+enc_06=Chance:5%,Enc:(1-2) RNGR_Rangers, If(Global(130) == 0)
+enc_07=Chance:3%,Enc:(1-2) RNGR_Rangers FIGHTING ENC_RaiderA
+enc_08=Chance:10%,Enc:(1-2) ENC_Scolopendra AMBUSH Player
+enc_09=Chance:1%,Counter:1,Special,Map:Special Gold Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(600) == 0)
+enc_10=Chance:1%,Counter:1,Special,Map:Special Bibl Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(601) == 0)
+enc_11=Chance:1%,Counter:1,Special,Map:Special Cafe Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(602) == 0)
+enc_12=Chance:1%,Counter:1,Special,Map:Special Bomber Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(603) == 0)
+enc_13=Chance:1%,Counter:1,Special,Map:Special Petro Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(604) == 0)
+enc_14=Chance:1%,Counter:1,Special,Map:Special Cry Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(605) == 0)
+enc_15=Chance:1%,Counter:1,Special,Map:Special DriveIn Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(606) == 0)
+enc_16=Chance:1%,Counter:1,Special,Map:Special Snow Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(609) == 0)
+enc_17=Chance:1%,Counter:1,Special,Map:Special Vault Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(610) == 0)
+enc_18=Chance:1%,Counter:1,Special,Map:Special Army Encounter,Enc:Special1, If(Player(Level) > 10) And If(Global(611) == 0)
+enc_19=Chance:1%,Counter:1,Special,Map:Special LegendCity Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(612) == 0)
+enc_20=Chance:1%,Counter:1,Enc: RNGR_Bancrot AMBUSH Player
+enc_21=Chance:3%,Enc: ENC_DawclawFantom,If(Global(547) == 0)
+
+[Encounter Table 6]
+lookup_name=DSRT_A
+maps=Desert Encounter 1
+enc_00=Chance:10%,Enc: TRG_DESERT_WIND
+enc_01=Chance:10%,Enc: TRG_NON_WATER
+enc_02=Chance:56%,Enc:(1-4) ENC_Scorpions AMBUSH Player
+enc_03=Chance:3%,Enc: ENC_ScorpLegend,If(Global(229) == 0)
+enc_04=Chance:10%,Enc:(1-3) ENC_Scolopendra AMBUSH Player
+enc_05=Chance:1%,Counter:1,Special,Map:Special Gold Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(600) == 0)
+enc_06=Chance:1%,Counter:1,Special,Map:Special Bibl Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(601) == 0)
+enc_07=Chance:1%,Counter:1,Special,Map:Special Cafe Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(602) == 0)
+enc_08=Chance:1%,Counter:1,Special,Map:Special Bomber Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(603) == 0)
+enc_09=Chance:1%,Counter:1,Special,Map:Special Petro Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(604) == 0)
+enc_10=Chance:1%,Counter:1,Special,Map:Special Cry Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(605) == 0)
+enc_11=Chance:1%,Counter:1,Special,Map:Special DriveIn Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(606) == 0)
+enc_12=Chance:1%,Counter:1,Special,Map:Special Snow Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(609) == 0)
+enc_13=Chance:1%,Counter:1,Special,Map:Special Vault Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(610) == 0)
+enc_14=Chance:1%,Counter:1,Special,Map:Special Army Encounter,Enc:Special1, If(Player(Level) > 10) And If(Global(611) == 0)
+enc_15=Chance:1%,Counter:1,Special,Map:Special LegendCity Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(612) == 0)
+
+[Encounter Table 7]
+lookup_name=DSRT_B
+maps=Desert Encounter 1
+enc_00=Chance:12%,Enc: TRG_DESERT_WIND
+enc_01=Chance:25%,Enc: TRG_NON_WATER
+enc_02=Chance:20%,Enc:(1-4) ENC_Scorpions AMBUSH Player
+enc_03=Chance:15%,Enc:(1-3) ENC_Scolopendra AMBUSH Player
+enc_04=Chance:14%,Enc:(2-6) ENC_Mantis AMBUSH Player
+enc_05=Chance:1%,Counter:1,Special,Map:Special Gold Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(600) == 0)
+enc_06=Chance:1%,Counter:1,Special,Map:Special Bibl Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(601) == 0)
+enc_07=Chance:1%,Counter:1,Special,Map:Special Cafe Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(602) == 0)
+enc_08=Chance:1%,Counter:1,Special,Map:Special Bomber Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(603) == 0)
+enc_09=Chance:1%,Counter:1,Special,Map:Special Petro Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(604) == 0)
+enc_10=Chance:1%,Counter:1,Special,Map:Special Cry Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(605) == 0)
+enc_11=Chance:1%,Counter:1,Special,Map:Special DriveIn Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(606) == 0)
+enc_12=Chance:2%,Counter:1,Enc:DSRT_Shybot
+enc_13=Chance:1%,Counter:1,Special,Map:Special Snow Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(609) == 0)
+enc_14=Chance:1%,Counter:1,Special,Map:Special Vault Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(610) == 0)
+enc_15=Chance:1%,Counter:1,Special,Map:Special Army Encounter,Enc:Special1, If(Player(Level) > 10) And If(Global(611) == 0)
+enc_16=Chance:1%,Counter:1,Special,Map:Special LegendCity Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(612) == 0)
+enc_17=Chance:1%,Counter:1,Enc:CAR_ACCIDENT,If(Global(515) == 0)
+
+[Encounter Table 8]
+lookup_name=MEXI_D
+maps=Desert Encounter 1, Desert Encounter 3, Desert Encounter 4
+enc_00=Chance:3%,Enc: ENC_RedRyder,If(Global(3) > 2) And If(Global(353) == 0)
+enc_01=Chance:25%,Enc:(1-3) ENC_Scorpions AMBUSH Player
+enc_02=Chance:25%,Enc:(2-6) ENC_Mantis AMBUSH Player
+enc_03=Chance:11%,Enc:(1-3) ENC_Scolopendra AMBUSH Player
+enc_04=Chance:10%,Enc: MEXI_Patrul
+enc_05=Chance:10%,Enc: ENC_Citizen
+enc_06=Chance:1%,Enc:BODY_MEXI
+enc_07=Chance:1%,Enc: MEXI_Alejo FIGHTING ENC_Citizen, If(Global(380) == 0)
+enc_08=Chance:1%,Counter:1,Special,Map:Special Gold Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(600) == 0)
+enc_09=Chance:1%,Counter:1,Special,Map:Special Bibl Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(601) == 0)
+enc_10=Chance:1%,Counter:1,Special,Map:Special Cafe Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(602) == 0)
+enc_11=Chance:1%,Counter:1,Special,Map:Special Bomber Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(603) == 0)
+enc_12=Chance:1%,Counter:1,Special,Map:Special Petro Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(604) == 0)
+enc_13=Chance:1%,Counter:1,Special,Map:Special Cry Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(605) == 0)
+enc_14=Chance:1%,Counter:1,Special,Map:Special DriveIn Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(606) == 0)
+enc_15=Chance:1%,Counter:1,Special,Map:Special Padre Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(607) == 0)
+enc_16=Chance:1%,Counter:1,Special,Map:Special Snow Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(609) == 0)
+enc_17=Chance:1%,Counter:1,Special,Map:Special Army Encounter,Enc:Special1, If(Player(Level) > 10) And If(Global(611) == 0)
+enc_18=Chance:1%,Counter:1,Special,Map:Special LegendCity Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(612) == 0)
+enc_19=Chance:3%,Counter:1,Enc: TUSN_MexSclpndr FIGHTING ENC_Scolopendra
+
+[Encounter Table 9]
+lookup_name=MEXI_M
+maps=Mountain Encounter 1, Mountain Encounter 9, Mountain Encounter 2, Mountain Encounter 3
+enc_00=Chance:3%,Enc: ENC_RedRyder,If(Global(3) > 2) And If(Global(353) == 0)
+enc_01=Chance:23%,Enc: TRG_ROCKS
+enc_02=Chance:40%,Enc:(1-3) ENC_RatMole AMBUSH Player
+enc_03=Chance:10%,Enc:(1-3) ENC_Scolopendra AMBUSH Player
+enc_04=Chance:10%,Enc: MEXI_Patrul
+enc_05=Chance:15%,Enc: ENC_Citizen
+enc_06=Chance:1%,Counter:1,Special,Map:Special Gold Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(600) == 0)
+enc_07=Chance:1%,Counter:1,Special,Map:Special Bibl Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(601) == 0)
+enc_08=Chance:1%,Counter:1,Special,Map:Special Cafe Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(602) == 0)
+enc_09=Chance:1%,Counter:1,Special,Map:Special Bomber Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(603) == 0)
+enc_10=Chance:1%,Counter:1,Special,Map:Special Petro Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(604) == 0)
+enc_11=Chance:1%,Counter:1,Special,Map:Special Cry Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(605) == 0)
+enc_12=Chance:1%,Counter:1,Special,Map:Special DriveIn Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(606) == 0)
+enc_13=Chance:1%,Counter:1,Special,Map:Special Padre Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(607) == 0)
+enc_14=Chance:1%,Counter:1,Special,Map:Special LegendCity Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(612) == 0)
+
+[Encounter Table 10]
+lookup_name=CALF_D
+maps=Desert Encounter 2, Desert Encounter 9
+enc_00=Chance:3%,Enc: ENC_RedRyder,If(Global(3) > 2) And If(Global(353) == 0)
+enc_01=Chance:20%,Enc: TRG_RADACTIV
+enc_02=Chance:25%,Enc:(2-6) ENC_Rats AMBUSH Player
+enc_03=Chance:20%,Enc:(1-3) ENC_Scorpions AMBUSH Player
+enc_04=Chance:20%,Enc:(1-3) INF_GhoulB AMBUSH Player
+enc_05=Chance:1%,Counter:1,Enc:CALF_Maxx
+enc_06=Chance:1%,Counter:1,Special,Map:Special Gold Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(600) == 0)
+enc_07=Chance:1%,Counter:1,Special,Map:Special Bibl Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(601) == 0)
+enc_08=Chance:1%,Counter:1,Special,Map:Special Cafe Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(602) == 0)
+enc_09=Chance:1%,Counter:1,Special,Map:Special Bomber Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(603) == 0)
+enc_10=Chance:1%,Counter:1,Special,Map:Special Petro Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(604) == 0)
+enc_11=Chance:1%,Counter:1,Special,Map:Special Cry Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(605) == 0)
+enc_12=Chance:1%,Counter:1,Special,Map:Special DriveIn Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(606) == 0)
+enc_13=Chance:1%,Counter:1,Special,Map:Special Snow Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(609) == 0)
+enc_14=Chance:1%,Counter:1,Special,Map:Special Vault Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(610) == 0)
+enc_15=Chance:1%,Counter:1,Special,Map:Special Army Encounter,Enc:Special1, If(Player(Level) > 10) And If(Global(611) == 0)
+enc_16=Chance:1%,Counter:1,Special,Map:Special LegendCity Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(612) == 0)
+
+[Encounter Table 11]
+lookup_name=PHNX_D
+maps=City Encounter 1, City Encounter 2, City Encounter 3, City Encounter 4
+enc_00=Chance:5%,Enc: ENC_RedRyder,If(Global(3) > 2) And If(Global(353) == 0)
+enc_01=Chance:20%,Enc:(3-6) ENC_Rats AMBUSH Player
+enc_02=Chance:20%,Enc:(1-5) ENC_Dogs AMBUSH Player
+enc_03=Chance:5%,Enc: PNX_LosPanchos_A,If(Global(246) == 0)
+enc_04=Chance:5%,Enc: PNX_LosPanchos_B,If(Global(247) == 0)
+enc_05=Chance:5%,Enc: PNX_LosPanchos_C,If(Global(248) == 0)
+enc_06=Chance:13%,Enc: ENC_BanditA AMBUSH Player
+enc_07=Chance:12%,Enc:(2-4) ENC_BanditB AMBUSH Player
+enc_08=Chance:11%,Enc: ENC_Citizen
+enc_09=Chance:1%,Counter:1,Enc:PHNX_Psychoman
+enc_10=Chance:1%,Counter:1,Enc:PNX_GangstersBody
+enc_11=Chance:1%,Counter:1,Special,Map:Special Snow Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(609) == 0)
+enc_12=Chance:1%,Counter:1,Special,Map:Special Vault Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(610) == 0)
+enc_13=Chance:1%,Counter:1,Special,Map:Special LegendCity Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(612) == 0)
+
+[Encounter Table 12]
+lookup_name=PHNX_M
+maps=City Encounter 9, Desert Encounter 9
+enc_00=Chance:65%,Enc: TRG_RADACTIV
+enc_01=Chance:20%,Enc:(1-3) ENC_AntRad AMBUSH Player
+enc_02=Chance:5%,Enc:BODY_PHNX
+enc_03=Chance:5%,Enc:PHNX_Maroder, If(Global(377) < 10)
+enc_04=Chance:5%,Counter:1,Enc:PHNX_CrazyHandy
+
+[Encounter Table 13]
+lookup_name=ROAD_D
+maps=Road Encounter 1, Road Encounter 2, Road Encounter 5, Desert Encounter 2
+enc_00=Chance:4%,Enc: ENC_RedRyder,If(Global(3) > 2) And If(Global(353) == 0)
+enc_01=Chance:5%,Enc:BODY_ROAD
+enc_02=Chance:20%,Enc:(1-4) ENC_Rats AMBUSH Player
+enc_03=Chance:20%,Enc:(1-3) ENC_Scorpions AMBUSH Player
+enc_04=Chance:15%,Enc: ENC_RaiderA AMBUSH Player
+enc_05=Chance:12%,Enc: ENC_RaiderB AMBUSH Player
+enc_06=Chance:10%,Enc: ROAD_RoadWar AMBUSH Player,If(Global(288) == 0)
+enc_07=Chance:10%,Enc: CRVN_GuardB AND (1-3) CRVN_Brahmin, If(Global(378) < 10)
+enc_08=Chance:1%,Counter:1,Enc:BODY_CURIER,If(Global(381) == 0)
+enc_09=Chance:1%,Enc: ROAD_RaiderHelp FIGHTING ENC_BanditA,If(Global(447) == 0)
+enc_10=Chance:1%,Counter:1,Special,Map:Special Vault Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(610) == 0)
+enc_11=Chance:1%,Counter:1,Special,Map:Special LegendCity Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(612) == 0)
+
+[Encounter Table 14]
+lookup_name=TUSN_D
+maps=City Encounter 1, City Encounter 3
+enc_00=Chance:2%,Enc: ENC_RedRyder,If(Global(3) > 2) And If(Global(353) == 0)
+enc_01=Chance:20%,Enc:(2-5) ENC_Rats AMBUSH Player
+enc_02=Chance:20%,Enc:(1-3) ENC_Scorpions AMBUSH Player
+enc_03=Chance:20%,Enc: ENC_RaiderA AMBUSH Player
+enc_04=Chance:20%,Enc: ENC_RaiderB AMBUSH Player
+enc_05=Chance:15%,Enc: ENC_Robot AMBUSH Player
+enc_06=Chance:2%,Enc:BODY_TUSN
+enc_07=Chance:2%,Counter:1,Enc: TUSN_Cyberman AMBUSH Player
+
+[Encounter Table 15]
+lookup_name=TUSN_M
+maps=Mountain Encounter 1, Mountain Encounter 2, Mountain Encounter 9, Mountain Encounter 4, Mountain Encounter 5, Mountain Encounter 6
+enc_00=Chance:12%,Enc: TRG_ROCKS
+enc_01=Chance:30%,Enc:(1-3) ENC_RatMole AMBUSH Player
+enc_02=Chance:30%,Enc:(1-4) ENC_Wolf AMBUSH Player
+enc_03=Chance:1%,Enc: ENC_Wolf FIGHTING ENC_Wolf
+enc_04=Chance:17%,Enc: TUSN_Hermit
+enc_05=Chance:1%,Counter:1,Enc:TUSN_Cannibal
+enc_06=Chance:1%,Counter:1,Special,Map:Special Gold Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(600) == 0)
+enc_07=Chance:1%,Counter:1,Special,Map:Special Bibl Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(601) == 0)
+enc_08=Chance:1%,Counter:1,Special,Map:Special Cafe Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(602) == 0)
+enc_09=Chance:1%,Counter:1,Special,Map:Special Bomber Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(603) == 0)
+enc_10=Chance:1%,Counter:1,Special,Map:Special Petro Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(604) == 0)
+enc_11=Chance:1%,Counter:1,Special,Map:Special Cry Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(605) == 0)
+enc_12=Chance:1%,Counter:1,Special,Map:Special DriveIn Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(606) == 0)
+enc_13=Chance:1%,Counter:1,Special,Map:Special Vault Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(610) == 0)
+enc_14=Chance:1%,Counter:1,Special,Map:Special LegendCity Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(612) == 0)
+
+[Encounter Table 16]
+lookup_name=INFN_D
+maps=City Encounter 9, Desert Encounter 9
+enc_00=Chance:25%,Enc: TRG_RADACTIV
+enc_01=Chance:25%,Enc:(1-6) ENC_AntRad AMBUSH Player
+enc_02=Chance:24%,Enc:(2-3) INF_GhoulB AMBUSH Player
+enc_03=Chance:23%,Enc:(1-3) INF_GhoulB AND INF_GhoulA AMBUSH Player
+enc_04=Chance:1%,Counter:1,Enc: INF_USBP
+enc_05=Chance:2%,Counter:1,Enc:INFR_Harvey
+
+[Encounter Table 17]
+lookup_name=PORT_D
+maps=Desert Encounter 1, Desert Encounter 2
+enc_00=Chance:5%,Enc: ENC_RedRyder,If(Global(3) > 2) And If(Global(353) == 0)
+enc_01=Chance:20%,Enc: TRG_NON_WATER
+enc_02=Chance:20%,Enc:(1-5) ENC_Ants AMBUSH Player
+enc_03=Chance:25%,Enc:(2-5) ENC_Mantis AMBUSH Player
+enc_04=Chance:20%,Enc:(1-2) ENC_Scorpions AMBUSH Player
+enc_05=Chance:10%,Enc: PORT_Patrul,If(Global(129) == 0)
+
+[Encounter Table 18]
+lookup_name=ISLD_D
+maps=Coast Encounter 1, Coast Encounter 2, Coast Encounter 3, Coast Encounter 4
+enc_00=Chance:63%,Enc:(1-3) ENC_AntRad AMBUSH Player
+enc_01=Chance:15%,Enc: ENC_Floater AMBUSH Player
+enc_02=Chance:4%,Enc:BODY_ISLD
+enc_03=Chance:14%,Enc:(1-3) ISLD_Fishers
+enc_04=Chance:2%,Counter:1,Enc:BODY_BOSCAVALER
+enc_05=Chance:2%,Enc: PORT_ScribeHelp,If(Global(495) == 0)
+
+[Encounter Table 19]
+lookup_name=ISLD_M
+maps=Mountain Encounter 1
+enc_00=Chance:13%,Enc: TRG_ROCKS
+enc_01=Chance:10%,Enc: TRG_RADACTIV
+enc_02=Chance:25%,Enc:(1-4) ENC_AntRad AMBUSH Player
+enc_03=Chance:20%,Enc:(1-3) ENC_Floater AMBUSH Player
+enc_04=Chance:10%,Enc: ENC_Robot AMBUSH Player
+enc_05=Chance:13%,Enc:(1-3) ISLD_GhoulPiligrim
+enc_06=Chance:1%,Counter:1,Special,Map:Special Gold Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(600) == 0)
+enc_07=Chance:1%,Counter:1,Special,Map:Special Bibl Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(601) == 0)
+enc_08=Chance:1%,Counter:1,Special,Map:Special Cafe Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(602) == 0)
+enc_09=Chance:1%,Counter:1,Special,Map:Special Bomber Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(603) == 0)
+enc_10=Chance:1%,Counter:1,Special,Map:Special Petro Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(604) == 0)
+enc_11=Chance:1%,Counter:1,Special,Map:Special Cry Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(605) == 0)
+enc_12=Chance:1%,Counter:1,Special,Map:Special DriveIn Encounter,Enc:Special1, If(Player(Level) > 7) And If(Global(606) == 0)
+enc_13=Chance:1%,Counter:1,Special,Map:Special Padre Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(607) == 0)
+enc_14=Chance:1%,Counter:1,Special,Map:Special LegendCity Encounter,Enc:Special1, If(Player(Level) > 4) And If(Global(612) == 0)
+
+[Encounter Table 20]
+lookup_name=OCEAN_O
+maps=Coast Encounter 1
+enc_00=Chance:100%,Enc: TRG_RADACTIV
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;  End of Newly added Encounter Tables  ;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[Tile Data]
+; Размер карты мира по горизонтали:
+num_horizontal_tiles=4
+
+[Tile 0]
+art_idx=339
+encounter_difficulty=0
+;x_offset_yoffset=тип карты, ?, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Desert,No_Fill,Common,Common,Common,VILL_D
+0_1=Desert,No_Fill,Common,Common,Common,VILL_D
+0_2=Desert,No_Fill,Common,Common,Common,VILL_D
+0_3=Desert,No_Fill,Common,Common,Common,VILL_D
+0_4=Desert,No_Fill,Common,Common,Common,VILL_D
+0_5=Desert,No_Fill,Common,Common,Common,VILL_D
+1_0=Desert,No_Fill,Common,Common,Common,VILL_D
+1_1=Desert,No_Fill,Common,Common,Common,VILL_D
+1_2=Desert,No_Fill,Common,Common,Common,VILL_D
+1_3=Desert,No_Fill,Common,Common,Common,VILL_D
+1_4=Desert,No_Fill,Common,Common,Common,VILL_D
+1_5=Desert,No_Fill,Common,Common,Common,VILL_D
+2_0=Desert,No_Fill,Common,Common,Common,VILL_D
+2_1=Desert,No_Fill,Common,Common,Common,VILL_D
+2_2=Desert,No_Fill,Common,Common,Common,VILL_D
+2_3=Desert,No_Fill,Common,Common,Common,VILL_D
+2_4=Desert,No_Fill,Common,Common,Common,VILL_D
+2_5=Desert,No_Fill,Common,Common,Common,VILL_D
+3_0=Desert,No_Fill,Common,Common,Common,VILL_D
+3_1=Desert,No_Fill,Common,Common,Common,VILL_D
+3_2=Desert,No_Fill,Common,Common,Common,VILL_D
+3_3=Desert,No_Fill,Common,Common,Common,VILL_D
+3_4=Desert,No_Fill,Common,Common,Common,VILL_D
+3_5=Desert,No_Fill,Common,Common,Common,VILL_D
+4_0=Desert,No_Fill,Common,Common,Common,VILL_D
+4_1=Desert,No_Fill,Common,Common,Common,VILL_D
+4_2=Desert,No_Fill,Common,Common,Common,VILL_D
+4_3=Desert,No_Fill,Common,Common,Common,VILL_D
+4_4=Desert,No_Fill,Common,Common,Common,VILL_D
+4_5=Desert,No_Fill,Common,Common,Common,VILL_D
+5_0=Desert,No_Fill,Common,Common,Common,VILL_D
+5_1=Desert,No_Fill,Common,Common,Common,VILL_D
+5_2=Desert,No_Fill,Common,Common,Common,VILL_D
+5_3=Desert,No_Fill,Common,Common,Common,VILL_D
+5_4=Desert,No_Fill,Common,Common,Common,VILL_D
+5_5=Desert,No_Fill,Common,Common,Common,VILL_D
+6_0=Desert,No_Fill,Common,Common,Common,VILL_D
+6_1=Desert,No_Fill,Common,Common,Common,VILL_D
+6_2=Desert,No_Fill,Common,Common,Common,VILL_D
+6_3=Desert,No_Fill,Common,Common,Common,VILL_D
+6_4=Desert,No_Fill,Common,Common,Common,VILL_D
+6_5=Desert,No_Fill,Common,Common,Common,VILL_D
+
+[Tile 1]
+art_idx=340
+encounter_difficulty=0
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Desert,No_Fill,Common,Common,Common,VILL_D
+0_1=Desert,No_Fill,Common,Common,Common,VILL_D
+0_2=Desert,No_Fill,Common,Common,Common,VILL_D
+0_3=Desert,No_Fill,Common,Common,Common,VILL_D
+0_4=Desert,No_Fill,Common,Common,Common,VILL_D
+0_5=Desert,No_Fill,Common,Common,Common,VILL_D
+1_0=Desert,No_Fill,Common,Common,Common,VILL_D
+1_1=Desert,No_Fill,Common,Common,Common,VILL_D
+1_2=Desert,No_Fill,Common,Common,Common,VILL_D
+1_3=Desert,No_Fill,Common,Common,Common,VILL_D
+1_4=Desert,No_Fill,Common,Common,Common,VILL_D
+1_5=Desert,No_Fill,Common,Common,Common,VILL_D
+2_0=Desert,No_Fill,Common,Common,Common,VILL_D
+2_1=Desert,No_Fill,Common,Common,Common,VILL_D
+2_2=Desert,No_Fill,Common,Common,Common,VILL_D
+2_3=Desert,No_Fill,Common,Common,Common,VILL_D
+2_4=Desert,No_Fill,Common,Common,Common,VILL_D
+2_5=Desert,No_Fill,Common,Common,Common,VILL_D
+3_0=Desert,No_Fill,Common,Common,Common,VILL_D
+3_1=Desert,No_Fill,Common,Common,Common,VILL_D
+3_2=Desert,No_Fill,Common,Common,Common,VILL_D
+3_3=Desert,No_Fill,Common,Common,Common,VILL_D
+3_4=Desert,No_Fill,Common,Common,Common,VILL_D
+3_5=Desert,No_Fill,Common,Common,Common,VILL_D
+4_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+4_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+4_2=Mountain,No_Fill,Common,Common,Common,FLAG_M
+4_3=Mountain,No_Fill,Common,Common,Common,FLAG_M
+4_4=Desert,No_Fill,Common,Common,Common,FLAG_R
+4_5=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_2=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_3=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_4=Desert,No_Fill,Common,Common,Common,FLAG_R
+5_5=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_2=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_3=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_4=Desert,No_Fill,Common,Common,Common,FLAG_R
+6_5=Mountain,No_Fill,Common,Common,Common,FLAG_M
+
+[Tile 2]
+art_idx=341
+encounter_difficulty=0
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+0_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+0_2=Mountain,No_Fill,Common,Common,Common,FLAG_M
+0_3=Mountain,No_Fill,Common,Common,Common,FLAG_M
+0_4=Desert,No_Fill,Common,Common,Common,FLAG_R
+0_5=Mountain,No_Fill,Common,Common,Common,FLAG_M
+1_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+1_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+1_2=Mountain,No_Fill,Common,Common,Common,FLAG_M
+1_3=Desert,No_Fill,Common,Common,Common,FLAG_R
+1_4=Desert,No_Fill,Common,Common,Common,FLAG_R
+1_5=Desert,No_Fill,Common,Common,Common,FLAG_R
+2_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+2_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+2_2=Mountain,No_Fill,Common,Common,Common,FLAG_M
+2_3=Desert,No_Fill,Common,Common,Common,FLAG_R
+2_4=Desert,No_Fill,Common,Common,Common,FLAG_R
+2_5=Desert,No_Fill,Common,Common,Common,FLAG_R
+3_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+3_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+3_2=Mountain,No_Fill,Common,Common,Common,FLAG_M
+3_3=Desert,No_Fill,Common,Common,Common,FLAG_R
+3_4=Desert,No_Fill,Common,Common,Common,FLAG_R
+3_5=Desert,No_Fill,Common,Common,Common,FLAG_R
+4_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+4_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+4_2=Mountain,No_Fill,Common,Common,Common,FLAG_M
+4_3=Mountain,No_Fill,Common,Common,Common,FLAG_M
+4_4=Mountain,No_Fill,Common,Common,Common,FLAG_M
+4_5=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_2=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_3=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_4=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_5=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_2=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_3=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_4=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_5=Mountain,No_Fill,Common,Common,Common,FLAG_M
+
+[Tile 3]
+art_idx=342
+encounter_difficulty=0
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Desert,No_Fill,Common,Common,Common,FLAG_D
+0_1=Desert,No_Fill,Common,Common,Common,FLAG_D
+0_2=Desert,No_Fill,Common,Common,Common,FLAG_D
+0_3=Desert,No_Fill,Common,Common,Common,FLAG_D
+0_4=Desert,No_Fill,Common,Common,Common,FLAG_D
+0_5=Desert,No_Fill,Common,Common,Common,FLAG_D
+1_0=Desert,No_Fill,Common,Common,Common,FLAG_D
+1_1=Desert,No_Fill,Common,Common,Common,FLAG_D
+1_2=Desert,No_Fill,Common,Common,Common,FLAG_D
+1_3=Desert,No_Fill,Common,Common,Common,FLAG_D
+1_4=Desert,No_Fill,Common,Common,Common,FLAG_D
+1_5=Desert,No_Fill,Common,Common,Common,FLAG_D
+2_0=Desert,No_Fill,Common,Common,Common,FLAG_D
+2_1=Desert,No_Fill,Common,Common,Common,FLAG_D
+2_2=Desert,No_Fill,Common,Common,Common,FLAG_D
+2_3=Desert,No_Fill,Common,Common,Common,FLAG_D
+2_4=Desert,No_Fill,Common,Common,Common,FLAG_D
+2_5=Desert,No_Fill,Common,Common,Common,FLAG_D
+3_0=Desert,No_Fill,Common,Common,Common,FLAG_D
+3_1=Desert,No_Fill,Common,Common,Common,FLAG_D
+3_2=Desert,No_Fill,Common,Common,Common,FLAG_D
+3_3=Desert,No_Fill,Common,Common,Common,FLAG_D
+3_4=Desert,No_Fill,Common,Common,Common,FLAG_D
+3_5=Desert,No_Fill,Common,Common,Common,FLAG_D
+4_0=Desert,No_Fill,Common,Common,Common,FLAG_D
+4_1=Desert,No_Fill,Common,Common,Common,FLAG_D
+4_2=Desert,No_Fill,Common,Common,Common,FLAG_D
+4_3=Desert,No_Fill,Common,Common,Common,FLAG_D
+4_4=Desert,No_Fill,Common,Common,Common,FLAG_D
+4_5=Desert,No_Fill,Common,Common,Common,FLAG_D
+5_0=Desert,No_Fill,Common,Common,Common,FLAG_D
+5_1=Desert,No_Fill,Common,Common,Common,FLAG_D
+5_2=Desert,No_Fill,Common,Common,Common,FLAG_D
+5_3=Desert,No_Fill,Common,Common,Common,FLAG_D
+5_4=Desert,No_Fill,Common,Common,Common,FLAG_D
+5_5=Desert,No_Fill,Common,Common,Common,FLAG_D
+6_0=Desert,No_Fill,Common,Common,Common,FLAG_D
+6_1=Desert,No_Fill,Common,Common,Common,FLAG_D
+6_2=Desert,No_Fill,Common,Common,Common,FLAG_D
+6_3=Desert,No_Fill,Common,Common,Common,FLAG_D
+6_4=Desert,No_Fill,Common,Common,Common,FLAG_D
+6_5=Desert,No_Fill,Common,Common,Common,FLAG_D
+
+[Tile 4]
+art_idx=343
+encounter_difficulty=0
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Desert,No_Fill,Common,Common,Common,VILL_D
+0_1=Desert,No_Fill,Common,Common,Common,VILL_D
+0_2=Desert,No_Fill,Common,Common,Common,CALF_D
+0_3=Desert,No_Fill,Common,Common,Common,CALF_D
+0_4=Desert,No_Fill,Common,Common,Common,CALF_D
+0_5=Desert,No_Fill,Common,Common,Common,CALF_D
+1_0=Desert,No_Fill,Common,Common,Common,VILL_D
+1_1=Desert,No_Fill,Common,Common,Common,VILL_D
+1_2=Desert,No_Fill,Common,Common,Common,CALF_D
+1_3=Desert,No_Fill,Common,Common,Common,CALF_D
+1_4=Desert,No_Fill,Common,Common,Common,CALF_D
+1_5=Desert,No_Fill,Common,Common,Common,CALF_D
+2_0=Desert,No_Fill,Common,Common,Common,VILL_D
+2_1=Desert,No_Fill,Common,Common,Common,VILL_D
+2_2=Desert,No_Fill,Common,Common,Common,VILL_D
+2_3=Desert,No_Fill,Common,Common,Common,VILL_D
+2_4=Desert,No_Fill,Common,Common,Common,CALF_D
+2_5=Desert,No_Fill,Common,Common,Common,CALF_D
+3_0=Desert,No_Fill,Common,Common,Common,VILL_D
+3_1=Desert,No_Fill,Common,Common,Common,VILL_D
+3_2=Desert,No_Fill,Common,Common,Common,VILL_D
+3_3=Desert,No_Fill,Common,Common,Common,VILL_D
+3_4=Desert,No_Fill,Common,Common,Common,CALF_D
+3_5=Desert,No_Fill,Common,Common,Common,CALF_D
+4_0=Desert,No_Fill,Common,Common,Common,VILL_D
+4_1=Desert,No_Fill,Common,Common,Common,VILL_D
+4_2=Desert,No_Fill,Common,Common,Common,VILL_D
+4_3=Desert,No_Fill,Common,Common,Common,VILL_D
+4_4=Desert,No_Fill,Common,Common,Common,CALF_D
+4_5=Desert,No_Fill,Common,Common,Common,CALF_D
+5_0=Desert,No_Fill,Common,Common,Common,VILL_D
+5_1=Desert,No_Fill,Common,Common,Common,VILL_D
+5_2=Desert,No_Fill,Common,Common,Common,VILL_D
+5_3=Desert,No_Fill,Common,Common,Common,VILL_D
+5_4=Desert,No_Fill,Common,Common,Common,CALF_D
+5_5=Desert,No_Fill,Common,Common,Common,CALF_D
+6_0=Desert,No_Fill,Common,Common,Common,VILL_D
+6_1=Desert,No_Fill,Common,Common,Common,VILL_D
+6_2=Desert,No_Fill,Common,Common,Common,RNGR_D
+6_3=Desert,No_Fill,Common,Common,Common,RNGR_D
+6_4=Desert,No_Fill,Common,Common,Common,RNGR_D
+6_5=Desert,No_Fill,Common,Common,Common,RNGR_D
+
+[Tile 5]
+art_idx=344
+encounter_difficulty=0
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Desert,No_Fill,Common,Common,Common,VILL_D
+0_1=Desert,No_Fill,Common,Common,Common,VILL_D
+0_2=Desert,No_Fill,Common,Common,Common,RNGR_D
+0_3=Desert,No_Fill,Common,Common,Common,RNGR_D
+0_4=Desert,No_Fill,Common,Common,Common,RNGR_D
+0_5=Desert,No_Fill,Common,Common,Common,RNGR_D
+1_0=Desert,No_Fill,Common,Common,Common,VILL_D
+1_1=Desert,No_Fill,Common,Common,Common,VILL_D
+1_2=Desert,No_Fill,Common,Common,Common,RNGR_D
+1_3=Desert,No_Fill,Common,Common,Common,RNGR_D
+1_4=Desert,No_Fill,Common,Common,Common,RNGR_D
+1_5=Desert,No_Fill,Common,Common,Common,RNGR_D
+2_0=Desert,No_Fill,Common,Common,Common,VILL_D
+2_1=Desert,No_Fill,Common,Common,Common,VILL_D
+2_2=Desert,No_Fill,Common,Common,Common,RNGR_D
+2_3=Desert,No_Fill,Common,Common,Common,RNGR_D
+2_4=Desert,No_Fill,Common,Common,Common,RNGR_D
+2_5=Desert,No_Fill,Common,Common,Common,RNGR_D
+3_0=Desert,No_Fill,Common,Common,Common,VILL_D
+3_1=Desert,No_Fill,Common,Common,Common,VILL_D
+3_2=Desert,No_Fill,Common,Common,Common,RNGR_D
+3_3=Desert,No_Fill,Common,Common,Common,RNGR_D
+3_4=Desert,No_Fill,Common,Common,Common,RNGR_D
+3_5=Desert,No_Fill,Common,Common,Common,RNGR_D
+4_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+4_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+4_2=Desert,No_Fill,Common,Common,Common,RNGR_D
+4_3=Desert,No_Fill,Common,Common,Common,RNGR_D
+4_4=Desert,No_Fill,Common,Common,Common,RNGR_D
+4_5=Desert,No_Fill,Common,Common,Common,RNGR_D
+5_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_2=Desert,No_Fill,Common,Common,Common,RNGR_D
+5_3=Desert,No_Fill,Common,Common,Common,RNGR_D
+5_4=Desert,No_Fill,Common,Common,Common,RNGR_D
+5_5=Desert,No_Fill,Common,Common,Common,RNGR_D
+6_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_2=Desert,No_Fill,Common,Common,Common,RNGR_D
+6_3=Desert,No_Fill,Common,Common,Common,RNGR_D
+6_4=Desert,No_Fill,Common,Common,Common,RNGR_D
+6_5=Desert,No_Fill,Common,Common,Common,RNGR_D
+
+[Tile 6]
+art_idx=345
+encounter_difficulty=0
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+0_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+0_2=Desert,No_Fill,Common,Common,Common,RNGR_D
+0_3=Desert,No_Fill,Common,Common,Common,RNGR_D
+0_4=Desert,No_Fill,Common,Common,Common,RNGR_D
+0_5=Desert,No_Fill,Common,Common,Common,RNGR_D
+1_0=Desert,No_Fill,Common,Common,Common,FLAG_R
+1_1=Desert,No_Fill,Common,Common,Common,FLAG_R
+1_2=Desert,No_Fill,Common,Common,Common,FLAG_R
+1_3=Desert,No_Fill,Common,Common,Common,FLAG_R
+1_4=City,No_Fill,Common,Common,Common,PHNX_D
+1_5=City,No_Fill,Common,Common,Common,PHNX_D
+2_0=Desert,No_Fill,Common,Common,Common,FLAG_R
+2_1=Desert,No_Fill,Common,Common,Common,FLAG_R
+2_2=Desert,No_Fill,Common,Common,Common,FLAG_R
+2_3=Desert,No_Fill,Common,Common,Common,FLAG_R
+2_4=City,No_Fill,Common,Common,Common,PHNX_D
+2_5=City,No_Fill,Common,Common,Common,PHNX_D
+3_0=Desert,No_Fill,Common,Common,Common,FLAG_R
+3_1=Desert,No_Fill,Common,Common,Common,FLAG_R
+3_2=Desert,No_Fill,Common,Common,Common,FLAG_R
+3_3=Desert,No_Fill,Common,Common,Common,FLAG_R
+3_4=City,No_Fill,Common,Common,Common,PHNX_D
+3_5=City,No_Fill,Common,Common,Common,PHNX_D
+4_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+4_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+4_2=Mountain,No_Fill,Common,Common,Common,FLAG_M
+4_3=Mountain,No_Fill,Common,Common,Common,FLAG_M
+4_4=City,No_Fill,Common,Common,Common,PHNX_D
+4_5=City,No_Fill,Common,Common,Common,PHNX_D
+5_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_2=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_3=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_4=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_5=City,No_Fill,Common,Common,Common,PHNX_D
+6_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_2=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_3=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_4=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_5=Mountain,No_Fill,Common,Common,Common,FLAG_M
+
+[Tile 7]
+art_idx=346
+encounter_difficulty=0
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+0_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+0_2=Mountain,No_Fill,Common,Common,Common,FLAG_M
+0_3=Mountain,No_Fill,Common,Common,Common,FLAG_M
+0_4=Mountain,No_Fill,Common,Common,Common,FLAG_M
+0_5=Mountain,No_Fill,Common,Common,Common,FLAG_M
+1_0=Desert,No_Fill,Common,Common,Common,FLAG_D
+1_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+1_2=Mountain,No_Fill,Common,Common,Common,FLAG_M
+1_3=Mountain,No_Fill,Common,Common,Common,FLAG_M
+1_4=Mountain,No_Fill,Common,Common,Common,FLAG_M
+1_5=Mountain,No_Fill,Common,Common,Common,FLAG_M
+2_0=Desert,No_Fill,Common,Common,Common,FLAG_D
+2_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+2_2=Mountain,No_Fill,Common,Common,Common,FLAG_M
+2_3=Mountain,No_Fill,Common,Common,Common,FLAG_M
+2_4=Mountain,No_Fill,Common,Common,Common,FLAG_M
+2_5=Mountain,No_Fill,Common,Common,Common,FLAG_M
+3_0=Desert,No_Fill,Common,Common,Common,FLAG_D
+3_1=Desert,No_Fill,Common,Common,Common,FLAG_D
+3_2=Desert,No_Fill,Common,Common,Common,FLAG_D
+3_3=Mountain,No_Fill,Common,Common,Common,FLAG_M
+3_4=Mountain,No_Fill,Common,Common,Common,FLAG_M
+3_5=Mountain,No_Fill,Common,Common,Common,FLAG_M
+4_0=Desert,No_Fill,Common,Common,Common,FLAG_D
+4_1=Desert,No_Fill,Common,Common,Common,FLAG_D
+4_2=Desert,No_Fill,Common,Common,Common,FLAG_D
+4_3=Mountain,No_Fill,Common,Common,Common,FLAG_M
+4_4=Mountain,No_Fill,Common,Common,Common,FLAG_M
+4_5=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_0=Desert,No_Fill,Common,Common,Common,FLAG_D
+5_1=Desert,No_Fill,Common,Common,Common,FLAG_D
+5_2=Desert,No_Fill,Common,Common,Common,FLAG_D
+5_3=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_4=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_5=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_0=Desert,No_Fill,Common,Common,Common,FLAG_D
+6_1=Desert,No_Fill,Common,Common,Common,FLAG_D
+6_2=Desert,No_Fill,Common,Common,Common,FLAG_D
+6_3=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_4=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_5=Mountain,No_Fill,Common,Common,Common,FLAG_M
+
+[Tile 8]
+art_idx=347
+encounter_difficulty=0
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Desert,No_Fill,Common,Common,Common,CALF_D
+0_1=Desert,No_Fill,Common,Common,Common,CALF_D
+0_2=Desert,No_Fill,Common,Common,Common,CALF_D
+0_3=Desert,No_Fill,Common,Common,Common,CALF_D
+0_4=Desert,No_Fill,Common,Common,Common,CALF_D
+0_5=Desert,No_Fill,Common,Common,Common,CALF_D
+1_0=Desert,No_Fill,Common,Common,Common,CALF_D
+1_1=Desert,No_Fill,Common,Common,Common,CALF_D
+1_2=Desert,No_Fill,Common,Common,Common,CALF_D
+1_3=Desert,No_Fill,Common,Common,Common,CALF_D
+1_4=Desert,No_Fill,Common,Common,Common,CALF_D
+1_5=Desert,No_Fill,Common,Common,Common,CALF_D
+2_0=Desert,No_Fill,Common,Common,Common,DSRT_A
+2_1=Desert,No_Fill,Common,Common,Common,DSRT_A
+2_2=Desert,No_Fill,Common,Common,Common,DSRT_A
+2_3=Desert,No_Fill,Common,Common,Common,DSRT_A
+2_4=Desert,No_Fill,Common,Common,Common,DSRT_A
+2_5=City,No_Fill,Common,Common,Common,INFN_D
+3_0=Desert,No_Fill,Common,Common,Common,DSRT_A
+3_1=Desert,No_Fill,Common,Common,Common,DSRT_A
+3_2=Desert,No_Fill,Common,Common,Common,DSRT_A
+3_3=Desert,No_Fill,Common,Common,Common,DSRT_A
+3_4=Desert,No_Fill,Common,Common,Common,DSRT_A
+3_5=City,No_Fill,Common,Common,Common,INFN_D
+4_0=Desert,No_Fill,Common,Common,Common,DSRT_A
+4_1=Desert,No_Fill,Common,Common,Common,DSRT_A
+4_2=Desert,No_Fill,Common,Common,Common,DSRT_A
+4_3=Desert,No_Fill,Common,Common,Common,DSRT_A
+4_4=Desert,No_Fill,Common,Common,Common,DSRT_A
+4_5=City,No_Fill,Common,Common,Common,INFN_D
+5_0=Desert,No_Fill,Common,Common,Common,DSRT_A
+5_1=Desert,No_Fill,Common,Common,Common,DSRT_A
+5_2=Desert,No_Fill,Common,Common,Common,DSRT_A
+5_3=Desert,No_Fill,Common,Common,Common,DSRT_A
+5_4=Desert,No_Fill,Common,Common,Common,DSRT_A
+5_5=City,No_Fill,Common,Common,Common,INFN_D
+6_0=Desert,No_Fill,Common,Common,Common,RNGR_D
+6_1=Desert,No_Fill,Common,Common,Common,DSRT_A
+6_2=Desert,No_Fill,Common,Common,Common,DSRT_A
+6_3=Desert,No_Fill,Common,Common,Common,DSRT_A
+6_4=Desert,No_Fill,Common,Common,Common,DSRT_A
+6_5=City,No_Fill,Common,Common,Common,INFN_D
+
+[Tile 9]
+art_idx=348
+encounter_difficulty=0
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Desert,No_Fill,Common,Common,Common,RNGR_D
+0_1=Desert,No_Fill,Common,Common,Common,DSRT_A
+0_2=Desert,No_Fill,Common,Common,Common,DSRT_A
+0_3=Desert,No_Fill,Common,Common,Common,DSRT_A
+0_4=Desert,No_Fill,Common,Common,Common,DSRT_A
+0_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_0=Desert,No_Fill,Common,Common,Common,RNGR_D
+1_1=Desert,No_Fill,Common,Common,Common,DSRT_A
+1_2=Desert,No_Fill,Common,Common,Common,DSRT_A
+1_3=Desert,No_Fill,Common,Common,Common,DSRT_A
+1_4=Desert,No_Fill,Common,Common,Common,DSRT_A
+1_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_0=Desert,No_Fill,Common,Common,Common,RNGR_D
+2_1=Desert,No_Fill,Common,Common,Common,DSRT_A
+2_2=Desert,No_Fill,Common,Common,Common,DSRT_A
+2_3=Desert,No_Fill,Common,Common,Common,DSRT_A
+2_4=Desert,No_Fill,Common,Common,Common,DSRT_A
+2_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_0=Desert,No_Fill,Common,Common,Common,RNGR_D
+3_1=Desert,No_Fill,Common,Common,Common,DSRT_A
+3_2=Desert,No_Fill,Common,Common,Common,DSRT_A
+3_3=Desert,No_Fill,Common,Common,Common,DSRT_A
+3_4=Desert,No_Fill,Common,Common,Common,DSRT_A
+3_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_0=Desert,No_Fill,Common,Common,Common,RNGR_D
+4_1=Desert,No_Fill,Common,Common,Common,DSRT_A
+4_2=Desert,No_Fill,Common,Common,Common,DSRT_A
+4_3=Desert,No_Fill,Common,Common,Common,DSRT_A
+4_4=Desert,No_Fill,Common,Common,Common,DSRT_A
+4_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_0=Desert,No_Fill,Common,Common,Common,RNGR_D
+5_1=Desert,No_Fill,Common,Common,Common,DSRT_A
+5_2=Desert,No_Fill,Common,Common,Common,DSRT_A
+5_3=Desert,No_Fill,Common,Common,Common,DSRT_A
+5_4=Desert,No_Fill,Common,Common,Common,DSRT_A
+5_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+6_0=Mountain,No_Fill,Common,Common,Common,PHNX_M
+6_1=Mountain,No_Fill,Common,Common,Common,PHNX_M
+6_2=Mountain,No_Fill,Common,Common,Common,PHNX_M
+6_3=Desert,No_Fill,Common,Common,Common,DSRT_A
+6_4=Desert,No_Fill,Common,Common,Common,DSRT_A
+6_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+
+[Tile 10]
+art_idx=349
+encounter_difficulty=0
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Mountain,No_Fill,Common,Common,Common,PHNX_M
+0_1=Mountain,No_Fill,Common,Common,Common,PHNX_M
+0_2=Mountain,No_Fill,Common,Common,Common,PHNX_M
+0_3=Desert,No_Fill,Common,Common,Common,DSRT_A
+0_4=Desert,No_Fill,Common,Common,Common,DSRT_A
+0_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_0=Mountain,No_Fill,Common,Common,Common,PHNX_M
+1_1=Mountain,No_Fill,Common,Common,Common,PHNX_M
+1_2=Mountain,No_Fill,Common,Common,Common,PHNX_M
+1_3=Desert,No_Fill,Common,Common,Common,DSRT_A
+1_4=Desert,No_Fill,Common,Common,Common,DSRT_A
+1_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_0=City,No_Fill,Common,Common,Common,PHNX_D
+2_1=City,No_Fill,Common,Common,Common,PHNX_D
+2_2=City,No_Fill,Common,Common,Common,PHNX_D
+2_3=Desert,No_Fill,Common,Common,Common,DSRT_A
+2_4=Desert,No_Fill,Common,Common,Common,DSRT_A
+2_5=Desert,No_Fill,Common,Common,Common,DSRT_A
+3_0=City,No_Fill,Common,Common,Common,PHNX_D
+3_1=City,No_Fill,Common,Common,Common,PHNX_D
+3_2=City,No_Fill,Common,Common,Common,PHNX_D
+3_3=Road,No_Fill,Common,Common,Common,ROAD_D
+3_4=Road,No_Fill,Common,Common,Common,ROAD_D
+3_5=Desert,No_Fill,Common,Common,Common,DSRT_A
+4_0=City,No_Fill,Common,Common,Common,PHNX_D
+4_1=City,No_Fill,Common,Common,Common,PHNX_D
+4_2=City,No_Fill,Common,Common,Common,PHNX_D
+4_3=Road,No_Fill,Common,Common,Common,ROAD_D
+4_4=Road,No_Fill,Common,Common,Common,ROAD_D
+4_5=Road,No_Fill,Common,Common,Common,ROAD_D
+5_0=City,No_Fill,Common,Common,Common,PHNX_D
+5_1=City,No_Fill,Common,Common,Common,PHNX_D
+5_2=City,No_Fill,Common,Common,Common,PHNX_D
+5_3=Road,No_Fill,Common,Common,Common,ROAD_D
+5_4=Road,No_Fill,Common,Common,Common,ROAD_D
+5_5=Road,No_Fill,Common,Common,Common,ROAD_D
+6_0=Road,No_Fill,Common,Common,Common,ROAD_D
+6_1=Road,No_Fill,Common,Common,Common,ROAD_D
+6_2=Road,No_Fill,Common,Common,Common,ROAD_D
+6_3=Road,No_Fill,Common,Common,Common,ROAD_D
+6_4=Road,No_Fill,Common,Common,Common,ROAD_D
+6_5=Road,No_Fill,Common,Common,Common,ROAD_D
+
+[Tile 11]
+art_idx=350
+encounter_difficulty=0
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+0_1=Road,No_Fill,Common,Common,Common,ROAD_D
+0_2=Road,No_Fill,Common,Common,Common,ROAD_D
+0_3=Road,No_Fill,Common,Common,Common,ROAD_D
+0_4=Road,No_Fill,Common,Common,Common,ROAD_D
+0_5=Road,No_Fill,Common,Common,Common,ROAD_D
+1_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+1_1=Road,No_Fill,Common,Common,Common,ROAD_D
+1_2=Road,No_Fill,Common,Common,Common,ROAD_D
+1_3=Road,No_Fill,Common,Common,Common,ROAD_D
+1_4=Road,No_Fill,Common,Common,Common,ROAD_D
+1_5=Road,No_Fill,Common,Common,Common,ROAD_D
+2_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+2_1=Road,No_Fill,Common,Common,Common,ROAD_D
+2_2=Road,No_Fill,Common,Common,Common,ROAD_D
+2_3=Road,No_Fill,Common,Common,Common,ROAD_D
+2_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+2_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+3_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+3_1=Road,No_Fill,Common,Common,Common,ROAD_D
+3_2=Road,No_Fill,Common,Common,Common,ROAD_D
+3_3=Mountain,No_Fill,Common,Common,Common,TUSN_M
+3_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+3_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+4_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+4_1=Road,No_Fill,Common,Common,Common,ROAD_D
+4_2=Road,No_Fill,Common,Common,Common,ROAD_D
+4_3=Mountain,No_Fill,Common,Common,Common,TUSN_M
+4_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+4_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+5_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+5_2=Road,No_Fill,Common,Common,Common,ROAD_D
+5_3=Road,No_Fill,Common,Common,Common,ROAD_D
+5_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+5_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_0=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_1=Mountain,No_Fill,Common,Common,Common,FLAG_M
+6_2=Road,No_Fill,Common,Common,Common,ROAD_D
+6_3=Road,No_Fill,Common,Common,Common,ROAD_D
+6_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+
+[Tile 12]
+art_idx=351
+encounter_difficulty=0
+walk_mask_name=wrldmp12
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Desert,No_Fill,Common,Common,Common,CALF_D
+0_1=Desert,No_Fill,Common,Common,Common,CALF_D
+0_2=Desert,No_Fill,Common,Common,Common,CALF_D
+0_3=Desert,No_Fill,Common,Common,Common,CALF_D
+0_4=Mountain,No_Fill,Common,Common,Common,ISLD_M
+0_5=Mountain,No_Fill,Common,Common,Common,ISLD_M
+1_0=Desert,No_Fill,Common,Common,Common,CALF_D
+1_1=Desert,No_Fill,Common,Common,Common,CALF_D
+1_2=Desert,No_Fill,Common,Common,Common,CALF_D
+1_3=Desert,No_Fill,Common,Common,Common,CALF_D
+1_4=Mountain,No_Fill,Common,Common,Common,ISLD_M
+1_5=Mountain,No_Fill,Common,Common,Common,ISLD_M
+2_0=City,No_Fill,Common,Common,Common,INFN_D
+2_1=City,No_Fill,Common,Common,Common,INFN_D
+2_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_4=Mountain,No_Fill,Common,Common,Common,ISLD_M
+2_5=Mountain,No_Fill,Common,Common,Common,ISLD_M
+3_0=City,No_Fill,Common,Common,Common,INFN_D
+3_1=City,No_Fill,Common,Common,Common,INFN_D
+3_2=City,No_Fill,Common,Common,Common,INFN_D
+3_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_4=Mountain,No_Fill,Common,Common,Common,ISLD_M
+3_5=Mountain,No_Fill,Common,Common,Common,ISLD_M
+4_0=City,No_Fill,Common,Common,Common,INFN_D
+4_1=City,No_Fill,Common,Common,Common,INFN_D
+4_2=City,No_Fill,Common,Common,Common,INFN_D
+4_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_4=Ocean,No_Fill,Common,Common,Common,ISLD_D
+4_5=Ocean,No_Fill,Common,Common,Common,ISLD_D
+5_0=City,No_Fill,Common,Common,Common,INFN_D
+5_1=City,No_Fill,Common,Common,Common,INFN_D
+5_2=City,No_Fill,Common,Common,Common,INFN_D
+5_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_4=Ocean,No_Fill,Common,Common,Common,ISLD_D
+5_5=Ocean,No_Fill,Common,Common,Common,ISLD_D
+6_0=City,No_Fill,Common,Common,Common,INFN_D
+6_1=City,No_Fill,Common,Common,Common,INFN_D
+6_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+6_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+6_4=Ocean,No_Fill,Common,Common,Common,ISLD_D
+6_5=Ocean,No_Fill,Common,Common,Common,ISLD_D
+
+[Tile 13]
+art_idx=352
+encounter_difficulty=0
+walk_mask_name=wrldmp13
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+0_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+0_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+0_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+0_4=Ocean,No_Fill,Common,Common,Common,ISLD_D
+0_5=Ocean,No_Fill,Common,Common,Common,ISLD_D
+1_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_4=Ocean,No_Fill,Common,Common,Common,ISLD_D
+1_5=Ocean,No_Fill,Common,Common,Common,ISLD_D
+2_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_4=Desert,No_Fill,Common,Common,Common,PORT_D
+2_5=Desert,No_Fill,Common,Common,Common,PORT_D
+3_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_4=Desert,No_Fill,Common,Common,Common,PORT_D
+3_5=Desert,No_Fill,Common,Common,Common,PORT_D
+4_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_4=Desert,No_Fill,Common,Common,Common,PORT_D
+4_5=Desert,No_Fill,Common,Common,Common,PORT_D
+5_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_4=Desert,No_Fill,Common,Common,Common,PORT_D
+5_5=Desert,No_Fill,Common,Common,Common,PORT_D
+6_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+6_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+6_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+6_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+6_4=Desert,No_Fill,Common,Common,Common,DSRT_B
+6_5=Desert,No_Fill,Common,Common,Common,PORT_D
+
+[Tile 14]
+art_idx=353
+encounter_difficulty=0
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+0_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+0_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+0_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+0_4=Desert,No_Fill,Common,Common,Common,DSRT_B
+0_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_4=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_4=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_4=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_0=Road,No_Fill,Common,Common,Common,ROAD_D
+4_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_4=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_0=Road,No_Fill,Common,Common,Common,ROAD_D
+5_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_4=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+6_0=City,No_Fill,Common,Common,Common,TUSN_D
+6_1=City,No_Fill,Common,Common,Common,TUSN_D
+6_2=City,No_Fill,Common,Common,Common,TUSN_D
+6_3=City,No_Fill,Common,Common,Common,TUSN_D
+6_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+
+[Tile 15]
+art_idx=354
+encounter_difficulty=0
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=City,No_Fill,Common,Common,Common,TUSN_D
+0_1=City,No_Fill,Common,Common,Common,TUSN_D
+0_2=City,No_Fill,Common,Common,Common,TUSN_D
+0_3=City,No_Fill,Common,Common,Common,TUSN_D
+0_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+0_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+1_0=City,No_Fill,Common,Common,Common,TUSN_D
+1_1=City,No_Fill,Common,Common,Common,TUSN_D
+1_2=City,No_Fill,Common,Common,Common,TUSN_D
+1_3=City,No_Fill,Common,Common,Common,TUSN_D
+1_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+1_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+2_0=City,No_Fill,Common,Common,Common,TUSN_D
+2_1=City,No_Fill,Common,Common,Common,TUSN_D
+2_2=City,No_Fill,Common,Common,Common,TUSN_D
+2_3=Mountain,No_Fill,Common,Common,Common,TUSN_M
+2_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+2_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+3_0=Mountain,No_Fill,Common,Common,Common,TUSN_M
+3_1=Mountain,No_Fill,Common,Common,Common,TUSN_M
+3_2=Mountain,No_Fill,Common,Common,Common,TUSN_M
+3_3=Mountain,No_Fill,Common,Common,Common,TUSN_M
+3_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+3_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+4_0=Mountain,No_Fill,Common,Common,Common,TUSN_M
+4_1=Mountain,No_Fill,Common,Common,Common,TUSN_M
+4_2=Mountain,No_Fill,Common,Common,Common,TUSN_M
+4_3=Mountain,No_Fill,Common,Common,Common,TUSN_M
+4_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+4_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+5_0=Mountain,No_Fill,Common,Common,Common,TUSN_M
+5_1=Mountain,No_Fill,Common,Common,Common,TUSN_M
+5_2=Mountain,No_Fill,Common,Common,Common,TUSN_M
+5_3=Mountain,No_Fill,Common,Common,Common,TUSN_M
+5_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+5_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_0=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_1=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_2=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_3=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+
+[Tile 16]
+art_idx=355
+encounter_difficulty=0
+walk_mask_name=wrldmp16
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Mountain,No_Fill,Common,Common,Common,ISLD_M
+0_1=Mountain,No_Fill,Common,Common,Common,ISLD_M
+0_2=Mountain,No_Fill,Common,Common,Common,ISLD_M
+0_3=Mountain,No_Fill,Common,Common,Common,ISLD_M
+0_4=Mountain,No_Fill,Common,Common,Common,ISLD_M
+0_5=Ocean,No_Fill,Common,Common,Common,ISLD_D
+1_0=Mountain,No_Fill,Common,Common,Common,ISLD_M
+1_1=Mountain,No_Fill,Common,Common,Common,ISLD_M
+1_2=Mountain,No_Fill,Common,Common,Common,ISLD_M
+1_3=Mountain,No_Fill,Common,Common,Common,ISLD_M
+1_4=Mountain,No_Fill,Common,Common,Common,ISLD_M
+1_5=Ocean,No_Fill,Common,Common,Common,ISLD_D
+2_0=Mountain,No_Fill,Common,Common,Common,ISLD_M
+2_1=Mountain,No_Fill,Common,Common,Common,ISLD_M
+2_2=Mountain,No_Fill,Common,Common,Common,ISLD_M
+2_3=Mountain,No_Fill,Common,Common,Common,ISLD_M
+2_4=Mountain,No_Fill,Common,Common,Common,ISLD_M
+2_5=Mountain,No_Fill,Common,Common,Common,ISLD_M
+3_0=Mountain,No_Fill,Common,Common,Common,ISLD_M
+3_1=Mountain,No_Fill,Common,Common,Common,ISLD_M
+3_2=Mountain,No_Fill,Common,Common,Common,ISLD_M
+3_3=Mountain,No_Fill,Common,Common,Common,ISLD_M
+3_4=Mountain,No_Fill,Common,Common,Common,ISLD_M
+3_5=Mountain,No_Fill,Common,Common,Common,ISLD_M
+4_0=Ocean,No_Fill,Common,Common,Common,ISLD_D
+4_1=Ocean,No_Fill,Common,Common,Common,ISLD_D
+4_2=Ocean,No_Fill,Common,Common,Common,ISLD_D
+4_3=Ocean,No_Fill,Common,Common,Common,ISLD_D
+4_4=Mountain,No_Fill,Common,Common,Common,ISLD_M
+4_5=Mountain,No_Fill,Common,Common,Common,ISLD_M
+5_0=Ocean,No_Fill,Common,Common,Common,ISLD_D
+5_1=Ocean,No_Fill,Common,Common,Common,ISLD_D
+5_2=Ocean,No_Fill,Common,Common,Common,ISLD_D
+5_3=Ocean,No_Fill,Common,Common,Common,ISLD_D
+5_4=Ocean,No_Fill,Common,Common,Common,ISLD_D
+5_5=Ocean,No_Fill,Common,Common,Common,ISLD_D
+6_0=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+6_1=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+6_2=Ocean,No_Fill,Common,Common,Common,ISLD_D
+6_3=Ocean,No_Fill,Common,Common,Common,ISLD_D
+6_4=Ocean,No_Fill,Common,Common,Common,ISLD_D
+6_5=Ocean,No_Fill,Common,Common,Common,ISLD_D
+
+[Tile 17]
+art_idx=356
+encounter_difficulty=0
+walk_mask_name=wrldmp17
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+0_1=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+0_2=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+0_3=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+0_4=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+0_5=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+1_0=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+1_1=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+1_2=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+1_3=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+1_4=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+1_5=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+2_0=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+2_1=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+2_2=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+2_3=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+2_4=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+2_5=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+3_0=Desert,No_Fill,Common,Common,Common,PORT_D
+3_1=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+3_2=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+3_3=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+3_4=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+3_5=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+4_0=Desert,No_Fill,Common,Common,Common,PORT_D
+4_1=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+4_2=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+4_3=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+4_4=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+4_5=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+5_0=Desert,No_Fill,Common,Common,Common,PORT_D
+5_1=Desert,No_Fill,Common,Common,Common,PORT_D
+5_2=Desert,No_Fill,Common,Common,Common,PORT_D
+5_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_4=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+5_5=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+6_0=Desert,No_Fill,Common,Common,Common,PORT_D
+6_1=Desert,No_Fill,Common,Common,Common,PORT_D
+6_2=Desert,No_Fill,Common,Common,Common,PORT_D
+6_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+6_4=Desert,No_Fill,Common,Common,Common,DSRT_B
+6_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+
+[Tile 18]
+art_idx=357
+encounter_difficulty=0
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+0_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+0_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+0_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+0_4=Desert,No_Fill,Common,Common,Common,DSRT_B
+0_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_4=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_4=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_4=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_4=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_4=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+6_0=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_1=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_2=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_3=Desert,No_Fill,Common,Common,Common,DSRT_B
+6_4=Desert,No_Fill,Common,Common,Common,DSRT_B
+6_5=Desert,No_Fill,Common,Common,Common,DSRT_B
+
+[Tile 19]
+art_idx=358
+encounter_difficulty=0
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Mountain,No_Fill,Common,Common,Common,TUSN_M
+0_1=Mountain,No_Fill,Common,Common,Common,TUSN_M
+0_2=Mountain,No_Fill,Common,Common,Common,TUSN_M
+0_3=Mountain,No_Fill,Common,Common,Common,TUSN_M
+0_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+0_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+1_0=Mountain,No_Fill,Common,Common,Common,TUSN_M
+1_1=Mountain,No_Fill,Common,Common,Common,TUSN_M
+1_2=Mountain,No_Fill,Common,Common,Common,TUSN_M
+1_3=Mountain,No_Fill,Common,Common,Common,TUSN_M
+1_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+1_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+2_0=Mountain,No_Fill,Common,Common,Common,TUSN_M
+2_1=Mountain,No_Fill,Common,Common,Common,TUSN_M
+2_2=Mountain,No_Fill,Common,Common,Common,TUSN_M
+2_3=Mountain,No_Fill,Common,Common,Common,TUSN_M
+2_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+2_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+3_0=Mountain,No_Fill,Common,Common,Common,TUSN_M
+3_1=Mountain,No_Fill,Common,Common,Common,TUSN_M
+3_2=Mountain,No_Fill,Common,Common,Common,TUSN_M
+3_3=Mountain,No_Fill,Common,Common,Common,TUSN_M
+3_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+3_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+4_0=Mountain,No_Fill,Common,Common,Common,TUSN_M
+4_1=Mountain,No_Fill,Common,Common,Common,TUSN_M
+4_2=Mountain,No_Fill,Common,Common,Common,TUSN_M
+4_3=Mountain,No_Fill,Common,Common,Common,TUSN_M
+4_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+4_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+5_0=Mountain,No_Fill,Common,Common,Common,TUSN_M
+5_1=Mountain,No_Fill,Common,Common,Common,TUSN_M
+5_2=Mountain,No_Fill,Common,Common,Common,TUSN_M
+5_3=Mountain,No_Fill,Common,Common,Common,TUSN_M
+5_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+5_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_0=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_1=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_2=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_3=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_4=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_5=Mountain,No_Fill,Common,Common,Common,TUSN_M
+
+[Tile 20]
+art_idx=441
+encounter_difficulty=0
+walk_mask_name=wrldmp20
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Ocean,Fill_W,Common,Common,Common,OCEAN_O
+0_1=Ocean,Fill_W,Common,Common,Common,OCEAN_O
+0_2=Ocean,Fill_W,Common,Common,Common,OCEAN_O
+0_3=Ocean,Fill_W,Common,Common,Common,OCEAN_O
+0_4=Ocean,Fill_W,Common,Common,Common,OCEAN_O
+0_5=Ocean,Fill_W,Common,Common,Common,OCEAN_O
+1_0=Ocean,Fill_W,Common,Common,Common,ISLD_D
+1_1=Ocean,Fill_W,Common,Common,Common,ISLD_D
+1_2=Ocean,Fill_W,Common,Common,Common,ISLD_D
+1_3=Ocean,Fill_W,Common,Common,Common,OCEAN_O
+1_4=Ocean,Fill_W,Common,Common,Common,OCEAN_O
+1_5=Ocean,Fill_W,Common,Common,Common,OCEAN_O
+2_0=Mountain,No_Fill,Common,Common,Common,ISLD_M
+2_1=Mountain,No_Fill,Common,Common,Common,ISLD_M
+2_2=Ocean,Fill_W,Common,Common,Common,ISLD_D
+2_3=Ocean,Fill_W,Common,Common,Common,ISLD_D
+2_4=Ocean,Fill_W,Common,Common,Common,OCEAN_O
+2_5=Ocean,Fill_W,Common,Common,Common,OCEAN_O
+3_0=Mountain,No_Fill,Common,Common,Common,ISLD_M
+3_1=Mountain,No_Fill,Common,Common,Common,ISLD_M
+3_2=Mountain,No_Fill,Common,Common,Common,ISLD_M
+3_3=Ocean,Fill_W,Common,Common,Common,ISLD_D
+3_4=Ocean,Fill_W,Common,Common,Common,ISLD_D
+3_5=Ocean,Fill_W,Common,Common,Common,OCEAN_O
+4_0=Mountain,No_Fill,Common,Common,Common,ISLD_M
+4_1=Mountain,No_Fill,Common,Common,Common,ISLD_M
+4_2=Mountain,No_Fill,Common,Common,Common,ISLD_M
+4_3=Mountain,No_Fill,Common,Common,Common,ISLD_M
+4_4=Ocean,No_Fill,Common,Common,Common,ISLD_D
+4_5=Ocean,Fill_W,Common,Common,Common,OCEAN_O
+5_0=Ocean,No_Fill,Common,Common,Common,ISLD_D
+5_1=Mountain,No_Fill,Common,Common,Common,ISLD_M
+5_2=Mountain,No_Fill,Common,Common,Common,ISLD_M
+5_3=Mountain,No_Fill,Common,Common,Common,ISLD_M
+5_4=Ocean,Fill_W,Common,Common,Common,ISLD_D
+5_5=Ocean,Fill_W,Common,Common,Common,ISLD_D
+6_0=Ocean,Fill_W,Common,Common,Common,ISLD_D
+6_1=Ocean,Fill_W,Common,Common,Common,ISLD_D
+6_2=Mountain,No_Fill,Common,Common,Common,ISLD_M
+6_3=Mountain,No_Fill,Common,Common,Common,ISLD_M
+6_4=Mountain,No_Fill,Common,Common,Common,ISLD_M
+6_5=Ocean,Fill_W,Common,Common,Common,ISLD_D
+
+[Tile 21]
+art_idx=442
+encounter_difficulty=0
+walk_mask_name=wrldmp21
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+0_1=Ocean,No_Fill,Common,Common,Common,ISLD_D
+0_2=Ocean,No_Fill,Common,Common,Common,ISLD_D
+0_3=Mountain,No_Fill,Common,Common,Common,ISLD_M
+0_4=Mountain,No_Fill,Common,Common,Common,ISLD_M
+0_5=Mountain,No_Fill,Common,Common,Common,ISLD_M
+1_0=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+1_1=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+1_2=Ocean,No_Fill,Common,Common,Common,ISLD_D
+1_3=Ocean,No_Fill,Common,Common,Common,ISLD_D
+1_4=Mountain,No_Fill,Common,Common,Common,ISLD_M
+1_5=Mountain,No_Fill,Common,Common,Common,ISLD_M
+2_0=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+2_1=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+2_2=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+2_3=Ocean,No_Fill,Common,Common,Common,ISLD_D
+2_4=Ocean,No_Fill,Common,Common,Common,ISLD_D
+2_5=Mountain,No_Fill,Common,Common,Common,ISLD_M
+3_0=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+3_1=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+3_2=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+3_3=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+3_4=Ocean,No_Fill,Common,Common,Common,ISLD_D
+3_5=Ocean,No_Fill,Common,Common,Common,ISLD_D
+4_0=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+4_1=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+4_2=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+4_3=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+4_4=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+4_5=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+5_0=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+5_1=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+5_2=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+5_3=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+5_4=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+5_5=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+6_0=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+6_1=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+6_2=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+6_3=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+6_4=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+6_5=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+
+[Tile 22]
+art_idx=443
+encounter_difficulty=0
+walk_mask_name=wrldmp22
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+0_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+0_2=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+0_3=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+0_4=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+0_5=Ocean,No_Fill,Common,Common,Common,OCEAN_O
+1_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+1_3=Desert,No_Fill,Common,Common,Common,MEXI_D
+1_4=Desert,No_Fill,Common,Common,Common,MEXI_D
+1_5=Desert,No_Fill,Common,Common,Common,MEXI_D
+2_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+2_3=Desert,No_Fill,Common,Common,Common,MEXI_D
+2_4=Desert,No_Fill,Common,Common,Common,MEXI_D
+2_5=Desert,No_Fill,Common,Common,Common,MEXI_D
+3_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+3_3=Desert,No_Fill,Common,Common,Common,MEXI_D
+3_4=Desert,No_Fill,Common,Common,Common,MEXI_D
+3_5=Desert,No_Fill,Common,Common,Common,MEXI_D
+4_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+4_3=Desert,No_Fill,Common,Common,Common,MEXI_D
+4_4=Desert,No_Fill,Common,Common,Common,MEXI_D
+4_5=Desert,No_Fill,Common,Common,Common,MEXI_D
+5_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+5_3=Desert,No_Fill,Common,Common,Common,MEXI_D
+5_4=Desert,No_Fill,Common,Common,Common,MEXI_D
+5_5=Desert,No_Fill,Common,Common,Common,MEXI_D
+6_0=Desert,No_Fill,Common,Common,Common,DSRT_B
+6_1=Desert,No_Fill,Common,Common,Common,DSRT_B
+6_2=Desert,No_Fill,Common,Common,Common,DSRT_B
+6_3=Desert,No_Fill,Common,Common,Common,MEXI_D
+6_4=Desert,No_Fill,Common,Common,Common,MEXI_D
+6_5=Desert,No_Fill,Common,Common,Common,MEXI_D
+
+[Tile 23]
+art_idx=444
+encounter_difficulty=0
+;x_offset_yoffset=тип карты, шанс утром, шанс днем, шанс вечером, название встречи
+0_0=Desert,No_Fill,Common,Common,Common,MEXI_D
+0_1=Desert,No_Fill,Common,Common,Common,MEXI_D
+0_2=Desert,No_Fill,Common,Common,Common,MEXI_D
+0_3=Desert,No_Fill,Common,Common,Common,MEXI_D
+0_4=Desert,No_Fill,Common,Common,Common,MEXI_D
+0_5=Desert,No_Fill,Common,Common,Common,MEXI_D
+1_0=Mountain,No_Fill,Common,Common,Common,TUSN_M
+1_1=Desert,No_Fill,Common,Common,Common,MEXI_D
+1_2=Desert,No_Fill,Common,Common,Common,MEXI_D
+1_3=Desert,No_Fill,Common,Common,Common,MEXI_D
+1_4=Desert,No_Fill,Common,Common,Common,MEXI_D
+1_5=Desert,No_Fill,Common,Common,Common,MEXI_D
+2_0=Mountain,No_Fill,Common,Common,Common,TUSN_M
+2_1=Mountain,No_Fill,Common,Common,Common,TUSN_M
+2_2=Mountain,No_Fill,Common,Common,Common,TUSN_M
+2_3=Desert,No_Fill,Common,Common,Common,MEXI_D
+2_4=Desert,No_Fill,Common,Common,Common,MEXI_D
+2_5=Desert,No_Fill,Common,Common,Common,MEXI_D
+3_0=Mountain,No_Fill,Common,Common,Common,TUSN_M
+3_1=Mountain,No_Fill,Common,Common,Common,TUSN_M
+3_2=Mountain,No_Fill,Common,Common,Common,TUSN_M
+3_3=Mountain,No_Fill,Common,Common,Common,MEXI_M
+3_4=Mountain,No_Fill,Common,Common,Common,MEXI_M
+3_5=Mountain,No_Fill,Common,Common,Common,MEXI_M
+4_0=Mountain,No_Fill,Common,Common,Common,TUSN_M
+4_1=Mountain,No_Fill,Common,Common,Common,TUSN_M
+4_2=Mountain,No_Fill,Common,Common,Common,TUSN_M
+4_3=Mountain,No_Fill,Common,Common,Common,MEXI_M
+4_4=Mountain,No_Fill,Common,Common,Common,MEXI_M
+4_5=Mountain,No_Fill,Common,Common,Common,MEXI_M
+5_0=Mountain,No_Fill,Common,Common,Common,TUSN_M
+5_1=Mountain,No_Fill,Common,Common,Common,TUSN_M
+5_2=Mountain,No_Fill,Common,Common,Common,TUSN_M
+5_3=Mountain,No_Fill,Common,Common,Common,MEXI_M
+5_4=Mountain,No_Fill,Common,Common,Common,MEXI_M
+5_5=Mountain,No_Fill,Common,Common,Common,MEXI_M
+6_0=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_1=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_2=Mountain,No_Fill,Common,Common,Common,TUSN_M
+6_3=Mountain,No_Fill,Common,Common,Common,MEXI_M
+6_4=Mountain,No_Fill,Common,Common,Common,MEXI_M
+6_5=Mountain,No_Fill,Common,Common,Common,MEXI_M

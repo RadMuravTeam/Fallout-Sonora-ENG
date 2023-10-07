@@ -1,0 +1,1 @@
+{100}{}{Something is holding the door firmly from the inside.}
