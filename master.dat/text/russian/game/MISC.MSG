@@ -20,7 +20,7 @@
 {16}{}{Health}
 {17}{}{The motion sensor is not installed.}
 {18}{}{The motion sensor has run out of power.}
-{20}{}{11.09.23 [ReBuild by Foxx] ENG: Violator, Adolf, and rockerdahedgehog}
+{20}{}{11.09.23 [ReBuild by Foxx] ENG: RadMurav Team}
 
 {30}{}{Do you want to continue the game?}
 {50}{}{To start the game, insert the disc!}
