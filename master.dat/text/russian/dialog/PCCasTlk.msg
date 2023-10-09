@@ -73,7 +73,7 @@
 {266}{}{Never mind, never mind. I'm, uh, going to play roulette. Be there.}
 {267}{}{Come on, loser. I hope our paths will never cross again.}
 
-{268}{}{On the way we came across an old motel. It didn't look completely abandoned. On the contrary, the doors to the restaurant were open and beckoned with advertisements for life-giving kola kernels.}
+{268}{}{On the way we came across an old motel. It didn't look completely abandoned. On the contrary, the doors to the restaurant were open and beckoned with advertisements for life-giving Nuka-Cola.}
 {269}{}{Was there someone inside?}
 {270}{}{There was water and food inside. As a result, we all lost our heads. The water turned out to be poisoned, and the territory of the motel is riddled with deadly traps. Only I could get out of there alive.}
 {271}{}{Who could have arranged such a thing?}

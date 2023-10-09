@@ -139,8 +139,8 @@
 {1342}{}{No, I didn't think about that somehow, I'm sorry.}
 {343}{}{Maybe I would teach you for free, but when you pay for training, you appreciate it much more.}
 {344}{}{Yes, of course.}
-{345}{}{Here are the covers. What are we going to do today?}
-{346}{}{Sounds inspiring. And you can keep the lids. Today I train for you for free. Just because I like you.}
+{345}{}{Here are the caps. What are we going to do today?}
+{346}{}{Sounds inspiring. And you can keep the caps. Today I train for you for free. Just because I like you.}
 {347}{}{Cool. What are we going to do today?}
 {348}{}{I've heard rumors that you're involved in the murder of some children. I don't know if this is true, but I trust my source. From this day on, you are no longer my disciple. Go away.}
 {1348}{}{I've heard rumors that you're involved in the murder of children. I don't know if it's true, but I don't want to check either. I don't want to see you from now on. Get out.}

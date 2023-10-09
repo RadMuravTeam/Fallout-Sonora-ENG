@@ -1,6 +1,6 @@
 {100}{}{Here is a trader Flick.}
 {101}{}{This is Flick, a traveling merchant.}
-{102}{}{No more kola kernels... honestly.}
+{102}{}{No more Nuka-Cola... honestly.}
 {103}{}{The merchant lost the harmful goods. It remains to report the success to Commander Helford.}
 
 #Start of the dialog
@@ -67,14 +67,14 @@
 #Dialog on the road map
 {300}{}{What do you want? Did the Rangers send you?}
 {301}{}{I hear a note of nervousness in your words. You know they're already looking for you, right?}
-{302}{}{Yes, I know. But first prove that the epidemic was caused by an irradiated cola! My product was *safe*. Got it?}
+{302}{}{Yes, I know. But first prove that the epidemic was caused by an irradiated Nuka-cola! My product was *safe*. Got it?}
 {303}{}{That's what everyone says. How about checking with a radiometer?}
 {304}{}{Thu... The hell I'm going to let you near my product. Step away from the cart!}
 {305}{}{...}
 
 {310}{}{Leave me alone. I will not give away my goods.}
 {311}{}{Well, that's fine.}
-{312}{}{I can buy back all the irradiated nuclear cola.}
+{312}{}{I can buy back all the irradiated Nuka-cola.}
 {313}{}{This will cost you a round sum of caps. But I'm always happy to exchange junk for something useful. Show me what you have.}
 {314}{}{[Next]}
 {315}{}{See you later.}

@@ -16,21 +16,21 @@
 {208}{}{All other roads are extremely dangerous. But there's no need to go that far. I know one shortcut. I can spend it, but not for free. How many Hubbucks do you have?}
 {209}{}{Hubbucks?}
 {210}{}{So, you're offering something obviously illegal. I'm not going to go that far. Goodbye.}
-{211}{}{Covers! Bottle caps! They were invented in the Hub to replace pre-war money. So how many bottle caps do you have?}
+{211}{}{Caps! Bottle caps! They were invented in the Hub to replace pre-war money. So how many bottle caps do you have?}
 {212}{}{I don't have any bottle caps.}
 {213}{}{I don't have any hubbucks.}
-{214}{}{You're lying. I know you came here with lids. From where? (he pokes his temple with his finger) X-ray vision. Hehe, a joke.}
-{1214}{}{You're lying. I know you came here with lids. From where? (he pokes his temple with his finger) X-ray vision. Hehe, a joke.}
+{214}{}{You're lying. I know you came here with caps. From where? (he pokes his temple with his finger) X-ray vision. Hehe, a joke.}
+{1214}{}{You're lying. I know you came here with caps. From where? (he pokes his temple with his finger) X-ray vision. Hehe, a joke.}
 #Note: In fact, this is not X-ray vision, just a gul guide studied GG and his belongings while sleeping at one of the parking lots.
 {215}{}{You're delusional, old man. I'd better get out of here.}
-{216}{}{Okay, here are all my covers. Now take me to the city!}
+{216}{}{Okay, here are all my caps. Now take me to the city!}
 {217}{}{Now — tilt your head... Don't worry, I'll take this bag off when we go out into the city. Trust me. Hehe, you're not the first one I've led across the border.}
 {1217}{}{Now — tilt your head... Don't worry, I'll take this bag off when we go out into the city. Trust me. Hehe, you're not the first one I've led across the border.}
 {218}{}{Uv... Okay. But be careful.}
 {219}{}{Don't even try to deceive me, old man.}
 {220}{}{I believe. It's stupid, of course, to go across the border without any money at all. What should I do with you now? All right, bring me three cans of good old Mexican beer. They can still be found in the ruins on Revolution Avenue.}
 {221}{}{I hope they really are there.}
-{222}{}{What about irradiated nuclear cola? I found five whole bottles in the ruins.}
+{222}{}{What about irradiated Nuka-cola? I found five whole bottles in the ruins.}
 {223}{}{I have five bottles of non-irradiated core Cola. Will they suit you?}
 {224}{}{Here are three cans of old beer.}
 {225}{}{It's a deal. Apparently, there's nothing more to take from you.}

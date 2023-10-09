@@ -1793,7 +1793,7 @@
 {93501}{}{A bunch of old cardboard boxes. It's hard to believe that they were able to survive for such a long time.}
 {93600}{}{Boxes}
 {93601}{}{A bunch of old cardboard boxes. It's hard to believe that they were able to survive for such a long time.}
-{93700}{}{Vending machine with a core-cola}
+{93700}{}{Vending machine with a Nuka-cola}
 {93701}{}{The advertisement on board this vending machine depicts a popular drink.}
 {93800}{}{Table}
 {93801}{}{A fairly ordinary wooden table.}
@@ -3800,7 +3800,7 @@
 {198300}{}{Advertising}
 {198301}{}{A large advertising poster from the old days.}
 {198400}{}{Advertising}
-{198401}{}{A large sign with the logo of Kola kernels.}
+{198401}{}{A large sign with the logo of Nuka-Cola.}
 {198500}{}{Information stand}
 {198501}{}{The schedule of film screenings is shown here.}
 {198600}{}{Cinema screen}
@@ -4065,7 +4065,7 @@
 {212001}{}{This is an old rusted observation tower.}
 {212100}{}{Shadow}
 {212200}{}{Hammering machine}
-{212201}{}{Here is an installation for the production of covers.}
+{212201}{}{Here is an installation for the production of caps.}
 {212300}{}{Fence}
 {212301}{}{A large fence protecting the settlement from the outside world.}
 {212400}{}{Decoration}

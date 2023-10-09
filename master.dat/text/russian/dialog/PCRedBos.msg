@@ -195,7 +195,7 @@
 {385}{}{Okay...}
 {386}{}{Tell me the truth, Orris. As a partner to a partner. Are you involved in this?}
 {387}{}{After our common affairs, you can trust me. Are you involved in this?}
-{388}{}{We're just surviving. Lids are never superfluous. Especially so light.}
+{388}{}{We're just surviving. Caps are never superfluous. Especially so light.}
 {389}{}{What do you mean? Did they help you?}
 {390}{}{Sectarians, fuck them. They had connections with someone at the station. With someone who was interested in sabotage. My guys just went into the open basement and blew up the pipes. What could be simpler? But keep in mind - I didn't tell you that.}
 {391}{}{Okay, Orris. No problem.}

@@ -39,9 +39,9 @@
 {231}{}{Ah, conscience is tormented, right? Of course, to steal an important thing from an autistic person and then walk without a headache is to be a completely finished scumbag. But why should I listen to you, and not return the disk to its rightful owner?}
 {232}{}{I just need a copy to return the original to him. Can you imagine, right?}
 {233}{}{Oh, it changes a lot. Good. I'll make a copy for }
-{234}{}{ hubbucks. Covers forward.}
-{235}{}{Wait a bit, I'll go get the lids.}
-{236}{}{Then do it. Here are the covers and the disk.}
+{234}{}{ hubbucks. Caps forward.}
+{235}{}{Wait a bit, I'll go get the caps.}
+{236}{}{Then do it. Here are the caps and the disk.}
 {237}{}{You have received a copy of the holodisk.}
 
 {250}{}{I need to upgrade my weapon.}

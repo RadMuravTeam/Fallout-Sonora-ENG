@@ -16,7 +16,7 @@
 {208}{}{}
 {209}{}{(silently holds out the begging jar)}
 {210}{}{I don't have anything of value either. Maybe another time.}
-{211}{}{Here's one cover, don't deny yourself anything.}
+{211}{}{Here's one cap, don't deny yourself anything.}
 {212}{}{Keep two caps, you deserve it.}
 {213}{}{Take these three caps and spend them on food.}
 {214}{}{Today I am generous. Here are four bottlecaps.}

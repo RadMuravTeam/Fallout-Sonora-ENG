@@ -12,7 +12,7 @@
 {212}{}{Night is coming soon. Let's hurry up, okay?}
 {220}{}{What kind of place is this anyway?}
 
-{221}{}{Pre-war warehouse of cola kernels. Apparently, the drink was stored here and then taken to the shops. The factory itself, where it was bottled, was destroyed by a nuclear explosion.}
+{221}{}{Pre-war warehouse of Nuka-Cola. Apparently, the drink was stored here and then taken to the shops. The factory itself, where it was bottled, was destroyed by a nuclear explosion.}
 {222}{}{It's amazing why this place hasn't been looted by scavengers yet?}
 {223}{}{It's hard to get here because of the surrounding ruins, so many people just don't know about it. In addition, there is a nuclear explosion zone nearby, which scares many away. And, of course, the damn robots.}
 {224}{}{Any ideas on how to disable robots?}

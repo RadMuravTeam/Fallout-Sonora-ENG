@@ -16,8 +16,8 @@
 {211}{}{Nothing. See you later.}
 {212}{}{See you later, Mr. De-Santi.}
 {213}{}{See you again, Mr. De-Santi.}
-{214}{}{Vs-s-s, a-ah! I love the smell of lids before going to bed. Okay, baby, you really deserve half.}
-{215}{}{(shakes the bag with the lids) Ah! I like to listen to the clink of lids during lunch. Okay, baby, you really deserve half.}
+{214}{}{Vs-s-s, a-ah! I love the smell of caps before going to bed. Okay, baby, you really deserve half.}
+{215}{}{(shakes the bag with the caps) Ah! I like to listen to the clink of caps during lunch. Okay, baby, you really deserve half.}
 
 #Quests
 {220}{}{Have you tried to get rid of the distraught in the next building?}
@@ -46,12 +46,12 @@
 {240}{}{He's bartering right at the entrance, taking part of the sales proceeds from me. It doesn't suit me! Do something with it.}
 {241}{}{OK.}
 {242}{}{Is there more work?}
-{243}{}{One worthless body escaped to the Old City without paying me the lids due for services.}
+{243}{}{One worthless body escaped to the Old City without paying me the caps due for services.}
 {244}{}{What is the name of this body?}
 {245}{}{His name is Kurt. He owes me 300 caps. Shake them out of him and half is yours.}
 {246}{}{Okay.}
-{247}{}{Here are the covers that Kurt owed — exactly 300 pieces.}
-{248}{}{Vs-s-s, a-ah! I love the smell of lids in the morning. Okay, baby, you really deserve half.}
+{247}{}{Here are the caps that Kurt owed — exactly 300 pieces.}
+{248}{}{Vs-s-s, a-ah! I love the smell of caps in the morning. Okay, baby, you really deserve half.}
 {249}{}{Well, of course.}
 
 {250}{}{It seems like everything is falling apart here. Do you need an employee?}
@@ -121,7 +121,7 @@
 {301}{}{Sorry, kid, but my services are not suitable for smooth-skinned people.}
 {1301}{}{Sorry, baby, but my services are not suitable for smooth-skinned.}
 {302}{}{Very sorry.}
-{303}{}{Don't fit at all? But my lids are begging to be spent.}
+{303}{}{Don't fit at all? But my caps are begging to be spent.}
 {304}{}{Admit it, you just hate smooth-skinned people, right?}
 {305}{}{It's just business, kid. It's not in my interest for the client to be hard boiled. But since you're so sensitive, I can tell my ghoul friends that you're a good smooth-skinned one. It will cost you in }
 {1305}{}{It's just business, baby. It's not in my interest for the client to be hard boiled. But since you're so sensitive, I can tell my ghoul friends that you're a good smooth-skinned one. It will cost you in }
@@ -138,13 +138,13 @@
 {320}{}{To begin with, I advise you to take healing baths with my charming bath attendant. And if there is nowhere to put time and money, then I can offer a full rest at the hotel with watching movies, music and medical procedures. A service specifically for mutants and ghouls!}
 {321}{}{I think I'll do with a simple ablution for now. How much does it cost?}
 {322}{}{ caps.}
-{323}{}{Good. Here are the covers.}
+{323}{}{Good. Here are the caps.}
 {324}{}{I'll think. And how much does a full wellness complex cost?}
 {325}{}{Maybe another time.}
 {326}{}{I was interested in the second option.}
 {327}{}{For }
-{328}{}{ lids we will arrange a full range of procedures from uranium ablutions and massage to meditation and mushroom smoking. An ordinary ghoul then throws off the dirt, how much he has been saving up for ten years.}
-{329}{}{I like that! Here are the covers, I'm all at your disposal.}
+{328}{}{ caps we will arrange a full range of procedures from uranium ablutions and massage to meditation and mushroom smoking. An ordinary ghoul then throws off the dirt, how much he has been saving up for ten years.}
+{329}{}{I like that! Here are the caps, I'm all at your disposal.}
 {330}{}{I don't have that much money. But taking a bath would probably be nice.}
 {331}{}{Yes, for such money, I will arrange all these procedures for myself! Be.}
 {1331}{}{Yes, for such money, I will arrange all these procedures for myself! Be.}

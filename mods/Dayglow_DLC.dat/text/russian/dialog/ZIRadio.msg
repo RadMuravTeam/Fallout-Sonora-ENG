@@ -122,7 +122,7 @@
 {376}{}{... Hey, traveler! Tired from the road? Was the desert exhausting on the way? Then wrap it up in the Hub!}
 {377}{}{[Next]}
 {378}{}{Here you will find everything you need for a holiday: bars, hotels, a huge market ... and, of course, the unforgettable Maltese Falcon cafe! In it you can relax and forget about the claws of death and bandits from the high road.}
-{379}{}{You want to freshen up. We have stocks of cola kernels! And for lovers of something hot, we will always pour a mug of the legendary Khab rum.}
+{379}{}{You want to freshen up. We have stocks of Nuka-Cola! And for lovers of something hot, we will always pour a mug of the legendary Khab rum.}
 {380}{}{Hey, what about slot machines? Oh, yes, baby, there are very few of them left in modern California. Don't miss this opportunity!}
 {381}{}{And of course, our ladies will always TAKE CARE of dear customers who were too LONELY on the road. Check out the Maltese Falcon. The hub is waiting for you! (old music starts again)}
 {382}{}{Eh, it's too far. Besides, I need to go in a completely different direction...}

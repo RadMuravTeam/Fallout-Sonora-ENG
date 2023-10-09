@@ -14,7 +14,7 @@
 {114}{}{Force field}
 {115}{}{Force field emitter}
 {116}{}{The door}
-{117}{}{The machine for kola kernels}
+{117}{}{The machine for Nuka-Cola}
 {118}{}{Barrier}
 {119}{}{Light source}
 {120}{}{}

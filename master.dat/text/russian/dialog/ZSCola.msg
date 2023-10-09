@@ -8,6 +8,6 @@
 {117}{}{You opened a container with drinks. It's time to see what's left inside.}
 {118}{}{Now that the machine is open, it doesn't make sense.}
 {119}{}{You have received a bottle of warm, exhausted core Cola.}
-{120}{}{The vending machine ran out of stocks of cola kernels.}
+{120}{}{The vending machine ran out of stocks of Nuka-Cola.}
 {121}{}{}
 {122}{}{You can't bypass the protective mechanism of the machine.}

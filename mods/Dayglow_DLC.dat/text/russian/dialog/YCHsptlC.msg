@@ -11,7 +11,7 @@
 {201}{}{Oh, brother, help me. These bandits won't let me live.}
 {1201}{}{Oh, sister, help me. These bandits won't let me live.}
 {202}{}{I'm going to untie you now... Now let's get out of here. Just be quiet!}
-{203}{}{I see you're in trouble. I can help if you tell me where the lids are.}
+{203}{}{I see you're in trouble. I can help if you tell me where the caps are.}
 {204}{}{I'll tell you! Just get me out of here.}
 {205}{}{I don't care about you. Lie down and keep quiet.}
 {206}{}{Hey guys! There's some normie wandering around!}

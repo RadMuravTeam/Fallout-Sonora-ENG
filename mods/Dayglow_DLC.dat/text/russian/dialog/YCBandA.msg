@@ -61,7 +61,7 @@
 {260}{}{Can you at least pay me for this job?}
 {261}{}{To be honest, I don't have any caps right now. How about a share of the first fees?}
 {262}{}{I'm in. I'll find you some strings.}
-{263}{}{I don't need any lids or extra hassle. Be.}
+{263}{}{I don't need any caps or extra hassle. Be.}
 {264}{}{Sorry, it's not for me. Goodbye.}
 {265}{}{Do you know where you can find guitar strings?}
 {266}{}{I have already climbed all the local ruins, there are no strings here. It remains only to visit Tijuana. At one time there was a Mariachi museum and several beautiful performance stages. And now there are crowds of robots and mutants.}

@@ -26,7 +26,7 @@
 {133}{}{Look at your ugly face, dead guy.}
 {134}{}{Don't argue with me, freak.}
 {135}{}{Tell me, you disgusting mug, where do you keep all the most valuable things?}
-{136}{}{I ask for the last time: where are the covers?}
+{136}{}{I ask for the last time: wHere are the caps?}
 {137}{}{}
 {138}{}{}
 {139}{}{}

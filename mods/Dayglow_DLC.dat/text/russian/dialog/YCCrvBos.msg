@@ -35,7 +35,7 @@
 {230}{}{I have }
 {231}{}{.}
 {232}{}{Great job! Here are your 400 caps. And I'll take this to the Hub.}
-{233}{}{Thanks for the covers.}
+{233}{}{Thanks for the caps.}
 {234}{}{You have completely closed the Truckers' contract. Great job!}
 {235}{}{Good to see you.}
 {236}{}{Bye.}

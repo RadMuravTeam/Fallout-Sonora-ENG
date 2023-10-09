@@ -214,9 +214,9 @@
 {10401}{}{High-tech pre-war armor with the distinctive signs of the New Mexican Republic.}
 {10500}{}{Hiking flask}
 {10501}{}{This flask is a gift from the residents of the Vault. It will make it easier for you to travel through the arid barren desert.}
-{10600}{}{Kernel-cola}
+{10600}{}{Nuka-cola}
 {10601}{}{A bottle with a popular pre-War flavored soft drink. Warm and exhausted. Effects: +(3-5) health.}
-{10700}{}{Irradiated nuclear cola}
+{10700}{}{Irradiated Nuka-cola}
 {10701}{}{A wonderful pre-war drink in a slightly dirty bottle. It has a wonderful taste and a very dubious glow in the dark. Effects: +(3-5) health, +3 rad.}
 {10800}{}{Purified water}
 {10801}{}{This vessel contains life-giving drinking water, purified from sewage and radiation. It should be used very sparingly, especially when traveling. Effects: +(7-10) health.}
@@ -635,7 +635,7 @@
 {31301}{}{Apparently, this is a moonshine machine running on firewood.}
 {31400}{}{Backpack}
 {31401}{}{Someone left this hiking backpack with all his things here.}
-{31500}{}{Vending machine with a core-cola}
+{31500}{}{Vending machine with a Nuka-cola}
 {31501}{}{The advertisement on board this vending machine depicts a popular drink.}
 {31600}{}{The corpse of a prisoner}
 {31601}{}{The stiffened corpse of an escaped prisoner.}
@@ -768,8 +768,8 @@
 {37901}{}{Here is a helmet from the T51b power armor.}
 {38000}{}{Power Armor Processor}
 {38001}{}{Here is a processor from the T51b power armor.}
-{38100}{}{Box with lids}
-{38101}{}{A box filled to the top with the most valuable caps from cola kernels. This is a fortune for an ordinary citizen.}
+{38100}{}{Box with caps}
+{38101}{}{A box filled to the top with the most valuable caps from Nuka-Cola. This is a fortune for an ordinary citizen.}
 {38200}{}{Wooden figurine}
 {38201}{}{A figurine of a long-extinct animal. Roughly carved from real wood.}
 {38300}{}{!Do not use}

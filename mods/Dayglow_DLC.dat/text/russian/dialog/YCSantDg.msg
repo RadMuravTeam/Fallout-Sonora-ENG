@@ -1,8 +1,8 @@
 {100}{}{This is Kurt.}
 {101}{}{Before you is an ordinary ghoul.}
-{102}{}{I don't have any lids! NO WAY! NONE!}
-{103}{}{OKAY! All right! Here are the covers. Just don't hit me anymore!}
-{104}{}{OKAY! All right! Here are all my covers. I don't have any more!}
+{102}{}{I don't have any caps! NO WAY! NONE!}
+{103}{}{OKAY! All right! Here are the caps. Just don't hit me anymore!}
+{104}{}{OKAY! All right! Here are all my caps. I don't have any more!}
 {105}{}{Kurt gives up.}
 {106}{}{Oh, what do you want from me?}
 {107}{}{What a fool!}
@@ -15,5 +15,5 @@
 {205}{}{Don't fill me in here. Drive the covers!}
 {206}{}{Mr. De-Santi won't leave you alone.}
 {207}{}{I'm not going to pay! If you need it, you pay him!}
-{208}{}{Then I'll take the covers by force. Turn out your pockets!}
+{208}{}{Then I'll take the caps by force. Turn out your pockets!}
 {209}{}{Okay, I'll have to pay for you instead.}

@@ -17,7 +17,7 @@
 {210}{}{Hey, wait, I actually have 1000 caps. Now bring the goods.}
 {211}{}{That's what I understand — business people! Well, all the best, partner.}
 {212}{}{Goodbye.}
-{213}{}{And now give the covers back, you idiot.}
+{213}{}{And now give the caps back, you idiot.}
 {214}{}{Aren't you lying? I was told that Steve Morgan had gone down this road.}
 {215}{}{No, I'm not Steve Morgan. And why do you need it?}
 {216}{}{Don't talk your teeth into me. Answer me, motherfucker, are you Steve Morgan?}

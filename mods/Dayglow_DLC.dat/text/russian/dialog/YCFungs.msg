@@ -4,7 +4,7 @@
 
 {120}{}{I feel like a million.}
 {121}{}{I'm Peck. Paxter. Do you want to sleep with me?}
-{122}{}{Do you know how many lids I have? And I don't have lids. And I'm happy!}
+{122}{}{Do you know how many caps I have? And I don't have caps. And I'm happy!}
 {123}{}{I didn't have any money before. Now no one has any money.}
 {124}{}{I live like the star of a TV show.}
 {125}{}{This is the best place in the world. Wee-ee-ee!}

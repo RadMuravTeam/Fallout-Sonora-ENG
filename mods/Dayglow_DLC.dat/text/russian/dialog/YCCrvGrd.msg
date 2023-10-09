@@ -19,6 +19,6 @@
 
 {130}{}{After the explosion on the island, it became clear that NOTHING could be taken out of here.}
 {131}{}{Gustavo is trying to drive us out of town. He's crazy!}
-{132}{}{Butler reached the military base. Soon we will be swimming in lids!}
+{132}{}{Butler reached the military base. Soon we will be swimming in caps!}
 {133}{}{}
 {134}{}{Ghouls scurry like ants after napalm. This is the first time I've seen this. Well, that's good for our wallet.}

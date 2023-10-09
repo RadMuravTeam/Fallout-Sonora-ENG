@@ -6,7 +6,7 @@
 {104}{}{Run, normie, run! If I catch it, I'll cook it for dinner.}
 {105}{}{There's really nothing special here. Enjoy the afterlife.}
 
-{200}{}{Hey, you cheeky face. Come here. Are there covers?}
+{200}{}{Hey, you cheeky face. Come here. Are there caps?}
 {201}{}{There are.}
 {202}{}{Give me 10 caps. And hurry up.}
 {203}{}{Okay, here are 10 caps. All for you guys.}
@@ -25,9 +25,9 @@
 {216}{}{No.}
 {217}{}{I do not believe. Show me what's in your backpack.}
 {218}{}{Here, look.}
-{219}{}{I thought so. Only lies can be heard from smooth-faced people. As a punishment for cheating, I'm taking ALL your lids. Now disappear.}
+{219}{}{I thought so. Only lies can be heard from smooth-faced people. As a punishment for cheating, I'm taking ALL your caps. Now disappear.}
 {220}{}{Whatever you say...}
-{221}{}{Get my covers back, you bastard!}
+{221}{}{Get my cap back, you bastard!}
 {222}{}{Here, look.}
 {223}{}{Ugh! You're of no use. Get off my street.}
 {224}{}{With great pleasure.}
@@ -37,11 +37,11 @@
 {228}{}{Stop! I'm talking to you, fucking normie.}
 {229}{}{[Ignore]}
 {230}{}{What do you want?}
-{231}{}{Okay, I have the covers. How much do you need?}
-{232}{}{But I don't have lids.}
+{231}{}{Okay, I have the caps. How much do you need?}
+{232}{}{But I don't have caps.}
 {233}{}{Go to hell.}
 {234}{}{Why would I give you caps?}
-{235}{}{This is the price for having to put up with your nasty smooth face in my beautiful city. Give me the covers, now.}
+{235}{}{This is the price for having to put up with your nasty smooth face in my beautiful city. Give me the caps, now.}
 
 {250}{}{Senor, my respects! For the first time in the city? I would show you all the sights. For just 10 caps.}
 {1250}{}{Senora, my respects! For the first time in the city? I would show you all the sights. For just 10 caps.}

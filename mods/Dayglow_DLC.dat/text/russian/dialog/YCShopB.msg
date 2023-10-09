@@ -28,7 +28,7 @@
 {230}{}{Have you still not found the fuel controller for Rutger?}
 {231}{}{He was definitely here! I rummaged through all the boxes, but I couldn't find it.}
 {232}{}{Who else could have seen it?}
-{233}{}{Well, the courier Steve Morgan brought this thing. It seems that after that he went to burn the lids in the bar. I haven't seen him since.}
+{233}{}{Well, the courier Steve Morgan brought this thing. It seems that after that he went to burn the caps in the bar. I haven't seen him since.}
 {234}{}{I'll try to find him there. Later.}
 
 {240}{}{I'm looking for a dead guy named Rupert. Do you know where he is?}

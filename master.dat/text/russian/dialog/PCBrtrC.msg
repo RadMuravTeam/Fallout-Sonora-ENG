@@ -80,7 +80,7 @@
 {283}{}{That's lucky. And you certainly don't know where to get more, right? Just know that these jumpsuits are a real find. If you find more, bring it to me, I'll buy it for real caps at an increased price.}
 {284}{}{OK. But before that, I want to look at your products.}
 {285}{}{I'm going on a search right now.}
-{286}{}{Here's the coverall from the Vault you wanted.}
+{286}{}{Here's the overall from the Vault you wanted.}
 {287}{}{Super! I'm finally going to change out of this smelly jacket. Hey, don't forget the caps. And thank you.}
 {288}{}{Please.}
 {289}{}{The main thing is the bottlecaps. And keep the gratitude for yourself.}
@@ -89,7 +89,7 @@
 {292}{}{[Next]}
 {293}{}{Besides, my parents had such a jumpsuit. This is a special memory for me. Unfortunately, that jumpsuit has long since decayed.}
 {294}{}{A curious story.}
-{295}{}{I have a coverall from the Vault for you.}
+{295}{}{I have a overall from the Vault for you.}
 {296}{}{More? Wow, and you know how to get good things. Here are the bottlecaps.}
 {297}{}{You're welcome.}
 {298}{}{Great. But I need something else.}
