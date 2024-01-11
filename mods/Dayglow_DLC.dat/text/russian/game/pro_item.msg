@@ -453,7 +453,7 @@
 {22201}{}{An artfully made clay pot.}
 {22300}{}{Potty}
 {22301}{}{An artfully made clay pot.}
-{22400}{}{Mailbox}
+{22400}{}{Box}
 {22401}{}{A wooden box filled with various things.}
 {22500}{}{Things}
 {22501}{}{A variety of objects that can be called in one word "things".}
