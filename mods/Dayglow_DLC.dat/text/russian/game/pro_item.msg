@@ -863,7 +863,7 @@
 {42700}{}{Hangar key}
 {42701}{}{This key opens the gates of the hangar on the plantations of the Villa.}
 {42800}{}{Family heirlooms}
-{42801}{}{A blue jumpsuit, an armband computer and a hiking flask. These things were passed down in your dynasty from generation to generation and have now rightfully passed to you.}
+{42801}{}{A blue jumpsuit, an armband computer and a hiking flask. These things were passed down in your family from generation to generation and are now rightfully passed on to you.}
 {42900}{}{Monster Skull}
 {42901}{}{The head of a monster. Even in dead form, this object looks terrifying.}
 {43000}{}{Motorcycle key}
