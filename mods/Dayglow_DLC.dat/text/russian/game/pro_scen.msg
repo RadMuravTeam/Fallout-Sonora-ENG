@@ -2003,7 +2003,7 @@
 {104001}{}{These wooden boxes are falling apart from the wind.}
 {104100}{}{Mailbox}
 {104101}{}{Wooden box. It doesn't seem to be in such a bad condition.}
-{104200}{}{Mailbox}
+{104200}{}{Box}
 {104201}{}{A simple wooden box. In fairly good condition.}
 {104300}{}{Mailbox}
 {104301}{}{This simple wooden box collapsed under its own weight.}
