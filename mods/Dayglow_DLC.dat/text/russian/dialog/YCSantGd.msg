@@ -1,5 +1,5 @@
 {100}{}{You see the bodyguard De Santis.}
-{101}{}{A ghoul in combat armor.}
+{101}{}{You see a ghoul in combat armor.}
 
 {110}{}{Welcome to the ghoul paradise.}
 {111}{}{Keep quiet while you're at the hotel... If possible.}
