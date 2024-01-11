@@ -25,7 +25,7 @@
 {1300}{}{*Floor marking}
 {1301}{}{Auxiliary object for marking buildings.}
 {1400}{}{*Road marking}
-{1401}{}{Auxiliary object for marking paths, roads, highways.}
+{1401}{}{Auxiliary object for marking paths, roads, and highways.}
 {1500}{}{Tumbleweed}
 {1501}{}{It's a tumbleweed. Naturally, you've never seen a real tumbleweed before. Keep an eye on him.}
 {1600}{}{Shrub}
@@ -775,26 +775,26 @@
 {40501}{}{There is a bolt in this gate that goes down and up.}
 {40600}{}{Gates}
 {40601}{}{There is a bolt in this gate that goes down and up.}
-{40700}{}{The cart}
+{40700}{}{Caravan wagon}
 {40701}{}{A caravan wagon, converted from the broken body of an ancient car.}
-{40800}{}{The cart}
+{40800}{}{Caravan wagon}
 {40801}{}{A caravan wagon converted from the broken body of an ancient car.}
-{40900}{}{The cart}
+{40900}{}{Caravan wagon}
 {40901}{}{A caravan wagon converted from the broken body of an ancient car.}
-{41000}{}{The cart}
+{41000}{}{Caravan wagon}
 {41001}{}{A caravan wagon converted from the broken body of an ancient car.}
-{41100}{}{The cart}
+{41100}{}{Caravan wagon}
 {41101}{}{A caravan wagon, converted from the broken body of an ancient car.}
-{41200}{}{The cart}
+{41200}{}{Caravan wagon}
 {41201}{}{A caravan wagon, converted from the broken body of an ancient car.}
-{41300}{}{The cart}
-{41301}{}{The transportation vehicle of the ancients, driven by human efforts.}
-{41400}{}{The cart}
-{41401}{}{The transportation vehicle of the ancients, driven by human efforts.}
-{41500}{}{The cart}
-{41501}{}{The transportation vehicle of the ancients, driven by human efforts.}
-{41600}{}{The cart}
-{41601}{}{The transportation vehicle of the ancients, driven by human efforts.}
+{41300}{}{Caravan wagon}
+{41301}{}{This ancient mode of transportation was powered solely by human effort.}
+{41400}{}{Caravan wagon}
+{41401}{}{This ancient mode of transportation was powered solely by human effort.}
+{41500}{}{Caravan wagon}
+{41501}{}{This ancient mode of transportation was powered solely by human effort.}
+{41600}{}{Caravan wagon}
+{41601}{}{This ancient mode of transportation was powered solely by human effort.}
 {41700}{}{Rails}
 {41701}{}{Just rails.}
 {41800}{}{Rails}
@@ -2270,7 +2270,7 @@
 {117400}{}{Body}
 {117401}{}{This is the corpse of one of your tribesmen.}
 {117500}{}{Symbol}
-{117501}{}{A symbol clumsily drawn on the wall. It should be studied more carefully.}
+{117501}{}There is a symbol drawn clumsily on the wall. It should be studied more carefully.}
 {117600}{}{Drilling machine}
 {117601}{}{Heavy robot equipped with drilling tools.}
 {117700}{}{Collapse}
@@ -2295,7 +2295,7 @@
 {118601}{}{Just rails.}
 {118700}{}{Poster}
 {118701}{}{Some old poster. A cursory inspection gives nothing.}
-{118800}{}{The cart}
+{118800}{}{Caravan wagon}
 {118801}{}{A caravan wagon prepared for the shipment of refined uranium ore.}
 {118900}{}{Radio equipment}
 {118901}{}{This radio equipment is damaged and cannot be repaired.}
@@ -2561,9 +2561,9 @@
 {131901}{}{An overturned crate. They were obviously looking for something in it.}
 {132000}{}{Mailbox}
 {132001}{}{An overturned crate. They were obviously looking for something in it.}
-{132100}{}{The cart}
+{132100}{}{Caravan wagon}
 {132101}{}{This caravan wagon was looted. There is nothing of value left here.}
-{132200}{}{The cart}
+{132200}{}{Caravan wagon}
 {132201}{}{This caravan wagon was looted. There is nothing of value left here.}
 {132300}{}{Mailbox}
 {132301}{}{An overturned crate. They were obviously looking for something in it.}
@@ -3839,8 +3839,8 @@
 {200201}{}{This support holds the roof.}
 {200300}{}{Advertising index}
 {200301}{}{This sign says: Space Age Restaurant.}
-{200400}{}{The cart}
-{200401}{}{This wagon has been standing here quite recently. Everything of value has already been pulled out of it.}
+{200400}{}{Wagon cart}
+{200401}{}{This wagon has been standing here quite recently. Everything of value has already been taken.}
 {200500}{}{Advertising index}
 {200501}{}{This sign says "Bates Motel."}
 {200600}{}{Advertising index}
@@ -3927,7 +3927,7 @@
 {204601}{}{This man was frozen alive.}
 {204700}{}{Icy figure}
 {204701}{}{This man was frozen alive.}
-{204800}{}{The cart}
+{204800}{}{Wagon cart}
 {204801}{}{A wagon with the baggage of nomads.}
 {204900}{}{Cactus}
 {204901}{}{An ordinary cactus.}
