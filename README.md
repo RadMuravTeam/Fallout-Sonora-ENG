@@ -1,4 +1,5 @@
 RadMurav Team presents Fallout Sonora’s Extended Release translation to English
+
 Originally powered by Yandex, it now boasts over 50% (thank you Georg) of its files hand-translated, and the remaning ones are being improved  all the time.
 
 RadMurav Team is: Violator, Adolf, rockerdahedgehog, with the invaluable help of Georg and Jamesticle
