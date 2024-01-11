@@ -447,8 +447,8 @@
 {21901}{}{A caravan wagon converted from the body of an ancient car.}
 {22000}{}{The cart}
 {22001}{}{A caravan wagon converted from the body of an ancient car.}
-{22100}{}{Jug}
-{22101}{}{A large jug for storing crops or water.}
+{22100}{}{Pot}
+{22101}{}{A large pot for storing crops or water.}
 {22200}{}{Potty}
 {22201}{}{An artfully made clay pot.}
 {22300}{}{Potty}
@@ -863,7 +863,7 @@
 {42700}{}{Hangar key}
 {42701}{}{This key opens the gates of the hangar on the plantations of the Villa.}
 {42800}{}{Family heirlooms}
-{42801}{}{A blue jumpsuit, an armband computer and a hiking flask. These things were passed down in your dynasty from generation to generation and have now rightfully passed to you.}
+{42801}{}{A blue jumpsuit, an armband computer and a hiking flask. These things were passed down in your family from generation to generation and are now rightfully passed on to you.}
 {42900}{}{Monster Skull}
 {42901}{}{The head of a monster. Even in dead form, this object looks terrifying.}
 {43000}{}{Motorcycle key}
