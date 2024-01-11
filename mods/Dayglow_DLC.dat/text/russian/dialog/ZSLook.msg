@@ -3,7 +3,7 @@
 {112}{}{System analysis is not your strong suit.}
 {113}{}{It cannot be repaired.}
 {114}{}{To study the object, you should use scientific methods.}
-{115}{}{What is IT doing here?}
+{115}{}{What is THIS doing here?}
 
 # 20 lines are allocated for one location.
 # 2 adjacent rows are created for each object:
@@ -78,7 +78,7 @@
 
 #Rangers, Quartzsite
 {260}{}{This ancient sign indicates the distance to the dam. On top of the paint is an inscription: "Ranger Territory."}
-{261}{}{Higher up the highway is Parker Dam — the citadel of the Rangers}
+{261}{}{Higher up the highway is Parker Dam â€” the citadel of the Rangers}
 {262}{}{You have carefully studied the Ranger maps. Now traveling around the neighborhood will become much easier.}
 {263}{}{Wow, the cartographer didn't waste time in vain}
 {264}{}{The cartographer won't let you go through his papers.}
@@ -103,7 +103,7 @@
 {281}{}{So the US has annexed Mexico after all}
 {282}{}{The security system is disabled.}
 {283}{}{How's that for you, rusty tin can?}
-{284}{}{"Attention, traveler! Alcohol, drugs, and the open carrying of weapons are prohibited here. For stealing crops — the death penalty. There is a curfew at night."}
+{284}{}{"Attention, traveler! Alcohol, drugs, and the open carrying of weapons are prohibited here. For stealing crops â€” the death penalty. There is a curfew at night."}
 {285}{}{Strict rules here}
 {286}{}{The guest log ends in 2077.}
 {287}{}{Nothing interesting}
@@ -119,7 +119,7 @@
 {295}{}{The Brotherhood's scouts get their IRP for a reason}
 {296}{}{You are unsuccessfully trying to find a Villa. But you are struck by the scale of the continent.}
 {297}{}{Is the world really that huge?}
-{298}{}{This welcome index is written in two languages — Spanish and English.}
+{298}{}{This welcome index is written in two languages â€” Spanish and English.}
 {299}{}{Probably, once these ruins were a nice place...}
 
 {300}{}{This equipment is used to connect local residents with Puerto Penasco.}
