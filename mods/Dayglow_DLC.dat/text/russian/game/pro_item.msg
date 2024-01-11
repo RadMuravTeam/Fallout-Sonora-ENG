@@ -447,8 +447,8 @@
 {21901}{}{A caravan wagon converted from the body of an ancient car.}
 {22000}{}{The cart}
 {22001}{}{A caravan wagon converted from the body of an ancient car.}
-{22100}{}{Jug}
-{22101}{}{A large jug for storing crops or water.}
+{22100}{}{Pot}
+{22101}{}{A large pot for storing crops or water.}
 {22200}{}{Potty}
 {22201}{}{An artfully made clay pot.}
 {22300}{}{Potty}
