@@ -2247,10 +2247,10 @@
 {116201}{}{A strange tree infected with a parasite.}
 {116300}{}{Tree}
 {116301}{}{A strange tree infected with a parasite.}
-{116400}{}{Stairs}
-{116401}{}{An ordinary wooden staircase. From dampness a little covered with mold.}
+{116400}{}{Ladder}
+{116401}{}{An ordinary wooden ladder, slightly covered in mold due to dampness.}
 {116500}{}{Broken ladder}
-{116501}{}{This wooden staircase is completely dilapidated. It is impossible to climb up it.}
+{116501}{}{This wooden ladder is completely dilapidated. It is impossible to climb up it.}
 {116600}{}{Stairs}
 {116601}{}{This staircase leads to the town hall, but at the moment it is destroyed and littered with debris. You can't make them out.}
 {116700}{}{Stairs}
