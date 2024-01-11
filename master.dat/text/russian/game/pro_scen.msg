@@ -1895,21 +1895,21 @@
 {98601}{}{Very uncomfortable, judging by the appearance, a device for sitting, known as a "sofa".}
 {98700}{}{Sofa}
 {98701}{}{Very uncomfortable, judging by the appearance, a device for sitting, known as a "sofa".}
-{98800}{}{Plate}
+{98800}{}{Stove}
 {98801}{}{Functioning wood-fired stove.}
-{98900}{}{Plate}
+{98900}{}{Stove}
 {98901}{}{Functioning wood-fired stove.}
-{99000}{}{Plate}
+{99000}{}{Stove}
 {99001}{}{A functioning wood-fired stove.}
-{99100}{}{Plate}
+{99100}{}{Stove}
 {99101}{}{Functioning wood-fired stove.}
-{99200}{}{Plate}
+{99200}{}{Stove}
 {99201}{}{Functioning wood-fired stove.}
-{99300}{}{Plate}
+{99300}{}{Stove}
 {99301}{}{Functioning wood-fired stove.}
-{99400}{}{Plate}
+{99400}{}{Stove}
 {99401}{}{Functioning wood-fired stove.}
-{99500}{}{Plate}
+{99500}{}{Stove}
 {99501}{}{Functioning wood-fired stove.}
 {99600}{}{Bath}
 {99601}{}{This tub is broken and covered with cracks.}
