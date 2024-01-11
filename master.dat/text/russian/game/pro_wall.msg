@@ -1025,7 +1025,7 @@
 {102000}{}{Wall repositories}
 {102100}{}{Wall repositories}
 {102200}{}{Two repositories}
-{102201}{}{The armored door of the bank vault. No one will remember the code from it anymore.}
+{102201}{}{Armored door of the bank vault. No one will remember the code from it anymore.}
 {102300}{}{Wall}
 {102400}{}{Wall}
 {102500}{}{Wall}
