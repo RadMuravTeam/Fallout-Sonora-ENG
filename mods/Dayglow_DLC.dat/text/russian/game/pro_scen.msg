@@ -536,31 +536,31 @@
 {26801}{}{A big pile of rocks. If you look closely, you can see an old man's face in every pebble.}
 {26900}{}{Stones}
 {26901}{}{A big pile of rocks. They probably formed after the collapse.}
-{27000}{}{The rock}
+{27000}{}{Rock wall}
 {27001}{}{These mountain walls look completely impregnable.}
-{27100}{}{The rock}
+{27100}{}{Rock wall}
 {27101}{}{These mountain walls look completely impregnable.}
-{27200}{}{The rock}
+{27200}{}{Rock wall}
 {27201}{}{These mountain walls look completely impregnable.}
-{27300}{}{The rock}
+{27300}{}{Rock wall}
 {27301}{}{These mountain walls look completely impregnable.}
-{27400}{}{The rock}
+{27400}{}{Rock wall}
 {27401}{}{These mountain walls look completely impregnable.}
-{27500}{}{The rock}
+{27500}{}{Rock wall}
 {27501}{}{These mountain walls look completely impregnable.}
-{27600}{}{The rock}
+{27600}{}{Rock wall}
 {27601}{}{These mountain walls look completely impregnable.}
 {27700}{}{Cave vault}
 {27701}{}{It's damp and cold from the inside.}
 {27800}{}{Collapse}
 {27801}{}{A huge number of stones. So huge that you can't just move it.}
-{27900}{}{The rock}
+{27900}{}{Rock wall}
 {27901}{}{These mountain walls look completely impregnable.}
-{28000}{}{The rock}
+{28000}{}{Rock wall}
 {28001}{}{These mountain walls look completely impregnable.}
-{28100}{}{The rock}
+{28100}{}{Rock wall}
 {28101}{}{These mountain walls look completely impregnable.}
-{28200}{}{The rock}
+{28200}{}{Rock wall}
 {28201}{}{These mountain walls look completely impregnable.}
 {28300}{}{Rock}
 {28301}{}{These mountain walls look completely impregnable.}
@@ -614,26 +614,26 @@
 {30701}{}{In front of you is a cave wall. What a surprise.}
 {30800}{}{Cave wall}
 {30801}{}{In front of you is a cave wall. What a surprise.}
-{30900}{}{The rock}
+{30900}{}{Rock wall}
 {30901}{}{These mountain walls look completely impregnable.}
-{31000}{}{The rock}
+{31000}{}{Rock wall}
 {31001}{}{These mountain walls look completely impregnable.}
 {31100}{}{A hole in the ground}
 {31101}{}{This hole leads deep into the darkness. Only a suicide would go down there without a rope.}
 {31200}{}{A hole in the ground}
 {31201}{}{This hole leads deep into the darkness. A securely attached rope also descends there.}
 {31300}{}{Wooden beam}
-{31301}{}{This beam barely keeps the rock from collapsing.}
+{31301}{}{This beam just barely keeps the cave from collapsing.}
 {31400}{}{Wooden beam}
-{31401}{}{This beam barely keeps the rock from collapsing.}
+{31401}{}{This beam just barely keeps the cave from collapsing.}
 {31500}{}{Wooden beam}
-{31501}{}{This beam barely keeps the rock from collapsing.}
+{31501}{}{This beam just barely keeps the cave from collapsing.}
 {31600}{}{Wooden beam}
-{31601}{}{This beam barely keeps the rock from collapsing.}
+{31601}{}{This beam just barely keeps the cave from collapsing.}
 {31700}{}{Wooden beam}
-{31701}{}{This beam barely keeps the rock from collapsing.}
+{31701}{}{This beam just barely keeps the cave from collapsing.}
 {31800}{}{Wooden beam}
-{31801}{}{This beam barely keeps the rock from collapsing.}
+{31801}{}{This beam just barely keeps the cave from collapsing.}
 {31900}{}{Damaged wooden beam}
 {31901}{}{It seems that this beam will collapse at the slightest pressure.}
 {32000}{}{Elevator}
@@ -677,10 +677,10 @@
 {33900}{}{Stones}
 {33901}{}{If you had a shaft, you could make a tip out of these stones.}
 {34000}{}{Stones}
-{34001}{}{You have been admiring these stones for a long time. Finally it seemed to you that they moved, but they didn't.}
+{34001}{}{You have been admiring these stones for a long time. Finally, it seemed to you that they moved, but they didn't.}
 {34100}{}{Stones}
 {34101}{}{These stones are hardly worth looking at so closely.}
-{34200}{}{The well}
+{34200}{}{Well}
 {34201}{}{An ordinary well. Built a long time ago, but still in working condition.}
 {34300}{}{Toilet}
 {34301}{}{Rough, but doing its job toilet. A few leaves were thrown into the hole to make it stink less.}
@@ -2749,15 +2749,15 @@
 {141301}{}{Homemade water storage tank. Simultaneously performs the role of a water tower.}
 {141400}{}{Road sign}
 {141401}{}{A very old pointer. However, it may still contain up-to-date information.}
-{141500}{}{The well}
+{141500}{}{Well}
 {141501}{}{A homemade well. The bottom is not visible.}
 {141600}{}{Cactus}
 {141601}{}{You don't see anything remarkable in this cactus except its gigantic size.}
-{141700}{}{The rock}
+{141700}{}{Rock wall}
 {141701}{}{These mountain walls look completely impregnable.}
-{141800}{}{The rock}
+{141800}{}{Rock wall}
 {141801}{}{These mountain walls look completely impregnable.}
-{141900}{}{The rock}
+{141900}{}{Rock wall}
 {141901}{}{These mountain walls look completely impregnable.}
 {142000}{}{Road sign}
 {142001}{}{This old rusted pointer dangerously sways in the wind.}
@@ -4210,7 +4210,7 @@
 {219901}{}{The main control panel of the Bonita power plant.}
 {220000}{}{Sign}
 {220001}{}{It says here: "Caution! High voltage".}
-{220100}{}{The rock}
+{220100}{}{Rock wall}
 {220101}{}{These mountain walls look completely impregnable.}
 {220200}{}{Power transformer}
 {220201}{}{Part of a transformer substation from which wires run everywhere.}
@@ -4238,13 +4238,13 @@
 {221501}{}{Rusty double-leaf door.}
 {221600}{}{Wooden bridge}
 {221601}{}{You're lucky someone threw some boards across the stream.}
-{221700}{}{The rock}
+{221700}{}{Rock wall}
 {221701}{}{These mountain walls look completely impregnable.}
 {221800}{}{Pipe}
 {221801}{}{It looks like a drain outlet.}
 {221900}{}{Pipe}
 {221901}{}{It looks like a drain outlet.}
-{222000}{}{The rock}
+{222000}{}{Rock wall}
 {222001}{}{These mountain walls look completely impregnable.}
 {222100}{}{Signboard}
 {222101}{}{This is the sign of the workshop and shop.}
@@ -4272,9 +4272,9 @@
 {224300}{}{Road sign}
 {224400}{}{Shadow}
 {224500}{}{Shadow}
-{224600}{}{The rock}
-{224700}{}{The rock}
-{224800}{}{The rock}
+{224600}{}{Rock wall}
+{224700}{}{Rock wall}
+{224800}{}{Rock wall}
 {224900}{}{Arch}
 {224901}{}{The letters "Chula Vista Center" have been preserved on this heavily rusted entrance arch.}
 {225000}{}{Arch}
