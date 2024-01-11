@@ -140,7 +140,7 @@
 {315}{}{Then let's go to the camp. Let's go.}
 {316}{}{So what's up with the captain?}
 {317}{}{Be strong, Bunch. The captain is no more. And your squad, too.}
-{318}{}{DAMN THE BROTHERHOOD! I HATE IT! I HATE IT!}
+{318}{}{DAMN THE BROTHERHOOD! I HATE THEM! I HATE THEM!}
 {319}{}{I think it's better to leave you alone for now.}
 {320}{}{Be strong, Bunch. The captain is no more.}
 {321}{}{What are you going to do now without your squad?}
