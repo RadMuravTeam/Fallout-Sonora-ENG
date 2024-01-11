@@ -1,10 +1,10 @@
-{100}{}{Here is a raider.}
-{101}{}{You see an outsider. By the look of it, he got pretty badly.}
+{100}{}{You see a raider.}
+{101}{}{Outsider. By the look of it, he got hurt pretty badly.}
 {102}{}{You have received }
 {103}{}{ experience for a peaceful solution to the conflict.}
 {104}{}{ }
 {105}{}{The raider leaves the Villa peacefully.}
-{106}{}{My first murder... Strange feelings.}
+{106}{}{My first kill... What a strange feeling.}
 
 #Floating replicas
 {110}{}{*Heavy breathing*}
@@ -13,7 +13,7 @@
 {113}{}{Damn it...}
 {114}{}{Why did I get involved in this?}
 {115}{}{And why the hell am I doing this?}
-{116}{}{How to get out of here?}
+{116}{}{How do I get out of here?}
 {117}{}{I won't give up so easily.}
 {118}{}{When will they come to the rescue?}
 {119}{}{And that's it? So will I end my life?}
@@ -23,7 +23,7 @@
 {122}{}{The conversation is over. Don't piss me off.}
 
 #Start of the dialog
-{200}{}{(Here is an unknown stranger in tattered dirty clothes; it looks like he is injured and exhausted) Hey, you... *Cough-cough* Say goodbye to life, redneck!}
+{200}{}{(You see a stranger in tattered dirty clothes; it looks like he is injured and exhausted) Hey, you... *Cough-cough* Say goodbye to your life, redneck!}
 {201}{}{Hey, take it easy, I don't want to hurt you.}
 {202}{}{Hostility? Looks like I'm going to have to defend myself.}
 {203}{}{Shut up... (heavy breath) I've been immured in this basement for twenty-four hours. Do you think I'm just going to let it go? *Cough-cough* You'll all pay for it. I'll tear down your Villa!}
@@ -33,7 +33,7 @@
 {207}{}{Let's start the fun...}
 {208}{}{Listen, there's no point in us fighting...}
 {209}{}{Look, there's no point in us fighting. Calm down. The worst is over.}
-{210}{}{You don't look well. I can cure you.}
+{210}{}{You don't look well. I can help you.}
 {211}{}{You're not going to fight in this state, are you? I can help if you calm down.}
 {212}{}{I don't recommend it. Traps are all around.}
 {213}{}{There are traps all around. You can't get out without me. And I know the way out.}
