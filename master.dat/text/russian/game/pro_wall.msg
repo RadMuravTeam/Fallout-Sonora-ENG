@@ -41,216 +41,216 @@
 {4100} {} {tent}
 {4200} {} {tent}
 {4300} {} {tent}
-{4400}{}{enclosure}
-{4500}{}{enclosure}
-{4600}{}{enclosure}
-{4700}{}{enclosure}
-{4800}{}{enclosure}
-{4900}{}{enclosure}
-{5000}{}{enclosure}
-{5100}{}{enclosure}
-{5200}{}{enclosure}
-{5300}{}{enclosure}
-{5400}{}{enclosure}
-{5500}{}{enclosure}
-{5600}{}{enclosure}
-{5700}{}{enclosure}
-{5800}{}{enclosure}
-{5900}{}{enclosure}
-{6000}{}{enclosure}
-{6100}{}{enclosure}
-{6100}{}{enclosure}
-{6200}{}{enclosure}
-{6300}{}{enclosure}
-{6400}{}{enclosure}
-{6500}{}{enclosure}
-{6600}{}{enclosure}
-{6700}{}{enclosure}
-{6800}{}{enclosure}
-{6900}{}{enclosure}
-{7000}{}{enclosure}
-{7100}{}{enclosure}
-{7200}{}{enclosure}
-{7300}{}{enclosure}
+{4400}{}{Enclosure}
+{4500}{}{Enclosure}
+{4600}{}{Enclosure}
+{4700}{}{Enclosure}
+{4800}{}{Enclosure}
+{4900}{}{Enclosure}
+{5000}{}{Enclosure}
+{5100}{}{Enclosure}
+{5200}{}{Enclosure}
+{5300}{}{Enclosure}
+{5400}{}{Enclosure}
+{5500}{}{Enclosure}
+{5600}{}{Enclosure}
+{5700}{}{Enclosure}
+{5800}{}{Enclosure}
+{5900}{}{Enclosure}
+{6000}{}{Enclosure}
+{6100}{}{Enclosure}
+{6100}{}{Enclosure}
+{6200}{}{Enclosure}
+{6300}{}{Enclosure}
+{6400}{}{Enclosure}
+{6500}{}{Enclosure}
+{6600}{}{Enclosure}
+{6700}{}{Enclosure}
+{6800}{}{Enclosure}
+{6900}{}{Enclosure}
+{7000}{}{Enclosure}
+{7100}{}{Enclosure}
+{7200}{}{Enclosure}
+{7300}{}{Enclosure}
 {7400}{}{Thread set}
-{7500}{}{gesture wall}
-{7600}{}{gesture wall}
-{7700}{}{gesture wall}
-{7800}{}{gesture wall}
-{7900}{}{gesture wall}
-{8000}{}{gesture wall}
-{8100}{}{gesture wall}
-{8200}{}{Dereviannaya panel}
-{8300}{}{Dereviannaya panel}
-{8400}{}{Dereviannaya panel}
-{8500}{}{Dereviannaya panel}
-{8600}{}{gesture wall}
-{8700}{}{gesture wall}
-{8800}{}{gesture wall}
-{8900}{}{Dereviannaya panel}
-{9000}{}{Dereviannaya panel}
-{9100}{}{Dereviannaya panel}
-{9200}{}{Dereviannaya panel}
-{9300}{}{Dereviannaya panel}
-{9400}{}{two-month Proem}
-{9500}{}{two-month Proem}
-{9600}{}{two-month Proem}
-{9700}{}{two-month Proem}
-{9800}{}{gesture wall}
-{9900}{}{gesture wall}
-{10000}{}{gesture wall}
-{10100}{}{gesture wall}
-{10200} {} {Okno}
-{10300} {} {Okno}
-{10400} {} {Okno}
-{10500} {} {Okno}
-{10600} {} {Okno}
+{7500}{}{Gesture wall}
+{7600}{}{Gesture wall}
+{7700}{}{Gesture wall}
+{7800}{}{Gesture wall}
+{7900}{}{Gesture wall}
+{8000}{}{Gesture wall}
+{8100}{}{Gesture wall}
+{8200}{}{Wooden panel}
+{8300}{}{Wooden panel}
+{8400}{}{Wooden panel}
+{8500}{}{Wooden panel}
+{8600}{}{Gesture wall}
+{8700}{}{Gesture wall}
+{8800}{}{Gesture wall}
+{8900}{}{Wooden panel}
+{9000}{}{Wooden panel}
+{9100}{}{Wooden panel}
+{9200}{}{Wooden panel}
+{9300}{}{Wooden panel}
+{9400}{}{Two-month Proem}
+{9500}{}{Two-month Proem}
+{9600}{}{Two-month Proem}
+{9700}{}{Two-month Proem}
+{9800}{}{Gesture wall}
+{9900}{}{Gesture wall}
+{10000}{}{Gesture wall}
+{10100}{}{Gesture wall}
+{10200} {} {Window}
+{10300} {} {Window}
+{10400} {} {Window}
+{10500} {} {Window}
+{10600} {} {Window}
 {10700}{}{Thread set}
-{10800}{}{gesture wall}
-{10900}{}{gesture wall}
-{11000}{}{gesture wall}
-{11100}{}{gesture wall}
-{11200}{}{gesture wall}
-{11300}{}{gesture wall}
-{11400}{}{gesture wall}
-{11500}{}{gesture wall}
+{10800}{}{Gesture wall}
+{10900}{}{Gesture wall}
+{11000}{}{Gesture wall}
+{11100}{}{Gesture wall}
+{11200}{}{Gesture wall}
+{11300}{}{Gesture wall}
+{11400}{}{Gesture wall}
+{11500}{}{Gesture wall}
 {11600}{}{Derevian wall}
 {11700}{}{Derevian wall}
-{11800}{}{gesture wall}
-{11900}{}{gesture wall}
+{11800}{}{Gesture wall}
+{11900}{}{Gesture wall}
 {12000}{}{Derevian wall}
 {12100}{}{Derevian wall}
-{12200}{}{gesture wall}
-{12300}{}{gesture wall}
-{12400}{}{gesture wall}
-{12500}{}{gesture wall}
-{12600}{}{gesture wall}
-{12700}{}{gesture wall}
+{12200}{}{Gesture wall}
+{12300}{}{Gesture wall}
+{12400}{}{Gesture wall}
+{12500}{}{Gesture wall}
+{12600}{}{Gesture wall}
+{12700}{}{Gesture wall}
 {12800}{}{Derevian wall}
 {12900}{}{Derevian wall}
-{13000}{}{gesture wall}
-{13100}{}{gesture wall}
-{13200}{}{gesture wall}
-{13300}{}{gesture wall}
-{13400}{}{two-month Proem}
-{13500}{}{two-month Proem}
-{13600}{}{two-month Proem}
-{13700}{}{two-month Proem}
-{13800}{}{two-month Proem}
-{13900}{}{two-month Proem}
-{14000}{}{two-month Proem}
-{14100}{}{two-month Proem}
-{14200}{}{gesture wall}
-{14300}{}{gesture wall}
-{14400}{}{gesture wall}
-{14500}{}{gesture wall}
-{14600}{}{gesture wall}
-{14700}{}{gesture wall}
-{14800}{}{gesture wall}
-{14900}{}{gesture wall}
-{15000}{}{gesture wall}
-{15100}{}{gesture wall}
-{15200}{}{gesture wall}
-{15300}{}{gesture wall}
-{15400}{}{gesture wall}
-{15500}{}{gesture wall}
-{15600}{}{gesture wall}
-{15700}{}{gesture wall}
-{15800}{}{gesture wall}
-{15900}{}{gesture wall}
+{13000}{}{Gesture wall}
+{13100}{}{Gesture wall}
+{13200}{}{Gesture wall}
+{13300}{}{Gesture wall}
+{13400}{}{Two-month Proem}
+{13500}{}{Two-month Proem}
+{13600}{}{Two-month Proem}
+{13700}{}{Two-month Proem}
+{13800}{}{Two-month Proem}
+{13900}{}{Two-month Proem}
+{14000}{}{Two-month Proem}
+{14100}{}{Two-month Proem}
+{14200}{}{Gesture wall}
+{14300}{}{Gesture wall}
+{14400}{}{Gesture wall}
+{14500}{}{Gesture wall}
+{14600}{}{Gesture wall}
+{14700}{}{Gesture wall}
+{14800}{}{Gesture wall}
+{14900}{}{Gesture wall}
+{15000}{}{Gesture wall}
+{15100}{}{Gesture wall}
+{15200}{}{Gesture wall}
+{15300}{}{Gesture wall}
+{15400}{}{Gesture wall}
+{15500}{}{Gesture wall}
+{15600}{}{Gesture wall}
+{15700}{}{Gesture wall}
+{15800}{}{Gesture wall}
+{15900}{}{Gesture wall}
 {16000}{}{Thread set}
-{16100}{}{wall cave}
-{16200}{}{wall cave}
-{16300}{}{wall cave}
-{16400}{}{wall cave}
-{16500}{}{wall cave}
-{16600}{}{wall cave}
-{16700}{}{wall cave}
-{16800}{}{wall cave}
-{16900}{}{wall cave}
-{17000}{}{cave wall}
-{17100}{}{cave wall}
-{17200}{}{cave wall}
-{17300}{}{cave wall}
-{17400}{}{wall cave}
-{17500}{}{cave wall}
-{17600}{}{wall cave}
-{17700}{}{cave wall}
-{17800}{}{cave wall}
-{17900}{}{cave wall}
-{18000}{}{cave wall}
-{18100}{}{cave wall}
-{18200}{}{wall cave}
-{18300}{}{cave wall}
-{18400}{}{wall cave}
-{18500}{}{wall cave}
-{18600}{}{wall cave}
-{18700}{}{cave wall}
-{18800}{}{wall cave}
-{18900}{}{cave wall}
-{19000}{}{cave wall}
-{19100}{}{cave wall}
-{19200}{}{wall cave}
-{19300}{}{cave wall}
-{19400}{}{wall cave}
-{19500}{}{wall cave}
-{19600}{}{wall cave}
-{19700}{}{cave wall}
-{19800}{}{cave wall}
-{19900}{}{cave wall}
-{20000}{}{cave wall}
-{20100}{}{wall cave}
-{20200}{}{wall cave}
-{20300}{}{cave wall}
-{20400}{}{cave wall}
-{20500}{}{cave wall}
-{20600}{}{wall cave}
-{20700}{}{cave wall}
-{20800}{}{cave wall}
-{20900}{}{cave wall}
-{21000}{}{cave wall}
-{21100}{}{cave wall}
-{21200}{}{cave wall}
-{21300}{}{cave wall}
-{21400}{}{wall cave}
-{21500}{}{cave wall}
-{21600}{}{wall cave}
-{21700}{}{cave wall}
-{21800}{}{cave wall}
-{21900}{}{cave wall}
-{22000}{}{wall cave}
-{22100}{}{cave wall}
-{22200}{}{wall cave}
-{22300}{}{cave wall}
-{22400}{}{wall cave}
-{22500}{}{wall cave}
-{22600}{}{wall cave}
-{22700}{}{cave wall}
-{22800}{}{wall cave}
-{22900}{}{cave wall}
-{23000}{}{cave wall}
-{23100}{}{cave wall}
-{23200}{}{cave wall}
-{23300}{}{cave wall}
-{23400}{}{cave wall}
+{16100}{}{Cave wall}
+{16200}{}{Cave wall}
+{16300}{}{Cave wall}
+{16400}{}{Cave wall}
+{16500}{}{Cave wall}
+{16600}{}{Cave wall}
+{16700}{}{Cave wall}
+{16800}{}{Cave wall}
+{16900}{}{Cave wall}
+{17000}{}{Cave wall}
+{17100}{}{Cave wall}
+{17200}{}{Cave wall}
+{17300}{}{Cave wall}
+{17400}{}{Cave wall}
+{17500}{}{Cave wall}
+{17600}{}{Cave wall}
+{17700}{}{Cave wall}
+{17800}{}{Cave wall}
+{17900}{}{Cave wall}
+{18000}{}{Cave wall}
+{18100}{}{Cave wall}
+{18200}{}{Cave wall}
+{18300}{}{Cave wall}
+{18400}{}{Cave wall}
+{18500}{}{Cave wall}
+{18600}{}{Cave wall}
+{18700}{}{Cave wall}
+{18800}{}{Cave wall}
+{18900}{}{Cave wall}
+{19000}{}{Cave wall}
+{19100}{}{Cave wall}
+{19200}{}{Cave wall}
+{19300}{}{Cave wall}
+{19400}{}{Cave wall}
+{19500}{}{Cave wall}
+{19600}{}{Cave wall}
+{19700}{}{Cave wall}
+{19800}{}{Cave wall}
+{19900}{}{Cave wall}
+{20000}{}{Cave wall}
+{20100}{}{Cave wall}
+{20200}{}{Cave wall}
+{20300}{}{Cave wall}
+{20400}{}{Cave wall}
+{20500}{}{Cave wall}
+{20600}{}{Cave wall}
+{20700}{}{Cave wall}
+{20800}{}{Cave wall}
+{20900}{}{Cave wall}
+{21000}{}{Cave wall}
+{21100}{}{Cave wall}
+{21200}{}{Cave wall}
+{21300}{}{Cave wall}
+{21400}{}{Cave wall}
+{21500}{}{Cave wall}
+{21600}{}{Cave wall}
+{21700}{}{Cave wall}
+{21800}{}{Cave wall}
+{21900}{}{Cave wall}
+{22000}{}{Cave wall}
+{22100}{}{Cave wall}
+{22200}{}{Cave wall}
+{22300}{}{Cave wall}
+{22400}{}{Cave wall}
+{22500}{}{Cave wall}
+{22600}{}{Cave wall}
+{22700}{}{Cave wall}
+{22800}{}{Cave wall}
+{22900}{}{Cave wall}
+{23000}{}{Cave wall}
+{23100}{}{Cave wall}
+{23200}{}{Cave wall}
+{23300}{}{Cave wall}
+{23400}{}{Cave wall}
 {23500}{}{Thread set}
-{23600}{}{Derevyanaya Balka}
-{23700}{}{Derevyanaya Balka}
-{23800}{}{Derevyanaya Balka}
-{23900}{}{Derevyanaya Balka}
-{24000}{}{Derevyanaya Balka}
-{24100}{}{Derevyanaya Balka}
-{24200}{}{Derevyanaya Balka}
-{24300}{}{Derevyanaya Balka}
-{24400}{}{Derevyanaya Balka}
-{24500}{}{Derevyanaya Balka}
-{24600}{}{Derevyanaya Balka}
-{24700}{}{gesture wall}
-{24800}{}{gesture wall}
-{24900}{}{gesture wall}
-{25000}{}{gesture wall}
-{25100}{}{gesture wall}
-{25200}{}{gesture wall}
+{23600}{}{Wooden pillar}
+{23700}{}{Wooden pillar}
+{23800}{}{Wooden pillar}
+{23900}{}{Wooden pillar}
+{24000}{}{Wooden pillar}
+{24100}{}{Wooden pillar}
+{24200}{}{Wooden pillar}
+{24300}{}{Wooden pillar}
+{24400}{}{Wooden pillar}
+{24500}{}{Wooden pillar}
+{24600}{}{Wooden pillar}
+{24700}{}{Gesture wall}
+{24800}{}{Gesture wall}
+{24900}{}{Gesture wall}
+{25000}{}{Gesture wall}
+{25100}{}{Gesture wall}
+{25200}{}{Gesture wall}
 {25300}{}{Thread set}
 {25400}{}{Wall}
 {25500}{}{Wall}
@@ -267,44 +267,44 @@
 {26600}{}{Wall}
 {26700}{}{Wall}
 {26800}{}{Wall}
-{26900}{}{two-month Proem}
-{27000}{}{two-month Proem}
-{27100}{}{two-month Proem}
-{27200}{}{two-month Proem}
-{27300}{}{two-month Proem}
-{27400}{}{two-month Proem}
-{27500}{}{two-month Proem}
-{27600}{}{two-month Proem}
+{26900}{}{Two-month Proem}
+{27000}{}{Two-month Proem}
+{27100}{}{Two-month Proem}
+{27200}{}{Two-month Proem}
+{27300}{}{Two-month Proem}
+{27400}{}{Two-month Proem}
+{27500}{}{Two-month Proem}
+{27600}{}{Two-month Proem}
 {27700}{}{Wall}
 {27800}{}{Wall}
 {27900}{}{Wall}
 {28000}{}{Wall}
 {28100}{}{Wall}
 {28200}{}{Wall}
-{28300} {} {Okno}
-{28400} {} {Okno}
-{28500} {} {Okno}
-{28600} {} {Okno}
-{28700} {} {Okno}
-{28800} {} {Okno}
-{28900} {} {Okno}
-{29000} {} {Okno}
-{29100} {} {Okno}
-{29200} {} {Okno}
+{28300} {} {Window}
+{28400} {} {Window}
+{28500} {} {Window}
+{28600} {} {Window}
+{28700} {} {Window}
+{28800} {} {Window}
+{28900} {} {Window}
+{29000} {} {Window}
+{29100} {} {Window}
+{29200} {} {Window}
 {29300}{}{Wall}
 {29400}{}{Wall}
 {29500}{}{Wall}
 {29600}{}{Wall}
 {29700}{}{Wall}
-{29800}{}{destruction}
-{29900}{}{destruction}
-{30000}{}{destruction}
-{30100}{}{destruction}
+{29800}{}{Destruction}
+{29900}{}{Destruction}
+{30000}{}{Destruction}
+{30100}{}{Destruction}
 {30200}{}{Thread set}
-{30300}{}{two-month Proem}
-{30400}{}{two-month Proem}
-{30500} {} {Okno}
-{30600} {} {Okno}
+{30300}{}{Two-month Proem}
+{30400}{}{Two-month Proem}
+{30500} {} {Window}
+{30600} {} {Window}
 {30700}{}{Wall}
 {30800}{}{Wall}
 {30900}{}{Wall}
@@ -315,11 +315,11 @@
 {31400}{}{Wall}
 {31500}{}{Wall}
 {31600}{}{Wall}
-{31700} {} {Okno}
-{31800} {} {Okno}
+{31700} {} {Window}
+{31800} {} {Window}
 {31900}{}{Wall}
-{32000}{}{two-month Proem}
-{32100}{}{two-month Proem}
+{32000}{}{Two-month Proem}
+{32100}{}{Two-month Proem}
 {32200}{}{Wall}
 {32300}{}{Wall}
 {32400}{}{Wall}
@@ -364,43 +364,43 @@
 {36300}{}{Wall}
 {36400}{}{Wall}
 {36500}{}{Wall}
-{36600}{}{two-month Proem}
-{36700}{}{two-month Proem}
-{36800}{}{two-month Proem}
-{36900}{}{two-month Proem}
-{37000}{}{two-month Proem}
-{37100}{}{two-month Proem}
-{37200}{}{two-month Proem}
-{37300}{}{two-month Proem}
+{36600}{}{Two-month Proem}
+{36700}{}{Two-month Proem}
+{36800}{}{Two-month Proem}
+{36900}{}{Two-month Proem}
+{37000}{}{Two-month Proem}
+{37100}{}{Two-month Proem}
+{37200}{}{Two-month Proem}
+{37300}{}{Two-month Proem}
 {37400}{}{Wall}
 {37500}{}{Wall}
-{37600} {} {Okno}
-{37700} {} {Okno}
-{37800} {} {Okno}
-{37900} {} {Okno}
-{38000}{}{broken up}
-{38100}{}{broken up}
-{38200}{}{destruction}
-{38300}{}{destruction}
-{38400}{}{destruction}
-{38500}{}{destruction}
+{37600} {} {Window}
+{37700} {} {Window}
+{37800} {} {Window}
+{37900} {} {Window}
+{38000}{}{Broken up}
+{38100}{}{Broken up}
+{38200}{}{Destruction}
+{38300}{}{Destruction}
+{38400}{}{Destruction}
+{38500}{}{Destruction}
 {38600} {} {Arch}
 {38700} {} {Arch}
 {38800} {} {Arch}
 {38900} {} {Arch}
 {39000} {} {Arch}
 {39100} {} {Arch}
-{39200}{}{fastening}
-{39300}{}{fastening}
-{39400}{}{fastening}
-{39500}{}{fastening}
-{39600}{}{column}
-{39700}{}{column}
-{39800}{}{column}
-{39900}{}{column}
-{40000}{}{column}
-{40100}{}{column}
-{40200}{}{column}
+{39200}{}{Fastening}
+{39300}{}{Fastening}
+{39400}{}{Fastening}
+{39500}{}{Fastening}
+{39600}{}{Column}
+{39700}{}{Column}
+{39800}{}{Column}
+{39900}{}{Column}
+{40000}{}{Column}
+{40100}{}{Column}
+{40200}{}{Column}
 {40300}{}{Wall}
 {40400}{}{Wall}
 {40500}{}{Wall}
@@ -440,39 +440,39 @@
 {43900}{}{Wall}
 {44000}{}{Thread set}
 {44100}{}{Thread set}
-{44200}{}{brick wall}
-{44300}{}{brick wall}
-{44400}{}{brick wall}
-{44500}{}{brick wall}
-{44600}{}{brick wall}
-{44700}{}{brick wall}
-{44800}{}{brick wall}
-{44900}{}{brick wall}
-{45000}{}{brick wall}
-{45100}{}{brick wall}
-{45200}{}{brick wall}
-{45300}{}{brick wall}
-{45400}{}{two-month Proem}
-{45500}{}{two-month Proem}
-{45600}{}{two-month Proem}
-{45700}{}{two-month Proem}
-{45800}{}{brick wall}
-{45900}{}{brick wall}
-{46000}{}{brick wall}
-{46100}{}{brick wall}
-{46200} {} {Okno}
-{46300} {} {Okno}
-{46400}{}{broken up}
-{46500}{}{broken up}
-{46600}{}{brick wall}
-{46700}{}{brick wall}
-{46800}{}{brick wall}
-{46900}{}{brick wall}
-{47000}{}{brick wall}
-{47100}{}{destruction}
-{47200}{}{destruction}
-{47300}{}{destruction}
-{47400}{}{destruction}
+{44200}{}{Brick wall}
+{44300}{}{Brick wall}
+{44400}{}{Brick wall}
+{44500}{}{Brick wall}
+{44600}{}{Brick wall}
+{44700}{}{Brick wall}
+{44800}{}{Brick wall}
+{44900}{}{Brick wall}
+{45000}{}{Brick wall}
+{45100}{}{Brick wall}
+{45200}{}{Brick wall}
+{45300}{}{Brick wall}
+{45400}{}{Two-month Proem}
+{45500}{}{Two-month Proem}
+{45600}{}{Two-month Proem}
+{45700}{}{Two-month Proem}
+{45800}{}{Brick wall}
+{45900}{}{Brick wall}
+{46000}{}{Brick wall}
+{46100}{}{Brick wall}
+{46200} {} {Window}
+{46300} {} {Window}
+{46400}{}{Broken up}
+{46500}{}{Broken up}
+{46600}{}{Brick wall}
+{46700}{}{Brick wall}
+{46800}{}{Brick wall}
+{46900}{}{Brick wall}
+{47000}{}{Brick wall}
+{47100}{}{Destruction}
+{47200}{}{Destruction}
+{47300}{}{Destruction}
+{47400}{}{Destruction}
 {47500}{}{Thread set}
 {47600}{}{Wall}
 {47700}{}{Wall}
@@ -493,10 +493,10 @@
 {49200}{}{Wall}
 {49300}{}{Wall}
 {49400}{}{Wall}
-{49500}{}{two-month Proem}
-{49600}{}{two-month Proem}
-{49700}{}{two-month Proem}
-{49800}{}{two-month Proem}
+{49500}{}{Two-month Proem}
+{49600}{}{Two-month Proem}
+{49700}{}{Two-month Proem}
+{49800}{}{Two-month Proem}
 {49900}{}{Wall}
 {50000}{}{Wall}
 {50100}{}{Wall}
@@ -520,10 +520,10 @@
 {51900} {} {grid}
 {52000} {} {grid}
 {52100}{}{Wall}
-{52200}{}{destruction}
-{52300}{}{destruction}
-{52400}{}{destruction}
-{52500}{}{destruction}
+{52200}{}{Destruction}
+{52300}{}{Destruction}
+{52400}{}{Destruction}
+{52500}{}{Destruction}
 {52600}{}{Thread set}
 {52700}{}{Barn stand}
 {52800}{}{Barn stand}
@@ -610,10 +610,10 @@
 {60900}{}{Wall}
 {61000}{}{Wall}
 {61100}{}{Wall}
-{61200}{}{two-month Proem}
-{61300}{}{two-month Proem}
-{61400}{}{two-month Proem}
-{61500}{}{two-month Proem}
+{61200}{}{Two-month Proem}
+{61300}{}{Two-month Proem}
+{61400}{}{Two-month Proem}
+{61500}{}{Two-month Proem}
 {61600}{}{Wall}
 {61700}{}{Wall}
 {61800}{}{Wall}
@@ -624,260 +624,260 @@
 {62200}{}{Wall}
 {62201}{}{invisible wall. Shot.}
 {62300}{}{Thread set}
-{62400} {} {tube}
-{62500} {} {tube}
-{62600} {} {tube}
-{62700} {} {tube}
-{62800}{}{tube}
+{62400} {} {Tube}
+{62500} {} {Tube}
+{62600} {} {Tube}
+{62700} {} {Tube}
+{62800}{}{Tube}
 {62900}{}{Trub system}
 {63000}{}{Trub system}
 {63100}{}{Trub system}
-{63200}{}{tube}
-{63300}{}{tube}
-{63400}{}{tube}
-{63500}{}{tube}
-{63600}{}{equipment}
-{63700}{}{equipment}
-{63800}{}{equipment}
-{63900}{}{equipment}
-{64000}{}{equipment}
-{64100}{}{equipment}
-{64200}{}{tube}
-{64300}{}{tube}
-{64400} {} {tube}
-{64500} {} {tube}
-{64600}{}{tube}
-{64700} {} {tube}
-{64800}{}{tube}
-{64900} {} {tube}
-{65000}{}{tube}
-{65100}{}{tube}
-{65200}{}{tube}
-{65300} {} {tube}
-{65400} {} {tube}
+{63200}{}{Tube}
+{63300}{}{Tube}
+{63400}{}{Tube}
+{63500}{}{Tube}
+{63600}{}{Equipment}
+{63700}{}{Equipment}
+{63800}{}{Equipment}
+{63900}{}{Equipment}
+{64000}{}{Equipment}
+{64100}{}{Equipment}
+{64200}{}{Tube}
+{64300}{}{Tube}
+{64400} {} {Tube}
+{64500} {} {Tube}
+{64600}{}{Tube}
+{64700} {} {Tube}
+{64800}{}{Tube}
+{64900} {} {Tube}
+{65000}{}{Tube}
+{65100}{}{Tube}
+{65200}{}{Tube}
+{65300} {} {Tube}
+{65400} {} {Tube}
 {65500}{}{Thread set}
-{65600}{}{metal handrail}
-{65700}{}{metal handrail}
-{65800}{}{metal handrail}
-{65900}{}{metal handrail}
-{66000}{}{metal handrail}
-{66100}{}{metal handrail}
-{66200}{}{metal handrail}
-{66300}{}{metal handrail}
-{66400}{}{metal handrail}
-{66500}{}{metal handrail}
-{66600}{}{metal handrail}
-{66700}{}{metal handrail}
-{66800}{}{metal handrail}
-{66900}{}{steel wall}
-{67000}{}{steel wall}
-{67100}{}{steel wall}
-{67200}{}{steel wall}
-{67300}{}{steel wall}
-{67400}{}{steel wall}
-{67500}{}{steel wall}
-{67600}{}{steel wall}
-{67700}{}{steel wall}
-{67800}{}{steel wall}
-{67900}{}{steel wall}
-{68000}{}{steel wall}
-{68100}{}{steel wall}
-{68200}{}{steel wall}
-{68300}{}{steel wall}
-{68400}{}{steel wall}
-{68500}{}{steel wall}
-{68600}{}{steel wall}
-{68700}{}{steel wall}
-{68800}{}{steel wall}
-{68900}{}{steel wall}
-{69000}{}{steel wall}
-{69100}{}{steel wall}
-{69200}{}{steel wall}
-{69300}{}{steel wall}
-{69400}{}{steel wall}
-{69500}{}{steel wall}
-{69600}{}{steel wall}
-{69700}{}{steel wall}
-{69800}{}{steel wall}
-{69900}{}{steel wall}
-{70000}{}{steel wall}
-{70100}{}{steel wall}
-{70200}{}{steel wall}
-{70300}{}{two-month Proem}
-{70400}{}{two-month Proem}
-{70500}{}{two-month Proem}
-{70600}{}{two-month Proem}
-{70700}{}{two-month Proem}
-{70800}{}{two-month Proem}
-{70900}{}{two-month Proem}
-{71000}{}{two-month Proem}
-{71100}{}{two-month Proem}
-{71200}{}{two-month Proem}
-{71300}{}{two-month Proem}
-{71400}{}{two-month Proem}
-{71500}{}{two-month Proem}
-{71600}{}{aposematic}
-{71700}{}{aposematic}
-{71800}{}{aposematic}
-{71900}{}{aposematic}
-{72000}{}{steel wall}
-{72100}{}{steel wall}
-{72200}{}{steel wall}
-{72300}{}{steel wall}
-{72400} {} {Okno}
-{72500} {} {Okno}
-{72600} {} {Okno}
-{72700} {} {Okno}
-{72800} {} {Okno}
-{72900} {} {Okno}
-{73000} {} {Okno}
-{73100} {} {Okno}
-{73200} {} {Okno}
-{73300} {} {Okno}
-{73400} {} {Okno}
-{73500} {} {Okno}
-{73600} {} {Okno}
+{65600}{}{Metal handrail}
+{65700}{}{Metal handrail}
+{65800}{}{Metal handrail}
+{65900}{}{Metal handrail}
+{66000}{}{Metal handrail}
+{66100}{}{Metal handrail}
+{66200}{}{Metal handrail}
+{66300}{}{Metal handrail}
+{66400}{}{Metal handrail}
+{66500}{}{Metal handrail}
+{66600}{}{Metal handrail}
+{66700}{}{Metal handrail}
+{66800}{}{Metal handrail}
+{66900}{}{Steel wall}
+{67000}{}{Steel wall}
+{67100}{}{Steel wall}
+{67200}{}{Steel wall}
+{67300}{}{Steel wall}
+{67400}{}{Steel wall}
+{67500}{}{Steel wall}
+{67600}{}{Steel wall}
+{67700}{}{Steel wall}
+{67800}{}{Steel wall}
+{67900}{}{Steel wall}
+{68000}{}{Steel wall}
+{68100}{}{Steel wall}
+{68200}{}{Steel wall}
+{68300}{}{Steel wall}
+{68400}{}{Steel wall}
+{68500}{}{Steel wall}
+{68600}{}{Steel wall}
+{68700}{}{Steel wall}
+{68800}{}{Steel wall}
+{68900}{}{Steel wall}
+{69000}{}{Steel wall}
+{69100}{}{Steel wall}
+{69200}{}{Steel wall}
+{69300}{}{Steel wall}
+{69400}{}{Steel wall}
+{69500}{}{Steel wall}
+{69600}{}{Steel wall}
+{69700}{}{Steel wall}
+{69800}{}{Steel wall}
+{69900}{}{Steel wall}
+{70000}{}{Steel wall}
+{70100}{}{Steel wall}
+{70200}{}{Steel wall}
+{70300}{}{Two-month Proem}
+{70400}{}{Two-month Proem}
+{70500}{}{Two-month Proem}
+{70600}{}{Two-month Proem}
+{70700}{}{Two-month Proem}
+{70800}{}{Two-month Proem}
+{70900}{}{Two-month Proem}
+{71000}{}{Two-month Proem}
+{71100}{}{Two-month Proem}
+{71200}{}{Two-month Proem}
+{71300}{}{Two-month Proem}
+{71400}{}{Two-month Proem}
+{71500}{}{Two-month Proem}
+{71600}{}{Aposematic}
+{71700}{}{Aposematic}
+{71800}{}{Aposematic}
+{71900}{}{Aposematic}
+{72000}{}{Steel wall}
+{72100}{}{Steel wall}
+{72200}{}{Steel wall}
+{72300}{}{Steel wall}
+{72400} {} {Window}
+{72500} {} {Window}
+{72600} {} {Window}
+{72700} {} {Window}
+{72800} {} {Window}
+{72900} {} {Window}
+{73000} {} {Window}
+{73100} {} {Window}
+{73200} {} {Window}
+{73300} {} {Window}
+{73400} {} {Window}
+{73500} {} {Window}
+{73600} {} {Window}
 {73700}{}{Thread set}
-{73800}{}{steel wall}
-{73900}{}{steel wall}
-{74000}{}{steel wall}
-{74100}{}{steel wall}
-{74200}{}{steel wall}
-{74300}{}{steel wall}
-{74400}{}{steel wall}
-{74500}{}{steel wall}
-{74600}{}{steel wall}
-{74700}{}{steel wall}
-{74800}{}{steel wall}
-{74900}{}{steel wall}
-{75000}{}{steel wall}
-{75100}{}{steel wall}
-{75200}{}{steel wall}
-{75300}{}{steel wall}
-{75400}{}{steel wall}
-{75500}{}{steel wall}
-{75600}{}{steel wall}
-{75700}{}{steel wall}
-{75800}{}{steel wall}
-{75900}{}{steel wall}
-{76000}{}{steel wall}
-{76100}{}{steel wall}
-{76200}{}{steel wall}
-{76300}{}{steel wall}
-{76400}{}{steel wall}
-{76500}{}{steel wall}
-{76600}{}{steel wall}
-{76700}{}{two-month Proem}
-{76800}{}{two-month Proem}
-{76900}{}{two-month Proem}
-{77000}{}{two-month Proem}
-{77100}{}{two-month Proem}
-{77200}{}{two-month Proem}
-{77300}{}{two-month Proem}
-{77400}{}{two-month Proem}
-{77500}{}{aposematic}
-{77600}{}{aposematic}
-{77700}{}{aposematic}
-{77800}{}{aposematic}
-{77900}{}{steel wall}
-{78000}{}{steel wall}
-{78100}{}{steel wall}
-{78200}{}{steel wall}
-{78300} {} {Okno}
-{78400} {} {Okno}
-{78500} {} {Okno}
-{78600} {} {Okno}
-{78700} {} {Okno}
-{78800} {} {Okno}
-{78900} {} {Okno}
-{79000} {} {Okno}
-{79100} {} {Okno}
-{79200} {} {Okno}
-{79300} {} {Okno}
-{79400} {} {Okno}
-{79500} {} {Okno}
+{73800}{}{Steel wall}
+{73900}{}{Steel wall}
+{74000}{}{Steel wall}
+{74100}{}{Steel wall}
+{74200}{}{Steel wall}
+{74300}{}{Steel wall}
+{74400}{}{Steel wall}
+{74500}{}{Steel wall}
+{74600}{}{Steel wall}
+{74700}{}{Steel wall}
+{74800}{}{Steel wall}
+{74900}{}{Steel wall}
+{75000}{}{Steel wall}
+{75100}{}{Steel wall}
+{75200}{}{Steel wall}
+{75300}{}{Steel wall}
+{75400}{}{Steel wall}
+{75500}{}{Steel wall}
+{75600}{}{Steel wall}
+{75700}{}{Steel wall}
+{75800}{}{Steel wall}
+{75900}{}{Steel wall}
+{76000}{}{Steel wall}
+{76100}{}{Steel wall}
+{76200}{}{Steel wall}
+{76300}{}{Steel wall}
+{76400}{}{Steel wall}
+{76500}{}{Steel wall}
+{76600}{}{Steel wall}
+{76700}{}{Two-month Proem}
+{76800}{}{Two-month Proem}
+{76900}{}{Two-month Proem}
+{77000}{}{Two-month Proem}
+{77100}{}{Two-month Proem}
+{77200}{}{Two-month Proem}
+{77300}{}{Two-month Proem}
+{77400}{}{Two-month Proem}
+{77500}{}{Aposematic}
+{77600}{}{Aposematic}
+{77700}{}{Aposematic}
+{77800}{}{Aposematic}
+{77900}{}{Steel wall}
+{78000}{}{Steel wall}
+{78100}{}{Steel wall}
+{78200}{}{Steel wall}
+{78300} {} {Window}
+{78400} {} {Window}
+{78500} {} {Window}
+{78600} {} {Window}
+{78700} {} {Window}
+{78800} {} {Window}
+{78900} {} {Window}
+{79000} {} {Window}
+{79100} {} {Window}
+{79200} {} {Window}
+{79300} {} {Window}
+{79400} {} {Window}
+{79500} {} {Window}
 {79600}{}{Thread set}
-{79700}{}{steel wall}
-{79800}{}{steel wall}
-{79900}{}{steel wall}
-{80000}{}{steel wall}
-{80100}{}{steel wall}
-{80200}{}{steel wall}
-{80300}{}{steel wall}
-{80400}{}{steel wall}
-{80500}{}{steel wall}
-{80600}{}{steel wall}
-{80700}{}{steel wall}
-{80800}{}{steel wall}
-{80900}{}{steel wall}
-{81000}{}{steel wall}
-{81100}{}{steel wall}
-{81200}{}{steel wall}
-{81300}{}{steel wall}
-{81400}{}{steel wall}
-{81500}{}{steel wall}
-{81600}{}{steel wall}
-{81700}{}{steel wall}
-{81800}{}{steel wall}
-{81900}{}{steel wall}
-{82000}{}{steel wall}
-{82100}{}{steel wall}
-{82200}{}{steel wall}
-{82300}{}{steel wall}
-{82400}{}{steel wall}
-{82500}{}{steel wall}
-{82600}{}{steel wall}
-{82700}{}{steel wall}
-{82800}{}{steel wall}
-{82900}{}{steel wall}
-{83000}{}{steel wall}
-{83100}{}{steel wall}
-{83200}{}{steel wall}
-{83300}{}{steel wall}
-{83400}{}{steel wall}
-{83500}{}{steel wall}
-{83600}{}{two-month Proem}
-{83700}{}{two-month Proem}
-{83800}{}{two-month Proem}
-{83900}{}{two-month Proem}
-{84000}{}{two-month Proem}
-{84100}{}{two-month Proem}
-{84200}{}{two-month Proem}
-{84300}{}{two-month Proem}
-{84400}{}{two-month Proem}
-{84500}{}{two-month Proem}
-{84600}{}{two-month Proem}
-{84700}{}{two-month Proem}
-{84800}{}{two-month Proem}
-{84900}{}{aposematic}
-{85000}{}{aposematic}
-{85100}{}{aposematic}
-{85200}{}{aposematic}
-{85300}{}{steel wall}
-{85400}{}{steel wall}
-{85500}{}{steel wall}
-{85600}{}{steel wall}
-{85700} {} {Okno}
-{85800} {} {Okno}
-{85900} {} {Okno}
-{86000} {} {Okno}
-{86100} {} {Okno}
-{86200} {} {Okno}
-{86300} {} {Okno}
-{86400} {} {Okno}
-{86500} {} {Okno}
-{86600} {} {Okno}
-{86700} {} {Okno}
-{86800} {} {Okno}
-{86900} {} {Okno}
-{87000} {} {Okno}
-{87100}{}{destroyed Wall}
-{87200}{}{destroyed Wall}
-{87300}{}{destroyed Wall}
-{87400}{}{destroyed Wall}
-{87500}{}{wall cave}
-{87600}{}{two-month Proem}
-{87700}{}{two-month Proem}
+{79700}{}{Steel wall}
+{79800}{}{Steel wall}
+{79900}{}{Steel wall}
+{80000}{}{Steel wall}
+{80100}{}{Steel wall}
+{80200}{}{Steel wall}
+{80300}{}{Steel wall}
+{80400}{}{Steel wall}
+{80500}{}{Steel wall}
+{80600}{}{Steel wall}
+{80700}{}{Steel wall}
+{80800}{}{Steel wall}
+{80900}{}{Steel wall}
+{81000}{}{Steel wall}
+{81100}{}{Steel wall}
+{81200}{}{Steel wall}
+{81300}{}{Steel wall}
+{81400}{}{Steel wall}
+{81500}{}{Steel wall}
+{81600}{}{Steel wall}
+{81700}{}{Steel wall}
+{81800}{}{Steel wall}
+{81900}{}{Steel wall}
+{82000}{}{Steel wall}
+{82100}{}{Steel wall}
+{82200}{}{Steel wall}
+{82300}{}{Steel wall}
+{82400}{}{Steel wall}
+{82500}{}{Steel wall}
+{82600}{}{Steel wall}
+{82700}{}{Steel wall}
+{82800}{}{Steel wall}
+{82900}{}{Steel wall}
+{83000}{}{Steel wall}
+{83100}{}{Steel wall}
+{83200}{}{Steel wall}
+{83300}{}{Steel wall}
+{83400}{}{Steel wall}
+{83500}{}{Steel wall}
+{83600}{}{Two-month Proem}
+{83700}{}{Two-month Proem}
+{83800}{}{Two-month Proem}
+{83900}{}{Two-month Proem}
+{84000}{}{Two-month Proem}
+{84100}{}{Two-month Proem}
+{84200}{}{Two-month Proem}
+{84300}{}{Two-month Proem}
+{84400}{}{Two-month Proem}
+{84500}{}{Two-month Proem}
+{84600}{}{Two-month Proem}
+{84700}{}{Two-month Proem}
+{84800}{}{Two-month Proem}
+{84900}{}{Aposematic}
+{85000}{}{Aposematic}
+{85100}{}{Aposematic}
+{85200}{}{Aposematic}
+{85300}{}{Steel wall}
+{85400}{}{Steel wall}
+{85500}{}{Steel wall}
+{85600}{}{Steel wall}
+{85700} {} {Window}
+{85800} {} {Window}
+{85900} {} {Window}
+{86000} {} {Window}
+{86100} {} {Window}
+{86200} {} {Window}
+{86300} {} {Window}
+{86400} {} {Window}
+{86500} {} {Window}
+{86600} {} {Window}
+{86700} {} {Window}
+{86800} {} {Window}
+{86900} {} {Window}
+{87000} {} {Window}
+{87100}{}{Dstroyed Wall}
+{87200}{}{Dstroyed Wall}
+{87300}{}{Dstroyed Wall}
+{87400}{}{Dstroyed Wall}
+{87500}{}{Cave wall}
+{87600}{}{Two-month Proem}
+{87700}{}{Two-month Proem}
 {87800}{}{Trottuar}
 {87900}{}{Trottuar}
 {88000}{}{Vorota Angara}
@@ -895,21 +895,21 @@
 {89200}{}{Wall}
 {89300}{}{Wall}
 {89400}{}{Wall}
-{89500}{}{wall with pulv-Urga holes}
+{89500}{}{Wall with pulv-Urga holes}
 {89600}{}{Wall}
 {89700}{}{Wall}
 {89800}{}{Wall}
 {89900}{}{Wall}
-{90000}{}{two-month Proem}
-{90100}{}{two-month Proem}
-{90200}{}{two-month Proem}
-{90300}{}{two-month Proem}
+{90000}{}{Two-month Proem}
+{90100}{}{Two-month Proem}
+{90200}{}{Two-month Proem}
+{90300}{}{Two-month Proem}
 {90400}{}{Wall}
 {90500}{}{Wall}
 {90600}{}{Wall}
 {90700}{}{Wall}
-{90800} {} {Okno}
-{90900} {} {Okno}
+{90800} {} {Window}
+{90900} {} {Window}
 {91000}{}{Wall}
 {91100}{}{Wall}
 {91200}{}{Wall}
@@ -917,13 +917,13 @@
 {91400} {} {Arch}
 {91500} {} {Arch}
 {91600} {} {Arch}
-{91700}{}{two-month Proem}
-{91800}{}{two-month Proem}
-{91900}{}{two-month Proem}
-{92000}{}{two-month Proem}
-{92100}{}{aposematic}
+{91700}{}{Two-month Proem}
+{91800}{}{Two-month Proem}
+{91900}{}{Two-month Proem}
+{92000}{}{Two-month Proem}
+{92100}{}{Aposematic}
 {92101} {} {Power barrier emitter.}
-{92200}{}{aposematic}
+{92200}{}{Aposematic}
 {92201} {} {Power barrier emitter.}
 {92300}{}{power Barer}
 {92400}{}{power Barer}
@@ -939,8 +939,8 @@
 {93400}{}{Wall}
 {93500}{}{Wall}
 {93600}{}{Wall}
-{93700}{}{two-month Proem}
-{93800}{}{two-month Proem}
+{93700}{}{Two-month Proem}
+{93800}{}{Two-month Proem}
 {93900}{}{Wall}
 {94000}{}{Wall}
 {94100}{}{Wall}
@@ -1022,9 +1022,9 @@
 {101700}{}{Wall}
 {101800}{}{Wall}
 {101900}{}{Wall}
-{102000}{}{wall repositories}
-{102100}{}{wall repositories}
-{102200}{}{two repositories}
+{102000}{}{Wall repositories}
+{102100}{}{Wall repositories}
+{102200}{}{Two repositories}
 {102201}{}{armored two bank vaults. A code from no-Uche no-remember.}
 {102300}{}{Wall}
 {102400}{}{Wall}
@@ -1035,11 +1035,11 @@
 {102900}{}{Wall}
 {103000}{}{Wall}
 {103100}{}{Wall}
-{103200}{}{two-month Proem}
-{103300}{}{two-month Proem}
-{103400}{}{two-month Proem}
-{103500}{}{two-month Proem}
-{103600}{}{two-month Proem}
+{103200}{}{Two-month Proem}
+{103300}{}{Two-month Proem}
+{103400}{}{Two-month Proem}
+{103500}{}{Two-month Proem}
+{103600}{}{Two-month Proem}
 {103700}{}{Wall}
 {103800}{}{Wall}
 {103900}{}{Wall}
@@ -1047,14 +1047,14 @@
 {104100}{}{Wall}
 {104200}{}{Wall}
 {104300}{}{Wall}
-{104400} {} {Okno}
-{104500} {} {Okno}
-{104600}{}{enclosure}
-{104700}{}{enclosure}
-{104800}{}{enclosure}
-{104900}{}{enclosure}
-{105000}{}{enclosure}
-{105100}{}{enclosure}
+{104400} {} {Window}
+{104500} {} {Window}
+{104600}{}{Enclosure}
+{104700}{}{Enclosure}
+{104800}{}{Enclosure}
+{104900}{}{Enclosure}
+{105000}{}{Enclosure}
+{105100}{}{Enclosure}
 {105200}{}{Wall}
 {105300}{}{Wall}
 {105400}{}{Wall}
@@ -1062,9 +1062,9 @@
 {105600}{}{Wall}
 {105700}{}{Wall}
 {105800}{}{Wall}
-{105900}{}{two-month Proem}
-{106000}{}{two-month Proem}
-{106100} {} {Okno}
+{105900}{}{Two-month Proem}
+{106000}{}{Two-month Proem}
+{106100} {} {Window}
 {106200}{}{Wall}
 {106300}{}{Wall}
 {106301}{}{on the groaning visit rzhavaya panel. The color of the paint on the table, which is different from the different inscriptions, does not represent the possibility of the Apostille.}
@@ -1080,16 +1080,16 @@
 {107100}{}{Wall}
 {107200}{}{Wall}
 {107300}{}{Wall}
-{107400}{}{two-month Proem}
-{107500}{}{two-month Proem}
-{107600}{}{two-month Proem}
-{107700}{}{two-month Proem}
+{107400}{}{Two-month Proem}
+{107500}{}{Two-month Proem}
+{107600}{}{Two-month Proem}
+{107700}{}{Two-month Proem}
 {107800}{}{Wall}
 {107900}{}{Wall}
 {108000}{}{Wall}
 {108100}{}{Wall}
-{108200} {} {Okno}
-{108300} {} {Okno}
+{108200} {} {Window}
+{108300} {} {Window}
 {108400}{}{Wall}
 {108500}{}{Wall}
 {108600}{}{Wall}
@@ -1103,14 +1103,14 @@
 {109400}{}{Wall}
 {109500}{}{Wall}
 {109600}{}{Wall}
-{109700}{}{two-month Proem}
-{109800}{}{two-month Proem}
+{109700}{}{Two-month Proem}
+{109800}{}{Two-month Proem}
 {109900}{}{Dvernoy Proem}
-{110000}{}{two-month Proem}
-{110100} {} {Okno}
-{110200} {} {Okno}
-{110300} {} {Okno}
-{110400} {} {Okno}
+{110000}{}{Two-month Proem}
+{110100} {} {Window}
+{110200} {} {Window}
+{110300} {} {Window}
+{110400} {} {Window}
 {110500}{}{Wall}
 {110600}{}{Wall}
 {110700}{}{Wall}
@@ -1366,14 +1366,14 @@
 {135700}{}{Zabor}
 {135800}{}{Zabor}
 {135900}{}{Zabor}
-{136000}{}{two-month Proem}
-{136100}{}{two-month Proem}
-{136200}{}{Krugloe okno}
-{136300}{}{Krugloe okno}
-{136400}{}{Krugloe okno}
-{136500}{}{Krugloe okno}
-{136600}{}{Krugloe okno}
-{136700}{}{Krugloe okno}
+{136000}{}{Two-month Proem}
+{136100}{}{Two-month Proem}
+{136200}{}{Round window}
+{136300}{}{Round window}
+{136400}{}{Round window}
+{136500}{}{Round window}
+{136600}{}{Round window}
+{136700}{}{Round window}
 {136800}{}{Wall}
 {136900}{}{Wall}
 {137000}{}{Wall}
@@ -1410,136 +1410,136 @@
 {140100}{}{Wall}
 {140200}{}{Wall}
 {140300}{}{Wall}
-{140400}{}{wall cover}
-{140500}{}{wall cover}
-{140600}{}{wall cover}
-{140700}{}{wall cover}
-{140800}{}{wall cover}
-{140900}{}{wall cover}
-{141000}{}{wall cover}
-{141100}{}{wall cover}
-{141200}{}{wall cover}
-{141300}{}{wall cover}
-{141400}{}{wall cover}
-{141500}{}{wall cover}
-{141600}{}{wall cover}
-{141700}{}{wall cover}
-{141800}{}{wall cover}
-{141900}{}{wall cover}
-{142000}{}{wall cover}
-{142100}{}{wall cover}
-{142200}{}{wall cover}
-{142300}{}{wall cover}
-{142400}{}{wall cover}
-{142500}{}{wall cover}
-{142600}{}{wall cover}
-{142700}{}{wall cover}
-{142800}{}{wall cover}
-{142900}{}{wall cover}
-{143000}{}{wall cover}
-{143100}{}{wall cover}
-{143200}{}{wall cover}
-{143300}{}{wall cover}
-{143400}{}{wall cover}
-{143500}{}{wall cover}
-{143600}{}{wall cover}
-{143700}{}{wall cover}
-{143800}{}{wall cover}
-{143900}{}{wall cover}
-{144000}{}{wall cover}
-{144100}{}{wall cover}
-{144200}{}{wall cover}
-{144300}{}{wall cover}
-{144400}{}{wall cover}
-{144500}{}{wall cover}
-{144600}{}{wall cover}
-{144700}{}{wall cover}
-{144800}{}{wall cover}
-{144900}{}{wall cover}
-{145000}{}{wall cover}
-{145100}{}{wall cover}
-{145200}{}{wall cover}
-{145300}{}{wall cover}
-{145400}{}{wall cover}
-{145500}{}{wall cover}
-{145600}{}{wall cover}
-{145700}{}{wall cover}
-{145800}{}{wall cover}
-{145900}{}{wall cover}
-{146000}{}{wall cover}
-{146100}{}{wall cover}
-{146200}{}{wall cover}
-{146300}{}{wall cover}
-{146400}{}{wall cover}
-{146500}{}{wall cover}
-{146600}{}{wall cover}
-{146700}{}{wall cover}
-{146800}{}{wall cover}
-{146900}{}{wall cover}
-{147000}{}{wall cover}
-{147100}{}{wall cover}
-{147200}{}{wall cover}
-{147300}{}{enclosure}
-{147400}{}{enclosure}
-{147500}{}{enclosure}
-{147600}{}{enclosure}
-{147700}{}{enclosure}
-{147800}{}{enclosure}
-{147900}{}{enclosure}
-{148000}{}{enclosure}
-{148100}{}{enclosure}
-{148200}{}{enclosure}
-{148300}{}{panoramic view}
-{148400}{}{panoramic view}
-{148500}{}{panoramic view}
-{148600}{}{panoramic view}
-{148700}{}{panoramic view}
-{148800}{}{enclosure}
-{148900}{}{enclosure}
-{149000}{}{enclosure}
-{149100}{}{enclosure}
-{149200}{}{enclosure}
-{149300}{}{enclosure}
+{140400}{}{Wall cover}
+{140500}{}{Wall cover}
+{140600}{}{Wall cover}
+{140700}{}{Wall cover}
+{140800}{}{Wall cover}
+{140900}{}{Wall cover}
+{141000}{}{Wall cover}
+{141100}{}{Wall cover}
+{141200}{}{Wall cover}
+{141300}{}{Wall cover}
+{141400}{}{Wall cover}
+{141500}{}{Wall cover}
+{141600}{}{Wall cover}
+{141700}{}{Wall cover}
+{141800}{}{Wall cover}
+{141900}{}{Wall cover}
+{142000}{}{Wall cover}
+{142100}{}{Wall cover}
+{142200}{}{Wall cover}
+{142300}{}{Wall cover}
+{142400}{}{Wall cover}
+{142500}{}{Wall cover}
+{142600}{}{Wall cover}
+{142700}{}{Wall cover}
+{142800}{}{Wall cover}
+{142900}{}{Wall cover}
+{143000}{}{Wall cover}
+{143100}{}{Wall cover}
+{143200}{}{Wall cover}
+{143300}{}{Wall cover}
+{143400}{}{Wall cover}
+{143500}{}{Wall cover}
+{143600}{}{Wall cover}
+{143700}{}{Wall cover}
+{143800}{}{Wall cover}
+{143900}{}{Wall cover}
+{144000}{}{Wall cover}
+{144100}{}{Wall cover}
+{144200}{}{Wall cover}
+{144300}{}{Wall cover}
+{144400}{}{Wall cover}
+{144500}{}{Wall cover}
+{144600}{}{Wall cover}
+{144700}{}{Wall cover}
+{144800}{}{Wall cover}
+{144900}{}{Wall cover}
+{145000}{}{Wall cover}
+{145100}{}{Wall cover}
+{145200}{}{Wall cover}
+{145300}{}{Wall cover}
+{145400}{}{Wall cover}
+{145500}{}{Wall cover}
+{145600}{}{Wall cover}
+{145700}{}{Wall cover}
+{145800}{}{Wall cover}
+{145900}{}{Wall cover}
+{146000}{}{Wall cover}
+{146100}{}{Wall cover}
+{146200}{}{Wall cover}
+{146300}{}{Wall cover}
+{146400}{}{Wall cover}
+{146500}{}{Wall cover}
+{146600}{}{Wall cover}
+{146700}{}{Wall cover}
+{146800}{}{Wall cover}
+{146900}{}{Wall cover}
+{147000}{}{Wall cover}
+{147100}{}{Wall cover}
+{147200}{}{Wall cover}
+{147300}{}{Enclosure}
+{147400}{}{Enclosure}
+{147500}{}{Enclosure}
+{147600}{}{Enclosure}
+{147700}{}{Enclosure}
+{147800}{}{Enclosure}
+{147900}{}{Enclosure}
+{148000}{}{Enclosure}
+{148100}{}{Enclosure}
+{148200}{}{Enclosure}
+{148300}{}{Panoramic view}
+{148400}{}{Panoramic view}
+{148500}{}{Panoramic view}
+{148600}{}{Panoramic view}
+{148700}{}{Panoramic view}
+{148800}{}{Enclosure}
+{148900}{}{Enclosure}
+{149000}{}{Enclosure}
+{149100}{}{Enclosure}
+{149200}{}{Enclosure}
+{149300}{}{Enclosure}
 {149400}{}{Wall}
 {149500}{}{Wall}
 {149600}{}{Wall}
 {149700}{}{Wall}
 {149800}{}{Wall}
-{149900}{}{enclosure}
-{150000}{}{enclosure}
-{150100}{}{enclosure}
-{150200}{}{enclosure}
-{150300}{}{enclosure}
-{150400}{}{enclosure}
-{150500}{}{brick wall}
-{150600}{}{brick wall}
-{150700}{}{brick wall}
-{150800}{}{brick wall}
-{150900}{}{brick wall}
-{151000}{}{brick wall}
-{151100}{}{brick wall}
-{151200}{}{brick wall}
-{151300}{}{brick wall}
-{151400}{}{brick wall}
-{151500}{}{brick wall}
-{151600}{}{brick wall}
-{151700}{}{brick wall}
-{151800}{}{brick wall}
-{151900}{}{brick wall}
-{152000}{}{brick wall}
-{152100}{}{brick wall}
-{152200}{}{brick wall}
-{152300}{}{brick wall}
-{152400}{}{brick wall}
-{152500}{}{brick wall}
-{152600}{}{brick wall}
-{152700}{}{brick wall}
-{152800}{}{brick wall}
-{152900}{}{brick wall}
-{153000}{}{brick wall}
-{153100}{}{brick wall}
-{153200}{}{brick wall}
-{153300}{}{brick wall}
+{149900}{}{Enclosure}
+{150000}{}{Enclosure}
+{150100}{}{Enclosure}
+{150200}{}{Enclosure}
+{150300}{}{Enclosure}
+{150400}{}{Enclosure}
+{150500}{}{Brick wall}
+{150600}{}{Brick wall}
+{150700}{}{Brick wall}
+{150800}{}{Brick wall}
+{150900}{}{Brick wall}
+{151000}{}{Brick wall}
+{151100}{}{Brick wall}
+{151200}{}{Brick wall}
+{151300}{}{Brick wall}
+{151400}{}{Brick wall}
+{151500}{}{Brick wall}
+{151600}{}{Brick wall}
+{151700}{}{Brick wall}
+{151800}{}{Brick wall}
+{151900}{}{Brick wall}
+{152000}{}{Brick wall}
+{152100}{}{Brick wall}
+{152200}{}{Brick wall}
+{152300}{}{Brick wall}
+{152400}{}{Brick wall}
+{152500}{}{Brick wall}
+{152600}{}{Brick wall}
+{152700}{}{Brick wall}
+{152800}{}{Brick wall}
+{152900}{}{Brick wall}
+{153000}{}{Brick wall}
+{153100}{}{Brick wall}
+{153200}{}{Brick wall}
+{153300}{}{Brick wall}
 {153400}{}{Wall}
 {153500}{}{Wall}
 {153600}{}{Wall}
@@ -1814,19 +1814,19 @@
 {180500}{}{burial wall}
 {180600}{}{burial wall}
 {180700}{}{burial wall}
-{180800}{}{tube}
+{180800}{}{Tube}
 {180801} {} {This is an ancient pipeline. Tepper on serve trasoy to begegov mengarshei.}
-{180900}{}{tube}
+{180900}{}{Tube}
 {180901} {} {This is an ancient pipeline. Tepper on serve trasoy to begegov mengarshei.}
-{181000}{}{tube}
+{181000}{}{Tube}
 {181001} {} {This is an ancient pipeline. Tepper on serve trasoy to begegov mengarshei.}
-{181100}{}{tube}
+{181100}{}{Tube}
 {181101} {} {This is an ancient pipeline. Tepper on serve trasoy to begegov mengarshei.}
-{181200}{}{tube}
+{181200}{}{Tube}
 {181201} {} {This is an ancient pipeline. Tepper on serve trasoy to begegov mengarshei.}
-{181300}{}{tube}
+{181300}{}{Tube}
 {181301} {} {This is an ancient pipeline. Tepper on serve trasoy to begegov mengarshei.}
-{181400}{}{tube}
+{181400}{}{Tube}
 {181401} {} {This is an ancient pipeline. Tepper on serve trasoy to begegov mengarshei.}
 {181500}{}{Wall}
 {181600}{}{Wall}
@@ -1894,12 +1894,12 @@
 {186600}{}{Wall}
 {186700}{}{Wall}
 {186800}{}{Wall}
-{186900}{}{border wall}
-{187000}{}{border wall}
-{187100}{}{border wall}
-{187200}{}{border wall}
-{187300}{}{border wall}
-{187400}{}{border wall}
+{186900}{}{Border wall}
+{187000}{}{Border wall}
+{187100}{}{Border wall}
+{187200}{}{Border wall}
+{187300}{}{Border wall}
+{187400}{}{Border wall}
 {187500}{}{Wall}
 {187600}{}{Wall}
 {187700}{}{Wall}
@@ -1952,13 +1952,13 @@
 {192400}{}{Wall}
 {192500}{}{Wall}
 {192600}{}{Wall}
-{192700}{}{handrail bridge}
-{192800}{}{handrail bridge}
-{192900}{}{handrail bridge}
-{193000}{}{handrail bridge}
-{193100}{}{handrail bridge}
-{193200} {} {Okno}
-{193300} {} {Okno}
+{192700}{}{Handrail bridge}
+{192800}{}{Handrail bridge}
+{192900}{}{Handrail bridge}
+{193000}{}{Handrail bridge}
+{193100}{}{Handrail bridge}
+{193200} {} {Window}
+{193300} {} {Window}
 {193400}{}{directory}
 {193500}{}{directory}
 {193600}{}{directory}
