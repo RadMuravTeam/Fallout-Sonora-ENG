@@ -10,7 +10,7 @@
 {201}{}{There are.}
 {202}{}{Give me 10 caps. And hurry up.}
 {203}{}{Okay, here are 10 caps. All for you guys.}
-{204}{}{Watch your tongue. We're not playing games here. And now — disappear.}
+{204}{}{Watch your tongue. We're not playing games here. And now â€” disappear.}
 {205}{}{As you say...}
 {206}{}{Here are 10 caps.}
 {207}{}{Good boy... I see you're also rich. Let's have 10 more caps.}
@@ -47,7 +47,7 @@
 {1250}{}{Senora, my respects! For the first time in the city? I would show you all the sights. For just 10 caps.}
 {251}{}{Okay, here are 10 caps.}
 {252}{}{Sorry, amigo, I'm broke. Maybe another time.}
-{253}{}{Mucho gracia... Oh, yes, there's the monorail, and there's the Mexican border. There is another Gulsky camp in the north. That is all. Be...}
+{253}{}{Mucho gracia... Oh, yes, there's the monorail, and there's the Mexican border. There is another ghoul camp in the north. That is all. Be...}
 {254}{}{You didn't tell a damn thing, you fucking bred!}
 {255}{}{It was... educational tour. Thank you.}
 {256}{}{Hi there.}
