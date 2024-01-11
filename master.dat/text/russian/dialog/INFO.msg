@@ -66,7 +66,7 @@
 
 {200}{}{You have received }
 {201}{}{ experience points.}
-{202}{}{experience points for successful dialogue.}
+{202}{}{ experience points for successful dialogue.}
 {203}{}{ experience points and reputation enhancement.}
 
 #---------------------------------------------
