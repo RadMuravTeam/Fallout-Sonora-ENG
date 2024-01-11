@@ -1,10 +1,10 @@
-{100}{}{This is Granny Adonsia.}
-{101}{}{Here is a woman you know well - your grandmother. She smokes a pipe and squints with a sharp look.}
+{100}{}{You see Granny Adonsia.}
+{101}{}{A woman you know well - your grandmother. She smokes a pipe and squints with a sharp look.}
 {102}{}{Goodbye, Grandma. I hope no one finds out the real cause of your death.}
 {103}{}{What kind of demon sent you against us? Banish him! Come to your senses!}
 
 #The first dialog
-{210}{}{(takes a drag and then lets out puffs of black smoke while looking at you reproachfully) Here you are. You were lucky to be away from home at a bad time. And maybe it's for the best.}
+{210}{}{(Takes a drag and then lets out puffs of black smoke while looking at you reproachfully) Here you are. You were lucky to be away from home at a bad time. And maybe it's for the best.}
 {211}{}{Granny Adonsia, we don't have time to chat right now. Tell me what's going on.}
 {212}{}{Stop grumbling, old woman. Tell me what happened.}
 {213}{}{What happened? What's going on?}
@@ -15,11 +15,11 @@
 
 {218}{}{While you were gone, strangers came. Evil people. Ten people, and all with weapons. Our men couldn't handle them.}
 {219}{}{Go on.}
-{220}{}{Outsiders took all able-bodied. Only the elderly and children were left. Now the Villa is in your hands, you are in charge here. And you'll have to do something about it.}
+{220}{}{Extranos took all able-bodied. Only the elderly and children were left. Now the Villa is in your hands, you are in charge here. And you'll have to do something about it.}
 {221}{}{What can I do alone?}
 {222}{}{What do you think? Bring back our men and women. At least their parents. They, too, fell into the clutches of these extranos.}
 {223}{}{It won't be easy...}
-{224}{}{(nods) Right. And I'll tell you what, although your padre won't like it terribly. Downstairs, in the cellars under the town hall, there is a secret room with family heirlooms. Only a few people know about it. Go down, find and take everything that will be useful to you on the road. And do it right now, time is precious.}
+{224}{}{(Nods) Right. And I'll tell you what, although your padre won't like it much. Downstairs, in the cellars under the town hall, there is a secret room with family heirlooms. Only a few people know about it. Go down, find and take everything that will be useful to you on the road. And do it right now, time is precious.}
 {225}{}{Thanks, Grandma. Now every little thing will help me.}
 {226}{}{And that's it? Damn, you're no help. Okay, I'll look in Dad's cellar.}
 {227}{}{OK, I'll try to find these old things.}
@@ -42,7 +42,7 @@
 
 #Questions
 {240}{}{Find Jose in the square, he will tell me more.}
-{241}{}{How did the stranger’s assault happen?}
+{241}{}{How did the strangerâ€™s assault happen?}
 {242}{}{Has someone died?}
 {243}{}{What's wrong with my parents?}
 {244}{}{This secret room in the cellars raises questions.}
@@ -55,8 +55,8 @@
 {251}{}{There was a whole massacre at the town hall. Several were killed, others were maimed. If your nerves are weak, it's better not to go there.}
 {252}{}{Your padre and madre were also taken away. So hurry up before anything worse happens to them.}
 {253}{}{Well of course. Only the old people knew about the Founder's secret room. There are ancient things and knowledge stored there, which everyone in the Villa is not supposed to know about. Padre would have taken you to this room anyway, when he thought it was necessary.}
-{254}{}{Obviously stupid. First find Jose and ask about the raid. And then go after the raiders. Then you will have to decide for yourself.}
-{1254}{}{Obviously stupid. First find Jose and ask about the raid. And then go after the raiders. Then you will have to decide for yourself.}
+{254}{}{Don't be dumb. First find Jose and ask about the raid. And then go after the raiders. Then you will have to decide for yourself.}
+{1254}{}{Don't be dumb. First find Jose and ask about the raid. And then go after the raiders. Then you will have to decide for yourself.}
 {255}{}{But the old people have always taught us that you can't use ancient things. Did even the Founder break this taboo?}
 {256}{}{Don't jump to conclusions. Taboos were invented to protect you from the dangers of old things. But not all of them are really dangerous, and some are even useful.}
 {257}{}{Perhaps if we knew more about ancient things, we would be ready for the attack of the raiders.}
