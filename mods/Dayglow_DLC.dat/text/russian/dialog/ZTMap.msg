@@ -84,7 +84,7 @@
 {179}{}{You have come to the ancient ruins. No one has lived here for a very long time.}
 {180}{}{The shores of Colorado are overgrown with prickly vegetation, in which various game can hide.}
 {181}{}{}
-{182}{}{Time has not spared this place — dilapidated buildings collapsed, and sandstorms covered the ruins with a layer of sand.}
+{182}{}{Time has not spared this place â€” dilapidated buildings collapsed, and sandstorms covered the ruins with a layer of sand.}
 {183}{}{}
 {184}{}{}
 {185}{}{}
@@ -155,7 +155,7 @@
 {250}{}{Before you are barren wastelands.}
 
 {500}{}{You get }
-{501}{}{ experience for survival in the cellars of the Villa.}
+{501}{}{ experience for surviving in the cellars of the Villa.}
 {502}{}{Prisoners escaped from the correctional institution!}
 {503}{}{You get }
 {504}{}{ experience for destroying the Cathedral of the Sacred Fire.}
