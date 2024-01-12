@@ -1,4 +1,4 @@
-{100}{}{Here is an orphan.}
+{100}{}You see an orphan.}
 {101}{}{You see a disheveled boy with a childish look.}
 {102}{}{Hr-r-r...}
 {1102}{}{Ma... ma... hr-r...}
@@ -74,11 +74,11 @@
 {269}{}{That's it, you piece of shit.}
 {270}{}{Good boy.}
 
-{271}{}{And let's play a game? If I lose, I will give you 5 caps, otherwise you will give the grenade.}
+{271}{}{And let's play a game. If I lose, I will give you 5 caps, otherwise you will give the grenade.}
 {272}{}{(Excitement appears in the boy's eyes) Okay.}
 {273}{}{Great, then let's start...}
 {274}{}{We'll do it later, now I have things to do.}
-{275}{}{Let's play a game? If you lose, you will give away the grenade.}
+{275}{}{Let's play a game. If you lose, you will give away the grenade.}
 {276}{}{Nah, I'm not that stupid.}
 {277}{}{Okay, whatever you say.}
 {278}{}{Yeah, I can tell by you. Ciao.}
