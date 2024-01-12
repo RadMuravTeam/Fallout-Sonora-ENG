@@ -2,7 +2,7 @@ RadMurav Team presents Fallout Sonora’s Extended Release translation to Englis
 
 Originally powered by Yandex, it now boasts over 50% (thank you Georg) of its files hand-translated, and the remaning ones are being improved  all the time.
 
-RadMurav Team is: Violator, Adolf, rockerdahedgehog, with the invaluable help of Georg and Jamesticle
+RadMurav Team is: Violator, Adolf, rockerdahedgehog, with the invaluable help of Georg, Jamesticle and Ficmon.
 
 HOW TO
 1. Get the Extended Release for FO Sonora, the original won’t work. The official version of ER is hosted in rutracker, which is where we recommend getting it from. You may also acquire it here, but it hasn’t been tested:
