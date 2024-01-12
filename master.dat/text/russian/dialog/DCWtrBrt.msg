@@ -1,4 +1,4 @@
-{100}{}{Here is a water merchant.}
+{100}{}{You see a water merchant.}
 {101}{}{You see an unusually clean person. He doesn't have to get dirty with such work.}
 {102}{}{Are you from the tinsmiths? Then don't scare people with this tin can.}
 {103}{}{There is no place for highway workers in this city. Get out before I shoot you.}
@@ -26,7 +26,7 @@
 {213}{}{Please give some water to a tired ranger. It'll count for you.}
 {214}{}{(making a face) Ranger... I don't remember what the Rangers did so well for us. However, the caravaneers have been talking a lot about you lately.}
 {215}{}{[Next]}
-{216}{}{Okay. Here's some water for you. But don't ask any more. We are engaged in trade here, not charity.}
+{216}{}{Okay. Here's some water for you. But don't ask anymore. We are engaged in trade here, not charity.}
 {217}{}{Thank you, dear.}
 {218}{}{Water! Water! I'm dying of thirst...}
 {219}{}{And you expect me to buy it? What a pathetic parody of dehydration.}
@@ -58,7 +58,7 @@
 {245}{}{Well, well. Yes, this is our runaway slave. You want to ruin my reputation, you piece of shit?}
 {246}{}{What, again? I want to warn you right away - we have raised water prices.}
 {247}{}{Why?}
-{248}{}{I have to get out of it. There are no more tinsmiths, and with them the entire caravan trail is shrinking. We must stock up on caps, otherwise trading will be meaningless at all.}
+{248}{}{I have to get out of it. There are no more tinsmiths, and with them, the entire caravan trail is shrinking. We must stock up on caps, otherwise, trading will be meaningless at all.}
 {249}{}{I see.}
 
 #Repeat dialog
