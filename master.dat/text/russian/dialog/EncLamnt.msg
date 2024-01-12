@@ -1,8 +1,8 @@
-{100}{}{Here is Lamont.}
+{100}{}{You see Lamont.}
 {101}{}{You see an emaciated man. His gaze seems empty.}
 {102}{}{Run before it's too late. You still have a chance...}
 
-{200}{}{Who's here? Answer me! God, I hope you're not a figment of my imagination... N-don't touch the weeds! They are dangerous!}
+{200}{}{Who's here? Answer me! God, I hope you're not a figment of my imagination... D-d-don't touch the weeds! They are dangerous!}
 {201}{}{Okay, calm down.}
 {202}{}{I'm Lamont. I have a farm in the canyon. Well, it used to be a farm.}
 {203}{}{Why? Are there weeds there too?}
@@ -15,7 +15,7 @@
 {213}{}{Wait a minute. If there are so many problems from these weeds, why did you stay?}
 {214}{}{Why... Well, out of curiosity. They don't behave like unusual tumbleweeds. So I watched them. But I did it for too long.}
 {215}{}{So you can't leave here anymore?}
-{216}{}{Neither to me, nor to you. No one will leave.}
+{216}{}{Neither to me nor to you. No one will leave.}
 {217}{}{What are you...}
 
 {220}{}{There is no way out. That's all. THEY won't give.}
