@@ -1,4 +1,4 @@
-{100}{}{Here is Ilario.}
+{100}{}{You see Ilario.}
 {101}{}{You see a strong old man in a magnificent religious attire by local standards.}
 {102}{}{You have no idea what you've done.}
 {1102}{}{You have no idea what you've done.}
@@ -53,11 +53,11 @@
 {231}{}{Don't worry, old man. The monster in the basement is dead. You have nothing to fear anymore.}
 {232}{}{M-is dead?! (contrite) You... WHAT HAVE YOU DONE!!!}
 {1232}{}{ M-dead?! (contrite) You... WHAT HAVE YOU DONE!!!}
-{233}{}{Well, I killed a monster. It die. Dead. Went back to hell. Do you understand?}
-{1233}{}{Well, I killed a monster. It die. Dead. Went back to hell. Do you understand?}
+{233}{}{Well, I killed a monster. It died. Dead. Went back to hell. Do you understand?}
+{1233}{}{Well, I killed a monster. It died. Dead. Went back to hell. Do you understand?}
 {234}{}{Why are you doing this to us?! Do you even realize that El Diablo was our patron?}
 {235}{}{Did you worship a monster? Seriously?}
-{236}{}{He protected us from strangers and wild animals, he cleansed the community of lepers and the infirm, people rallied thanks to El Diablo. There has not even been theft among our people for many years. Without him, our entire long-term way of life will fall. Can you imagine what shocks are waiting for us now?}
+{236}{}{He protected us from strangers and wild animals, he cleansed the community of lepers and the infirm and people rallied thanks to El Diablo. There has not even been theft among our people for many years. Without him, our entire long-term way of life will fall. Can you imagine what shocks are waiting for us now?}
 {237}{}{Well, you'll probably come up with something. Someday your "patron" would have died anyway.}
 {238}{}{Ah, so you're worried about your power, elder? Now it will be more difficult for you to unite people and rule them. That's right.}
 {239}{}{I see right through you, gringo. If you die, it will make the world feel better. And I won't let you leave this church.}
@@ -70,13 +70,13 @@
 {246}{}{Don't you dare come back! Do you hear? Go away!}
 {247}{}{Yeah, yeah, whatever you say, silly old man.}
 {248}{}{Why else is here?}
-{249}{}{I'm leaving now. Just, uh, forgot my stuff. Goodbye.}
+{249}{}{I'm leaving now. I just, uh, forgot my stuff. Goodbye.}
 {1249}{}{I'm leaving now. I just, uh, forgot my stuff. Goodbye.}
 {250}{}{You don't belong in Santa Ana. Now the whole population is against you. Go away.}
-{251}{}{For fifteen years I have protected the inhabitants. And that's how they repaid me! Now that El Diablo is not with us, anyone can blame me. Do you know how hard this sacrifice was? How did I suffer the first years? But I did what I was elected headman for - I saved the residents. And now you're saying it was wrong? To hell with your opinion, gringo!}
+{251}{}{For fifteen years I have protected the inhabitants. And that's how they repaid me! Now that El Diablo is not with us, anyone can blame me. Do you know how hard this sacrifice was? How did I suffer in the first years? But I did what I was elected headman for - I saved the residents. And now you're saying it was wrong? To hell with your opinion, gringo!}
 {252}{}{Looks like you're not going to be persuaded. It's better if you just die!}
 {253}{}{Whatever you say. This is already your internal affairs. Bye, headman.}
 {254}{}{You don't belong in Santa Ana. Now the whole population is against you. Go away.}
-{255}{}{For fifteen years I have protected the inhabitants. And that's how they repaid me! Now that El Diablo is not with us, anyone can blame me. Do you know how hard this sacrifice was? How did I suffer the first years? But I did what I was elected headman for - I saved the residents. This completes my mission. I'm clean. If you have to choose exile to give people peace, let it be. I'm leaving.}
+{255}{}{For fifteen years I have protected the inhabitants. And that's how they repaid me! Now that El Diablo is not with us, anyone can blame me. Do you know how hard this sacrifice was? How did I suffer in the first years? But I did what I was elected headman for - I saved the residents. This completes my mission. I'm clean. If you have to choose exile to give people peace, let it be. I'm leaving.}
 {256}{}{Unexpectedly the right decision. You're being wise, old Ilario. Goodbye.}
 {257}{}{I'll help you find a new place to live... this place is in hell!}
