@@ -1,4 +1,4 @@
-{100}{}{Here is a ranger.}
+{100}{}{You see a ranger.}
 {101}{}{You see a ranger in combat gear. He carefully examines the pueblo.}
 
 {110}{}{So it is to you that we owe the alliance with the tribe? Well done, good job.}
