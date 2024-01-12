@@ -1,4 +1,4 @@
-{100}{}{Here is Tin-Tan.}
+{100}{}{You see Tin-Tan.}
 {101}{}{You see a scantily dressed skinny pescador with a thin mustache with crooked teeth.}
 {102}{}{Don't come near me! You, uh, smell bad.}
 {103}{}{Damn it, and it's all because of that sucker...}
