@@ -92,10 +92,10 @@
 {9100}{}{Wooden panel}
 {9200}{}{Wooden panel}
 {9300}{}{Wooden panel}
-{9400}{}{Two-month Proem}
-{9500}{}{Two-month Proem}
-{9600}{}{Two-month Proem}
-{9700}{}{Two-month Proem}
+{9400}{}{Doorway}
+{9500}{}{Doorway}
+{9600}{}{Doorway}
+{9700}{}{Doorway}
 {9800}{}{Gesture wall}
 {9900}{}{Gesture wall}
 {10000}{}{Gesture wall}
@@ -132,14 +132,14 @@
 {13100}{}{Gesture wall}
 {13200}{}{Gesture wall}
 {13300}{}{Gesture wall}
-{13400}{}{Two-month Proem}
-{13500}{}{Two-month Proem}
-{13600}{}{Two-month Proem}
-{13700}{}{Two-month Proem}
-{13800}{}{Two-month Proem}
-{13900}{}{Two-month Proem}
-{14000}{}{Two-month Proem}
-{14100}{}{Two-month Proem}
+{13400}{}{Doorway}
+{13500}{}{Doorway}
+{13600}{}{Doorway}
+{13700}{}{Doorway}
+{13800}{}{Doorway}
+{13900}{}{Doorway}
+{14000}{}{Doorway}
+{14100}{}{Doorway}
 {14200}{}{Gesture wall}
 {14300}{}{Gesture wall}
 {14400}{}{Gesture wall}
@@ -267,14 +267,14 @@
 {26600}{}{Wall}
 {26700}{}{Wall}
 {26800}{}{Wall}
-{26900}{}{Two-month Proem}
-{27000}{}{Two-month Proem}
-{27100}{}{Two-month Proem}
-{27200}{}{Two-month Proem}
-{27300}{}{Two-month Proem}
-{27400}{}{Two-month Proem}
-{27500}{}{Two-month Proem}
-{27600}{}{Two-month Proem}
+{26900}{}{Doorway}
+{27000}{}{Doorway}
+{27100}{}{Doorway}
+{27200}{}{Doorway}
+{27300}{}{Doorway}
+{27400}{}{Doorway}
+{27500}{}{Doorway}
+{27600}{}{Doorway}
 {27700}{}{Wall}
 {27800}{}{Wall}
 {27900}{}{Wall}
@@ -301,8 +301,8 @@
 {30000}{}{Destruction}
 {30100}{}{Destruction}
 {30200}{}{Thread set}
-{30300}{}{Two-month Proem}
-{30400}{}{Two-month Proem}
+{30300}{}{Doorway}
+{30400}{}{Doorway}
 {30500} {} {Window}
 {30600} {} {Window}
 {30700}{}{Wall}
@@ -318,8 +318,8 @@
 {31700} {} {Window}
 {31800} {} {Window}
 {31900}{}{Wall}
-{32000}{}{Two-month Proem}
-{32100}{}{Two-month Proem}
+{32000}{}{Doorway}
+{32100}{}{Doorway}
 {32200}{}{Wall}
 {32300}{}{Wall}
 {32400}{}{Wall}
@@ -364,14 +364,14 @@
 {36300}{}{Wall}
 {36400}{}{Wall}
 {36500}{}{Wall}
-{36600}{}{Two-month Proem}
-{36700}{}{Two-month Proem}
-{36800}{}{Two-month Proem}
-{36900}{}{Two-month Proem}
-{37000}{}{Two-month Proem}
-{37100}{}{Two-month Proem}
-{37200}{}{Two-month Proem}
-{37300}{}{Two-month Proem}
+{36600}{}{Doorway}
+{36700}{}{Doorway}
+{36800}{}{Doorway}
+{36900}{}{Doorway}
+{37000}{}{Doorway}
+{37100}{}{Doorway}
+{37200}{}{Doorway}
+{37300}{}{Doorway}
 {37400}{}{Wall}
 {37500}{}{Wall}
 {37600} {} {Window}
@@ -452,10 +452,10 @@
 {45100}{}{Brick wall}
 {45200}{}{Brick wall}
 {45300}{}{Brick wall}
-{45400}{}{Two-month Proem}
-{45500}{}{Two-month Proem}
-{45600}{}{Two-month Proem}
-{45700}{}{Two-month Proem}
+{45400}{}{Doorway}
+{45500}{}{Doorway}
+{45600}{}{Doorway}
+{45700}{}{Doorway}
 {45800}{}{Brick wall}
 {45900}{}{Brick wall}
 {46000}{}{Brick wall}
@@ -493,10 +493,10 @@
 {49200}{}{Wall}
 {49300}{}{Wall}
 {49400}{}{Wall}
-{49500}{}{Two-month Proem}
-{49600}{}{Two-month Proem}
-{49700}{}{Two-month Proem}
-{49800}{}{Two-month Proem}
+{49500}{}{Doorway}
+{49600}{}{Doorway}
+{49700}{}{Doorway}
+{49800}{}{Doorway}
 {49900}{}{Wall}
 {50000}{}{Wall}
 {50100}{}{Wall}
@@ -547,52 +547,52 @@
 {54600}{}{Barn stand}
 {54700}{}{Barn stand}
 {54800}{}{Thread set}
-{54900}{}{Zabor}
-{55000}{}{Zabor}
-{55100}{}{Zabor}
-{55200}{}{Zabor}
-{55300}{}{Zabor}
-{55400}{}{Zabor}
-{55500}{}{Zabor}
-{55600}{}{Zabor}
-{55700}{}{Zabor}
-{55800}{}{Zabor}
-{55900}{}{Zabor}
-{56000}{}{Zabor}
-{56100}{}{Zabor}
-{56200}{}{Zabor}
-{56300}{}{Zabor}
-{56400}{}{Zabor}
-{56500}{}{Zabor}
-{56600}{}{Zabor}
-{56700}{}{Zabor}
-{56800}{}{Zabor}
-{56900}{}{Zabor}
-{57000}{}{Zabor}
-{57100}{}{Zabor}
-{57200}{}{Zabor}
+{54900}{}{Fence}
+{55000}{}{Fence}
+{55100}{}{Fence}
+{55200}{}{Fence}
+{55300}{}{Fence}
+{55400}{}{Fence}
+{55500}{}{Fence}
+{55600}{}{Fence}
+{55700}{}{Fence}
+{55800}{}{Fence}
+{55900}{}{Fence}
+{56000}{}{Fence}
+{56100}{}{Fence}
+{56200}{}{Fence}
+{56300}{}{Fence}
+{56400}{}{Fence}
+{56500}{}{Fence}
+{56600}{}{Fence}
+{56700}{}{Fence}
+{56800}{}{Fence}
+{56900}{}{Fence}
+{57000}{}{Fence}
+{57100}{}{Fence}
+{57200}{}{Fence}
 {57300}{}{Thread set}
-{57400}{}{Zabor}
-{57500}{}{Zabor}
-{57600}{}{Zabor}
-{57700}{}{Zabor}
-{57800}{}{Zabor}
-{57900}{}{Zabor}
-{58000}{}{Zabor}
-{58100}{}{Zabor}
-{58200}{}{Zabor}
-{58300}{}{Zabor}
-{58400}{}{Zabor}
-{58500}{}{Zabor}
-{58600}{}{Zabor}
-{58700}{}{Zabor}
-{58800}{}{Zabor}
-{58900}{}{Zabor}
-{59000}{}{Zabor}
-{59100}{}{Zabor}
-{59200}{}{Zabor}
-{59300}{}{Zabor}
-{59400}{}{Zabor}
+{57400}{}{Fence}
+{57500}{}{Fence}
+{57600}{}{Fence}
+{57700}{}{Fence}
+{57800}{}{Fence}
+{57900}{}{Fence}
+{58000}{}{Fence}
+{58100}{}{Fence}
+{58200}{}{Fence}
+{58300}{}{Fence}
+{58400}{}{Fence}
+{58500}{}{Fence}
+{58600}{}{Fence}
+{58700}{}{Fence}
+{58800}{}{Fence}
+{58900}{}{Fence}
+{59000}{}{Fence}
+{59100}{}{Fence}
+{59200}{}{Fence}
+{59300}{}{Fence}
+{59400}{}{Fence}
 {59500}{}{Thread set}
 {59600}{}{Wall}
 {59700}{}{Wall}
@@ -610,10 +610,10 @@
 {60900}{}{Wall}
 {61000}{}{Wall}
 {61100}{}{Wall}
-{61200}{}{Two-month Proem}
-{61300}{}{Two-month Proem}
-{61400}{}{Two-month Proem}
-{61500}{}{Two-month Proem}
+{61200}{}{Doorway}
+{61300}{}{Doorway}
+{61400}{}{Doorway}
+{61500}{}{Doorway}
 {61600}{}{Wall}
 {61700}{}{Wall}
 {61800}{}{Wall}
@@ -703,19 +703,19 @@
 {70000}{}{Steel wall}
 {70100}{}{Steel wall}
 {70200}{}{Steel wall}
-{70300}{}{Two-month Proem}
-{70400}{}{Two-month Proem}
-{70500}{}{Two-month Proem}
-{70600}{}{Two-month Proem}
-{70700}{}{Two-month Proem}
-{70800}{}{Two-month Proem}
-{70900}{}{Two-month Proem}
-{71000}{}{Two-month Proem}
-{71100}{}{Two-month Proem}
-{71200}{}{Two-month Proem}
-{71300}{}{Two-month Proem}
-{71400}{}{Two-month Proem}
-{71500}{}{Two-month Proem}
+{70300}{}{Doorway}
+{70400}{}{Doorway}
+{70500}{}{Doorway}
+{70600}{}{Doorway}
+{70700}{}{Doorway}
+{70800}{}{Doorway}
+{70900}{}{Doorway}
+{71000}{}{Doorway}
+{71100}{}{Doorway}
+{71200}{}{Doorway}
+{71300}{}{Doorway}
+{71400}{}{Doorway}
+{71500}{}{Doorway}
 {71600}{}{Aposematic}
 {71700}{}{Aposematic}
 {71800}{}{Aposematic}
@@ -767,14 +767,14 @@
 {76400}{}{Steel wall}
 {76500}{}{Steel wall}
 {76600}{}{Steel wall}
-{76700}{}{Two-month Proem}
-{76800}{}{Two-month Proem}
-{76900}{}{Two-month Proem}
-{77000}{}{Two-month Proem}
-{77100}{}{Two-month Proem}
-{77200}{}{Two-month Proem}
-{77300}{}{Two-month Proem}
-{77400}{}{Two-month Proem}
+{76700}{}{Doorway}
+{76800}{}{Doorway}
+{76900}{}{Doorway}
+{77000}{}{Doorway}
+{77100}{}{Doorway}
+{77200}{}{Doorway}
+{77300}{}{Doorway}
+{77400}{}{Doorway}
 {77500}{}{Aposematic}
 {77600}{}{Aposematic}
 {77700}{}{Aposematic}
@@ -836,19 +836,19 @@
 {83300}{}{Steel wall}
 {83400}{}{Steel wall}
 {83500}{}{Steel wall}
-{83600}{}{Two-month Proem}
-{83700}{}{Two-month Proem}
-{83800}{}{Two-month Proem}
-{83900}{}{Two-month Proem}
-{84000}{}{Two-month Proem}
-{84100}{}{Two-month Proem}
-{84200}{}{Two-month Proem}
-{84300}{}{Two-month Proem}
-{84400}{}{Two-month Proem}
-{84500}{}{Two-month Proem}
-{84600}{}{Two-month Proem}
-{84700}{}{Two-month Proem}
-{84800}{}{Two-month Proem}
+{83600}{}{Doorway}
+{83700}{}{Doorway}
+{83800}{}{Doorway}
+{83900}{}{Doorway}
+{84000}{}{Doorway}
+{84100}{}{Doorway}
+{84200}{}{Doorway}
+{84300}{}{Doorway}
+{84400}{}{Doorway}
+{84500}{}{Doorway}
+{84600}{}{Doorway}
+{84700}{}{Doorway}
+{84800}{}{Doorway}
 {84900}{}{Aposematic}
 {85000}{}{Aposematic}
 {85100}{}{Aposematic}
@@ -871,16 +871,16 @@
 {86800} {} {Window}
 {86900} {} {Window}
 {87000} {} {Window}
-{87100}{}{Dstroyed Wall}
-{87200}{}{Dstroyed Wall}
-{87300}{}{Dstroyed Wall}
-{87400}{}{Dstroyed Wall}
+{87100}{}{Destroyed Wall}
+{87200}{}{Destroyed Wall}
+{87300}{}{Destroyed Wall}
+{87400}{}{Destroyed Wall}
 {87500}{}{Cave wall}
-{87600}{}{Two-month Proem}
-{87700}{}{Two-month Proem}
-{87800}{}{Trottuar}
-{87900}{}{Trottuar}
-{88000}{}{Vorota Angara}
+{87600}{}{Doorway}
+{87700}{}{Doorway}
+{87800}{}{Sidewalk}
+{87900}{}{Sidewalk}
+{88000}{}{Hangar gates}
 {88100}{}{Wall}
 {88200}{}{Wall}
 {88300}{}{Wall}
@@ -895,15 +895,15 @@
 {89200}{}{Wall}
 {89300}{}{Wall}
 {89400}{}{Wall}
-{89500}{}{Wall with pulv-Urga holes}
+{89500}{}{A wall with bullet holes.}
 {89600}{}{Wall}
 {89700}{}{Wall}
 {89800}{}{Wall}
 {89900}{}{Wall}
-{90000}{}{Two-month Proem}
-{90100}{}{Two-month Proem}
-{90200}{}{Two-month Proem}
-{90300}{}{Two-month Proem}
+{90000}{}{Doorway}
+{90100}{}{Doorway}
+{90200}{}{Doorway}
+{90300}{}{Doorway}
 {90400}{}{Wall}
 {90500}{}{Wall}
 {90600}{}{Wall}
@@ -917,16 +917,16 @@
 {91400} {} {Arch}
 {91500} {} {Arch}
 {91600} {} {Arch}
-{91700}{}{Two-month Proem}
-{91800}{}{Two-month Proem}
-{91900}{}{Two-month Proem}
-{92000}{}{Two-month Proem}
+{91700}{}{Doorway}
+{91800}{}{Doorway}
+{91900}{}{Doorway}
+{92000}{}{Doorway}
 {92100}{}{Aposematic}
 {92101} {} {Power barrier emitter.}
 {92200}{}{Aposematic}
 {92201} {} {Power barrier emitter.}
-{92300}{}{power Barer}
-{92400}{}{power Barer}
+{92300}{}{Power Barer}
+{92400}{}{Power Barer}
 {92500}{}{Wall}
 {92600}{}{Wall}
 {92700}{}{Wall}
@@ -939,8 +939,8 @@
 {93400}{}{Wall}
 {93500}{}{Wall}
 {93600}{}{Wall}
-{93700}{}{Two-month Proem}
-{93800}{}{Two-month Proem}
+{93700}{}{Doorway}
+{93800}{}{Doorway}
 {93900}{}{Wall}
 {94000}{}{Wall}
 {94100}{}{Wall}
@@ -1025,7 +1025,7 @@
 {102000}{}{Wall repositories}
 {102100}{}{Wall repositories}
 {102200}{}{Two repositories}
-{102201}{}{armored two bank vaults. A code from no-Uche no-remember.}
+{102201}{}{Armored door of the bank vault. No one will remember the code from it anymore.}
 {102300}{}{Wall}
 {102400}{}{Wall}
 {102500}{}{Wall}
@@ -1035,11 +1035,11 @@
 {102900}{}{Wall}
 {103000}{}{Wall}
 {103100}{}{Wall}
-{103200}{}{Two-month Proem}
-{103300}{}{Two-month Proem}
-{103400}{}{Two-month Proem}
-{103500}{}{Two-month Proem}
-{103600}{}{Two-month Proem}
+{103200}{}{Doorway}
+{103300}{}{Doorway}
+{103400}{}{Doorway}
+{103500}{}{Doorway}
+{103600}{}{Doorway}
 {103700}{}{Wall}
 {103800}{}{Wall}
 {103900}{}{Wall}
@@ -1062,16 +1062,16 @@
 {105600}{}{Wall}
 {105700}{}{Wall}
 {105800}{}{Wall}
-{105900}{}{Two-month Proem}
-{106000}{}{Two-month Proem}
+{105900}{}{Doorway}
+{106000}{}{Doorway}
 {106100} {} {Window}
-{106200}{}{Wall}
+{106200}{}{Wall} 
 {106300}{}{Wall}
-{106301}{}{on the groaning visit rzhavaya panel. The color of the paint on the table, which is different from the different inscriptions, does not represent the possibility of the Apostille.}
+{106301}{}{There is a rusty panel hanging on the wall. The color of the paint on the table, which is different from the different inscriptions, does not represent the possibility of the Apostille.}
 {106400}{}{Wall}
-{106401}{}{on the groaning visit rzhavaya panel. The color of the paint on the table, which is different from the different inscriptions, does not represent the possibility of the Apostille.}
+{106401}{}{There is a rusty panel hanging on the wall. The color of the paint on the table, which is different from the different inscriptions, does not represent the possibility of the Apostille.}
 {106500}{}{Wall}
-{106501}{}{on the groaning visit rzhavaya panel. The color of the paint on the table, which is different from the different inscriptions, does not represent the possibility of the Apostille.}
+{106501}{}{There is a rusty panel hanging on the wall. The color of the paint on the table, which is different from the different inscriptions, does not represent the possibility of the Apostille.}
 {106600}{}{Wall}
 {106700}{}{Wall}
 {106800}{}{Wall}
@@ -1080,10 +1080,10 @@
 {107100}{}{Wall}
 {107200}{}{Wall}
 {107300}{}{Wall}
-{107400}{}{Two-month Proem}
-{107500}{}{Two-month Proem}
-{107600}{}{Two-month Proem}
-{107700}{}{Two-month Proem}
+{107400}{}{Doorway}
+{107500}{}{Doorway}
+{107600}{}{Doorway}
+{107700}{}{Doorway}
 {107800}{}{Wall}
 {107900}{}{Wall}
 {108000}{}{Wall}
@@ -1103,10 +1103,10 @@
 {109400}{}{Wall}
 {109500}{}{Wall}
 {109600}{}{Wall}
-{109700}{}{Two-month Proem}
-{109800}{}{Two-month Proem}
-{109900}{}{Dvernoy Proem}
-{110000}{}{Two-month Proem}
+{109700}{}{Doorway}
+{109800}{}{Doorway}
+{109900}{}{Doorway}
+{110000}{}{Doorway}
 {110100} {} {Window}
 {110200} {} {Window}
 {110300} {} {Window}
@@ -1146,11 +1146,11 @@
 {113700}{}{Wall}
 {113800}{}{Wall}
 {113900}{}{Wall}
-{114000}{}{Vorota}
-{114100}{}{Vorota}
-{114200}{}{Vorota}
-{114300}{}{Vorota}
-{114400}{}{Vorota}
+{114000}{}{Door}
+{114100}{}{Door}
+{114200}{}{Door}
+{114300}{}{Door}
+{114400}{}{Door}
 {114500}{}{Wall}
 {114600}{}{Wall}
 {114700}{}{Wall}
@@ -1173,51 +1173,51 @@
 {116400} {} {team line}
 {116500} {} {team line}
 {116600} {} {team line}
-{116700}{}{Zabor}
-{116800}{}{Zabor}
-{116900}{}{Zabor}
-{117000}{}{Zabor}
-{117100}{}{Zabor}
-{117200}{}{Zabor}
-{117300}{}{Zabor}
-{117400}{}{Zabor}
-{117500}{}{Zabor}
-{117600}{}{Zabor}
-{117700}{}{Zabor}
-{117800}{}{Zabor}
-{117900}{}{Zabor}
-{118000}{}{Zabor}
-{118100}{}{Zabor}
-{118200}{}{Zabor}
-{118300}{}{Zabor}
-{118400}{}{Zabor}
-{118500}{}{Zabor}
-{118600}{}{Zabor}
-{118700}{}{Zabor}
-{118800}{}{Zabor}
-{118900}{}{Zabor}
-{119000}{}{Zabor}
-{119100}{}{Zabor}
-{119200}{}{Zabor}
+{116700}{}{Fence}
+{116800}{}{Fence}
+{116900}{}{Fence}
+{117000}{}{Fence}
+{117100}{}{Fence}
+{117200}{}{Fence}
+{117300}{}{Fence}
+{117400}{}{Fence}
+{117500}{}{Fence}
+{117600}{}{Fence}
+{117700}{}{Fence}
+{117800}{}{Fence}
+{117900}{}{Fence}
+{118000}{}{Fence}
+{118100}{}{Fence}
+{118200}{}{Fence}
+{118300}{}{Fence}
+{118400}{}{Fence}
+{118500}{}{Fence}
+{118600}{}{Fence}
+{118700}{}{Fence}
+{118800}{}{Fence}
+{118900}{}{Fence}
+{119000}{}{Fence}
+{119100}{}{Fence}
+{119200}{}{Fence}
 {119300}{}{Wall}
 {119400}{}{Wall}
-{119500}{}{Zabor}
-{119600}{}{Zabor}
-{119700}{}{Zabor}
-{119800}{}{Zabor}
-{119900}{}{Zabor}
-{120000}{}{Zabor}
-{120100}{}{Zabor}
-{120200}{}{Zabor}
-{120300}{}{Zabor}
-{120400}{}{Zabor}
-{120500}{}{Zabor}
-{120600}{}{Zabor}
-{120700}{}{Zabor}
-{120800}{}{Zabor}
-{120900}{}{Zabor}
-{121000}{}{Zabor}
-{121100}{}{Zabor}
+{119500}{}{Fence}
+{119600}{}{Fence}
+{119700}{}{Fence}
+{119800}{}{Fence}
+{119900}{}{Fence}
+{120000}{}{Fence}
+{120100}{}{Fence}
+{120200}{}{Fence}
+{120300}{}{Fence}
+{120400}{}{Fence}
+{120500}{}{Fence}
+{120600}{}{Fence}
+{120700}{}{Fence}
+{120800}{}{Fence}
+{120900}{}{Fence}
+{121000}{}{Fence}
+{121100}{}{Fence}
 {121200}{}{Wall}
 {121300}{}{Wall}
 {121400}{}{Wall}
@@ -1338,36 +1338,36 @@
 {132900}{}{Wall}
 {133000}{}{Wall}
 {133100}{}{Wall}
-{133200}{}{Zabor}
-{133300}{}{Zabor}
-{133400}{}{Zabor}
-{133500}{}{Zabor}
-{133600}{}{Zabor}
-{133700}{}{Zabor}
-{133800}{}{Zabor}
-{133900}{}{Zabor}
-{134000}{}{Zabor}
-{134100}{}{Zabor}
-{134200}{}{Zabor}
-{134300}{}{Zabor}
-{134400}{}{Zabor}
-{134500}{}{Zabor}
-{134600}{}{Zabor}
-{134700}{}{Zabor}
-{134800}{}{Zabor}
-{134900} {} {parapet}
+{133200}{}{Fence}
+{133300}{}{Fence}
+{133400}{}{Fence}
+{133500}{}{Fence}
+{133600}{}{Fence}
+{133700}{}{Fence}
+{133800}{}{Fence}
+{133900}{}{Fence}
+{134000}{}{Fence}
+{134100}{}{Fence}
+{134200}{}{Fence}
+{134300}{}{Fence}
+{134400}{}{Fence}
+{134500}{}{Fence}
+{134600}{}{Fence}
+{134700}{}{Fence}
+{134800}{}{Fence}
+{134900} {} {Railing}
 {135000}{}{Wall}
 {135100}{}{Wall}
 {135200}{}{Wall}
-{135300}{}{Zabor}
-{135400}{}{Zabor}
-{135500}{}{Zabor}
-{135600}{}{Zabor}
-{135700}{}{Zabor}
-{135800}{}{Zabor}
-{135900}{}{Zabor}
-{136000}{}{Two-month Proem}
-{136100}{}{Two-month Proem}
+{135300}{}{Fence}
+{135400}{}{Fence}
+{135500}{}{Fence}
+{135600}{}{Fence}
+{135700}{}{Fence}
+{135800}{}{Fence}
+{135900}{}{Fence}
+{136000}{}{Doorway}
+{136100}{}{Doorway}
 {136200}{}{Round window}
 {136300}{}{Round window}
 {136400}{}{Round window}
@@ -1805,29 +1805,29 @@
 {179600}{}{Wall}
 {179700}{}{Wall}
 {179800}{}{Wall}
-{179900}{}{burial wall}
-{180000}{}{burial wall}
-{180100}{}{burial wall}
-{180200}{}{burial wall}
-{180300}{}{burial wall}
-{180400}{}{burial wall}
-{180500}{}{burial wall}
-{180600}{}{burial wall}
-{180700}{}{burial wall}
+{179900}{}{Burial wall}
+{180000}{}{Burial wall}
+{180100}{}{Burial wall}
+{180200}{}{Burial wall}
+{180300}{}{Burial wall}
+{180400}{}{Burial wall}
+{180500}{}{Burial wall}
+{180600}{}{Burial wall}
+{180700}{}{Burial wall}
 {180800}{}{Tube}
-{180801} {} {This is an ancient pipeline. Tepper on serve trasoy to begegov mengarshei.}
+{180801} {} {This is an ancient pipeline. Now it serves as a track for mouse races.}
 {180900}{}{Tube}
-{180901} {} {This is an ancient pipeline. Tepper on serve trasoy to begegov mengarshei.}
+{180901} {} {This is an ancient pipeline. Now it serves as a track for mouse races.}
 {181000}{}{Tube}
-{181001} {} {This is an ancient pipeline. Tepper on serve trasoy to begegov mengarshei.}
+{181001} {} {This is an ancient pipeline. Now it serves as a track for mouse races.}
 {181100}{}{Tube}
-{181101} {} {This is an ancient pipeline. Tepper on serve trasoy to begegov mengarshei.}
+{181101} {} {This is an ancient pipeline. Now it serves as a track for mouse races.}
 {181200}{}{Tube}
-{181201} {} {This is an ancient pipeline. Tepper on serve trasoy to begegov mengarshei.}
+{181201} {} {This is an ancient pipeline. Now it serves as a track for mouse races.}
 {181300}{}{Tube}
-{181301} {} {This is an ancient pipeline. Tepper on serve trasoy to begegov mengarshei.}
+{181301} {} {This is an ancient pipeline. Now it serves as a track for mouse races.}
 {181400}{}{Tube}
-{181401} {} {This is an ancient pipeline. Tepper on serve trasoy to begegov mengarshei.}
+{181401} {} {This is an ancient pipeline. Now it serves as a track for mouse races.}
 {181500}{}{Wall}
 {181600}{}{Wall}
 {181700}{}{Wall}
@@ -1843,7 +1843,7 @@
 {182700}{}{Wall}
 {182800}{}{Wall}
 {182900}{}{Wall}
-{183000}{}{Zabor}
+{183000}{}{Fence}
 {183100}{}{Wall}
 {183200}{}{Wall}
 {183300}{}{Wall}
@@ -1959,14 +1959,14 @@
 {193100}{}{Handrail bridge}
 {193200} {} {Window}
 {193300} {} {Window}
-{193400}{}{directory}
-{193500}{}{directory}
-{193600}{}{directory}
-{193700}{}{directory}
-{193800}{}{directory}
-{193900}{}{directory}
-{194000}{}{directory}
-{194100}{}{directory}
+{193400}{}{Directory}
+{193500}{}{Directory}
+{193600}{}{Directory}
+{193700}{}{Directory}
+{193800}{}{Directory}
+{193900}{}{Directory}
+{194000}{}{Directory}
+{194100}{}{Directory}
 {194200}{}{Wall}
 {194300}{}{Wall}
 {194400}{}{Wall}
