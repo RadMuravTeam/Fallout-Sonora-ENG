@@ -1,4 +1,4 @@
-{100}{}{Here is the priestess Nana.}
+{100}{}{You see the priestess Nana.}
 {101}{}{You see a priestess in national dress.}
 {102}{}{Go away. We are not afraid of you and your iron toys.}
 
@@ -23,7 +23,7 @@
 {216}{}{Go to our chief, Geronimo. Talk to him. He is wise and can help you.}
 {217}{}{My go to Grandpa.}
 
-{220}{}{They call themselves missionaries. They came to our lands and impose their own rules on us. The tribe resists, but the price for our freedom is getting higher. We are on the verge of war with the white-skinned citizens of Phoenix.}
+{220}{}{They call themselves missionaries. They came to our lands and imposed their own rules on us. The tribe resists, but the price for our freedom is getting higher. We are on the verge of war with the white-skinned citizens of Phoenix.}
 {221}{}{There's plenty of room in the wastelands. What didn't you share?}
 {222}{}{They want to bend us to their will for the sake of Brahmins and cheap workers. But we are not the kind of Brahmins who obey anyone with a whip.}
 {223}{}{You and I are alike. Villa also values her freedom. But it was taken away by force.}
@@ -99,7 +99,7 @@
 {311}{}{I am Nana, a priestess of the southern clan of my tribe.}
 {312}{}{Nice to meet you, Nana.}
 {313}{}{Are there other priestesses?}
-{314}{}{Now I, Genaro, Mangas and the supreme leader Geronimo are in the camp.}
+{314}{}{Now I, Genaro, Mangas, and the supreme leader Geronimo are in the camp.}
 {315}{}{Tell me about Genaro.}
 {316}{}{He runs the Brahmin pens and almost never goes out into the wastelands. Therefore, he knows the Phoenix outsiders and their customs better than anyone else.}
 {317}{}{Tell me about Mangas.}
@@ -107,5 +107,5 @@
 {319}{}{Tell me about Chief Geronimo.}
 {320}{}{The great leader. He united a disparate tribe in the face of a new enemy. Before him, the tribe was feuding over the redistribution of lands. Now we live as one family.}
 {321}{}{I met Chatto here. What can you tell me about him?}
-{322}{}{The chief's son is an important person in the camp. There are young people behind him. Together they want change. And I don't really like it.}
+{322}{}{The chief's son is an important person in the camp. There are young people behind him. Together they want change. And I don't like it.}
 {323}{}{Clear.}
