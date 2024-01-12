@@ -1,7 +1,7 @@
 {101}{}{You see a cattleman.}
-{102}{}{Here is one of the local cattle breeders. His face seems familiar to you.}
+{102}{}{It's one of the local cattle breeders. His face seems familiar to you.}
 
-{200}{}{Hey, look who came to us! I know this stranger. He tried to take away the Brahmins from us near Garage City.}
+{200}{}{Hey, look who came here! I know this stranger. He tried to take away the Brahmins from us near Garage City.}
 {201}{}{Yes. But it didn't end well, did it? At least you're still alive.}
 {202}{}{Hmm... Did you manage to dissuade the raiders? Anyway, I don't like you. Don't expect confidence in yourself. I hope you get kicked out of the pueblo soon.}
 {203}{}{Come on...}
