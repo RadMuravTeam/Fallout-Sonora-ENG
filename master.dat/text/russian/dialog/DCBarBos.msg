@@ -1,4 +1,4 @@
-{100}{}{Here is the leader of the gang.}
+{100}{}{Its the leader of the gang.}
 {101}{}{You see one of the highway robbers. Looks like he's running everything here.}
 {102}{}{We're already leaving. Give the mayor our "deepest apologies."}
 
@@ -7,7 +7,7 @@
 {201}{}{I'm the last thing you'll see.}
 {202}{}{It doesn't matter who I am. The mayor sent me to negotiate.}
 {203}{}{Well of course. Bustos does not change. He is ready to sacrifice any life except his own. Let's see if he values his daughter's life.}
-{204}{}{The mayor demands to release the hostage. Otherwise you won't get out of here alive.}
+{204}{}{The mayor demands to release the hostage. Otherwise, you won't get out of here alive.}
 {205}{}{The mayor can't be trusted. He's meaner than a wasteland snake. Tell him that if he does not fulfill our demands, we will kill his daughter.}
 {206}{}{What do you want?}
 {207}{}{To hell with talking. You deserve only death.}
@@ -16,11 +16,11 @@
 {210}{}{It's not our problem. So, there is only one thing left - the life of the mayor. Let him take his daughter's place.}
 {211}{}{I'll let him know your requirements.}
 {212}{}{What's wrong with you?}
-{213}{}{Hmm. You're not from around here, are you? Otherwise I would have known you.}
+{213}{}{Hmm. You're not from around here, are you? Otherwise, I would have known you.}
 {214}{}{What does it matter?}
 {215}{}{caps are not the main thing for me. There is an old cemetery in the east of the city. A mass grave. In this place, where only dry grass grows, the inhabitants of Casa Grande rest. My parents are among them.}
 {216}{}{[Listen]}
-{217}{}{They were trying to establish a peaceful life in this city. They worked tirelessly to launch a water pump and equip the city. But then Bustos came, killed them and took the city for himself. He left no one alive who stood in his way.}
+{217}{}{They were trying to establish a peaceful life in this city. They worked tirelessly to launch a water pump and equip the city. But then Bustos came, killed them, and took the city for himself. He left no one alive who stood in his way.}
 {218}{}{And now you're taking revenge?}
 {219}{}{Why would I lie? I'm telling the truth. Tell the mayor my words. Although it is unlikely that he will want to listen to you.}
 {220}{}{I will convey your demands to the mayor.}
@@ -39,7 +39,7 @@
 {232}{}{The situation has not changed. He will let you go if you release the hostage.}
 {233}{}{What are these spy tricks? Do you really hope that I don't recognize you as a stranger under these signs?}
 {234}{}{Well...}
-{235}{}{You will only get a thousand caps and leave the city. Otherwise you won't get out of here alive.}
+{235}{}{You will only get a thousand caps and leave the city. Otherwise, you won't get out of here alive.}
 {236}{}{Surprisingly. I thought Bustos wouldn't give ten caps...}
 {237}{}{[Next]}
 {238}{}{(One of the accomplices interrupts the leader, takes him into a corner and begins to actively discuss something with him) And ... yes... You're right, buddy, calm down... (comes back to you) We accept your terms. Give me the caps and you can take the girl.}
