@@ -1,16 +1,16 @@
-{100}{}{This is John Sullivan.}
+{100}{}{You see John Sullivan.}
 {101}{}{You see a person who inspires respect. It looks very clean and well-groomed.}
 {102}{}{You're not going to wander around in this, are you?}
 {103}{}{Are you tired of living? Get out of town, you damned highway guy.}
 
 # Before repair
-{200}{}{Hey, stranger. I don't like it when outsiders get in my territory.}
+{200}{}{Hey, stranger. I don't like it when outsiders get into my territory.}
 {1200}{}{Oh, lady, what a surprise to see a lady here. Although I usually don't like it when outsiders get in my territory.}
 {201}{}{Is this your water pump? Do you own it?}
 {202}{}{Exactly. I'm John Sullivan. And I own this whole station. Do you have business with me? If not, then go outside. I need to fix this filter, not chat with strangers.}
 {203}{}{Sorry to bother you. I will leave immediately.}
 {204}{}{I'm new here. Can I ask you a couple of questions about the city?}
-{205}{}{Do I speak softly? I DON't HAVE TIME to chat with you.}
+{205}{}{Did I speak softly? I DON'T HAVE TIME to chat with you.}
 {206}{}{Oh, then I'll leave you immediately.}
 {207}{}{And who would I talk to about the city?}
 {208}{}{Old Bustos, his mansion is down the road.}
@@ -36,12 +36,12 @@
 {228}{}{What a miser you are.}
 {229}{}{Thanks anyway.}
 {230}{}{This amount barely bottlecaps the cost of additional details.}
-{231}{}{Then here are 50 more caps. And don't ask any more.}
+{231}{}{Then here are 50 more caps. And don't ask anymore.}
 {232}{}{What a miser you are.}
 {233}{}{That's enough, thank you.}
 
 {234}{}{I'm looking for a tinker. Was there one here?}
-{235}{}{Yes, I was. Silently inspected the station, discussed minor repairs and went to the mayor. I haven't seen him since.}
+{235}{}{Yes, I was. Silently inspected the station, discussed minor repairs, and went to the mayor. I haven't seen him since.}
 {236}{}{Thanks, I'll go ask the mayor.}
 {237}{}{I'm actually chasing slaves. They were being taken to Two-Sun.}
 {238}{}{Well, go to Two-Sun. Why are you asking me? Our business is small - serve the caravan and let it go on all four sides. It's just business.}
