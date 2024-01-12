@@ -1,7 +1,7 @@
 {100}{}{You see Frank.}
-{101}{}{Here is a resident of the asylum. He looks pretty fresh and clean compared to any inhabitant of the wasteland.}
+{101}{}{You see a resident of the asylum. He looks pretty fresh and clean compared to any inhabitant of the wasteland.}
 
-{200}{}{P-please don't hit us! We are peaceful people and do not want problems.}
+{200}{}{P-please don't hit us! We are a peaceful people. We don't want problems.}
 {201}{}{Why are you afraid of me? I didn't do anything wrong.}
 {1201}{}{Why are you afraid of me? I didn't do anything wrong.}
 {202}{}{Then stop bleating, it annoys me.}
@@ -13,7 +13,7 @@
 {208}{}{This old Vault crumbles at the slightest touch. The life support system is out of order, the generator is not working at full capacity. And we don't know how to fix it.}
 {209}{}{Yes, a real disaster.}
 {210}{}{And are these your problems? Ugh!}
-{211}{}{Besides, there are raiders waiting for us outside. Over the past few months, they have carried out a dozen raids to seize the Vault. So far, they are being held back by a large door, but with such problems, we ourselves will soon go outside so as not to suffocate. I'm afraid to imagine what they will do to us. They've already caught Fred and are probably torturing him.}
+{211}{}{Besides, there are raiders waiting for us outside. Over the past few months, they have carried out a dozen raids to seize the Vault. So far, they are being held back by a large door, but with such problems, we will soon go outside so we don't suffocate. I'm afraid to imagine what they will do to us. They've already caught Fred and are probably torturing him.}
 {212}{}{How can I help you?}
 {213}{}{Well, I'm just solving all sorts of problems. Not for nothing, of course.}
 {214}{}{Will you really help us? Then this is a great success for us. We need to fix the generator and get the computer to turn on life support.}
@@ -24,7 +24,7 @@
 {1220}{}{Have you restored asylum support yet? It doesn't look like it. We need to fix the generator and get the computer to turn on life support.}
 {221}{}{It's time to get busy. See you later.}
 
-{230}{}{Where is the room with the generator?}
+{230}{}{Where is the generator room?}
 {231}{}{The generator room is at the end of the corridor, to our left. But it doesn't make sense without tools. The door is locked there.}
 {232}{}{Later.}
 {233}{}{Where is the computer room?}
@@ -38,7 +38,7 @@
 {241}{}{No problem.}
 {242}{}{Happily.}
 {243}{}{Anything else you want to say?}
-{244}{}{We don't have many useful things. Here, take this jumpsuit. He's a bit battered, but still copes well with the effects of the forces of nature.}
+{244}{}{We don't have many useful things. Here, take this jumpsuit. He's a bit battered but still copes well with the effects of the forces of nature.}
 {245}{}{We don't have many useful things. Here, take this camping flask. The caretaker said that she brought him good luck when he traveled through the desert. With her, he never ran out of water, even in the hottest and driest places.}
 {246}{}{And thanks for that.}
 {247}{}{Are you kidding? A pathetic flask for such a difficult job? Take off your jumpsuit, and hurry up!}
