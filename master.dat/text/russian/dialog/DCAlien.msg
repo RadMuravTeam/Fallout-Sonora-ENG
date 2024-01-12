@@ -1,4 +1,4 @@
-{100}{}{Here is a visitor.}
+{100}{}{You sees a visitor.}
 {101}{}{You see a man in dusty clothes. It looks like he walked many miles in it.}
 {102}{}{Wow. I knew that tinsmiths are masters, but I didn't even think about it...}
 {103}{}{What's wrong with this damn city?}
@@ -19,10 +19,10 @@
 {210}{}{He's my relative. I received a letter from him with an offer to come and work in the bathhouse. And here I am. And he's nowhere to be found.}
 {211}{}{Just like that, he just came to a strange city?}
 {212}{}{Why not? After all, things got really bad in Phoenix after that monstrous explosion.}
-{213}{}{An explosion? What's the story with the explosion?}
+{213}{}{An explosion? What's the story of the explosion?}
 {214}{}{Don't you know? Yes, the whole tenth track is already cracking about this. The Church of the Sacred Fire was blown up. Poof-f! Literally.}
 {215}{}{Wow. Do the locals know anything about your uncle?}
-{216}{}{The locals don't know anything. The bathhouse is closed, and the owner has not been seen for a long time. I talked to the mayor, but he called me another conman and kicked me out on the street.}
+{216}{}{The locals don't know anything. The bathhouse is closed, and the owner has not been seen for a long time. I talked to the mayor, but he called me another con man and kicked me out on the street.}
 {217}{}{What are you going to do?}
 {218}{}{I don't know yet. I'll stay here a little longer, maybe my uncle will finally show up. If you find out anything, let me know, okay? I will not remain in debt.}
 {219}{}{Well, good luck with the search.}
@@ -104,7 +104,7 @@
 {335}{}{Someone tried to steal the tank, but knocked it over and damaged it. I don't know how to fix it yet.}
 {336}{}{Well, good luck. I'm definitely not going to do this.}
 {337}{}{Let me see. I'm sure I'll fix this monster with a piece of scrap metal.}
-{338}{}{The tank is in perfect order. You can warm the water and wash.}
+{338}{}{The tank is in perfect order. You can warm the water and wash it.}
 {339}{}{Did you manage to fix it? Cool. Now the business will definitely be trampled. Thank you, you've done a lot for me. Drop by if you need to freshen up.}
 {1339}{}{Did you manage to fix it? Cool. Now the business will definitely be trampled. Thank you, you've done a lot for me. Drop by if you need to freshen up.}
 {340}{}{I'll keep that in mind. Be there.}
@@ -112,7 +112,7 @@
 {350}{}{How are you?}
 {351}{}{How are you? Do you want to wash up?}
 {352}{}{Do you want to wash up? Come on, I just found some old sea salt.}
-{353}{}{Do you want to wash up? It's about time while it's so hot outside.}
+{353}{}{Do you want to wash up? It's about time when it's so hot outside.}
 {354}{}{Now you definitely need to wash up. Don't be shy, I won't charge you too much.}
 {355}{}{The bathroom is free. Get in, it's time to wash off this road dirt.}
 {356}{}{Bye, Stephen.}
