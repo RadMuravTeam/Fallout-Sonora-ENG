@@ -1,4 +1,4 @@
-{100}{}{Here is Antonio.}
+{100}{}{You see Antonio.}
 {101}{}{You see a local boy in rumpled and dirty clothes.}
 {102}{}{This wreath was collected for Lucia.}
 
@@ -14,7 +14,7 @@
 {208}{}{Precisely! And I like you, gringo.}
 {209}{}{Okay, I haven't looked around everywhere yet. See you later.}
 {1209}{}{Okay, I haven't looked everywhere yet. See you later.}
-{210}{}{Hey, don't get discouraged and spoil people's holiday. Everyone deserves to be happy.}
+{210}{}{Hey, don't get discouraged about spoiling our festival. Everyone deserves to be happy.}
 {211}{}{Yeah...}
 {212}{}{Hmm. Anyway, I'm going to have fun. See you.}
 
