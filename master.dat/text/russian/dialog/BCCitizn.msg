@@ -1,4 +1,4 @@
-{100}{}{Here is a villager.}
+{100}{}{You see a villager.}
 {101}{}{You see a dark-skinned man in brahmin skin clothes.}
 
 {110}{}{A sandstorm is coming soon.}
