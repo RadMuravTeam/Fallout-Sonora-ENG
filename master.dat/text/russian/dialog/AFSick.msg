@@ -1,4 +1,4 @@
-{100}{}{Here is a villager.}
+{100}{}{You see a villager.}
 {101}{}{You see a fisherman with dark skin.}
 {102}{}{You have a sick person in front of you.}
 {103}{}{You see a fisherman. He looks exhausted from a long illness.}
