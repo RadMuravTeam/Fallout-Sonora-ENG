@@ -1,4 +1,4 @@
-{100}{}{Here is Enrique.}
+{100}{}{You see Enrique.}
 {101}{}{You see a stern-looking Mexican.}
 
 {110}{}{}
@@ -49,12 +49,12 @@
 {263}{}{Let me talk to him.}
 {264}{}{Ilario died. He won't bother you anymore.}
 {265}{}{Ilario escaped. He's not coming back.}
-{266}{}{Yes! How wonderful it became without him. I can already imagine how Santa Ana will be transformed without this old man and without the monster. No one else needs to be sacrificed. There is no more need to lie and pretend that nothing is happening. Thank you, friend. Here, take my gun as a token of appreciation. Now you are our guardian angel.}
+{266}{}{Yes! How wonderful it became without him. I can already imagine how Santa Ana will transform without this old man and without the monster. No one else needs to be sacrificed. There is no more need to lie and pretend that nothing is happening. Thank you, friend. Here, take my gun as a token of appreciation. Now you are our guardian angel.}
 {267}{}{It's always nice to help people. Goodbye, Enrique.}
 {268}{}{Is there anything else I can do to help in the end?}
 {269}{}{You know, I'm the village head now. And I want to establish trade with the neighboring town of Casa Nueva. We have nothing much to offer in return, but we will try to negotiate. Can you give them an offer? Let them send a caravan here for negotiations.}
 {270}{}{Okay, I'll do it.}
-{271}{}{I'll hardly ever be there. But I will keep in mind.}
+{271}{}{I'll hardly ever be there. But I will keep it in mind.}
 {272}{}{Aren't there too many victims? Maybe not?}
 {273}{}{If he is not stopped now, then in the future we will continue to make sacrifices to his vanity. And the further, the more difficult it will be to fix the situation.}
 {274}{}{Then it's not worth wasting time. Let's go to church!}
@@ -76,7 +76,7 @@
 
 {290}{}{How did you even get to such a life?}
 {291}{}{It's a long story. It started more than fifteen years ago.}
-{292}{}{I don't even want to listen to this story. Let's change the subject?}
+{292}{}{I don't even want to listen to this story. Let's change the subject.}
 {293}{}{Tell me more.}
 {294}{}{We were a nomadic people and wandered through the Sonoran desert in search of suitable places to live. One day we were accosted by this monster. He chased our caravan and periodically dragged away one person or cattle. We couldn't fight him off or run away from him - he's too strong and too fast.}
 {295}{}{Go on.}
