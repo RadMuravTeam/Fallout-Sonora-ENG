@@ -1,4 +1,4 @@
-{100}{}{Here is the priest Mangas.}
+{100}{}{You see the priest Mangas.}
 {101}{}{You see a shaman in a national outfit.}
 {102}{}{Look! That evil iron spirit! Do you believe me now?}
 {103}{}{Old man Mangas is completely out of his mind!}
@@ -32,7 +32,7 @@
 {1205}{}{Calm down, old man. I haven't done anything wrong to you. I haven't done it YET.}
 
 #First meeting
-{210}{}{...Here, look what these advanced people have brought us with all their progress!}
+{210}{}{...Here, look at what these advanced people have brought us with all their progress!}
 {211}{}{[Listen to speech]}
 {212}{}{[Interrupt speech]}
 {213}{}{We were a close-knit community, but the fire worshippers brought us selfishness! We believed in one god, but they taught us to argue about religion! We wanted to do good to our fellow tribesmen, but the clans have once again entered the path of enmity...}
@@ -72,17 +72,17 @@
 {1251}{}{Chatto and other boys collected forbidden things. I've found them and I'm going to burn them so that the others won't be offended. And don't you dare bring us new ones. It's none of your business, the woman from the Villa.}
 {252}{}{I see.}
 {253}{}{But what's wrong with these old things?}
-{254}{}{We wander through the desert and live by what the desert gives us. Our people and our herds are the only thing that is valuable. There is no need for young people to join the things of the Ancient World. It's useless and unsafe.}
+{254}{}{We wander through the desert and live by what the desert gives us. Our people and our herds are the only valuable thing. There is no need for young people to join the things of the Ancient World. It's useless and unsafe.}
 {255}{}{Whatever you say. Can I take these things?}
 {256}{}{You're doing some nonsense. These are just old things, there are a lot of them on the ruins.}
 {257}{}{But we don't live on those ruins! We are wandering through the Sonoran desert. Our people and our herds are the only thing that is valuable to us. There is no need for young people to join the things of the Ancient World. It's not safe.}
 {258}{}{Whatever you say. How about an exchange? I can take them from here back to the ruins.}
 {259}{}{You're doing the right thing. We don't have enough people like you in the Villa, Shaman Mangas. Accept the words of respect.}
-{260}{}{Hmm. If you really are from the Villa I've heard about, then I should treat you more favorably. Perhaps our tribes are somewhat similar.}
-{261}{}{It's not worth burning these things. Let me exchange them and take them away from here?}
-{262}{}{I don't care what happens to pagan talismans. It is much more important to teach the apostates a lesson and show the rest the truth. But I don't mind getting a benefit from the exchange, if you really have something to offer.}
+{260}{}{Hmm. If you truly are from the Villa I've heard about, then I should treat you more favorably. Perhaps our tribes are somewhat similar.}
+{261}{}{It's not worth burning these things. Let me exchange them and take them away from here.}
+{262}{}{I don't care what happens to pagan talismans. It is much more important to teach the apostates a lesson and show the rest the truth. But I don't mind getting a benefit from the exchange if you really have something to offer.}
 {263}{}{I think we can negotiate.}
-{264}{}{All these things are really unsafe for you.}
+{264}{}{All these things are unsafe for you.}
 {265}{}{That's what I'm talking about! The things of strangers bring disease, discord or death.}
 {266}{}{Burn everything! Immediately! Especially this one. [Point to the grenade]}
 {267}{}{You're doing a great job for your tribe.}
@@ -90,14 +90,14 @@
 {269}{}{Look, this thing is endowed with demonic power! Destroy it immediately! [Throw a grenade into the fire]}
 
 {270}{}{What is the conflict with outsiders?}
-{271}{}{They bring turmoil and discord to the tribe. Their soulless technologies contradict our precepts, and with their weapons outsiders are trying to conquer us and force us to work. Even the firewater has become a subject of contention.}
+{271}{}{They bring turmoil and discord to the tribe. Their soulless technologies contradict our precepts, and with their weapons, outsiders are trying to conquer us and force us to work. Even the firewater has become a subject of contention.}
 {272}{}{I see. Let me ask you something else?}
 {273}{}{Turmoil and discord? Who is against whom?}
 {274}{}{The Phoenix missionaries want a union and a place near the pueblo. The youth echoes them, the others drive them away.}
 {275}{}{What kind of weapons do strangers have?}
 {276}{}{The aliens have fire sticks and durable metal armor. We cannot resist with our spears against such an army. Only cunning and knowledge of the wasteland help us fight against such a strong enemy.}
 {277}{}{What soulless technologies are you talking about?}
-{278}{}{Old things whose power comes from other old things. You call it "bat-tare" and "radiation". For a long time, no one from the tribe dared to even touch these things. And now in Phoenix and Two-Sun they make them as easily and deftly as we make bags made of brahmin leather.}
+{278}{}{Old things whose power comes from other old things. You call it "bat-tare" and "radiation". For a long time, no one from the tribe dared to even touch these things. And now in Phoenix and Two-Sun, they make them as easily and deftly as we make bags made of brahmin leather.}
 {279}{}{What kind of firewater is this?}
 {280}{}{This bitter smelly liquid came to us from Phoenix. She stupefies the head, like a Dark Brahmin. Those who drink this water do strange things. I try to burn all the supplies I find, but it's in vain. Until Phoenix stops producing and selling the tribe's drink, the general hangover will not stop.}
 {281}{}{There's probably a whole moonshine distillery doing it in Phoenix.}
@@ -109,15 +109,15 @@
 {287}{}{There must be a lot of security there. And I don't even know where this factory is. No, I will not interfere with the alcohol business.}
 {288}{}{Then go. You're wasting our time.}
 
-{290}{}{Rejoice, Mangas! The moonshine distillery in Phoenix has been completely destroyed.}
+{290}{}{Rejoice, Mangas! The moonshine distillery in Phoenix has been destroyed.}
 {291}{}{The Divine Brahmin himself must have helped you in this difficult task. Now I see that I was wrong in my attitude towards you. Not all outsiders are trying to subdue us or steal from us. Thank you, my friend from the Villa.}
 {292}{}{You're welcome.}
 {293}{}{Did you say something about a reward?}
 {294}{}{You deserve respect and reward. Take these old things that I recently took away from the tribesmen. Surely you will find a use for all this.}
-{295}{}{So, so, nuclear batteries, stimpacks, Radawaye and a bunch of caps... Pretty good.}
+{295}{}{So, so, nuclear batteries, stimpacks, Radawaye, and a bunch of caps... Pretty good.}
 
 {300}{}{...And this is our future? When did we fall so low that even the youth goes against the tribe? The Phoenix missionaries are to blame for this...}
-{301}{}{It's too late to shout about freedom, Mangas. The chief has made an alliance with the Phoenix. Accept it.}
+{301}{}{It's too late to shout about freedom, Mangas. The chief has allied with the Phoenix. Accept it.}
 {302}{}{I look with grief at the future of the tribe. It's covered in fog. We are like a lost brahmin strayed from the herd. Sadly. Very sad.}
 {303}{}{Yeah. Be there.}
 
@@ -133,7 +133,7 @@
 {318}{}{You know best. And I'm leaving.}
 {319}{}{Unfortunately, Mangas, you are out of touch with reality. The world demands change. Otherwise, the tribe will be wiped off the face of the earth.}
 {320}{}{Strong words. They make your hamstrings shake with fear. But if we bend under the New World, we will disappear anyway. Isn't that right?}
-{321}{}{Make an alliance with the Phoenix and you will keep your traditions. If you stay with the Rangers, you will only condemn yourself to a war with complete defeat.}
+{321}{}{Ally with the Phoenix and you will keep your traditions. If you stay with the Rangers, you will only condemn yourself to a war with complete defeat.}
 {322}{}{I don't know. Decide for yourself. Bye.}
 {323}{}{The tribe has so far managed to resist missionaries and bandits. But their increasing power presses us more and more. Even united, the tribe barely holds on to the San Brahmin.}
 {324}{}{So be it. For the sake of saving my clan, I will stand for the union. But I will also maintain an alliance with the Rangers. And at the first sign of a threat, we will break all agreements.}
