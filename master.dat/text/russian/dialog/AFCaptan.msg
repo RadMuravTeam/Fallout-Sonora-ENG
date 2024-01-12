@@ -1,4 +1,4 @@
-{100}{}{Here is Hilberto.}
+{100}{}{You see Hilberto.}
 {101}{}{You see a man with a bushy mustache. He is wearing a captain's cap.}
 {102}{}{Please help me! Rippers attacked the village!}
 {103}{}{The rippers! Hide!}
