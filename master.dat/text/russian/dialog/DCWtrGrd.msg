@@ -1,5 +1,5 @@
-{100}{}{You see the guard.}
-{101}{}{In front of you is a water station guard. He doesn't know what to do with himself.}
+{100}{}{You see a guard.}
+{101}{}{You see a water station guard. He doesn't know what to do with himself.}
 
 {110}{}{What do you want?}
 {111}{}{Better get out of our territory.}
