@@ -1,7 +1,7 @@
 {100}{}{You see a resident of the asylum.}
-{101}{}{Here is a local resident. It looks unusually clean and fresh.}
+{101}{}{You see a local resident who looks unusually clean and freshly groomed.}
 
-{110}{}{Good afternoon... or the night? What's going on outside?}
+{110}{}{Good afternoon... or night? What's going on outside?}
 {111}{}{Please don't hurt us, we are peaceful people!}
 {112}{}{We have been living in this Vault for a long time. And where did you come from?}
 {113}{}{The raiders have been trying to get in here for months.}
@@ -14,6 +14,6 @@
 {122}{}{Ah, what fresh air in the Vault!}
 {123}{}{If it wasn't for you, we would have had to leave the Vault.}
 {124}{}{You're a good person. Not like these raiders.}
-{125}{}{You know, the first caretaker of the Vault was a man named Van Buren.}
+{125}{}{You know, the first overseer of the Vault was a man named Van Buren.}
 {126}{}{Thanks for the help.}
 {127}{}{We wouldn't have survived in the desert.}
