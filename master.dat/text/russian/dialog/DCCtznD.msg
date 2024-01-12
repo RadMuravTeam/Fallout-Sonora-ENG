@@ -1,4 +1,4 @@
-{100}{}{Here is a settler.}
+{100}{}{You see a settler.}
 {101}{}{You see an ordinary resident of Casa Grande.}
 {102}{}{I will tell other residents about who saved me. Thank you.}
 {103}{}{These arthropods appear quite suddenly. So let's keep our eyes open.}
