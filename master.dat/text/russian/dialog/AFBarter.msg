@@ -1,4 +1,4 @@
-{100}{}{Here is a merchant.}
+{100}{}{You see a merchant.}
 {101}{}{You see a fishmonger.}
 {102}{}{Hide behind the counter. I don't think these dead people will find us here.}
 
