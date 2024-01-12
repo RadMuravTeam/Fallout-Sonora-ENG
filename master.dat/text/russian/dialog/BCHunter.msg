@@ -1,7 +1,7 @@
-{100}{}{Here is a pathfinder.}
+{100}{}{You see a pathfinder.}
 {101}{}{You see one of the men of the tribe. He is wearing very light clothes.}
 {102}{}{Thank you, friend of our tribe. It's amazing that there are outsiders who can be trusted.}
-{103}{}{Thank you for your help in the oasis. Apparently, somewhere in you there is still a greenhouse of goodness.}
+{103}{}{Thank you for your help in the oasis. Apparently, somewhere in you, there is still a greenhouse of goodness.}
 
 # Before receiving the quest
 {200}{}{Greetings, stranger. Although the camp is open to you, I still doubt that you will be of use to us.}
