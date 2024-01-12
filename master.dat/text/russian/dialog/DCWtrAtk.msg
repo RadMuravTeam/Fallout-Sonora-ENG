@@ -1,4 +1,4 @@
-{100}{}{Here is a local resident.}
+{100}{}{You see a local resident.}
 {101}{}{You see an emaciated settler. He looks very unfriendly.}
 
 {110}{}{I don't care about you at all.}
@@ -23,11 +23,11 @@
 {203}{}{I don't care. Do whatever you want.}
 {204}{}{I won't let you swing a sledgehammer. Get out.}
 {205}{}{Relax, it's not worth the sacrifice.}
-{206}{}{Victims. What do you know about the victims? Crowds of people lay down in the ground for the sake of this cursed water. I have nothing left to lose. Say goodbye to life, bastard!}
+{206}{}{Victims. What do you know about the victims? Crowds of people lay down on the ground for the sake of this cursed water. I have nothing left to lose. Say goodbye to life, bastard!}
 {207}{}{Give me the sledgehammer. Immediately.}
 {208}{}{Exactly. Kick his ass.}
 {209}{}{Calm down, my friend, it's not worth such sacrifices.}
-{210}{}{Sacrifices. What do you know about the victims? Crowds of people lay down in the ground for the sake of this cursed water. I have nothing left to lose...}
+{210}{}{Sacrifices. What do you know about the victims? Crowds of people lay down on the ground for the sake of this cursed water. I have nothing left to lose...}
 {211}{}{Okay, if you say so. Come on, kick his ass.}
 {212}{}{It's all in the past. No need for new victims.}
 {213}{}{(looks around in confusion, then looks at his sledgehammer) God... I think I've completely lost my head. Me... I need to collect my thoughts.}
