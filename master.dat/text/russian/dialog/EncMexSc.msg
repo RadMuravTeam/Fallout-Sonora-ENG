@@ -1,5 +1,5 @@
-{100}{}{Here is a Mexican.}
-{101}{}{A Mexican who suddenly appeared in the middle of the desert.}
+{100}{}{You see a Mexican.}
+{101}{}{The Mexican who suddenly appeared in the middle of the desert.}
 {102}{}{Muchas gracias.}
 
 {200}{}{Muchas gracias. (Gives you pure water as a reward) Bebe, amigo.}
