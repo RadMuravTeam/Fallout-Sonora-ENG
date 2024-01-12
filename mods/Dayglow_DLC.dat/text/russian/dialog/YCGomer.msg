@@ -10,7 +10,7 @@
 {108}{}{My brothers, I'm with you!}
 {109}{}{I see my brothers in arms. It's better not to anger them.}
 
-{110}{}{The Creator was right — all of you had to be converted!}
+{110}{}{The Creator was right â€” all of you had to be converted!}
 {111}{}{Hello.}
 {112}{}{[take in the party]}
 {113}{}{[remove from party]}
@@ -22,7 +22,7 @@
 {119}{}{}
 
 {150}{}{Dead people live here. They don't like outsiders. But they will not attack themselves.}
-{151}{}{The largest Gulsky camp. Normies also happen here.}
+{151}{}{The largest ghoul camp. Normies also live here.}
 {152}{}{The very heart of the ruins. This place is poorly explored.}
 {153}{}{I haven't been further than the outpost yet.}
 {154}{}{See the island? There was a military base there. But it is destroyed.}
@@ -42,7 +42,7 @@
 {206}{}{The bunch was chased out of the squad. The ghouls said they would take care of the Pile if he helped at the mine and behaved well. A lot of trying. But they still don't like him.}
 {207}{}{Sadly. But naturally. }
 {208}{}{What were you hoping for, you idiot? You should have kept order while you were in the squad.}
-{209}{}{A little more — and a lot of respect. Ghouls will know how good I am. I will help the ghouls, even if they don't want it.}
+{209}{}{A little more â€” and a lot of respect. Ghouls will know how good I am. I will help the ghouls, even if they don't want it.}
 {210}{}{Great. I also help ghouls. Maybe we can join forces? You will protect me on the road, and I will help you earn respect.}
 {211}{}{I have business here. What are you doing here? Are mutants with ghouls for one thing?}
 {212}{}{Ghouls will never accept you. Forget about them, help me. I need your muscles.}
@@ -140,11 +140,11 @@
 {315}{}{Then let's go to the camp. Let's go.}
 {316}{}{So what's up with the captain?}
 {317}{}{Be strong, Bunch. The captain is no more. And your squad, too.}
-{318}{}{DAMN THE BROTHERHOOD! I HATE IT! I HATE IT!}
+{318}{}{DAMN THE BROTHERHOOD! I HATE THEM! I HATE THEM!}
 {319}{}{I think it's better to leave you alone for now.}
 {320}{}{Be strong, Bunch. The captain is no more.}
 {321}{}{What are you going to do now without your squad?}
-{322}{}{A bunch will work hard at the Gulsky mines. Ghouls need his muscles. Ghouls will not regret taking him into service! Yes. So a bunch will be useful. He will be happy doing good. This is what the Bunch wanted.}
+{322}{}{A bunch will work hard at the ghoul mines. Ghouls need his muscles. Ghouls will not regret taking him into service! Yes. So a bunch will be useful. He will be happy doing good. This is what the Bunch wanted.}
 {323}{}{Clear. Well, I hope you'll stay with me some more before I return to Sonora.}
 {324}{}{The squad is ready to receive you again.}
 {325}{}{Brothers in arms forgave a bunch? It brings a lot of joy! But the Heap has already promised to help the ghouls. And will he be able to justify the trust, if once he could not? Tell me, man, what should I do now? Which choice is better for the Heap?}
