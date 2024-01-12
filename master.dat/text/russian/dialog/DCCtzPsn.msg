@@ -1,4 +1,4 @@
-{100}{}{Here is a settler.}
+{100}{}{You see a settler.}
 {101}{}{You see one of the residents of Casa Grande. He shakes and throws into a fever.}
 {102}{}{You see one of the residents of Casa Grande.}
 {103}{}{You have successfully cured the patient.}
