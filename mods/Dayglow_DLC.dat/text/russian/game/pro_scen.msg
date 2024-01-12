@@ -25,7 +25,7 @@
 {1300}{}{*Floor marking}
 {1301}{}{Auxiliary object for marking buildings.}
 {1400}{}{*Road marking}
-{1401}{}{Auxiliary object for marking paths, roads, highways.}
+{1401}{}{Auxiliary object for marking paths, roads, and highways.}
 {1500}{}{Tumbleweed}
 {1501}{}{It's a tumbleweed. Naturally, you've never seen a real tumbleweed before. Keep an eye on him.}
 {1600}{}{Shrub}
@@ -536,31 +536,31 @@
 {26801}{}{A big pile of rocks. If you look closely, you can see an old man's face in every pebble.}
 {26900}{}{Stones}
 {26901}{}{A big pile of rocks. They probably formed after the collapse.}
-{27000}{}{The rock}
+{27000}{}{Rock wall}
 {27001}{}{These mountain walls look completely impregnable.}
-{27100}{}{The rock}
+{27100}{}{Rock wall}
 {27101}{}{These mountain walls look completely impregnable.}
-{27200}{}{The rock}
+{27200}{}{Rock wall}
 {27201}{}{These mountain walls look completely impregnable.}
-{27300}{}{The rock}
+{27300}{}{Rock wall}
 {27301}{}{These mountain walls look completely impregnable.}
-{27400}{}{The rock}
+{27400}{}{Rock wall}
 {27401}{}{These mountain walls look completely impregnable.}
-{27500}{}{The rock}
+{27500}{}{Rock wall}
 {27501}{}{These mountain walls look completely impregnable.}
-{27600}{}{The rock}
+{27600}{}{Rock wall}
 {27601}{}{These mountain walls look completely impregnable.}
 {27700}{}{Cave vault}
 {27701}{}{It's damp and cold from the inside.}
 {27800}{}{Collapse}
 {27801}{}{A huge number of stones. So huge that you can't just move it.}
-{27900}{}{The rock}
+{27900}{}{Rock wall}
 {27901}{}{These mountain walls look completely impregnable.}
-{28000}{}{The rock}
+{28000}{}{Rock wall}
 {28001}{}{These mountain walls look completely impregnable.}
-{28100}{}{The rock}
+{28100}{}{Rock wall}
 {28101}{}{These mountain walls look completely impregnable.}
-{28200}{}{The rock}
+{28200}{}{Rock wall}
 {28201}{}{These mountain walls look completely impregnable.}
 {28300}{}{Rock}
 {28301}{}{These mountain walls look completely impregnable.}
@@ -614,26 +614,26 @@
 {30701}{}{In front of you is a cave wall. What a surprise.}
 {30800}{}{Cave wall}
 {30801}{}{In front of you is a cave wall. What a surprise.}
-{30900}{}{The rock}
+{30900}{}{Rock wall}
 {30901}{}{These mountain walls look completely impregnable.}
-{31000}{}{The rock}
+{31000}{}{Rock wall}
 {31001}{}{These mountain walls look completely impregnable.}
 {31100}{}{A hole in the ground}
 {31101}{}{This hole leads deep into the darkness. Only a suicide would go down there without a rope.}
 {31200}{}{A hole in the ground}
 {31201}{}{This hole leads deep into the darkness. A securely attached rope also descends there.}
 {31300}{}{Wooden beam}
-{31301}{}{This beam barely keeps the rock from collapsing.}
+{31301}{}{This beam just barely keeps the cave from collapsing.}
 {31400}{}{Wooden beam}
-{31401}{}{This beam barely keeps the rock from collapsing.}
+{31401}{}{This beam just barely keeps the cave from collapsing.}
 {31500}{}{Wooden beam}
-{31501}{}{This beam barely keeps the rock from collapsing.}
+{31501}{}{This beam just barely keeps the cave from collapsing.}
 {31600}{}{Wooden beam}
-{31601}{}{This beam barely keeps the rock from collapsing.}
+{31601}{}{This beam just barely keeps the cave from collapsing.}
 {31700}{}{Wooden beam}
-{31701}{}{This beam barely keeps the rock from collapsing.}
+{31701}{}{This beam just barely keeps the cave from collapsing.}
 {31800}{}{Wooden beam}
-{31801}{}{This beam barely keeps the rock from collapsing.}
+{31801}{}{This beam just barely keeps the cave from collapsing.}
 {31900}{}{Damaged wooden beam}
 {31901}{}{It seems that this beam will collapse at the slightest pressure.}
 {32000}{}{Elevator}
@@ -677,10 +677,10 @@
 {33900}{}{Stones}
 {33901}{}{If you had a shaft, you could make a tip out of these stones.}
 {34000}{}{Stones}
-{34001}{}{You have been admiring these stones for a long time. Finally it seemed to you that they moved, but they didn't.}
+{34001}{}{You have been admiring these stones for a long time. Finally, it seemed to you that they moved, but they didn't.}
 {34100}{}{Stones}
 {34101}{}{These stones are hardly worth looking at so closely.}
-{34200}{}{The well}
+{34200}{}{Well}
 {34201}{}{An ordinary well. Built a long time ago, but still in working condition.}
 {34300}{}{Toilet}
 {34301}{}{Rough, but doing its job toilet. A few leaves were thrown into the hole to make it stink less.}
@@ -775,26 +775,26 @@
 {40501}{}{There is a bolt in this gate that goes down and up.}
 {40600}{}{Gates}
 {40601}{}{There is a bolt in this gate that goes down and up.}
-{40700}{}{The cart}
+{40700}{}{Caravan wagon}
 {40701}{}{A caravan wagon, converted from the broken body of an ancient car.}
-{40800}{}{The cart}
+{40800}{}{Caravan wagon}
 {40801}{}{A caravan wagon converted from the broken body of an ancient car.}
-{40900}{}{The cart}
+{40900}{}{Caravan wagon}
 {40901}{}{A caravan wagon converted from the broken body of an ancient car.}
-{41000}{}{The cart}
+{41000}{}{Caravan wagon}
 {41001}{}{A caravan wagon converted from the broken body of an ancient car.}
-{41100}{}{The cart}
+{41100}{}{Caravan wagon}
 {41101}{}{A caravan wagon, converted from the broken body of an ancient car.}
-{41200}{}{The cart}
+{41200}{}{Caravan wagon}
 {41201}{}{A caravan wagon, converted from the broken body of an ancient car.}
-{41300}{}{The cart}
-{41301}{}{The transportation vehicle of the ancients, driven by human efforts.}
-{41400}{}{The cart}
-{41401}{}{The transportation vehicle of the ancients, driven by human efforts.}
-{41500}{}{The cart}
-{41501}{}{The transportation vehicle of the ancients, driven by human efforts.}
-{41600}{}{The cart}
-{41601}{}{The transportation vehicle of the ancients, driven by human efforts.}
+{41300}{}{Caravan wagon}
+{41301}{}{This ancient mode of transportation was powered solely by human effort.}
+{41400}{}{Caravan wagon}
+{41401}{}{This ancient mode of transportation was powered solely by human effort.}
+{41500}{}{Caravan wagon}
+{41501}{}{This ancient mode of transportation was powered solely by human effort.}
+{41600}{}{Caravan wagon}
+{41601}{}{This ancient mode of transportation was powered solely by human effort.}
 {41700}{}{Rails}
 {41701}{}{Just rails.}
 {41800}{}{Rails}
@@ -2003,7 +2003,7 @@
 {104001}{}{These wooden boxes are falling apart from the wind.}
 {104100}{}{Mailbox}
 {104101}{}{Wooden box. It doesn't seem to be in such a bad condition.}
-{104200}{}{Mailbox}
+{104200}{}{Box}
 {104201}{}{A simple wooden box. In fairly good condition.}
 {104300}{}{Mailbox}
 {104301}{}{This simple wooden box collapsed under its own weight.}
@@ -2270,7 +2270,7 @@
 {117400}{}{Body}
 {117401}{}{This is the corpse of one of your tribesmen.}
 {117500}{}{Symbol}
-{117501}{}{A symbol clumsily drawn on the wall. It should be studied more carefully.}
+{117501}{}There is a symbol drawn clumsily on the wall. It should be studied more carefully.}
 {117600}{}{Drilling machine}
 {117601}{}{Heavy robot equipped with drilling tools.}
 {117700}{}{Collapse}
@@ -2295,7 +2295,7 @@
 {118601}{}{Just rails.}
 {118700}{}{Poster}
 {118701}{}{Some old poster. A cursory inspection gives nothing.}
-{118800}{}{The cart}
+{118800}{}{Caravan wagon}
 {118801}{}{A caravan wagon prepared for the shipment of refined uranium ore.}
 {118900}{}{Radio equipment}
 {118901}{}{This radio equipment is damaged and cannot be repaired.}
@@ -2561,9 +2561,9 @@
 {131901}{}{An overturned crate. They were obviously looking for something in it.}
 {132000}{}{Mailbox}
 {132001}{}{An overturned crate. They were obviously looking for something in it.}
-{132100}{}{The cart}
+{132100}{}{Caravan wagon}
 {132101}{}{This caravan wagon was looted. There is nothing of value left here.}
-{132200}{}{The cart}
+{132200}{}{Caravan wagon}
 {132201}{}{This caravan wagon was looted. There is nothing of value left here.}
 {132300}{}{Mailbox}
 {132301}{}{An overturned crate. They were obviously looking for something in it.}
@@ -2749,15 +2749,15 @@
 {141301}{}{Homemade water storage tank. Simultaneously performs the role of a water tower.}
 {141400}{}{Road sign}
 {141401}{}{A very old pointer. However, it may still contain up-to-date information.}
-{141500}{}{The well}
+{141500}{}{Well}
 {141501}{}{A homemade well. The bottom is not visible.}
 {141600}{}{Cactus}
 {141601}{}{You don't see anything remarkable in this cactus except its gigantic size.}
-{141700}{}{The rock}
+{141700}{}{Rock wall}
 {141701}{}{These mountain walls look completely impregnable.}
-{141800}{}{The rock}
+{141800}{}{Rock wall}
 {141801}{}{These mountain walls look completely impregnable.}
-{141900}{}{The rock}
+{141900}{}{Rock wall}
 {141901}{}{These mountain walls look completely impregnable.}
 {142000}{}{Road sign}
 {142001}{}{This old rusted pointer dangerously sways in the wind.}
@@ -3839,8 +3839,8 @@
 {200201}{}{This support holds the roof.}
 {200300}{}{Advertising index}
 {200301}{}{This sign says: Space Age Restaurant.}
-{200400}{}{The cart}
-{200401}{}{This wagon has been standing here quite recently. Everything of value has already been pulled out of it.}
+{200400}{}{Wagon cart}
+{200401}{}{This wagon has been standing here quite recently. Everything of value has already been taken.}
 {200500}{}{Advertising index}
 {200501}{}{This sign says "Bates Motel."}
 {200600}{}{Advertising index}
@@ -3927,7 +3927,7 @@
 {204601}{}{This man was frozen alive.}
 {204700}{}{Icy figure}
 {204701}{}{This man was frozen alive.}
-{204800}{}{The cart}
+{204800}{}{Wagon cart}
 {204801}{}{A wagon with the baggage of nomads.}
 {204900}{}{Cactus}
 {204901}{}{An ordinary cactus.}
@@ -4210,7 +4210,7 @@
 {219901}{}{The main control panel of the Bonita power plant.}
 {220000}{}{Sign}
 {220001}{}{It says here: "Caution! High voltage".}
-{220100}{}{The rock}
+{220100}{}{Rock wall}
 {220101}{}{These mountain walls look completely impregnable.}
 {220200}{}{Power transformer}
 {220201}{}{Part of a transformer substation from which wires run everywhere.}
@@ -4238,13 +4238,13 @@
 {221501}{}{Rusty double-leaf door.}
 {221600}{}{Wooden bridge}
 {221601}{}{You're lucky someone threw some boards across the stream.}
-{221700}{}{The rock}
+{221700}{}{Rock wall}
 {221701}{}{These mountain walls look completely impregnable.}
 {221800}{}{Pipe}
 {221801}{}{It looks like a drain outlet.}
 {221900}{}{Pipe}
 {221901}{}{It looks like a drain outlet.}
-{222000}{}{The rock}
+{222000}{}{Rock wall}
 {222001}{}{These mountain walls look completely impregnable.}
 {222100}{}{Signboard}
 {222101}{}{This is the sign of the workshop and shop.}
@@ -4272,9 +4272,9 @@
 {224300}{}{Road sign}
 {224400}{}{Shadow}
 {224500}{}{Shadow}
-{224600}{}{The rock}
-{224700}{}{The rock}
-{224800}{}{The rock}
+{224600}{}{Rock wall}
+{224700}{}{Rock wall}
+{224800}{}{Rock wall}
 {224900}{}{Arch}
 {224901}{}{The letters "Chula Vista Center" have been preserved on this heavily rusted entrance arch.}
 {225000}{}{Arch}
