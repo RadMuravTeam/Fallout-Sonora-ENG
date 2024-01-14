@@ -1,7 +1,7 @@
 {100}{}{You see Frank.}
 {101}{}{You see a resident of the asylum. He looks pretty fresh and clean compared to any inhabitant of the wasteland.}
 
-{200}{}{P-please don't hurt us! We are a peaceful people. We don't want problems.}
+{200}{}{P-please don't hurt us! We are peaceful people. We don't want any problems.}
 {201}{}{Why are you afraid of me? I didn't do anything wrong.}
 {1201}{}{Why are you afraid of me? I didn't do anything wrong.}
 {202}{}{Then stop bleating, it annoys me.}
