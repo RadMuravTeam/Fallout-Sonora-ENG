@@ -1,8 +1,8 @@
-{100}{}{This is Gil McCord.}
+{100}{}{You sees Gil McCord.}
 {101}{}{You see a wiry, unshaven man with a very sharp look. He looks at you doubtfully from under a cowboy hat.}
 {102}{}{Are you still here? You must have no sense of fear at all.}
 
-{200}{}{So the executioner for the executioner has arrived. Don't worry, I know all about you. I should have killed you right after killing the first Los Panchos. Apparently, I underestimated your strength.}
+{200}{}{So the executioner for the executioner has arrived. Don't worry, I know all about you. I should have killed you right after killing the first Los Panchos. I underestimated your strength.}
 {201}{}{I'm still full of surprises, Gil McCord.}
 {1201}{}{I'm still full of surprises, Gil McCord.}
 {202}{}{Then take out ALL your cards, because someone's life is at stake. Mine or yours.}
