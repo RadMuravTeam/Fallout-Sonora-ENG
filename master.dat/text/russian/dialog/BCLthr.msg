@@ -1,4 +1,4 @@
-{100}{}{This is Ronnie.}
+{100}{}{You see Ronnie.}
 {101}{}{You see the master of leather goods. With a professional movement of his hand, he cleans a piece of leather.}
 {102}{}{Listen, iron spirit, leave our peaceful village alone.}
 
@@ -93,13 +93,13 @@
 {311}{}{I make various items out of Brahmin leather. But mostly they are used by members of the tribe. I no longer do business with Phoenix and its colonies. Only rangers can make their orders.}
 {312}{}{I see.}
 {313}{}{What items do you make?}
-{314}{}{Clothes, belts, bags and much more. I make armor for the Rangers.}
+{314}{}{Clothes, belts, bags, and much more. I make armor for the Rangers.}
 {315}{}{What's the problem with the Phoenix?}
 {316}{}{We co-existed peacefully for a while. But for the last few years, white people have been coming from the big city with guns to subdue us or take away from us what belongs to us. The tribe can't stand it.}
 {317}{}{You say you have a good relationship with the Rangers?}
 {318}{}{They help us resist the invaders from Phoenix. And they have always been good customers in my tannery.}
 {319}{}{And who do you support in this dispute?}
-{320}{}{It's hard to say. The Rangers have treated us well so far, but I suspect they are not pure in mind. After all, they have their own interests in this conflict.}
+{320}{}{It's hard to say. The Rangers have treated us well so far, but I suspect they are not pure in mind. After all, they have their interests in this conflict.}
 {321}{}{[Next]}
 {322}{}{At the same time, we have been peacefully existing with Phoenix for a long time and actively traded with it until the relationship deteriorated. Phoenix would have given us more opportunities if it weren't for the greedy tyrant at the head there.}
 {323}{}{I see.}
