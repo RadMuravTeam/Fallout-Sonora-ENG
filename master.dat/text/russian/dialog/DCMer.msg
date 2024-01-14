@@ -1,4 +1,4 @@
-{100}{}{Here is Count Bustos.}
+{100}{}{You see Count Bustos.}
 {101}{}{You see a man in a solid but dilapidated suit. His gray temples seem to hint at a difficult past.}
 {102}{}{I've heard of such armor, but I thought it was fiction.}
 {103}{}{I will not tolerate this major infection in my city.}
@@ -26,7 +26,7 @@
 {216}{}{I'm from a small village far from here. We just call it the Villa.}
 {217}{}{I've never heard of such a thing. Let's assume it's true. What are you doing in my city so far from home?}
 {218}{}{I'm just traveling. Can I spend the night at your place?}
-{219}{}{I don't mind. Usually visitors spend the night near the water pump, in the barracks of the caravans.}
+{219}{}{I don't mind. Usually, visitors spend the night near the water pump, in the barracks of the caravans.}
 {220}{}{Thank you, Mr. Mayor.}
 {221}{}{What kind of city do you have if you don't even have a motel? Okay, the barracks will do. Goodbye, Mayor.}
 {222}{}{Bustos. My name is Alfred Bustos. Now go. I've spent too much time on you.}
@@ -48,13 +48,13 @@
 {235}{}{There are no empty seats in the city. You can spend the night in the barracks with the caravans near the water station.}
 {236}{}{Bustos. My name is Alfred Bustos. Welcome to my city.}
 {237}{}{I need the mayor of this city. I'm from the Sacred Fire Church.}
-{238}{}{What a surprise. Usually I am warned about the appearance of the ambassador of your church.}
+{238}{}{What a surprise. Usually, I am warned about the appearance of the ambassador of your church.}
 {239}{}{Come in. Make yourself at home.}
 {240}{}{What is it this time?}
 {241}{}{You again? What is it this time?}
 {242}{}{You again? I told you to get out of my city.}
 {243}{}{Goodbye, Count Bustos.}
-{244}{}{(When you enter the office, you find the local mayor leaning wearily on the table. In the second hand he holds a bottle of alcohol. "Oh ..." - he says, seeing your colorful robe.) What a surprise. Usually I am warned about the appearance of the ambassador of your church.}
+{244}{}{(When you enter the office, you find the local mayor leaning wearily on the table. In the second hand he holds a bottle of alcohol. "Oh ..." - he says, seeing your colorful robe.) What a surprise. Usually, I am warned about the appearance of the ambassador of your church.}
 {245}{}{I'm passing through here.}
 {246}{}{Sure. Make yourself comfortable. Are you on your way to Two-Sun? Is there anything I can do to help?}
 {247}{}{I'm interested in a slave convoy. Perhaps such a one took place here recently.}
@@ -64,7 +64,7 @@
 #Bathhouse
 {250}{}{I need to talk to you about the bathhouse.}
 {251}{}{The old abandoned building across the street? What do you care about him?}
-{252}{}{Just idle curiosity. I don't dare to distract you any more, Mr. Mayor.}
+{252}{}{Just idle curiosity. I don't dare to distract you anymore, Mr. Mayor.}
 {253}{}{Well, there is a person applying for this place.}
 {254}{}{We have already discussed this with him. In our small town, everyone knows each other. People have been building relationships here for years, and many do not like the appearance of a stranger with a dubious past in the neighborhood. I will not tolerate scammers in my city.}
 {255}{}{Hmm. And where then is the real owner of the bathhouse?}
@@ -73,7 +73,7 @@
 {258}{}{And then remember that I don't like people poking their noses into other people's affairs.}
 {259}{}{Uh, okay, I'll remember.}
 {260}{}{I see. I can rid you of this type once and for all.}
-{261}{}{Sounds good. I'll pay 100 caps, but don't mention my name anywhere. I don't want my reputation to suffer.}
+{261}{}{Sounds good. I'll pay 100 caps but don't mention my name anywhere. I don't want my reputation to suffer.}
 {262}{}{You can rely on me, Mr. Mayor.}
 {263}{}{In that case, I want to buy the rights to the bathhouse for 250 caps.}
 {264}{}{Well, that's fair. Bring the bottlecaps in, I'll draw up a bill of sale for the bathhouse.}
@@ -163,7 +163,7 @@
 {356}{}{No, he didn't go back to Two-Sun. Master Hard asked me to find him.}
 {357}{}{Ah, I understand. Well, I've told you everything I know. You can ask around somewhere else.}
 {358}{}{I will do so. Goodbye.}
-{359}{}{In my opinion, something is not clean here. You're lucky, Mayor, if his disappearance has nothing to do with you.}
+{359}{}{In my opinion, something is not clear here. You're lucky, Mayor if his disappearance has nothing to do with you.}
 {360}{}{It seems that the locals don't like tinsmiths. Who could wish him harm?}
 {361}{}{Hold your tongue, mercenary. We are indebted to the tinsmiths for repairing the water pump and regular caravans. None of the locals would dream of harming them.}
 {1361}{}{Hold your tongue, mercenary. We are indebted to the tinsmiths for repairing the water pump and regular caravans. None of the locals would dream of harming them.}
@@ -209,7 +209,7 @@
 {401}{}{Different rabble comes across along the tenth highway. These bandits rob caravans and other travelers, which is why we suffer losses.}
 {402}{}{Did you try to catch them?}
 {403}{}{Who? Two dozen disparate and constantly changing gangs? This fight will never end. You kill some, others will come in their place. It is more important to deal with security inside the city.}
-{404}{}{Let's forget about the mainline workers for now, there are other questions.}
+{404}{}{Let's forget about the mainline workers, for now, there are other questions.}
 {405}{}{I'm interested in that water station.}
 {406}{}{Talk to Joe Sullivan at the station about it. He knows her like the back of his hand.}
 {407}{}{Talk to someone at the station about it.}
@@ -245,7 +245,7 @@
 {436}{}{That robber claimed that you killed half the population to come to power.}
 {437}{}{Difficult times require difficult decisions. If I hadn't started the fight then, someone else would have started it. This is the natural state of things.}
 {438}{}{Was it inevitable?}
-{439}{}{Too many people and too few resources. This city survives by a water pump and as a camp for caravans. There is nothing else in this desert that could give life. As a result, many did not find a place for themselves, looting and clan wars began.}
+{439}{}{Too many people and too few resources. This city survives by a water pump and as a camp for caravans. There is nothing else in this desert that could give life. As a result, many did not find a place for themselves and looting and clan wars began.}
 {440}{}{Now I understand why you are constantly drunk.}
 {441}{}{So that's why you have so many bodyguards.}
 {442}{}{You can't say goodbye to the past. This is our cross.}
@@ -291,7 +291,7 @@
 {484}{}{Are you trying to wash down the problem with alcohol? It won't work.}
 {485}{}{What do you understand... (calms himself) Your truth. I once made the mistake of driving some residents out of the city instead of executing them. And they came back. Now I have to take cruel revenge on the mainline...}
 {486}{}{[Next]}
-{487}{}{I think you needed the caps? I will not pay for the disassembly in the bar. But I will pay for a new case.}
+{487}{}{I think you needed the caps? I will not pay for the disassembly of the bar. But I will pay for a new case.}
 {488}{}{What should I do?}
 {489}{}{Those bandits in the bar belonged to the largest clan of highway workers-the Blue Shield Clan. He is known throughout the neighborhood for his ruthless crimes. After robbing the last caravans, these scum got good equipment. So now the whole city is at risk of being held hostage.}
 {490}{}{Are you suggesting we stop them? But how?}
@@ -326,7 +326,7 @@
 {529}{}{Why is it so important to kill the leader?}
 {530}{}{Without a leader, the clan will fall apart and leave us alone at least for a while.}
 {531}{}{What's the point of destroying a fuel depot?}
-{532}{}{Fuel serves as a weapon for the gang and helps in survival. And in the future it could be used for trading. In addition, with the burned capacity, it will become more difficult to use the citadel. In any case, such a diversion will greatly shake the gang.}
+{532}{}{Fuel serves as a weapon for the gang and helps in survival. And in the future, it could be used for trading. In addition, with the burned capacity, it will become more difficult to use the citadel. In any case, such a diversion will greatly shake the gang.}
 {533}{}{And how will you know if I blow up these warehouses?}
 {534}{}{I'll see the smoke through binoculars. There are eyes and ears everywhere, such an event will not hide from anyone.}
 {535}{}{Where is the main base of the Blue Shields?}
@@ -350,18 +350,18 @@
 {1550}{}{I've destroyed the Blue Shield fuel depots. This will surely weaken the gang.}
 {551}{}{So the rumors are true. The caravaneers saw smoke away from the trade route. If the fuel is destroyed, then a hard time will come for the raiders.}
 {552}{}{Ahem. The services are not free, wasn't that the deal?}
-{553}{}{Of course, here's the reward - 500 caps. And thank you. Your service is invaluable for the city.}
+{553}{}{Of course, here's the reward - 500 caps. Thank you. Your service is invaluable to the city.}
 {554}{}{You're welcome, Count. As long as the city brings caps, it has a future.}
 {555}{}{I know well from my community how to tolerate violence against you. Therefore, I consider it my duty to stop the mainline workers.}
-{556}{}{That's how? Now it's clear where you got so much strength to fight. I really hope you will save your people from captivity. Take the reward, there are 500 caps here. And thank you. Your service is invaluable for the city.}
+{556}{}{That's how? Now it's clear where you have so much strength to fight. I really hope you will save your people from captivity. Take the reward, there are 500 caps here. Thank you. Your service is invaluable to the city.}
 {557}{}{Goodbye, Count Bustos.}
 {558}{}{That was the calculation. For a while, the raiders will weaken and start fighting with each other.}
-{559}{}{Great job. It's not a pity to pay all 500 caps for this. And thank you. Your service is invaluable for the city.}
+{559}{}{Great job. It's not a pity to pay all 500 caps for this. Thank you. Your service is invaluable to the city.}
 {560}{}{You're welcome, Count Bustos.}
 
 {569}{}{Your city is already suffering from robbers. So there will be fewer of them.}
 {570}{}{They say you caught one of the highway robbers?}
-{571}{}{It's true. We keep him locked up. First we need to get all the information about the gang out of him, and then we will publicly execute him.}
+{571}{}{It's true. We keep him locked up. First, we need to get all the information about the gang out of him, and then we will publicly execute him.}
 {572}{}{Are you sure he's a criminal?}
 {573}{}{Some residents identified him as a highway worker. I believe them. In addition, he was wearing road shields, highway workers often use them as armor during attacks.}
 {574}{}{Well, congratulations, Mayor. And I have to go.}
