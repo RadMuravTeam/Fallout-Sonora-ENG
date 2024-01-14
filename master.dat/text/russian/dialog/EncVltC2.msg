@@ -1,7 +1,7 @@
 {100}{}{You see Frank.}
-{101}{}{Here is a resident of the asylum. He looks pretty fresh and clean compared to any inhabitant of the wasteland.}
+{101}{}{You see a resident of the asylum. He looks pretty fresh and clean compared to any inhabitant of the wasteland.}
 
-{200}{}{P-please don't hit us! We are peaceful people and do not want problems.}
+{200}{}{P-please don't hurt us! We are peaceful people and do not want problems.}
 {201}{}{Why are you afraid of me? I didn't do anything wrong.}
 {1201}{}{Why are you afraid of me? I didn't do anything wrong.}
 {202}{}{Then stop bleating, it annoys me.}
@@ -38,7 +38,7 @@
 {241}{}{No problem.}
 {242}{}{Happily.}
 {243}{}{Anything else you want to say?}
-{244}{}{We don't have many useful things. Here, take this jumpsuit. He's a bit battered, but still copes well with the effects of the forces of nature.}
+{244}{}{We don't have many useful things. Here, take this jumpsuit. He's a bit battered but still copes well with the effects of the forces of nature.}
 {245}{}{We don't have many useful things. Here, take this camping flask. The caretaker said that she brought him good luck when he traveled through the desert. With her, he never ran out of water, even in the hottest and driest places.}
 {246}{}{And thanks for that.}
 {247}{}{Are you kidding? A pathetic flask for such a difficult job? Take off your jumpsuit, and hurry up!}

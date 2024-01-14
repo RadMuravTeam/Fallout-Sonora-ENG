@@ -1,4 +1,4 @@
-{100}{}{Here is a ranger.}
+{100}{}{You see a ranger.}
 {101}{}{You see a man in leather armor.}
 {102}{}{We have nothing more to talk about.}
 
@@ -39,7 +39,7 @@
 
 {240}{}{I know. I killed him.}
 {241}{}{But why? What's wrong with the tinker?}
-{242}{}{Scum like tinsmiths should be lying in the ground. They consider themselves gods, as if everything is allowed to them. They oppress the residents, take away the latest technologies from them and force them to work. Their power casts doubt on any hopes for justice in the lands of Southern Arizona. And their very existence, combined (contemptuously) with technology, is inhumane. As for me, this is quite enough.}
+{242}{}{Scum like tinsmiths should be lying in the ground. They consider themselves gods as if everything is allowed to them. They oppress the residents, take away the latest technologies from them, and force them to work. Their power casts doubt on any hopes for justice in the lands of Southern Arizona. And their very existence, combined (contemptuously) with technology, is inhumane. As for me, this is quite enough.}
 {243}{}{[Next]}
 {244}{}{And what attracted you so much to tinsmiths? Bribed by the ringing of rusty caps?}
 {245}{}{Maybe so. I'm a simple mercenary, I don't care about your Arizona and justice.}
