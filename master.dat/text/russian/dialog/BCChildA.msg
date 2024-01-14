@@ -1,7 +1,7 @@
 {101}{}{You see a tribal child with black and long hair.}
 
 {110}{}{And you're nothing for an outsider.}
-{111}{}{Tell me about your tribe?}
+{111}{}{Tell me about your tribe.}
 {112}{}{Is your tribe as big as ours?}
 {113}{}{Tell some story.}
 {114}{}{Shamans say you're a good person.}
