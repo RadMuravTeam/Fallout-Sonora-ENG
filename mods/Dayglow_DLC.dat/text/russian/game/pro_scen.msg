@@ -25,7 +25,7 @@
 {1300}{}{*Floor marking}
 {1301}{}{Auxiliary object for marking buildings.}
 {1400}{}{*Road marking}
-{1401}{}{Auxiliary object for marking paths, roads, and highways.}
+{1401}{}{Auxiliary object for marking paths, roads, highways.}
 {1500}{}{Tumbleweed}
 {1501}{}{It's a tumbleweed. Naturally, you've never seen a real tumbleweed before. Keep an eye on him.}
 {1600}{}{Shrub}
@@ -536,31 +536,31 @@
 {26801}{}{A big pile of rocks. If you look closely, you can see an old man's face in every pebble.}
 {26900}{}{Stones}
 {26901}{}{A big pile of rocks. They probably formed after the collapse.}
-{27000}{}{Rock wall}
+{27000}{}{The rock}
 {27001}{}{These mountain walls look completely impregnable.}
-{27100}{}{Rock wall}
+{27100}{}{The rock}
 {27101}{}{These mountain walls look completely impregnable.}
-{27200}{}{Rock wall}
+{27200}{}{The rock}
 {27201}{}{These mountain walls look completely impregnable.}
-{27300}{}{Rock wall}
+{27300}{}{The rock}
 {27301}{}{These mountain walls look completely impregnable.}
-{27400}{}{Rock wall}
+{27400}{}{The rock}
 {27401}{}{These mountain walls look completely impregnable.}
-{27500}{}{Rock wall}
+{27500}{}{The rock}
 {27501}{}{These mountain walls look completely impregnable.}
-{27600}{}{Rock wall}
+{27600}{}{The rock}
 {27601}{}{These mountain walls look completely impregnable.}
 {27700}{}{Cave vault}
 {27701}{}{It's damp and cold from the inside.}
 {27800}{}{Collapse}
 {27801}{}{A huge number of stones. So huge that you can't just move it.}
-{27900}{}{Rock wall}
+{27900}{}{The rock}
 {27901}{}{These mountain walls look completely impregnable.}
-{28000}{}{Rock wall}
+{28000}{}{The rock}
 {28001}{}{These mountain walls look completely impregnable.}
-{28100}{}{Rock wall}
+{28100}{}{The rock}
 {28101}{}{These mountain walls look completely impregnable.}
-{28200}{}{Rock wall}
+{28200}{}{The rock}
 {28201}{}{These mountain walls look completely impregnable.}
 {28300}{}{Rock}
 {28301}{}{These mountain walls look completely impregnable.}
@@ -614,26 +614,26 @@
 {30701}{}{In front of you is a cave wall. What a surprise.}
 {30800}{}{Cave wall}
 {30801}{}{In front of you is a cave wall. What a surprise.}
-{30900}{}{Rock wall}
+{30900}{}{The rock}
 {30901}{}{These mountain walls look completely impregnable.}
-{31000}{}{Rock wall}
+{31000}{}{The rock}
 {31001}{}{These mountain walls look completely impregnable.}
 {31100}{}{A hole in the ground}
 {31101}{}{This hole leads deep into the darkness. Only a suicide would go down there without a rope.}
 {31200}{}{A hole in the ground}
 {31201}{}{This hole leads deep into the darkness. A securely attached rope also descends there.}
 {31300}{}{Wooden beam}
-{31301}{}{This beam just barely keeps the cave from collapsing.}
+{31301}{}{This beam barely keeps the rock from collapsing.}
 {31400}{}{Wooden beam}
-{31401}{}{This beam just barely keeps the cave from collapsing.}
+{31401}{}{This beam barely keeps the rock from collapsing.}
 {31500}{}{Wooden beam}
-{31501}{}{This beam just barely keeps the cave from collapsing.}
+{31501}{}{This beam barely keeps the rock from collapsing.}
 {31600}{}{Wooden beam}
-{31601}{}{This beam just barely keeps the cave from collapsing.}
+{31601}{}{This beam barely keeps the rock from collapsing.}
 {31700}{}{Wooden beam}
-{31701}{}{This beam just barely keeps the cave from collapsing.}
+{31701}{}{This beam barely keeps the rock from collapsing.}
 {31800}{}{Wooden beam}
-{31801}{}{This beam just barely keeps the cave from collapsing.}
+{31801}{}{This beam barely keeps the rock from collapsing.}
 {31900}{}{Damaged wooden beam}
 {31901}{}{It seems that this beam will collapse at the slightest pressure.}
 {32000}{}{Elevator}
@@ -677,10 +677,10 @@
 {33900}{}{Stones}
 {33901}{}{If you had a shaft, you could make a tip out of these stones.}
 {34000}{}{Stones}
-{34001}{}{You have been admiring these stones for a long time. Finally, it seemed to you that they moved, but they didn't.}
+{34001}{}{You have been admiring these stones for a long time. Finally it seemed to you that they moved, but they didn't.}
 {34100}{}{Stones}
 {34101}{}{These stones are hardly worth looking at so closely.}
-{34200}{}{Well}
+{34200}{}{The well}
 {34201}{}{An ordinary well. Built a long time ago, but still in working condition.}
 {34300}{}{Toilet}
 {34301}{}{Rough, but doing its job toilet. A few leaves were thrown into the hole to make it stink less.}
@@ -775,26 +775,26 @@
 {40501}{}{There is a bolt in this gate that goes down and up.}
 {40600}{}{Gates}
 {40601}{}{There is a bolt in this gate that goes down and up.}
-{40700}{}{Caravan wagon}
+{40700}{}{The cart}
 {40701}{}{A caravan wagon, converted from the broken body of an ancient car.}
-{40800}{}{Caravan wagon}
+{40800}{}{The cart}
 {40801}{}{A caravan wagon converted from the broken body of an ancient car.}
-{40900}{}{Caravan wagon}
+{40900}{}{The cart}
 {40901}{}{A caravan wagon converted from the broken body of an ancient car.}
-{41000}{}{Caravan wagon}
+{41000}{}{The cart}
 {41001}{}{A caravan wagon converted from the broken body of an ancient car.}
-{41100}{}{Caravan wagon}
+{41100}{}{The cart}
 {41101}{}{A caravan wagon, converted from the broken body of an ancient car.}
-{41200}{}{Caravan wagon}
+{41200}{}{The cart}
 {41201}{}{A caravan wagon, converted from the broken body of an ancient car.}
-{41300}{}{Caravan wagon}
-{41301}{}{This ancient mode of transportation was powered solely by human effort.}
-{41400}{}{Caravan wagon}
-{41401}{}{This ancient mode of transportation was powered solely by human effort.}
-{41500}{}{Caravan wagon}
-{41501}{}{This ancient mode of transportation was powered solely by human effort.}
-{41600}{}{Caravan wagon}
-{41601}{}{This ancient mode of transportation was powered solely by human effort.}
+{41300}{}{The cart}
+{41301}{}{The transportation vehicle of the ancients, driven by human efforts.}
+{41400}{}{The cart}
+{41401}{}{The transportation vehicle of the ancients, driven by human efforts.}
+{41500}{}{The cart}
+{41501}{}{The transportation vehicle of the ancients, driven by human efforts.}
+{41600}{}{The cart}
+{41601}{}{The transportation vehicle of the ancients, driven by human efforts.}
 {41700}{}{Rails}
 {41701}{}{Just rails.}
 {41800}{}{Rails}
@@ -945,7 +945,7 @@
 {50001}{}{Standard automated Vault door.}
 {50100}{}{The door}
 {50101}{}{Standard automated Vault door.}
-{50200}{}{Broken door}
+{50200}{}{The broken door}
 {50201}{}{After the explosion, a large hole was left in this door.}
 {50300}{}{The broken door}
 {50301}{}{After the explosion, a large hole was left in this door.}
@@ -953,9 +953,9 @@
 {50401}{}{Standard automated Vault door.}
 {50500}{}{The door}
 {50501}{}{Standard automated Vault door.}
-{50600}{}{Broken door}
+{50600}{}{The broken door}
 {50601}{}{After the explosion, a large hole was left in this door.}
-{50700}{}{Broken door}
+{50700}{}{The broken door}
 {50701}{}{After the explosion, a large hole was left in this door.}
 {50800}{}{Glass}
 {50900}{}{Glass}
@@ -1514,7 +1514,7 @@
 {79401}{}{This staircase leads to the floor above, but the passage along it is blocked. You hardly need to go there at all.}
 {79500}{}{Stairs}
 {79501}{}{This staircase leads to the floor below.}
-{79600}{}{Altar}
+{79600}{}{The altar}
 {79601}{}{It seems like an ordinary altar. Except for the dull sound of kicking.}
 {79700}{}{Stairs}
 {79701}{}{This spiral staircase leads to the floor above.}
@@ -1685,37 +1685,37 @@
 {88101}{}{This window is completely boarded up.}
 {88200}{}{Boarded up window}
 {88201}{}{This window is completely boarded up.}
-{88300}{}{Door}
+{88300}{}{The door}
 {88301}{}{Artfully made wooden door in excellent condition.}
-{88400}{}{Door}
+{88400}{}{The door}
 {88401}{}{Artfully made wooden door in excellent condition.}
-{88500}{}{Door}
+{88500}{}{The door}
 {88501}{}{Artfully made wooden door in excellent condition.}
-{88600}{}{Door}
+{88600}{}{The door}
 {88601}{}{Artfully made wooden door in excellent condition.}
-{88700}{}{Door}
+{88700}{}{The door}
 {88701}{}{Artfully made wooden door in excellent condition.}
-{88800}{}{Door}
+{88800}{}{The door}
 {88801}{}{An unremarkable door.}
-{88900}{}{Door}
+{88900}{}{The door}
 {88901}{}{An unremarkable door.}
-{89000}{}{Door}
+{89000}{}{The door}
 {89001}{}{An unremarkable door.}
-{89100}{}{Door}
+{89100}{}{The door}
 {89101}{}{An unremarkable door.}
-{89200}{}{Door}
+{89200}{}{The door}
 {89201}{}{Close inspection shows that the door remains a door.}
-{89300}{}{Door}
+{89300}{}{The door}
 {89301}{}{Close inspection shows that the door remains a door.}
-{89400}{}{Door}
+{89400}{}{The door}
 {89401}{}{Close inspection shows that the door remains a door.}
-{89500}{}{Door}
+{89500}{}{The door}
 {89501}{}{Close inspection shows that the door remains a door.}
-{89600}{}{TDoor}
+{89600}{}{The door}
 {89601}{}{A door with a glass window. The glass is covered with dirt so much that nothing can be seen through it.}
-{89700}{}{Door}
+{89700}{}{The door}
 {89701}{}{A door with a glass window. The glass is covered with dirt so much that nothing can be seen through it.}
-{89800}{}{Door}
+{89800}{}{The door}
 {89801}{}{This door is reinforced with metal patterns. Quite in the rural spirit.}
 {89900}{}{Grid}
 {89901}{}{This powerful grid looks like it's quite in its place.}
@@ -1723,21 +1723,21 @@
 {90001}{}{This powerful grid looks like it's quite in its place.}
 {90100}{}{Armored door}
 {90101}{}{Very strong door. It will resist even an explosion.}
-{90200}{}{Gate}
+{90200}{}{The gate}
 {90201}{}{A gate remains a gate, no matter how much you look at it.}
-{90300}{}{Gate}
+{90300}{}{The gate}
 {90301}{}{A gate remains a gate, no matter how much you look at it.}
-{90400}{}{Door}
+{90400}{}{The door}
 {90401}{}{An old wooden door. Perhaps this is all that can be said about her.}
-{90500}{}{Door}
+{90500}{}{The door}
 {90501}{}{An old wooden door. Perhaps this is all that can be said about her.}
-{90600}{}{Door}
+{90600}{}{The door}
 {90601}{}{This door (here's a surprise) provides entrance and exit from this building.}
-{90700}{}{Door}
+{90700}{}{The door}
 {90701}{}{Wooden door. In relatively good condition.}
-{90800}{}{Door}
+{90800}{}{The door}
 {90801}{}{This door (here's a surprise) provides entrance and exit from this building.}
-{90900}{}{Door}
+{90900}{}{The door}
 {90901}{}{Wooden door. In relatively good condition.}
 {91000}{}{Wall lamp}
 {91001}{}{It looks like this lamp is still in working order.}
@@ -1895,21 +1895,21 @@
 {98601}{}{Very uncomfortable, judging by the appearance, a device for sitting, known as a "sofa".}
 {98700}{}{Sofa}
 {98701}{}{Very uncomfortable, judging by the appearance, a device for sitting, known as a "sofa".}
-{98800}{}{Stove}
+{98800}{}{Plate}
 {98801}{}{Functioning wood-fired stove.}
-{98900}{}{Stove}
+{98900}{}{Plate}
 {98901}{}{Functioning wood-fired stove.}
-{99000}{}{Stove}
+{99000}{}{Plate}
 {99001}{}{A functioning wood-fired stove.}
 {99100}{}{Plate}
 {99101}{}{Functioning wood-fired stove.}
-{99200}{}{Stove}
+{99200}{}{Plate}
 {99201}{}{Functioning wood-fired stove.}
-{99300}{}{Stove}
+{99300}{}{Plate}
 {99301}{}{Functioning wood-fired stove.}
-{99400}{}{Stove}
+{99400}{}{Plate}
 {99401}{}{Functioning wood-fired stove.}
-{99500}{}{Stove}
+{99500}{}{Plate}
 {99501}{}{Functioning wood-fired stove.}
 {99600}{}{Bath}
 {99601}{}{This tub is broken and covered with cracks.}
@@ -2003,7 +2003,7 @@
 {104001}{}{These wooden boxes are falling apart from the wind.}
 {104100}{}{Mailbox}
 {104101}{}{Wooden box. It doesn't seem to be in such a bad condition.}
-{104200}{}{Box}
+{104200}{}{Mailbox}
 {104201}{}{A simple wooden box. In fairly good condition.}
 {104300}{}{Mailbox}
 {104301}{}{This simple wooden box collapsed under its own weight.}
@@ -2035,21 +2035,21 @@
 {105601}{}{Old wooden pallets crumbling at a touch.}
 {105700}{}{Box on a pallet}
 {105701}{}{An old wooden pallet with a metal box. Inside the box is something like slag.}
-{105800}{}{Machine}
+{105800}{}{The machine}
 {105801}{}{This is some kind of production machine. You don't know anything more about him.}
-{105900}{}{Machine}
+{105900}{}{The machine}
 {105901}{}{This is some kind of production machine. You don't know anything more about him.}
-{106000}{}{Machine}
+{106000}{}{The machine}
 {106001}{}{This is some kind of production machine. You don't know anything more about him.}
-{106100}{}{Machine}
+{106100}{}{The machine}
 {106101}{}{This is some kind of production machine. You don't know anything more about him.}
-{106200}{}{Machine}
+{106200}{}{The machine}
 {106201}{}{This is some kind of production machine. You don't know anything more about him.}
-{106300}{}{Machine}
+{106300}{}{The machine}
 {106301}{}{A conveyor confidently moving from the machine to its final goal.}
-{106400}{}{Machine}
+{106400}{}{The machine}
 {106401}{}{A conveyor confidently moving from the machine to its final goal.}
-{106500}{}{Parts}
+{106500}{}{parts}
 {106501}{}{Some production parts.}
 {106600}{}{Barrel}
 {106601}{}{An old barrel made of steel.}
@@ -2169,7 +2169,7 @@
 {112301}{}{The sound of gurgling water comes from the sewer. And also a monstrous stench.}
 {112400}{}{The hatch}
 {112401}{}{Heavy rusty manhole.}
-{112500}{}{Hatch}
+{112500}{}{The hatch}
 {112501}{}{Heavy rusty manhole.}
 {112600}{}{Symbol}
 {112601}{}{It is a symbol of the Brotherhood of Steel. Looks spectacular.}
@@ -2247,10 +2247,10 @@
 {116201}{}{A strange tree infected with a parasite.}
 {116300}{}{Tree}
 {116301}{}{A strange tree infected with a parasite.}
-{116400}{}{Ladder}
-{116401}{}{An ordinary wooden ladder, slightly covered in mold due to dampness.}
+{116400}{}{Stairs}
+{116401}{}{An ordinary wooden staircase. From dampness a little covered with mold.}
 {116500}{}{Broken ladder}
-{116501}{}{This wooden ladder is completely dilapidated. It is impossible to climb up it.}
+{116501}{}{This wooden staircase is completely dilapidated. It is impossible to climb up it.}
 {116600}{}{Stairs}
 {116601}{}{This staircase leads to the town hall, but at the moment it is destroyed and littered with debris. You can't make them out.}
 {116700}{}{Stairs}
@@ -2270,7 +2270,7 @@
 {117400}{}{Body}
 {117401}{}{This is the corpse of one of your tribesmen.}
 {117500}{}{Symbol}
-{117501}{}There is a symbol drawn clumsily on the wall. It should be studied more carefully.}
+{117501}{}{A symbol clumsily drawn on the wall. It should be studied more carefully.}
 {117600}{}{Drilling machine}
 {117601}{}{Heavy robot equipped with drilling tools.}
 {117700}{}{Collapse}
@@ -2295,7 +2295,7 @@
 {118601}{}{Just rails.}
 {118700}{}{Poster}
 {118701}{}{Some old poster. A cursory inspection gives nothing.}
-{118800}{}{Caravan wagon}
+{118800}{}{The cart}
 {118801}{}{A caravan wagon prepared for the shipment of refined uranium ore.}
 {118900}{}{Radio equipment}
 {118901}{}{This radio equipment is damaged and cannot be repaired.}
@@ -2435,17 +2435,17 @@
 {125601}{}{This lamp contains a little oil. It can be set on fire to illuminate the space around.}
 {125700}{}{Oil lamp}
 {125701}{}{This lamp dimly illuminates the space around.}
-{125800}{}{Broken pot}
-{125801}{}{This beautiful pot was broken. Probably with malicious intent.}
+{125800}{}{The broken jug}
+{125801}{}{This beautiful jug was broken. Probably with malicious intent.}
 {125900}{}{Midwife's chair}
 {125901}{}{An old and repeatedly used birthing chair.}
-{126000}{}{Door}
+{126000}{}{The door}
 {126001}{}{Homemade wooden door. Made for ages.}
-{126100}{}{Door}
+{126100}{}{The door}
 {126101}{}{Homemade wooden door. Made for ages.}
-{126200}{}{Broken door}
+{126200}{}{The broken door}
 {126201}{}{This door was knocked out with some kind of weapon.}
-{126300}{}{Broken door}
+{126300}{}{The broken door}
 {126301}{}{This door was knocked out with some kind of weapon.}
 {126400}{}{Barrel}
 {126401}{}{Uranium material is stored in this barrel.}
@@ -2551,7 +2551,7 @@
 {131401}{}{Large homemade garage doors.}
 {131500}{}{Support}
 {131501}{}{Rusty metal poles supporting the advertising structure.}
-{131600}{}{Bandits body}
+{131600}{}{The body of the bandit}
 {131601}{}{The stiffened body of one of the bandits. We'll have to examine it more closely.}
 {131700}{}{Mailbox}
 {131701}{}{An overturned crate. They were obviously looking for something in it.}
@@ -2561,9 +2561,9 @@
 {131901}{}{An overturned crate. They were obviously looking for something in it.}
 {132000}{}{Mailbox}
 {132001}{}{An overturned crate. They were obviously looking for something in it.}
-{132100}{}{Caravan wagon}
+{132100}{}{The cart}
 {132101}{}{This caravan wagon was looted. There is nothing of value left here.}
-{132200}{}{Caravan wagon}
+{132200}{}{The cart}
 {132201}{}{This caravan wagon was looted. There is nothing of value left here.}
 {132300}{}{Mailbox}
 {132301}{}{An overturned crate. They were obviously looking for something in it.}
@@ -2695,31 +2695,31 @@
 {138601}{}{A durable container for storing and transporting various parts.}
 {138700}{}{Container}
 {138701}{}{A durable container for storing and transporting various parts.}
-{138800}{}{c}
+{138800}{}{The fighter}
 {138801}{}{Remains of a military aircraft.}
-{138900}{}{Fighter aircraft}
+{138900}{}{The fighter}
 {138901}{}{Remains of a military aircraft.}
-{139000}{}{Fighter aircraft}
+{139000}{}{The fighter}
 {139001}{}{Remains of a military aircraft.}
-{139100}{}{Fighter aircraft}
+{139100}{}{The fighter}
 {139101}{}{Remains of a military aircraft.}
-{139200}{}{Fighter aircraft}
+{139200}{}{The fighter}
 {139201}{}{Remains of a military aircraft.}
-{139300}{}{Fighter aircraft}
+{139300}{}{The fighter}
 {139301}{}{Remains of a military aircraft.}
-{139400}{}{Fighter aircraft}
+{139400}{}{The fighter}
 {139401}{}{Remains of a military aircraft.}
-{139500}{}{Fighter aircraft}
+{139500}{}{The fighter}
 {139501}{}{Remains of a military aircraft.}
-{139600}{}{Fighter aircraft}
+{139600}{}{The fighter}
 {139601}{}{Remains of a military aircraft.}
-{139700}{}{Fighter aircraft}
+{139700}{}{The fighter}
 {139701}{}{Remains of a military aircraft.}
-{139800}{}{Fighter aircraft}
+{139800}{}{The fighter}
 {139801}{}{Remains of a military aircraft.}
-{139900}{}{Fighter aircraft}
+{139900}{}{The fighter}
 {139901}{}{Remains of a military aircraft.}
-{140000}{}{Broken shovel}
+{140000}{}{A broken shovel}
 {140001}{}{Someone broke this old shovel.}
 {140100}{}{Minigun}
 {140101}{}{Old weapons dismantled from the bomber cabin.}
@@ -2749,15 +2749,15 @@
 {141301}{}{Homemade water storage tank. Simultaneously performs the role of a water tower.}
 {141400}{}{Road sign}
 {141401}{}{A very old pointer. However, it may still contain up-to-date information.}
-{141500}{}{Well}
+{141500}{}{The well}
 {141501}{}{A homemade well. The bottom is not visible.}
 {141600}{}{Cactus}
 {141601}{}{You don't see anything remarkable in this cactus except its gigantic size.}
-{141700}{}{Rock wall}
+{141700}{}{The rock}
 {141701}{}{These mountain walls look completely impregnable.}
-{141800}{}{Rock wall}
+{141800}{}{The rock}
 {141801}{}{These mountain walls look completely impregnable.}
-{141900}{}{Rock wall}
+{141900}{}{The rock}
 {141901}{}{These mountain walls look completely impregnable.}
 {142000}{}{Road sign}
 {142001}{}{This old rusted pointer dangerously sways in the wind.}
@@ -2773,7 +2773,7 @@
 {142501}{}{The shadow of the arch.}
 {142600}{}{Shadow}
 {142601}{}{The shadow of the arch.}
-{142700}{}{Raiders' belongings}
+{142700}{}{The raiders' belongings}
 {142701}{}{Various broken things left by the raiders.}
 {142800}{}{Canvas}
 {142801}{}{A piece of old moldy cloth.}
@@ -2841,12 +2841,12 @@
 {145901}{}{These bricks are stacked for transportation. But it seems that no one needs them now.}
 {146000}{}{Bricklaying}
 {146001}{}{These bricks are stacked for transportation. But it seems that no one needs them now.}
-{146100}{}{Cults banner}
-{146101}{}{This banner depicts a religious symbol.}
-{146200}{}{Cults banner}
-{146201}{}{This banner depicts a religious symbol.}
-{146300}{}{Cults banner}
-{146301}{}{This banner depicts a religious symbol.}
+{146100}{}{The banner of the cult}
+{146101}{}{This canvas depicts a religious symbol.}
+{146200}{}{The banner of the cult}
+{146201}{}{This canvas depicts a religious symbol.}
+{146300}{}{The banner of the cult}
+{146301}{}{This canvas depicts a religious symbol.}
 {146400}{}{Signboard}
 {146401}{}{This is the sign of the Sonora Express postal service.}
 {146500}{}{Signboard}
@@ -3019,55 +3019,55 @@
 {155500}{}{Tower}
 {155501}{}{Empty water tower.}
 {155600}{}{Wall}
-{155601}{}{Ancient factory wall}
+{155601}{}{The wall of an ancient factory.}
 {155700}{}{Wall}
-{155701}{}{Ancient factory wall}
+{155701}{}{The wall of an ancient factory.}
 {155800}{}{Wall}
-{155801}{}{Ancient factory wall}
+{155801}{}{The wall of an ancient factory.}
 {155900}{}{Wall}
-{155901}{}{Ancient factory wall}
+{155901}{}{The wall of an ancient factory.}
 {156000}{}{Wall}
-{156001}{}{Ancient factory wall}
+{156001}{}{The wall of an ancient factory.}
 {156100}{}{Wall}
-{156101}{}{Ancient factory wall}
+{156101}{}{The wall of an ancient factory.}
 {156200}{}{Wall}
-{156201}{}{Ancient factory wall}
+{156201}{}{The wall of an ancient factory.}
 {156300}{}{The door}
 {156301}{}{Heavy front door. They used to be able to do such things.}
 {156400}{}{Wall}
-{156401}{}{Ancient factory wall}
+{156401}{}{The wall of an ancient factory.}
 {156500}{}{Wall}
-{156501}{}{Wall of the surviving building.}
+{156501}{}{The wall of the surviving building.}
 {156600}{}{Wall}
-{156601}{}{Wall of the surviving building.}
+{156601}{}{The wall of the surviving building.}
 {156700}{}{Wall}
-{156701}{}{Wall of the surviving building.}
+{156701}{}{The wall of the surviving building.}
 {156800}{}{Wall}
-{156801}{}{Wall of the surviving building.}
+{156801}{}{The wall of the surviving building.}
 {156900}{}{Wall}
-{156901}{}{Wall of the surviving building.}
+{156901}{}{The wall of the surviving building.}
 {157000}{}{Wall}
-{157001}{}{Wall of the surviving building.}
+{157001}{}{The wall of the surviving building.}
 {157100}{}{Wall}
-{157101}{}{Wall of the surviving building.}
+{157101}{}{The wall of the surviving building.}
 {157200}{}{Wall}
-{157201}{}{Wall of the surviving building.}
+{157201}{}{The wall of the surviving building.}
 {157300}{}{Wall}
-{157301}{}{Wall of the surviving building.}
+{157301}{}{The wall of the surviving building.}
 {157400}{}{Wall}
-{157401}{}{Wall of the surviving building.}
+{157401}{}{The wall of the surviving building.}
 {157500}{}{Wall}
-{157501}{}{Wall of the surviving building.}
+{157501}{}{The wall of the surviving building.}
 {157600}{}{Wall}
-{157601}{}{Wall of the surviving building.}
+{157601}{}{The wall of the surviving building.}
 {157700}{}{Wall}
-{157701}{}{Wall of the surviving building.}
+{157701}{}{The wall of the surviving building.}
 {157800}{}{Wall}
-{157801}{}{Wall of the surviving building.}
+{157801}{}{The wall of the surviving building.}
 {157900}{}{Ventilation}
-{158000}{}{Machine}
+{158000}{}{The machine}
 {158001}{}{This huge machine includes many functions and tools.}
-{158100}{}{Machine}
+{158100}{}{The machine}
 {158101}{}{This huge machine includes many functions and tools.}
 {158200}{}{Remnants of the workbench}
 {158201}{}{A ruined workbench. Now it is impossible to produce anything with it.}
@@ -3104,15 +3104,15 @@
 {160001}{}{Old books of a bygone era.}
 {160100}{}{Books}
 {160101}{}{Old books of a bygone era.}
-{160200}{}{Altar}
+{160200}{}{The altar}
 {160201}{}{An ancient altar. Numerous wires stretch from it.}
-{160300}{}{Altar}
+{160300}{}{The altar}
 {160301}{}{An ancient altar. Numerous wires run from it.}
-{160400}{}{Altar}
+{160400}{}{The altar}
 {160401}{}{An ancient altar. Numerous wires stretch from it.}
-{160500}{}{Altar}
+{160500}{}{The altar}
 {160501}{}{An ancient altar. Numerous wires stretch from it.}
-{160600}{}{Altar}
+{160600}{}{The altar}
 {160601}{}{An ancient altar. Numerous wires stretch from it.}
 {160700}{}{Table}
 {160701}{}{Elegant antique table for people with high requirements. A luxurious armchair is attached.}
@@ -3258,9 +3258,9 @@
 {168601}{}{A semi-trailer from a truck for transporting liquids.}
 {168700}{}{Advertising sign}
 {168701}{}{This is an advertising sign of an old cafe.}
-{168800}{}{Cults banner}
+{168800}{}{The banner of the cult}
 {168801}{}{This canvas depicts a religious symbol.}
-{168900}{}{Cults banner}
+{168900}{}{The banner of the cult}
 {168901}{}{This canvas depicts a religious symbol.}
 {169000}{}{Crater}
 {169001}{}{This is a very deep hole in the ground. Dusty hot air rises from the bottom.}
@@ -3282,9 +3282,9 @@
 {169900}{}{Aqueduct Canal}
 {170000}{}{Aqueduct Canal}
 {170100}{}{Aqueduct Canal}
-{170200}{}{Door}
+{170200}{}{The door}
 {170201}{}{An old door with a metal grille.}
-{170300}{}{Door}
+{170300}{}{The door}
 {170301}{}{An old door with a metal grille.}
 {170400}{}{Collapse}
 {170401}{}{These blockages were formed by an earthquake after an explosion in the Cathedral.}
@@ -3839,8 +3839,8 @@
 {200201}{}{This support holds the roof.}
 {200300}{}{Advertising index}
 {200301}{}{This sign says: Space Age Restaurant.}
-{200400}{}{Wagon cart}
-{200401}{}{This wagon has been standing here quite recently. Everything of value has already been taken.}
+{200400}{}{The cart}
+{200401}{}{This wagon has been standing here quite recently. Everything of value has already been pulled out of it.}
 {200500}{}{Advertising index}
 {200501}{}{This sign says "Bates Motel."}
 {200600}{}{Advertising index}
@@ -3927,7 +3927,7 @@
 {204601}{}{This man was frozen alive.}
 {204700}{}{Icy figure}
 {204701}{}{This man was frozen alive.}
-{204800}{}{Wagon cart}
+{204800}{}{The cart}
 {204801}{}{A wagon with the baggage of nomads.}
 {204900}{}{Cactus}
 {204901}{}{An ordinary cactus.}
@@ -4210,7 +4210,7 @@
 {219901}{}{The main control panel of the Bonita power plant.}
 {220000}{}{Sign}
 {220001}{}{It says here: "Caution! High voltage".}
-{220100}{}{Rock wall}
+{220100}{}{The rock}
 {220101}{}{These mountain walls look completely impregnable.}
 {220200}{}{Power transformer}
 {220201}{}{Part of a transformer substation from which wires run everywhere.}
@@ -4238,13 +4238,13 @@
 {221501}{}{Rusty double-leaf door.}
 {221600}{}{Wooden bridge}
 {221601}{}{You're lucky someone threw some boards across the stream.}
-{221700}{}{Rock wall}
+{221700}{}{The rock}
 {221701}{}{These mountain walls look completely impregnable.}
 {221800}{}{Pipe}
 {221801}{}{It looks like a drain outlet.}
 {221900}{}{Pipe}
 {221901}{}{It looks like a drain outlet.}
-{222000}{}{Rock wall}
+{222000}{}{The rock}
 {222001}{}{These mountain walls look completely impregnable.}
 {222100}{}{Signboard}
 {222101}{}{This is the sign of the workshop and shop.}
@@ -4272,9 +4272,9 @@
 {224300}{}{Road sign}
 {224400}{}{Shadow}
 {224500}{}{Shadow}
-{224600}{}{Rock wall}
-{224700}{}{Rock wall}
-{224800}{}{Rock wall}
+{224600}{}{The rock}
+{224700}{}{The rock}
+{224800}{}{The rock}
 {224900}{}{Arch}
 {224901}{}{The letters "Chula Vista Center" have been preserved on this heavily rusted entrance arch.}
 {225000}{}{Arch}
