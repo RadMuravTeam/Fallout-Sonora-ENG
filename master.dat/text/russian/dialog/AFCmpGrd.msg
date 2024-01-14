@@ -1,5 +1,5 @@
-{100}{}{This is the security computer.}
-{101}{}{Here is a computer with access to the security system.}
+{100}{}{You see a security computer.}
+{101}{}{You see a computer with access to the security system.}
 
 #Dialog
 {200}{}{Access to the security system has been obtained. Enter the command.}
