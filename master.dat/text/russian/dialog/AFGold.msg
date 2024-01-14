@@ -1,4 +1,4 @@
-{100}{}{Here is Ruiz.}
+{100}{}{You see Ruiz.}
 {101}{}{You see a local. He is wearing a bandana and a light cape.}
 {102}{}{We meet near the treasure.}
 {103}{}{Better not try my patience.}
