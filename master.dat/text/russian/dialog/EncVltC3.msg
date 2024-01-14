@@ -1,5 +1,6 @@
 {100}{}{You see a resident of the asylum.}
 {101}{}{You see a local resident who looks unusually clean and freshly groomed.}
+
 {110}{}{Good afternoon... or night? What's going on outside?}
 {111}{}{Please don't hurt us, we are peaceful people!}
 {112}{}{We have been living in this Vault for a long time. Where did you come from?}
@@ -7,6 +8,7 @@
 {114}{}{How did you manage to get inside?}
 {115}{}{This is our home. We have nowhere else to go.}
 {116}{}{We won't survive in the desert. Please don't send us away!}
+
 {120}{}{Thank you, you are saving us from the terrible outside world!}
 {121}{}{Thank you for fixing the life support system}
 {122}{}{Ah, what fresh air in the Vault!}
