@@ -3,7 +3,7 @@
 
 {110}{}{Good afternoon... or night? What's going on outside?}
 {111}{}{Please don't hurt us, we are peaceful people!}
-{112}{}{We have been living in this Vault for a long time. And where did you come from?}
+{112}{}{We have been living in this Vault for a long time. Where did you come from?}
 {113}{}{The raiders have been trying to get in here for months.}
 {114}{}{How did you manage to get inside?}
 {115}{}{This is our home. We have nowhere else to go.}
@@ -13,7 +13,7 @@
 {121}{}{Thank you for fixing the life support system}
 {122}{}{Ah, what fresh air in the Vault!}
 {123}{}{If it wasn't for you, we would have had to leave the Vault.}
-{124}{}{You're a good person. Not like these raiders.}
+{124}{}{You're a good person. Unlike these raiders.}
 {125}{}{You know, the first overseer of the Vault was a man named Van Buren.}
 {126}{}{Thanks for the help.}
 {127}{}{We wouldn't have survived in the desert.}
