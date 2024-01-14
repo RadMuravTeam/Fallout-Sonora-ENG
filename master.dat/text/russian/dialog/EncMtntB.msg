@@ -1,5 +1,5 @@
 {100}{}{You see a super mutant.}
-{101}{}{Here is a huge super mutant.}
+{101}{}{You see a huge super mutant.}
 {102}{}{ }
 
 {120}{}{For the Creator!}
