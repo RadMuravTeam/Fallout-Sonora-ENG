@@ -1,4 +1,4 @@
-{100}{}{Here is Chatto.}
+{100}{}{You see Chatto.}
 {101}{}{You see a young man with a restless look.}
 {102}{}{Wow, is this one of those things they invent in the City? Amazing!}
 {103}{}{The old man is completely out of his mind!}
