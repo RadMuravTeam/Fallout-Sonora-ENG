@@ -1,5 +1,5 @@
-{100}{}{This is a security terminal.}
-{101}{}{Here is a terminal with access to a shared network.}
+{100}{}{You see a security terminal.}
+{101}{}{You see a terminal with access to a shared network.}
 
 #Dialog
 {200}{}{Enter the command.}
