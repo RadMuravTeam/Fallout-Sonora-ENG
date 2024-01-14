@@ -35,17 +35,17 @@
 {1701}{}{A container for storing things for all occasions.}
 ###------- THROWING WEAPONS
 {1800}{}{Stone}
-{1801}{}{This is an ordinary stone, similar to granite. However, its shape is quite convenient for combat use (strengthening the blow or throwing). Mines. power: 1.}
+{1801}{}{This is an ordinary stone, similar to granite. However, its shape is quite convenient for combat use (strengthening the blow or throwing). Min ST: 1.}
 {1900}{}{Throwing knife}
-{1901}{}{A knife of pre-war production, specially balanced for throwing. Made of titanium, with laser sharpening. Min. power: 2.}
+{1901}{}{A knife of pre-war production, specially balanced for throwing. Made of titanium, with laser sharpening. Min ST: 2.}
 {2000}{}{Fragmentation grenade}
-{2001}{}{An ordinary fragmentation grenade. Contains a small amount of high explosive. Most of the dangerous fragments are formed directly from the shell of the grenade. Mines. power: 3.}
+{2001}{}{An ordinary fragmentation grenade. Contains a small amount of high explosive. Most of the dangerous fragments are formed directly from the shell of the grenade. Min ST: 3.}
 {2100}{}{Plasma grenade}
-{2101}{}{A grenade in which plasma sealed with magnetic fields is sealed. Detonates with an explosive, provoking an explosion of superheated plasma. Mines. strength: 4.}
+{2101}{}{A grenade in which plasma sealed with magnetic fields is sealed. Detonates with an explosive, provoking an explosion of superheated plasma. Min ST: 4.}
 {2200}{}{Pulse grenade}
-{2201}{}{An electromagnetic pulse grenade that generates a powerful electromagnetic field during an explosion. Usually does not affect living beings. Min. power: 3.}
+{2201}{}{An electromagnetic pulse grenade that generates a powerful electromagnetic field during an explosion. Usually does not affect living beings. Min ST: 3.}
 {2300}{}{A nuclear grenade}
-{2301}{}{An improvised hand grenade assembled from a powerful nuclear projectile. In an explosion, it releases such an amount of energy that it can destroy a house. Min. power: 5.}
+{2301}{}{An improvised hand grenade assembled from a powerful nuclear projectile. In an explosion, it releases such an amount of energy that it can destroy a house. Min ST: 5.}
 ###------- AMMUNITION
 {2400}{}{Jumpsuit}
 {2401}{}{Cute tight-fitting jumpsuit from the Vault. This thing can be sold profitably on the market. Effects: +2 Reaction.}
@@ -109,9 +109,9 @@
 {5300}{}{Mentats}
 {5301}{}{Pills made of a chemical substance that expands consciousness. Improves brain functions related to memory, and also accelerates some mental processes. It can be addictive. Effects: +2 IN, +2 VS, +1 HR.}
 {5400}{}{Stealth combat}
-{5401}{}{Personal camouflage device "Invisible 3001" from the company Timidly. Generates a modulating field that transmits reflected light from one side of the object to the opposite. Effects : Stealth +20.}
+{5401}{}{Personal camouflage device "Invisible 3001" from the company Timidly. Generates a modulating field that transmits reflected light from one side of the object to the opposite. Effects: Stealth +20.}
 {5500}{}{Walkie-talkie}
-{5501}{}{The current walkie-talkie model 2043B from the wonderful company Watts Electronics. Reliable, durable and camouflaged.}
+{5501}{}{The current walkie-talkie model 2043B from the wonderful company Watts Electronics. Reliable, durable, and camouflaged.}
 {5600}{}{The Iguana Trap}
 {5601}{}{A homemade device for catching desert lizards.}
 {5700}{}{Breastplate}
@@ -159,13 +159,13 @@
 {7700}{}{Gas mask}
 {7701}{}{An old ruined gas mask of a civilian model. It may still serve you for some time.}
 {7800}{}{Tinker's Glasses}
-{7801}{}{Glasses with electronics made by Two-Sun tinsmiths. Equipped with a night vision device, interchangeable lenses and various sensors. The battery lasts for 10 minutes.}
+{7801}{}{Glasses with electronics made by Two-Sun tinsmiths. Equipped with a night vision device, interchangeable lenses, and various sensors. The battery lasts for 10 minutes.}
 {7900}{}{Flash}
-{7901}{}{This signal flash gives illumination for a short time. The paper is somewhat frayed, but otherwise everything is fine. To turn on, turn the top part.}
+{7901}{}{This signal flash gives illumination for a short time. The paper is somewhat frayed, but otherwise, everything is fine. To turn it on, turn the top part.}
 {8000}{}{!Book-reserve}
 {8001}{}{Do not use (First Aid, First Aid Book).}
 {8100}{}{Boots}
-{8101}{}{A pair of old but sturdy rubber boots. Judging by their appearance, they are able to withstand slush, at least for a while.}
+{8101}{}{A pair of old but sturdy rubber boots. Judging by their appearance, they can withstand slush, at least for a while.}
 {8200}{}{Shovel}
 {8201}{}{This is an ordinary shovel for digging the ground. Take care of her.}
 {8300}{}{Rope}
@@ -239,9 +239,9 @@
 {11700}{}{Ghoul Battle Armor}
 {11701}{}{Damaged combat armor. Some parts of it have been replaced with improvised items.}
 {11800}{}{Dixon Machine gun}
-{11801}{}{Machine gun designed for firing from the side of a sea vessel. Min. power: 7.}
+{11801}{}{Machine gun designed for firing from the side of a sea vessel. Min ST: 7.}
 {11900}{}{Shock Spear}
-{11901}{}{Homemade weapon that emits an electric current when in contact with the victim. Min. power: 3.}
+{11901}{}{Homemade weapon that emits an electric current when in contact with the victim. Min ST: 3.}
 ###------- ALCOHOL
 {12000}{}{Pre-war beer}
 {12001}{}{A can of pre-war beer. Local production. Effects: -1 SUN.}
@@ -257,137 +257,137 @@
 {12501}{}{A moonshine alcoholic drink from Phoenix of very dubious quality. There seems to be a little worm floating in the bottle. Effects: -1 SUN.}
 ###------- WEAPONS
 {12600}{}{Brass Knuckles}
-{12601}{}{Durable brass knuckles made of brass. Protects the hand and strengthens the blow in hand-to-hand combat. Min. power: 1.}
+{12601}{}{Durable brass knuckles made of brass. Protects the hand and strengthens the blow in hand-to-hand combat. Min ST: 1.}
 {12700}{}{Studded brass Knuckles}
-{12701}{}{One of the varieties of the classic brass knuckles. Deals more damage due to its spikes, which pierce the enemy's flesh during the strike. Min. power: 1.}
+{12701}{}{One of the varieties of the classic brass knuckles. Deals more damage due to its spikes, which pierce the enemy's flesh during the strike. Min ST: 1.}
 {12800}{}{Claws}
-{12801}{}{Homemade melee weapons. It consists of two old blades connected by bolts with an armband frame. Min. power: 1.}
+{12801}{}{Homemade melee weapons. It consists of two old blades connected by bolts with an armband frame. Min ST: 1.}
 {12900}{}{Pneumoculac}
-{12901}{}{Homemade mechanical brass knuckles. During the blow, it forcefully throws forward sharp spikes that pierce the victim's body. Min. power: 1.}
+{12901}{}{Homemade mechanical brass knuckles. During the blow, it forcefully throws forward sharp spikes that pierce the victim's body. Min ST: 1.}
 {13000}{}{Shock glove}
-{13001}{}{Modified police taser. Upon contact with the victim's body, this weapon transmits a powerful charge of electricity to him, and an old rubber glove protects the wearer from electric shock. Min. power: 1.}
+{13001}{}{Modified police taser. Upon contact with the victim's body, this weapon transmits a powerful charge of electricity to him, and an old rubber glove protects the wearer from electric shock. Min ST: 1.}
 {13100}{}{Power Fist}
-{13101}{}{Power brass knuckles "Big ram" produced by the company "BitKo". Most consider it the best weapon for hand-to-hand combat. The rest are just afraid of him. Min. power: 1.}
+{13101}{}{Power brass knuckles "Big ram" produced by the company "BitKo". Most consider it the best weapon for hand-to-hand combat. The rest are just afraid of him. Min ST: 1.}
 {13200}{}{Knife}
-{13201}{}{Sharp piercing and cutting weapons. Min. power: 1.}
+{13201}{}{Sharp piercing and cutting weapons. Min ST: 1.}
 {13300}{}{Combat Knife}
-{13301}{}{High-quality combat knife model "Stallona" manufactured by the corporation "Wit". Its blade is guaranteed to remain as sharp even after ten years of use! Mines. power: 1.}
+{13301}{}{High-quality combat knife model "Stallona" manufactured by the corporation "Wit". Its blade is guaranteed to remain as sharp even after ten years of use! Min ST: 1.}
 {13400}{}{Impact knife}
-{13401}{}{A large knife with a double-edged blade. Still surprisingly sharp. Min. power: 1.}
+{13401}{}{A large knife with a double-edged blade. Still surprisingly sharp. Min ST: 1.}
 {13500}{}{The Ripper}
-{13501}{}{Vibroknife brand "Ripper". Powered by a battery cell, the serrated blade easily tears the victim's flesh. Min. power: 1.}
+{13501}{}{Vibroknife brand "Ripper". Powered by a battery cell, the serrated blade easily tears the victim's flesh. Min ST: 1.}
 {13600}{}{Power screwdriver}
-{13601}{}{A working tool for cutting solid material. Breaks molecular bonds with powerful radiation. Powered by a battery on the belt. Min. power: 1.}
+{13601}{}{A working tool for cutting solid material. Breaks molecular bonds with powerful radiation. Powered by a battery on the belt. Min ST: 1.}
 {13700}{}{Spear}
-{13701}{}{Homemade pointed weapons. A blade from an old knife is impaled on a wooden shaft. Min. power: 4.}
+{13701}{}{Homemade pointed weapons. A blade from an old knife is impaled on a wooden shaft. Min ST: 4.}
 {13800}{}{Pneumocopier}
-{13801}{}{A peculiar invention of local engineers. Upon impact, the pneumatic system abruptly throws a sharp metal spike into the victim, and then with the help of a spring returns it to its place. Mines. power: 4.}
+{13801}{}{A peculiar invention of local engineers. Upon impact, the pneumatic system abruptly throws a sharp metal spike into the victim, and then with the help of a spring returns it to its place. Min ST: 4.}
 {13900}{}{Electrocopier}
-{13901}{}{An effective police tool for dispersing a crowd of troublemakers. It was repeatedly used even before the Great War. Min. power: 4.}
+{13901}{}{An effective police tool for dispersing a crowd of troublemakers. It was repeatedly used even before the Great War. Min ST: 4.}
 {14000}{}{ Baton}
-{14001}{}{Non-lethal melee weapons made of rubber and steel, previously used by law enforcement forces. Min. power: 3.}
+{14001}{}{Non-lethal melee weapons made of rubber and steel, previously used by law enforcement forces. Min ST: 3.}
 {14100}{}{Crowbar}
-{14101}{}{A durable heavy tool designed for dismantling structures. Or for a good blow to the head. Min. power: 3.}
+{14101}{}{A durable heavy tool designed for dismantling structures. Or for a good blow to the head. Min ST: 3.}
 {14200}{}{The chase}
-{14201}{}{Electric whip manufactured by Watts Electronics. The "Farmer's Best Friend" model. Power is provided by nuclear batteries. Min. power: 3.}
+{14201}{}{Electric whip manufactured by Watts Electronics. The "Farmer's Best Friend" model. Power is provided by nuclear batteries. Min ST: 3.}
 {14300}{}{Enhanced chase}
-{14301}{}{Electric whip manufactured by Watts Electronics. The "Farmer's Best Friend" model. Thanks to modifications, this instance has become much more powerful. Min. power: 3.}
+{14301}{}{Electric whip manufactured by Watts Electronics. The "Farmer's Best Friend" model. Thanks to modifications, this instance has become much more powerful. Min ST: 3.}
 {14400}{}{Superstimpack}
 {14401}{}{A powerful stimulant for emergency care. Briefly causes severe weakness due to the active chemicals in the composition of the drug, and after a while causes minor damage to blood vessels. Effects: +75 Health, -1 Strength.}
 {14500}{}{Sledgehammer}
-{14501}{}{A large hammer with a massive handle. A popular weapon among muscular types. Min. power: 6.}
+{14501}{}{A large hammer with a massive handle. A popular weapon among muscular types. Min ST: 6.}
 {14600}{}{Hammer}
-{14601}{}{Balanced lightweight hammer with increased maneuverability. And although they used to crush bricks with it, now there will be a more relevant use for it. Min. power: 5.}
+{14601}{}{Balanced lightweight hammer with increased maneuverability. And although they used to crush bricks with it, now there will be a more relevant use for it. Min ST: 5.}
 {14700}{}{Supercoach}
-{14701}{}{Weapons produced by the Brotherhood of Steel using the most modern technologies. Equipped with a kinetic energy storage device to enhance the impact. Mines. power: 5.}
+{14701}{}{Weapons produced by the Brotherhood of Steel using the most modern technologies. Equipped with a kinetic energy storage device to enhance the impact. Min ST: 5.}
 {14800}{}{An old revolver}
-{14801}{}{Ancient civilian weapons. Like all revolvers, it is valued for its simplicity and reliability. Min. power: 4.}
+{14801}{}{Ancient civilian weapons. Like all revolvers, it is valued for its simplicity and reliability. Min ST: 4.}
 {14900}{}{Police revolver}
-{14901}{}{A reliable revolver from S&W, popular at the time among police officers and highway patrolmen. Min. power: 4.}
+{14901}{}{A reliable revolver from S&W, popular at the time among police officers and highway patrolmen. Min ST: 4.}
 {15000}{}{Combat revolver}
-{15001}{}{A great revolver. A favorite weapon of collectors and pretentious types. It's yours now. Min. strength: 5.}
+{15001}{}{A great revolver. A favorite weapon of collectors and pretentious types. It's yours now. Min ST: 5.}
 {15100}{}{Rocket launcher}
-{15101}{}{A pistol for firing a flare. Although it is difficult to call it a weapon, at the right moment it is able to put the enemy to flight (especially in the presence of skillfully modified cartridges). Min. power: 3.}
+{15101}{}{A pistol for firing a flare. Although it is difficult to call it a weapon, at the right moment it is able to put the enemy to flight (especially in the presence of skillfully modified cartridges). Min ST: 3.}
 {15200}{}{Submachine gun .22}
-{15201}{}{Sports weapons of a bygone era. Now its main purpose is to shoot iguanas and scare away hooligans. Min. power: 3.}
+{15201}{}{Sports weapons of a bygone era. Now its main purpose is to shoot iguanas and scare away hooligans. Min ST: 3.}
 {15300}{}{10 mm pistol}
-{15301}{}{Self-loading pistol Colt 6520 caliber 10 mm. Each time you pull the trigger, the weapon automatically reloads until the magazine is empty. Min. power: 3.}
+{15301}{}{Self-loading pistol Colt 6520 caliber 10 mm. Each time you pull the trigger, the weapon automatically reloads until the magazine is empty. Min ST: 3.}
 {15400}{}{Submachine gun 10 mm}
-{15401}{}{H&K MP9 submachine gun, 10 mm caliber model. Compact weapon with the possibility of a single shot and firing bursts. Mines. power: 4.}
+{15401}{}{H&K MP9 submachine gun, 10 mm caliber model. Compact weapon with the possibility of a single shot and firing bursts. Min ST: 4.}
 {15500}{}{Mexican PP}
-{15501}{}{The HM-23 submachine gun, developed by Mendoza CA. It was adopted by the Mexican police and proved itself well during the border riots before the Great War. Min. power: 4.}
+{15501}{}{The HM-23 submachine gun, developed by Mendoza CA. It was adopted by the Mexican police and proved itself well during the border riots before the Great War. Min ST: 4.}
 {15600}{}{Gun.50}
-{15601}{}{SIG-Sauer automatic pistol. Requires special handling skills due to the huge force of the shot and the high noise level. Min. power: 5.}
+{15601}{}{SIG-Sauer automatic pistol. Requires special handling skills due to the huge force of the shot and the high noise level. Min ST: 5.}
 {15700}{}{Hunting rifle}
-{15701}{}{Colt Rangemaster semi-automatic rifle. Outdated, but reliable. Min. power: 5.}
+{15701}{}{Colt Rangemaster semi-automatic rifle. Outdated, but reliable. Min ST: 5.}
 {15800}{}{Combat rifle}
-{15801}{}{An American semi-automatic rifle of the AR series, formerly in service with the United States and Mexico. Convenient and reliable. Min. strength: 5.}
+{15801}{}{An American semi-automatic rifle of the AR series, formerly in service with the United States and Mexico. Convenient and reliable. Min ST: 5.}
 {15900}{}{Fire Bomb}
-{15901}{}{A bottle of flammable liquid. This is not often seen in the modern world. Min. power: 4.}
+{15901}{}{A bottle of flammable liquid. This is not often seen in the modern world. Min ST: 4.}
 {16000}{}{Sniper rifle}
-{16001}{}{DKS-501 rifle, converted to 0.308 caliber. Excellent long-range firearm. Min. power: 6.}
+{16001}{}{DKS-501 rifle, converted to 0.308 caliber. Excellent long-range firearm. Min ST: 6.}
 {16100}{}{Assault rifle}
-{16101}{}{AK-112 assault rifle. An old army model that went out of use around the time of the last war. Can produce single shots and fire a burst. Min. power: 5.}
+{16101}{}{AK-112 assault rifle. An old army model that went out of use around the time of the last war. Can produce single shots and fire a burst. Min ST: 5.}
 {16200}{}{Hand machine gun}
-{16201}{}{Mendoza C-2075 machine gun, 5 mm caliber model. After the aggravation of relations with the United States, Mexico resumed the development of its own weapons, and this is one of them. Min. power: 6.}
+{16201}{}{Mendoza C-2075 machine gun, 5 mm caliber model. After the aggravation of relations with the United States, Mexico resumed the development of its own weapons, and this is one of them. Min ST: 6.}
 {16300}{}{Minigun}
-{16301}{}{Portable minigun Rockwell CZ53. A multi-barrel machine gun firing 5 mm rounds at an incredible speed. Min. power: 8.}
+{16301}{}{Portable minigun Rockwell CZ53. A multi-barrel machine gun firing 5 mm rounds at an incredible speed. Min ST: 8.}
 {16400}{}{Shotgun}
-{16401}{}{Winchester Video Maker is a double-barreled shotgun of 12 caliber. Short-barreled, with a trimmed mahogany butt. Min. power: 6.}
+{16401}{}{Winchester Video Maker is a double-barreled shotgun of 12 caliber. Short-barreled, with a trimmed mahogany butt. Min ST: 6.}
 {16500}{}{Combat shotgun}
-{16501}{}{Combat shotgun Winchester "City Killer", in good condition. It comes with a "Desert War" sealant that increases the reliability of weapons. Min. power: 6.}
+{16501}{}{Combat shotgun Winchester "City Killer", in good condition. It comes with a "Desert War" sealant that increases the reliability of weapons. Min ST: 6.}
 {16600}{}{Assault shotgun}
-{16601}{}{Melee assault weapon. The "bullpup" design provides a small size and ease of handling. Min. power: 6.}
+{16601}{}{Melee assault weapon. The "bullpup" design provides a small size and ease of handling. Min ST: 6.}
 {16700}{}{Grenade launcher 40 mm}
-{16701}{}{Hand grenade launcher for 40 mm shells. Developed by the company "Rockwell". Min. power: 6.}
+{16701}{}{Hand grenade launcher for 40 mm shells. Developed by the company "Rockwell". Min ST: 6.}
 {16800}{}{Laser weapons}
-{16801}{}{Homemade weapons created from parts of an industrial robot. Emits a low-power laser beam at a short distance. Min. strength: 3.}
+{16801}{}{Homemade weapons created from parts of an industrial robot. Emits a low-power laser beam at a short distance. Min ST: 3.}
 {16900}{}{Laser gun}
 {16901}{}{Watts 1000 laser pistol, civilian model. Power is reduced compared to military and police models. Mines. strength: 3.}
 {17000}{}{Laser rifle}
-{17001}{}{Watts 2000 laser rifle. The use of crystals allows you to increase the power of weapons. Min. strength: 4.}
+{17001}{}{Watts 2000 laser rifle. The use of crystals allows you to increase the power of weapons. Min ST: 4.}
 {17100}{}{Plasma gun}
-{17101}{}{The Glock 86 plasma pistol developed by Gaston Glock's AI. Shoots a small charge of plasma heated to the limit. Mines. power: 3.}
+{17101}{}{The Glock 86 plasma pistol was developed by Gaston Glock's AI. Shoots a small charge of plasma heated to the limit. Min ST: 3.}
 {17200}{}{Plasma rifle}
-{17201}{}{The Winchester P94 plasma rifle is an energy weapon of the industrial era, firing plasma heated to the limit through a superconducting barrel. Min. power: 4.}
+{17201}{}{The Winchester P94 plasma rifle is an energy weapon of the industrial era, firing plasma heated to the limit through a superconducting barrel. Min ST: 4.}
 {17300}{}{Emitter}
-{17301}{}{A unique weapon based on ultra-high-frequency radiation. Some parts are borrowed from industrial machinery. Min. power: 4.}
+{17301}{}{A unique weapon based on ultra-high-frequency radiation. Some parts are borrowed from industrial machinery. Min ST: 4.}
 {17400}{}{Koa}
-{17401}{}{Professional tool for cutting and processing fire agave. Made quite recently. Mines. power: 4.}
+{17401}{}{Professional tool for cutting and processing fire agave. Made quite recently. Min ST: 4.}
 {17500}{}{Pugach}
-{17501}{}{A homemade pistol with a camera for one cartridge. Oddly enough, they can cause a serious wound to the enemy if it does not explode in the hands before. Min. power: 3.}
+{17501}{}{A homemade pistol with a camera for one cartridge. Oddly enough, they can cause a serious wound to the enemy if it does not explode in the hands before. Min ST: 3.}
 {17600}{}{Hunting rifle}
-{17601}{}{Semi-automatic Colt Rangemaster rifle equipped with a 10x sniper scope. Min. power: 5.}
+{17601}{}{Semi-automatic Colt Rangemaster rifle equipped with a 10x sniper scope. Min ST: 5.}
 {17700}{}{Submachine gun .22}
-{17701}{}{Sports weapons of a bygone era. Now its main purpose is to shoot iguanas and scare away hooligans. Min. power: 3.}
+{17701}{}{Sports weapons of a bygone era. Now its main purpose is to shoot iguanas and scare away hooligans. Min ST: 3.}
 {17800}{}{Grenade launcher 40 mm}
-{17801}{}{Hand grenade launcher for 40 mm shells. Developed by the company "Rockwell". Min. power: 6.}
+{17801}{}{Hand grenade launcher for 40 mm shells. Developed by the company "Rockwell". Min ST: 6.}
 {17900}{}{Winchester}
-{17901}{}{A 2073 Winchester rifle with a lever-action platoon and a tubular magazine. One of the latest models. Min. power: 5.}
+{17901}{}{A 2073 Winchester rifle with a lever-action platoon and a tubular magazine. One of the latest models. Min ST: 5.}
 {18000}{}{Mop}
-{18001}{}{It's a rope mop. She is. Mines. power: 1.}
+{18001}{}{It's a rope mop. She is. Min ST: 1.}
 {18100}{}{Pistol .22}
-{18101}{}{A simple and very reliable small-caliber pistol. Developed by the Mexican company "Armas Trejo". Min. power: 2.}
+{18101}{}{A simple and very reliable small-caliber pistol. Developed by the Mexican company "Armas Trejo". Min ST: 2.}
 {18200}{}{Assault rifle}
-{18201}{}{AK-112 assault rifle. An old army model that went out of use around the time of the last war. Equipped with a fairly roomy store. Min. power: 6.}
+{18201}{}{AK-112 assault rifle. An old army model that went out of use around the time of the last war. Equipped with a fairly roomy store. Min ST: 6.}
 {18300}{}{Rail gun}
-{18301}{}{This weapon uses the power of electromagnetism to shoot metal objects. Mines. power: 7.}
+{18301}{}{This weapon uses the power of electromagnetism to shoot metal objects. Min ST: 7.}
 {18400}{}{Flamethrower}
-{18401}{}{Flamethrower model Torch-450. Shoots short jets of burning fuel. Min. power: 6.}
+{18401}{}{Flamethrower model Torch-450. Shoots short jets of burning fuel. Min ST: 6.}
 {18500}{}{Flamethrower fuel}
 {18501}{}{A container with flammable liquid fuel.}
 {18600}{}{Tehada Machine Gun}
-{18601}{}{You carefully inspect this old weapon, then with a cry of "Viva Tejada!" you rush into the attack. Min. power: 6.}
+{18601}{}{You carefully inspect this old weapon, then with a cry of "Viva Tejada!" you rush into the attack. Min ST: 6.}
 {18700}{}{Blaster}
-{18701}{}{This weapon looks like something out of an old science fiction movie. Shoots a beam of particles accelerated to near-light speeds. Min. power: 3.}
+{18701}{}{This weapon looks like something out of an old science fiction movie. Shoots a beam of particles accelerated to near-light speeds. Min ST: 3.}
 {18800}{}{Gatling laser}
-{18801}{}{Gatling laser H&K L30. At the beginning of the war, it was a prototype. Thanks to several barrels, overheating can be avoided for some time. The power supply is carried out with the help of nuclear microreactors. Min. power: 7.}
+{18801}{}{Gatling laser H&K L30. At the beginning of the war, it was a prototype. Thanks to several barrels, overheating can be avoided for some time. The power supply is carried out with the help of nuclear microreactors. Min ST: 7.}
 {18900}{}{Turret gun}
 {18901}{}{Twin plasma cannon for the turret.}
 {19000}{}{Battle axe}
-{19001}{}{An old camp hatchet. Can be used in combat. Min. power: 3.}
+{19001}{}{An old camp hatchet. Can be used in combat. Min ST: 3.}
 {19100}{}{Turboplasma rifle}
-{19101}{}{The Winchester P94 plasma rifle is an energy weapon of the industrial era, firing plasma heated to the limit. Thanks to the modernization, heating is faster. Min. power: 4.}
+{19101}{}{The Winchester P94 plasma rifle is an energy weapon of the industrial era, firing plasma heated to the limit. Thanks to the modernization, heating is faster. Min ST: 4.}
 ###------- CONTAINERS
 {19200}{}{Army Box}
 {19201}{}{Shock-resistant metal ammunition box.}
@@ -416,7 +416,7 @@
 {20400}{}{Mailbox}
 {20401}{}{A built-up wooden box. To look inside, you will have to disassemble the boards.}
 {20500}{}{Flash}
-{20501}{}{This signal flash gives illumination for a short time. The paper is somewhat frayed, but otherwise everything is fine.}
+{20501}{}{This signal flash gives illumination for a short time. The paper is somewhat frayed, but otherwise, everything is fine.}
 {20600}{}{!Do not use}
 {20601}{}{In the original - Dynamite.}
 {20700}{}{Geiger Counter}
@@ -447,13 +447,13 @@
 {21901}{}{A caravan wagon converted from the body of an ancient car.}
 {22000}{}{The cart}
 {22001}{}{A caravan wagon converted from the body of an ancient car.}
-{22100}{}{Jug}
-{22101}{}{A large jug for storing crops or water.}
+{22100}{}{Pot}
+{22101}{}{A large pot for storing crops or water.}
 {22200}{}{Potty}
 {22201}{}{An artfully made clay pot.}
 {22300}{}{Potty}
 {22301}{}{An artfully made clay pot.}
-{22400}{}{Mailbox}
+{22400}{}{Box}
 {22401}{}{A wooden box filled with various things.}
 {22500}{}{Things}
 {22501}{}{A variety of objects that can be called in one word "things".}
@@ -863,7 +863,7 @@
 {42700}{}{Hangar key}
 {42701}{}{This key opens the gates of the hangar on the plantations of the Villa.}
 {42800}{}{Family heirlooms}
-{42801}{}{A blue jumpsuit, an armband computer and a hiking flask. These things were passed down in your dynasty from generation to generation and have now rightfully passed to you.}
+{42801}{}{A blue jumpsuit, an armband computer and a hiking flask. These things were passed down in your family from generation to generation and are now rightfully passed on to you.}
 {42900}{}{Monster Skull}
 {42901}{}{The head of a monster. Even in dead form, this object looks terrifying.}
 {43000}{}{Motorcycle key}
@@ -915,7 +915,7 @@
 {45300}{}{Crystal Watts 3000}
 {45301}{}{High-precision artificial crystal for a military-grade laser pistol.}
 {45400}{}{Laser gun}
-{45401}{}{Watts 1000 laser pistol, upgraded civilian model. The power has been increased to the level of military models thanks to a high-precision crystal. Min. power: 3.}
+{45401}{}{Watts 1000 laser pistol, upgraded civilian model. The power has been increased to the level of military models thanks to a high-precision crystal. Min ST: 3.}
 {45500}{}{Trunk}
 {45501}{}{An old crate tied to the frame of the bike. Suitable for storing and transporting small items.}
 {45600}{}{Bike bags}
@@ -973,9 +973,9 @@
 {48200}{}{Coronado Security Codes}
 {48201}{}{Security codes at the Coronado Military Base. They are used by radio communication. An indispensable thing in the current realities.}
 {48300}{}{Enhanced Shock Spear}
-{48301}{}{Homemade weapon that emits an electric current when in contact with the victim. Min. strength: 3.}
+{48301}{}{Homemade weapon that emits an electric current when in contact with the victim. Min ST: 3.}
 {48400}{}{Taser}
-{48401}{}{A police taser. Hits the target with electricity. Min. power: 4.}
+{48401}{}{A police taser. Hits the target with electricity. Min ST: 4.}
 {48500}{}{Admin Program}
 {48501}{}{There is a software module written on the disk for Mr. Handy. With it, the robot will perform the functions of a hotel administrator.}
 {48600}{}{"Deep throat"}
