@@ -1,4 +1,4 @@
-{100}{}{Here is a merchant.}
+{100}{}{You see a merchant.}
 {101}{}{You see the caravan manager.}
 {102}{}{I've heard of such armor, but I thought it was fiction.}
 
@@ -14,7 +14,7 @@
 {220}{}{Tell me about this place.}
 {221}{}{Casa Grande is the only oasis on the way from Tu San to Phoenix. Many caravans stop here to rest on the way and get clean water. Otherwise, the city has nothing to offer the traveler.}
 {222}{}{Why is this city so poor?}
-{223}{}{Honestly? I have no idea. The locals earn a lot of caps from us, the caravaneers. But they can't afford basic things themselves. Partly because of the highway robbers who are ruining the highway, but this is clearly not all the reasons.}
+{223}{}{Honestly? I have no idea. The locals earn a lot of caps from us, the caravaneers. But they can't afford basic things themselves. Partly because of the highway robbers who are ruining the highway, but this is clearly not all of the reasons for it.}
 {224}{}{It's noticeable. The city is more like a garbage dump.}
 {225}{}{Don't treat the locals like that. They are just trying to survive in these difficult conditions.}
 {226}{}{I would like to know more.}
