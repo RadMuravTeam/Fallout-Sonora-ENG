@@ -122,8 +122,8 @@
 {217}{}{}
 {218}{}{}
 {219}{}{}
-{220}{}{It seems that you accidentally got on someone's holiday.}
-{221}{}{Here is an ancient monument. It looks like it has been standing here for many decades and even more.}
+{220}{}{It seems that you accidentally stumbled upon a festival.}
+{221}{}{You come across an ancient monument that seems to have stood the test of time for many decades if not even more.}
 {222}{}{In front of you is an ancient cemetery. So ancient that it is completely overgrown with desert plants.}
 {223}{}{}
 {224}{}{}
