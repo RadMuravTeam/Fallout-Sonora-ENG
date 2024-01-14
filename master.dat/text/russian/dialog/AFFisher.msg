@@ -1,4 +1,4 @@
-{100}{}{Here is a villager.}
+{100}{}{You see a villager.}
 {101}{}{You see a fisherman with dark skin.}
 
 {110}{}{Hello.}
