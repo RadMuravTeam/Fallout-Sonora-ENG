@@ -1,4 +1,4 @@
-{100}{}{Here is a cyberpsih.}
+{100}{}{You see a cyberpsych.}
 {101}{}{You see a distraught tinker whose mind has been taken over by technology.}
 
 {110}{}{How my head hurts!}

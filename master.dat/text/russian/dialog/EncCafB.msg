@@ -1,5 +1,5 @@
 {100}{}{You see a settler.}
-{101}{}{Here is one of the residents of the cafe.}
+{101}{}{You see of the residents of the cafe.}
 {102}{}{Get out!}
 
 {110}{}{Are you leaving already?}
@@ -11,7 +11,7 @@
 {116}{}{We always welcome travelers.}
 {117}{}{Do you want to relax a little?}
 {118}{}{I can do a relaxing massage.}
-{119}{}{You look like this... attractive.}
+{119}{}{You look... attractive.}
 {120}{}{Surely you're thirsty from the road.}
 {121}{}{Oh, we always welcome new faces}
 {122}{}{Come on, sit down, put all this nonsense aside.}

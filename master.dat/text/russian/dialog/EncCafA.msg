@@ -1,5 +1,5 @@
 {100}{}{You see a settler.}
-{101}{}{Here is one of the residents of the cafe.}
+{101}{}{You see one of the residents of the cafe.}
 {102}{}{Leave before I change my mind.}
 {103}{}{Ugh, this family definitely has something to hide.}
 {104}{}{He looks delicious. Honey, cut off my thigh.}
@@ -17,9 +17,9 @@
 {212}{}{Can I look around here?}
 {213}{}{Sure. But don't go into the back room. This is our private property.}
 {214}{}{Of course, no problem.}
-{215}{}{Sounds like something not very good. I will keep in mind.}
+{215}{}{Sounds like something not very good. I will keep that in mind.}
 {216}{}{How do you survive in the middle of a scorched desert?}
-{217}{}{If you want to live, you'll find ways. We feed on lizards, scorpions and all sorts of small animals. We collect water from the night condensate. It happens that rare travelers leave some things like cartridges. This is quite enough for us in such a modest company.}
+{217}{}{If you want to live, you'll find ways. We feed on lizards, scorpions, and all sorts of small animals. We collect water from the night condensate. It happens that rare travelers leave some things like cartridges. This is quite enough for us in such a modest company.}
 {218}{}{Do you live here alone?}
 {219}{}{Well yes. Our parents used to live with us, but the wasteland took them away from us. Occasionally travelers and caravaneers stop here.}
 {220}{}{You know, it's hard to find genuine friendliness nowadays.}
@@ -40,7 +40,7 @@
 {251}{}{Remember when I said I didn't believe in pleasantries on the wastelands? And it was not in vain.}
 {1251}{}{Remember when I said I didn't believe in pleasantries on the wastelands? And it was not in vain.}
 {252}{}{What do you understand? We live in the middle of the desert, where there is nothing - no crops, no animals, no settlements. Rare travelers are the only way to survive in such difficult conditions.}
-{253}{}{So why not get out of this hell? Somewhere in the distance there are whole cities...}
+{253}{}{So why not get out of this hell? Somewhere in the distance, there are whole cities...}
 {254}{}{Nonsense! You all tell these stories, but they are all different. I don't trust outsiders anymore. To leave this cafe, where you have lived all your life, for the sake of dubious stories is certain death. And we want to live.}
 {255}{}{So you're just a fool.}
 {256}{}{Yes... perhaps. But this fool has outsmarted the stranger for the hundredth time. And he will survive. But you don't.}
@@ -55,5 +55,5 @@
 {264}{}{Hmm... It's strange that outsiders talk about cities so often. Maybe it's true... Do you know where we can go? Show me. I want to know.}
 {265}{}{OK, but after that you'll let me go. Okay?}
 {266}{}{To hell with it. People like you have no place in a civilized society.}
-{267}{}{Eh? Who is it we have here? It's a thief. I've been told that thieves have their hands cut off in cities. I'll do the same. It's going to be very, very painful.}
+{267}{}{Eh? Who is it we have here? A thief. I've been told that thieves have their hands cut off in cities. I'll do the same. It's going to be very, very painful.}
 {268}{}{Go to hell, you filthy cannibal.}
