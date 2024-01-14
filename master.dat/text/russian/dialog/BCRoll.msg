@@ -1,4 +1,4 @@
-{100}{}{Here is a nomad.}
+{100}{}{You see a nomad.}
 {101}{}{You see a man with long black hair.}
 {102}{}{Oh, these mushrooms turned out to be more powerful than I thought...}
 
@@ -10,7 +10,7 @@
 {203}{}{Keep pretending you don't understand. I don't need anything from you anyway. But time flows like sand between your fingers. I have to hurry.}
 {204}{}{Where are you in a hurry?}
 {205}{}{My family is preparing to go out into the desert. We should be in time for the start of the dust storm season. And I still can't fix this cart.}
-{206}{}{Is this really such a problem?}
+{206}{}{Is this that much of a problem?}
 {207}{}{Previously, we could exchange parts or ask for one of your palefaces. But now you are waging a war against us. No one will fix the cart except me. And I can't do it.}
 {208}{}{I can.}
 {209}{}{I don't need anything from outsiders.}
@@ -19,7 +19,7 @@
 {212}{}{No problems. You can rely on me.}
 {213}{}{Nothing at all? Well, then I won't be in a hurry.}
 {214}{}{I'll fix the cart, but not for nothing. The parts are worth the caps, you know.}
-{215}{}{It seems that all the palefaces are obsessed with the sound of all sorts of garbage. I don't have anything like that. But if you really fix the cart, I'll give you dried meat.}
+{215}{}{It seems that all the palefaces are obsessed with the sound of all sorts of garbage. I don't have anything like that. But if you would fix the cart, I'll give you dried meat.}
 {216}{}{I will think about this proposal.}
 {217}{}{Surely you will slip me bad meat. Do the cart yourself.}
 
@@ -50,7 +50,7 @@
 {255}{}{I see.}
 
 {260}{}{How do you feel about an alliance with outsiders?}
-{261}{}{If you chase two mole rats, you'll tear your pants. You can't look both west and east at the same time.}
+{261}{}{If you chase two mole-rats, you'll tear your pants. You can't look both west and east at the same time.}
 {262}{}{I think I know what you mean.}
 {263}{}{We must remain ourselves as long as we have enough strength. And if there are not enough forces, then we will no longer decide with whom to make alliances. Whoever is stronger will become a shepherd for us.}
 {264}{}{Sorry for such a painful question.}
