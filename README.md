@@ -1,3 +1,5 @@
+DONT INSTALL THE TRANSLATION FROM CODE->DOWNLOAD IT’S FOR DEV USE. INSTRUCTIONS ARE BELOW
+
 RadMurav Team presents Fallout Sonora’s Extended Release translation to English
 
 Originally powered by Yandex, it now boasts over 50% (thank you Georg) of its files hand-translated, and the remaning ones are being improved  all the time.
