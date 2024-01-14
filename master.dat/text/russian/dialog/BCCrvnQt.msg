@@ -1,6 +1,6 @@
 {100}{}{In front of you is Sid.}
 {101}{}{You see a business-looking man in hiking clothes.}
-{102}{}{It was a great luck to meet you. Thanks for the help on the road.}
+{102}{}{It was great luck to meet you. Thanks for the help on the road.}
 {103}{}{The path is clear.}
 {104}{}{There is no one else to pay for the protection of the caravan.}
 {105}{}{Vile traitor!}
@@ -41,7 +41,7 @@
 {254}{}{The way is clear. Is everyone okay? Then let's move on.}
 {255}{}{Give me another minute and we can move out.}
 {256}{}{OK, I can go.}
-{257}{}{Damn it! We have no Brahmins left. We'll have to dump some of the cargo, and carry the rest manually. It looks like I won't earn anything from this trip. Or even go into the negative.}
+{257}{}{Damn it! We have no Brahmins left. We'll have to dump some of the cargo and carry the rest manually. It looks like I won't earn anything from this trip. Or even go into the negative.}
 {258}{}{But WE stayed alive. Let's move on.}
 {259}{}{Wait a bit, I need to get ready for the road.}
 
@@ -51,7 +51,7 @@
 {263}{}{ caps for the job. And I probably won't return to San Brahmin for another couple of years until the dust settles there. Well, you know.}
 {264}{}{Listen, maybe we'll scout the way?}
 {265}{}{We're going too slow. We don't have enough reserves and patience. We need to hurry up.}
-{266}{}{Listen, let's scout the ruins ahead? We will spend more time, but we are more likely to survive.}
+{266}{}{Listen, let's scout the ruins ahead. We will spend more time, but we are more likely to survive.}
 {267}{}{I was hoping to get to town by sunset, but you're saying the right thing. Go ahead, and we'll catch up later.}
 {268}{}{That's what we'll do.}
 {269}{}{No, I can't go anywhere yet.}
