@@ -1,4 +1,4 @@
-{100}{}{This is George Crook.}
+{100}{}{You see George Crook.}
 {101}{}{You see a man with a gorgeous mustache and a determined look.}
 {102}{}{Right. Now go and kill all the savages. You understand orders, don't you, robot?}
 {103}{}{Take care of yourself. Maybe we'll meet again.}
@@ -19,7 +19,7 @@
 {208}{}{I will not leave without answers to questions.}
 {209}{}{Aaron sent me to help. Here is the order and the seal.}
 {210}{}{My village is deserted. So I'm going wherever my eyes look.}
-{211}{}{And that's right, baby. Go to Phoenix. There is nothing to do in the desert, and in a big city there will be many opportunities for you. Just don't mix up the road. If you know what I mean.}
+{211}{}{And that's right, baby. Go to Phoenix. There is nothing to do in the desert, and in a big city, there will be many opportunities for you. Just don't mix up the road. If you know what I mean.}
 {212}{}{Yes, I understand.}
 {213}{}{Great. For now, I will assume that we are on the same side.}
 {214}{}{Okay. What's going on here?}
@@ -40,7 +40,7 @@
 {229}{}{I don't care about your squad.}
 
 {230}{}{I represent the Rangers. We have heard rumors that someone is trying to break the tribe of cattle breeders.}
-{231}{}{We are just peaceful colonizers. They came to an empty land to establish a settlement here. Are we doing something bad?}
+{231}{}{We are just peaceful colonizers. We came to this empty land to establish a settlement here. Are we doing something bad?}
 {232}{}{You're trying to drive the tribe away.}
 {233}{}{I'll tell you what. Listen carefully, Ranger henchman. These lands don't belong to you. And they don't belong to savages either. Aaron of Phoenix owns this whole valley. Get back to your people. And don't you dare get in our way.}
 {234}{}{You've said enough. I don't need more.}
@@ -111,9 +111,9 @@
 {327}{}{Where did you all come from?}
 {328}{}{We came from Phoenix to establish a colony here. But this place has already been occupied by savages.}
 {329}{}{And where is this Phoenix?}
-{330}{}{The city is southeast of here. But it's strange that you don't know that. It seems to be the largest city for miles around.}
+{330}{}{The city is southeast of here. It's strange that you don't know that. It seems to be the largest city for miles around.}
 {331}{}{I don't know. I'm actually from a village in the opposite direction.}
-{332}{}{Then it's clear. These are Ranger lands. It is not surprising that there are only villages in your area and no civilization. Take a look at Phoenix, see what a normal city is.}
+{332}{}{Then it's clear. These are Ranger lands. It is not surprising that there are only villages in your area and no civilization. Take a look at Phoenix and see what a normal city is.}
 {333}{}{I'll do that. Thanks for the advice.}
 {334}{}{I don't care about this "civilization" of yours.}
 {335}{}{Tell me about the tribe.}
