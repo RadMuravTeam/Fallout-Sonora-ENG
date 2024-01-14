@@ -1,4 +1,4 @@
-{100}{}{Here is Geronimo.}
+{100}{}{You see Geronimo.}
 {101}{}{You see an old man in a national outfit made of brahmin skin.}
 {102}{}{Protect me, Brahmin of Salvation! May the joints of this golem fall apart!}
 {103}{}{Oh, Dark Brahmin... Why are you looking at me so intently?}
@@ -13,13 +13,13 @@
 {204}{}{We, too, suffer from slavers and white-skinned missionaries from Phoenix. They coveted our herds and lands. Hard times are coming, peasant from the Villa.}
 {1204}{}{We, too, suffer from slavers and white-skinned missionaries from Phoenix. They coveted our herds and lands. Hard times are coming, peasant woman from the Villa.}
 {205}{}{Or maybe you grabbed them, how do I know?}
-{206}{}{Don't talk nonsense! We ourselves suffer from slavers and white-skinned missionaries from Phoenix. They coveted our herds and lands. Hard times are coming, peasant from the Villa.}
-{1206}{}{Don't talk nonsense! We ourselves suffer from slavers and white-skinned missionaries from Phoenix. They coveted our herds and lands. Hard times are coming, peasant woman from the Villa.}
+{206}{}{Don't talk nonsense! We suffer from slavers and white-skinned missionaries from Phoenix. They coveted our herds and lands. Hard times are coming, peasant from the Villa.}
+{1206}{}{Don't talk nonsense! We suffer from slavers and white-skinned missionaries from Phoenix. They coveted our herds and lands. Hard times are coming, peasant woman from the Villa.}
 {207}{}{Well, I hope you can handle them.}
 {208}{}{I hope this will somehow bypass the Villa.}
 {209}{}{Your Villa cannot escape this fate. We are all cursed by the same Dark Brahmin. Do you think you can stay on the sidelines like before? Excluded!}
 {210}{}{What are you going to do?}
-{211}{}{I want to form an alliance with the Rangers. This decision was not easy, but we need an ally to defend our freedom. After all, our enemies have guns and metal armor. And we have only brahmins and sticks.}
+{211}{}{I want to ally with the Rangers. This decision was not easy, but we needed an ally to defend our freedom. After all, our enemies have guns and metal armor. And we have only brahmins and sticks.}
 {212}{}{We must help each other in the face of a common threat. What can I do?}
 {213}{}{Villa should also stand on our side and on the side of the Rangers. This is a common cause. Find Ranger Oscar, he helps us in the fight against the missionaries. Perhaps your help will be useful to him.}
 {214}{}{I will talk to him.}
@@ -62,18 +62,18 @@
 {249}{}{To find peace in the battle for your freedom is the glorious end. I'd rather die than join the empire.}
 {250}{}{So you're a fool. And someday you will regret your decision.}
 {251}{}{I understand. Sorry for my words, Chief.}
-{252}{}{You have united the tribe, great leader. It's up to you to decide what to do next. But by making an alliance with the Rangers, you doom the tribe to an endless war.}
+{252}{}{You have united the tribe, great leader. It's up to you to decide what to do next. But by allying with the Rangers, you doom the tribe to an endless war.}
 {253}{}{Perhaps the truth is yours. The Phoenix Empire is strong and great. We will not be able to resist and someday we will give up. If we join the empire, we will retain some independence.}
 {254}{}{Do you agree?}
 {255}{}{Apparently, I should listen to your words. Although the Rangers won't like it. Don't make me regret this decision.}
 {256}{}{Thank you. I will convey your words to the commander of the missionaries.}
-{257}{}{All my advisors say the same thing. An alliance with the Rangers promises only a bloody war. And the union with the Phoenix grants peace, but takes away freedom.}
+{257}{}{All my advisors say the same thing. An alliance with the Rangers promises only a bloody war. And the union with the Phoenix grants peace but takes away freedom.}
 {258}{}{You know that the lives of fellow tribesmen are more important.}
-{259}{}{Some of my advisers have left this world, and the other has turned against me. An alliance with the Rangers promises only a bloody war. And an alliance with the Phoenix grants peace, but takes away freedom. In the struggle between the eagle and the snake, it remains only to hide your head in the sand.}
+{259}{}{Some of my advisers have left this world, and the others have turned against me. An alliance with the Rangers promises only a bloody war. And an alliance with the Phoenix grants peace but takes away freedom. In the struggle between the eagle and the snake, it remains only to hide your head in the sand.}
 
 {260}{}{The missionaries have left your lands. Ranger Oscar and I made them leave.}
 {261}{}{The missionaries have left your lands. I managed to get them to leave.}
-{262}{}{Good news for the whole tribe. We have once again proved our independence and defended our freedom. Of course, the fight will not end, and for a while we will be disturbed by pale-faced aliens from Phoenix and Ranger scouts. But we will outlive them too.}
+{262}{}{Good news for the whole tribe. We have once again proved our independence and defended our freedom. Of course, the fight will not end, and for a while, we will be disturbed by pale-faced aliens from Phoenix and Ranger scouts. But we will outlive them too.}
 {263}{}{[Listen]}
 {264}{}{It's as if the Divine Brahmin himself sent you to us in a difficult hour! Thank you. You can stay in the camp as long as you want. I will tell everyone about your exploits so that anyone can share Vault and food with you.}
 {265}{}{Thank you.}
@@ -85,11 +85,11 @@
 {272}{}{Apparently, you won't change your mind until your relationship with Phoenix is better.}
 {273}{}{We have already opened caravan routes with Phoenix. Let all his colonies return to peaceful trade.}
 {274}{}{Great. }
-{275}{}{Garage City also suffered from Aaron's empire. But now the Cathedral of Fire is destroyed, Aaron is dead. Phoenix is no longer a threat to you.}
+{275}{}{Garage City also suffered from Aaron's empire. But now the Cathedral of Fire is destroyed, and Aaron is dead. Phoenix is no longer a threat to you.}
 {276}{}{So be it. Give my consent to Ronnie, he runs the caravans in this pueblo.}
 {277}{}{Thank you.}
 {278}{}{I am ready to open caravan routes for Phoenix. But right in the middle of this path, a snake and an eagle started a fight. Until they agree or devour each other, it will be difficult to negotiate with buyers.}
-{279}{}{Garage City also suffered from Aaron's empire. But the Cathedral of Fire was captured by the rebels, Aaron died. Phoenix is no longer a threat to you.}
+{279}{}{Garage City also suffered from Aaron's empire. But the Cathedral of Fire was captured by the rebels, and Aaron died. Phoenix is no longer a threat to you.}
 
 #Minor speeches
 {300}{}{Who are you?}
@@ -97,13 +97,13 @@
 {302}{}{Tell me about yourself, Chief.}
 {303}{}{Do you really have such a short memory? Then it's worth refreshing it a little - I'm the one whose name is Geronimo. I am the supreme leader of the tribe.}
 {304}{}{Supreme? So there are others?}
-{305}{}{The tribe consists of clans, each clan has its own leader or representative. Together we unite for a time of severe trials. And the rest of the time we wander around Sonora in search of food.}
+{305}{}{The tribe consists of clans, and each clan has its leader or representative. Together we unite for a time of severe trials. The rest of the time we wander around Sonora in search of food.}
 {306}{}{Now it became clear.}
 
 {310}{}{Tell us about your people.}
-{311}{}{Do you want to know the history of the tribe? We suffered a lot, but remained faithful to our roots.}
+{311}{}{Do you want to know the history of the tribe? We suffered a lot but remained faithful to our roots.}
 {312}{}{Sorry, Chief, but I don't have time to listen to long stories right now.}
-{313}{}{That's it, the young no longer want to know history and honor their ancestors. And that bothers me.}
+{313}{}{That's it, the young no longer want to know the history and honor their ancestors. And that bothers me.}
 {314}{}{Some other time.}
 {315}{}{Tell me more.}
 {316}{}{We have been living in the lands of Sonora for many generations. Our ancestors lived here even before the world fell from the wrath of the Fiery Brahmin.}
@@ -111,7 +111,7 @@
 {318}{}{It's a miracle that you managed to survive the War.}
 {319}{}{For a long time, the tribe consisted of many small families scattered throughout the desert. Everyone survived as best they could. The infirm and sick died out, and the strong and healthy continued their kind. When the families multiplied and there was not enough land for everyone, clan wars began.}
 {320}{}{Is there no war between the clans now?}
-{321}{}{The threat to the Phoenix Empire forced us to unite. The townspeople began to steal our cattle, traders began to cheat, slavers appeared in our lands. We couldn't take it anymore.}
+{321}{}{The threat to the Phoenix Empire forced us to unite. The townspeople began to steal our cattle, traders began to cheat, and slavers appeared in our lands. We couldn't take it anymore.}
 {322}{}{What did you do?}
 {323}{}{The elders gathered around a common fire and decided to unite. I was one of those who reconciled and gathered the tribe. It happened here, within the walls of an ancient pueblo.}
 {324}{}{Thanks for the story. See you again, Geronimo.}
@@ -130,7 +130,7 @@
 
 {340}{}{I know you have an ancient book, Chief. Give it to me in a good way.}
 {341}{}{A book? What are you talking about? We don't read any books.}
-{342}{}{You're lying. The Cathedral's book keeper could not be mistaken.}
+{342}{}{You're lying. The Cathedral's bookkeeper could not be mistaken.}
 {343}{}{Please, people outside your tribe need this book.}
 {344}{}{Hmm, you must be talking about one of those old things that are stored in underground galleries.}
 {345}{}{Underground galleries? What are you talking about?}
