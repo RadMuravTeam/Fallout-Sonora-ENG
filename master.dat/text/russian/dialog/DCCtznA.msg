@@ -1,5 +1,5 @@
 {100}{}{You see a settler.}
-{101}{}{Here is one of the locals.}
+{101}{}{You see one of the locals.}
 {102}{}{ }
 
 {110}{}{Z-z-z}
@@ -58,7 +58,7 @@
 {162}{}{I don't understand these fire worshippers.}
 {163}{}{Fire worshippers, tinkerers, Blue Shields... Are we the only ones normal here?}
 {161}{}{That sectarian offered me writing lessons. Fool, hehe.}
-{164}{}{These fire worshippers seem to be pious, but they themselves have a sharp knife under their mantle.}
+{164}{}{These fire worshippers seem to be pious, but they have a sharp knife under their mantle.}
 
 {165}{}{The caravaneers are talking about the big bang in Phoenix.}
 {166}{}{I'm telling you - the Cathedral of fire worshippers has really been destroyed.}
@@ -72,7 +72,7 @@
 {173}{}{You won't be satisfied with water alone.}
 {174}{}{I miss our bar. And no one will replace its owner.}
 {175}{}{People come and go. And I'm staying.}
-{176}{}{We need to stick together. Otherwise we will end up the same as the others before us.}
+{176}{}{We need to stick together. Otherwise, we will end up the same as the others before us.}
 {177}{}{Have you seen a stranger? If he finds out...}
 {178}{}{Don't talk about it. And, however, who cares?}
 {179}{}{}
@@ -99,7 +99,7 @@
 {1188}{}{We have this stranger to thank for everything.}
 {1189}{}{I can't believe that an outsider has done so much for us.}
 
-{190}{}{Bustos was a tyrant, but without him the city will weaken.}
+{190}{}{Bustos was a tyrant, but without him, the city will weaken.}
 {191}{}{Everyone in the neighborhood was afraid of Count Bustos.}
 {192}{}{Bustos is dead. A new war for the throne is about to begin.}
 {193}{}{Sullivan and Bustos had another fight?}
