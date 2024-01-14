@@ -1,4 +1,4 @@
-{100}{}{You see the guard.}
+{100}{}{You see a guard.}
 {101}{}{In front of you is a water station guard. He doesn't know what to do with himself.}
 
 {110}{}{What do you want?}
