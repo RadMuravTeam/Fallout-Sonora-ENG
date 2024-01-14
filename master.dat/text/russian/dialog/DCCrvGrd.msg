@@ -1,4 +1,4 @@
-{100}{}{You see the guard.}
+{100}{}{You see a guard.}
 {101}{}{In front of you is a caravan guard. He is resting after a tiring journey.}
 
 {110}{}{Hi. How is the road?}
