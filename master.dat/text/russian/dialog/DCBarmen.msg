@@ -1,4 +1,4 @@
-{100}{}{Here is the bartender.}
+{100}{}{You see a bartender.}
 {101}{}{You see an ordinary bartender.}
 {102}{}{I'm sorry, but you can't come here in THIS.}
 
@@ -16,5 +16,5 @@
 {204}{}{Previously, he didn't even allow you to enter this bar, and now suddenly he's got a lot of money. I don't know what came over him, but I'd better take this place before it's too late.}
 {205}{}{Clear. Can I have a drink?}
 
-{210}{}{Have a seat. The choice is small, but it's better than nothing.}
+{210}{}{Have a seat. The selection is limited, but it's better than nothing.}
 {211}{}{I have to go.}
