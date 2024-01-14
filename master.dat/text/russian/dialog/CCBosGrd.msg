@@ -1,4 +1,4 @@
-{100}{}{There is a guard in front of you.}
+{100}{}{You see a guard in front of you.}
 {101}{}{You see a man of Mexican appearance.}
 {102}{}{Muchas gracias, señor.}
 {1102}{}{Muchas gracias, señor.}
