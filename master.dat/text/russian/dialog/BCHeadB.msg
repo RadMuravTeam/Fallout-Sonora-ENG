@@ -1,4 +1,4 @@
-{100}{}{Here is the priest Genaro.}
+{100}{}{You see the priest Genaro.}
 {101}{}{You see a shaman in a national outfit.}
 {102}{}{Go in peace, strange iron spirit.}
 
@@ -13,7 +13,7 @@
 {1210}{}{That thing you're driving has scared all my brahmins away! Next time, choose a different road.}
 {211}{}{Please forgive me. I didn't want to cause you any problems.}
 {1211}{}{Please forgive me. I didn't want to cause you any problems.}
-{212}{}{Your problems. It's not my fault that your brahms are so skittish.}
+{212}{}{Your problem. It's not my fault that your brahmin are so skittish.}
 
 {220}{}{I see you're not going to leave the pueblo. What's keeping you here, friend?}
 {221}{}{I see you're not going to leave the pueblo. What's on your mind?}
@@ -47,7 +47,7 @@
 {253}{}{And who is responsible for the rest?}
 {254}{}{The supreme leader of the tribe is Geronimo. He is a wise and experienced strategist, a great unifier of the tribe. You'll find him in a big house with columns.}
 {255}{}{What are you doing here?}
-{256}{}{I spend a lot of time in San Brahmin. We need to keep an eye on the Brahmins after their grazing, prepare them for their future fate, after all, I arrange holidays on the day of the Big Sun. And I have more and more work, I can barely cope.}
+{256}{}{I spend a lot of time in San Brahmin. We need to keep an eye on the Brahmins after their grazing, and prepare them for their future fate, after all, I arrange holidays on the day of the Big Sun. And I have more and more work, I can barely cope.}
 {257}{}{I see.}
 {258}{}{Can I help you?}
 {259}{}{Didn't you have to cultivate maize before? So, working with the land should not be a burden for you. Take a shovel in the paddock and clean it from... brahmin filth. Brahmins must be clean while they are in captivity. Especially the ones I chose to celebrate the Day of the Sun.}
