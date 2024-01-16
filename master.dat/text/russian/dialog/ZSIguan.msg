@@ -1,7 +1,7 @@
-{110}{}{"To use the trap, you need the appropriate skills.}
-{111}{}{N-n-m! These iguanas were not quick enough, and soon they will be in someone's stomach.}
-{112}{}{- with such skills, this trap will be more useless than garbage.}
-{113}{}{the feeding is over, this trap is now useless.}
-{114}{}{two traps in one place? It's a useless$waste of time.}
-{115}{}{You have successfully set the trap.}
-{116}{}{Õoroshaÿ idaÿ, but you have no idea how to do it.}
+{110}{}{To use the trap, you need to have certain skills.}
+{111}{}{Exquisite! These iguanas weren't bright enough, and now they're going to end up in someone's stomach.}
+{112}{}{With these skills, a pile of trash will serve as a better trap.}
+{113}{}{Out of lure, the trap is now useless.}
+{114}{}{Setting up two traps in the same place is a waste of time.}
+{115}{}{You successfully install a trap.}
+{116}{}{Good plan, but you have no idea how to do it.}

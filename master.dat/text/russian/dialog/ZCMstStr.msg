@@ -1,3 +1,3 @@
-{102}{}{The stranger just nods in response, without saying a word.}
-{103}{}{The mysterious stranger died. From now on, you should not count on his help.}
+{102}{}{The stranger simply nods, not uttering a word.}
+{103}{}{The mysterious stranger has died. He will be unable to help you from now on.}
 {104}{}{The mysterious stranger leaves you until the next battle.}

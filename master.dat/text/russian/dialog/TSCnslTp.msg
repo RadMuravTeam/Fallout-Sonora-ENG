@@ -1,5 +1,5 @@
-{100}{}{You can see the console.}
-{101}{}{You see a console for entering commands.}
-{102}{}{Traps are disabled.}
-{103}{}{This card is clearly not from this console.}
-{104}{}{The console is not functioning.}
+{100}{}{You see a control panel.}
+{101}{}{You see a security control panel.}
+{102}{}{Traps disabled.}
+{103}{}{This map surely didn't come from the console.}
+{104}{}{Control panel not functional.}

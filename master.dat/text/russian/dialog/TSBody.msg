@@ -1,9 +1,9 @@
 {110}{}{This body should be examined more closely.}
-{111}{}{There's no point in disturbing the dead now.}
-{112}{}{This cannot be done during a fight.}
+{111}{}{No sense in disturbing the dead now.}
+{112}{}{This action not possible to perform in combat.}
 
-{200}{}{This man died from a gunshot wound during the raid. It looks like he was one of the attackers, although you can't tell from his appearance.}
-{201}{}{[Next]}
-{202}{}{In his pocket you find a cursory sketch of the layout of the Old City with an indication of a safe route. It can be assumed that a bandit camp is located in this place.}
-{203}{}{[Go to the Old Town]}
+{200}{}{This man died of gunshot wound during the raid. It looks like he was one of the attackers, though his appearance doesn't suggest it.}
+{201}{}{[Continue]}
+{202}{}{In his pocket, you find a sketch of the Old City's streets, with lines showing a safe route. It can be assumed that's where the bandits' camp is located.}
+{203}{}{[Head to the Old City]}
 {204}{}{[Leave the corpse alone]}

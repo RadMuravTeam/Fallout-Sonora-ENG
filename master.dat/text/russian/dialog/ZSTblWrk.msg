@@ -1,17 +1,17 @@
-{110}{}{Components from various ammunition are collected here. With developed skills, you can make something useful out of them.}
-{111}{}{There is only useless garbage left here.}
-{112}{}{With such a skill, you will only spoil the working material.}
-{113}{}{Ammunition is made and is in your backpack.}
-{114}{}{You have manufactured: }
+{110}{}{Parts from various types of ammunition are collected here. With high enough skills, they could be turned into something useful.}
+{111}{}{Only useless junk is left here.}
+{112}{}{With this kind of skill, you're just going to make things worse.}
+{113}{}{You make the ammo and put it in your inventory.}
+{114}{}{You made: }
 {115}{}{.}
-{116}{}{You've made some fuel.}
+{116}{}{You made some fuel.}
 
-{200}{}{Components from various ammunition are collected here. We will have to choose, because the reserves of lead and gunpowder are limited.}
+{200}{}{Parts from various types of ammunition are collected here. You will have to choose, since the lead and gunpowder supplies are limited.}
 {201}{}{Not now.}
-{202}{}{Other.}
-{203}{}{Back.}
+{202}{}{Next.}
+{203}{}{Previous.}
 {204}{}{.}
-{205}{}{There are enough components for }
-{206}{}{ pcs. (with your current repair skills).}
-{207}{}{That's what you need. And now let's get to work!}
-{208}{}{Postpone.}
+{205}{}{Components are enough to make }
+{206}{}{ units. (with your current repair skill).}
+{207}{}{That's more like it.}
+{208}{}{Delay.}

@@ -1,3 +1,3 @@
-{100}{}{This is a raider.}
-{101}{}{you have a raider in front of you.}
-{102}{}{Ðthe raider does not want to negotiate.}
+{100}{}{You see a raider.}
+{101}{}{You see a raider.}
+{102}{}{The raider does not wish to speak with you.}

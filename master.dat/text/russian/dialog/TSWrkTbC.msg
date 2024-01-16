@@ -1,5 +1,5 @@
-{101}{}{You see a homemade workbench.}
-{102}{}{You have made 20 signal cartridges from old festive pyrotechnics.}
-{110}{}{On this workbench are the components of a laser rifle.}
-{111}{}{All components are used up. There's nothing else to do here.}
-{112}{}{You have assembled a laser rifle.}
+{101}{}{Перед вами самодельный верстак.}
+{102}{}{Вы изготовили 20 сигнальных патронов из старой праздничной пиротехники.}
+{110}{}{На этом верстаке лежат компоненты лазерной винтовки.}
+{111}{}{Все компоненты израсходованы. Здесь больше нечего делать.}
+{112}{}{Вы собрали лазерную винтовку.}

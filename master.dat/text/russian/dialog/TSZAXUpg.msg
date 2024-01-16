@@ -1,6 +1,6 @@
-{100}{}{You see the computer.}
-{101}{}{You see a computer for controlling the ZAX logic module.}
-{102}{}{Curiosity alone is not enough here.}
-{103}{}{The operation is impossible - the computer has lost contact with the ZAX neural system.}
-{104}{}{The operation is impossible - the computer has lost contact with the ZAX neural system.}
-{105}{}{The ZAX program update was successful.}
+{100}{}{You see a computer terminal.}
+{101}{}{You see the ZAX logic module control terminal.}
+{102}{}{Mere curiosity is not enough here.}
+{103}{}{Operation failed - cannot connect to ZAX neural network.}
+{104}{}{Operation failed - cannot connect to ZAX neural network.}
+{105}{}{ZAX logic module update successfully installed.}

@@ -1,6 +1,6 @@
-{100}{}{You see radscorpion.}
-{101}{}{You see the legendary radscorpion!}
-{102}{}{What a big son of a bitch.}
-{103}{}{The legendary radscorpion has been killed!}
-{104}{}{Ugh, it was a damn big scorpion!}
-{105}{}{I think it was the last one.}
+{100}{}{You see a radscorpion.}
+{101}{}{You see The Legendary Radscorpion!}
+{102}{}{That's one big son of a bitch.}
+{103}{}{The Legendary Radscorpion has been killed!}
+{104}{}{That was one BIG scorpion!}
+{105}{}{Looks like that was the last one.}

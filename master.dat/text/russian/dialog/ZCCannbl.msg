@@ -1,13 +1,13 @@
 {100}{}{You see a cannibal.}
-{101}{}{You see a strange man. He smiles unkindly, looking at you.}
+{101}{}{You see a strange man. They smile while examining you. It's not a good smile.}
 
-{110}{}{Your body can feed my whole family.}
-{111}{}{Your buttocks will make a great steak.}
-{112}{}{You will be my lunch.}
-{113}{}{Share your meat with the hungry!}
-{114}{}{I can live on your juicy meat for several months.}
-{115}{}{I'll eat your guts last. And the eyes and brain will go first.}
-{116}{}{Do you have any idea how many people could feed on your meat?}
-{117}{}{Excuse me, but I'm going to have a snack with you. Nothing personal.}
-{118}{}{Nothing personal. I just really want to eat.}
-{119}{}{Don't be afraid, I don't bite... until I roast you properly on the fire.}
+{110}{}{You're going to make for a fine meal for my whole family.}
+{111}{}{Your buttocks will make for a great stake.}
+{112}{}{You're going to be my lunch.}
+{113}{}{Share your meat with a poor, starving man!}
+{114}{}{I could live off your tender meat for several months.}
+{115}{}{I'll leave your buttocks for the last. First, I'll eat the eyes and the brain.}
+{116}{}{Do you have any idea how many people your meat could feed?}
+{117}{}{Sorry, but I'm going to eat you. It's nothing personal.}
+{118}{}{It's nothing personal. I'm just really, really hungry.}
+{119}{}{Don't be afraid, I don't bite... not until I roast you on the fire.}

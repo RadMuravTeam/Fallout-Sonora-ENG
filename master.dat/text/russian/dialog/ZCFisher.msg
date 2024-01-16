@@ -1,13 +1,13 @@
-{100}{}{You see a fisherman.}
-{101}{}{You see a local savage.}
+{100}{}{You see a fisher.}
+{101}{}{You see a local tribal.}
 
 {110}{}{Fish!}
-{111}{}{Don't understand.}
+{111}{}{Not understand.}
 {112}{}{But!}
-{113}{}{Not!}
+{113}{}{No!}
 {114}{}{Water!}
 {115}{}{Fish?}
-{116}{}{Tuki-tuki.}
+{116}{}{Tookie-dookie.}
 {117}{}{Water. Fish. Catch.}
-{118}{}{Ya. You. Speak.}
-{119}{}{You. I. There is no war.}
+{118}{}{You. Me. Talk.}
+{119}{}{You. Me. No fight.}

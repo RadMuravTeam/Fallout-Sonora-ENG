@@ -1,4 +1,4 @@
-{110}{}{This rack blocks the passage. It needs to be moved somehow.}
+{110}{}{These shelves are blocking your way. You will have to move them somehow.}
 {111}{}{}
-{112}{}{ There is no lock here that can be broken.}
-{113}{}{You haven't learned how to move things with your mind yet.}
+{112}{}{There is no lock to pick here.}
+{113}{}{Telekinesis is not a skill you possess.}

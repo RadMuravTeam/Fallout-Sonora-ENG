@@ -1,9 +1,9 @@
-{100}{}{There is a guard in front of you.}
-{101}{}{You see one of the caravan guards.}
+{100}{}{You see a guard.}
+{101}{}{You see a caravan guard.}
 
-{110}{}{I hope we won't meet anyone else on the way.}
-{111}{}{It will be great to get the bottlecaps right after completing the path.}
-{112}{}{I hope the bar will still be open when we get there.}
-{113}{}{It would be nice to finally eat real food.}
-{114}{}{This journey has been tedious.}
-{115}{}{Brahmins are too slow under load.}
+{110}{}{I hope we won't encounter anyone else afterward.}
+{111}{}{It'll be great to get the caps right after reaching our destination.}
+{112}{}{I hope the bar will be open when we arrive.}
+{113}{}{It'll be great to eat some real food again.}
+{114}{}{This journey was exhausting.}
+{115}{}{The brahmin move far too slowly when they're carrying stuff.}

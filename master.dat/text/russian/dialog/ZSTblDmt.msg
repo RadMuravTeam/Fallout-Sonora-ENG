@@ -1,5 +1,5 @@
-{110}{}{Explosives could be assembled from these components.}
-{111}{}{The components for creating explosives have run out.}
-{112}{}{You could try it if it wasn't so dangerous.}
-{113}{}{Using special skills, you got explosives with a timer.}
-{114}{}{Other skills are needed here.}
+{110}{}{You could make an explosive device out of this stuff.}
+{111}{}{You are out of components to make explosives with.}
+{112}{}{You could try, if it wasn't so dangerous.}
+{113}{}{Using special skills, you make an explosive with a timer.}
+{114}{}{This requires a different set of skills.}

@@ -1,3 +1,3 @@
-{100}{}{You found some bottle caps in a pile of garbage.}
-{101}{}{You found several caps and a whole bottle of Nuka-Cola in a pile of garbage.}
-{102}{}{You found several caps and a molotov cocktail in a pile of garbage.}
+{100}{}{You find several bottle caps in the junk pile.}
+{101}{}{You find several bottle caps and a bottle of nuka-cola in the junk pile.}
+{102}{}{You find several bottle caps and a Molotov cocktail in the junk pile.}

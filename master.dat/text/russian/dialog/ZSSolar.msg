@@ -1,11 +1,11 @@
-{110}{}{It looks like this }
-{111}{}{ short-circuited. But it can still be repaired.}
-{112}{}{This one }
-{113}{}{ works. And it will work for some more time.}
-{114}{}{Have you fixed this one yet }
+{110}{}{Looks like this }
+{111}{}{ was short-circuited. But it can still be repaired.}
+{112}{}{This }
+{113}{}{ will now work for some time.}
+{114}{}{You have already repaired this }
 {115}{}{.}
-{116}{}{You have successfully fixed this }
-{117}{}{. Now it will give stable light for some more time.}
-{118}{}{The repair failed. Maybe you should improve your repair skill.}
-{119}{}{You've done something wrong. Try again.}
-{120}{}{ due to your incompetence, it finally fails.}
+{116}{}{You have successfully repaired this }
+{117}{}{. It will now produce stable light for some time.}
+{118}{}{Repair attempt failed. Perhaps you should improve your knowledge in the field of repair.}
+{119}{}{You did something wrong. Try again.}
+{120}{}{, due to your incompetence, shuts down forever.}

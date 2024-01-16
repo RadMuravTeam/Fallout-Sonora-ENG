@@ -1,10 +1,10 @@
-{110}{}{The emitter is damaged and does not work. It cannot be repaired locally.}
+{110}{}{The emitter is damaged beyond repair.}
 {111}{}{This skill won't help here.}
-{112}{}{The emitter has been reconfigured to a different frequency.}
-{113}{}{You can't figure out the emitter system.}
-{114}{}{The force field is on.}
-{115}{}{The force field is disabled.}
-{116}{}{It will be too difficult to do this during the battle.}
-{117}{}{The decoder is connected. Now it will be easier for you to hack this system.}
-{118}{}{There is nowhere to connect the second decoder.}
-{119}{}{You are unable to reconfigure the power emitter.}
+{112}{}{Emitter frequency changed.}
+{113}{}{You fail to figure out how to change the emitter's systems.}
+{114}{}{Force field formed.}
+{115}{}{Force field disabled.}
+{116}{}{This will be far too complicated to do in combat.}
+{117}{}{Decoder installed. Hacking this system will be easier now.}
+{118}{}{There's no port for a second decoder.}
+{119}{}{You fail to reconfigure the force field emitter.}

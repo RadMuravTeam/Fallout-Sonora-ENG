@@ -1,7 +1,7 @@
-{110}{}{This mini-laboratory is filled with various components. We need knowledge to make something useful out of them.}
-{111}{}{This mini-lab is empty. Now it's useless.}
-{112}{}{You should have spent more time on chemistry textbooks.}
-{113}{}{After much preparation, you have made one stimpack.}
-{114}{}{After much preparation, you have made two stimpacks.}
-{115}{}{After much preparation, you have made three stimpacks.}
-{116}{}{You've made some fuel.}
+{110}{}{This mini-laboratory is full of various chemicals. It will take knowledge to turn them into something useful.}
+{111}{}{The contents of the mini-laboratory have been used up, making it useless.}
+{112}{}{You should have studied chemistry more.}
+{113}{}{After a while, you make a stimpak.}
+{114}{}{After a while, you make two stimpaks.}
+{115}{}{After a while, you make three stimpaks.}
+{116}{}{You make some fuel.}
