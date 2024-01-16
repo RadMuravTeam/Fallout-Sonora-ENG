@@ -1,4 +1,4 @@
-{100}{}{Here is the operator.}
+{100}{}{You see the operator.}
 {101}{}{You see the operator of the processing machine.}
 
 #Dialog
@@ -38,9 +38,9 @@
 {250}{}{Does the supervisor often beat up the workers?}
 {251}{}{(sigh) This Whip... he's a real psycho, snaps at everyone. I get it from him too, but not so often. I wish I could get rid of him, but Faber appoints the guards himself.}
 {252}{}{What about the administrator? Can't he do anything?}
-{253}{}{I don't know why I'm telling you this. But the Whip forces him to rewrite reports, as if the imprisoned workers were hit by a landslide or injured themselves. He doesn't want to tarnish his reputation, the bastard. But he also keeps the administrator in check.}
+{253}{}{I don't know why I'm telling you this. But the Whip forces him to rewrite reports as if the imprisoned workers were hit by a landslide or injured themselves. He doesn't want to tarnish his reputation, the bastard. But he also keeps the administrator in check.}
 {254}{}{But what's the point of crippled slaves?}
-{255}{}{I'm telling you, Knut is just an evil person. I think Faber specifically chose such a tough warden to strengthen control over the prisoners, because there have been a lot of problems with them lately. Besides, Roy and Knut are on good terms. But Faber hardly knows the whole truth.}
+{255}{}{I'm telling you, Knut is just an evil person. I think Faber specifically chose such a tough warden to strengthen control over the prisoners because there have been a lot of problems with them lately. Besides, Roy and Knut are on good terms. But Faber hardly knows the whole truth.}
 {256}{}{I can kill him for you and the rest of the prisoners.}
 {257}{}{What nonsense is this? Are you serious? Would you kill a man for a handful of prisoners? Even the mercenaries in the garrison aren't that bloodthirsty. Besides, it may not make sense if another tyrant takes the place of the Whip. In any case, don't try to involve me in this. I have nothing to do with it!}
 {258}{}{It is ok. I have no conscience because of any scum.}
@@ -53,6 +53,6 @@
 {265}{}{Better than before. He does not wring too much and keeps himself in hand. I'm glad you managed to fire Knut.}
 {266}{}{It was easy. Be.}
 {267}{}{This Whip won't bother you or anyone else anymore.}
-{268}{}{You... killed him? You're crazy! In any case, this does not really solve the problem, because an even bigger tyrant can be put after the Whip. Haven't you thought about that? Okay, I didn't hear anything, and I had nothing to do with it.}
-{1268}{}{You... killed him? You're crazy! In any case, this does not really solve the problem, because an even bigger tyrant can be put after the Whip. Haven't you thought about that? So, okay, I didn't hear anything, and I had nothing to do with it.}
+{268}{}{You... killed him? You're crazy! In any case, this does not solve the problem, because an even bigger tyrant can be put after the Whip. Haven't you thought about that? Okay, I didn't hear anything, and I had nothing to do with it.}
+{1268}{}{You... killed him? You're crazy! In any case, this does not solve the problem, because an even bigger tyrant can be put after the Whip. Haven't you thought about that? So, okay, I didn't hear anything, and I had nothing to do with it.}
 {269}{}{And this is all your gratitude? Not much.}

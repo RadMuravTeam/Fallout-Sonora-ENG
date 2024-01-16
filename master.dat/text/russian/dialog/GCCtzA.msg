@@ -1,4 +1,4 @@
-{100}{}{Here is a settler.}
+{100}{}{You see a settler.}
 {101}{}{You see one of the few residents of Garage City.}
 
 {110}{}{Stay away from me.}
@@ -24,6 +24,6 @@
 {226}{}{What is the mine?}
 {227}{}{Just a place where old things are found. Go into the garage building opposite and talk to Pete if you're interested.}
 {228}{}{How are you doing here?}
-{229}{}{It couldn't be worse. Previously, the cartel provided excellent earnings, but not now. And even after earning the caps, there is nothing to spend them on, because trade with other cities has almost stopped. A little more, and the city will come to an end, unless someone comes up with something.}
+{229}{}{It couldn't be worse. Previously, the cartel provided excellent earnings, but not now. And even after earning the caps, there is nothing to spend them on, because trade with other cities has almost stopped. A little more, and the city will come to an end unless someone comes up with something.}
 {230}{}{It couldn't be worse. Previously, the cartel provided excellent earnings, but not now. However, after the restoration of the Plant, some progress has been made. It seems to me that the city still has chances for a bright future.}
 {231}{}{He used to run a cartel of scavengers. But that's history.}

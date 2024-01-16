@@ -1,4 +1,4 @@
-{100}{}{Here is a scientist.}
+{100}{}{You see a scientist.}
 {101}{}{You see a man with terrible skin. He is busy with some calculations.}
 
 {200}{}{hello}

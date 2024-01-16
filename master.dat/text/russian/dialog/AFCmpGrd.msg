@@ -2,7 +2,7 @@
 {101}{}{You see a computer with access to the security system.}
 
 #Dialog
-{200}{}{Access to the security system has been obtained. Enter the command.}
+{200}{}{Access to the security system has been obtained. Enter command.}
 {201}{}{End session.}
 {202}{}{Back.}
 {203}{}{Next.}

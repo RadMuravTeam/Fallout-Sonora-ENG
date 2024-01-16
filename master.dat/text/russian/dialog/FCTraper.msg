@@ -1,4 +1,4 @@
-{100}{}{Here is a hunter.}
+{100}{}{You see a hunter.}
 {101}{}{This man looks haggard.}
 {102}{}{PC! Open the gate. Just don't show up in front of savages.}
 {103}{}{The hunter successfully left his camp.}
@@ -31,13 +31,13 @@
 {230}{}{Traps are set in the forest thicket in front of the entrance to the camp. Look carefully at your feet.}
 {231}{}{Thank you.}
 {232}{}{What do you know about these savages?}
-{233}{}{This is a clan of a tribe that once lived in these lands. A small number of people. Faber destroyed the main part of them, and drove away the rest. But for some reason these returned. Probably couldn't find places as rich in game.}
-{234}{}{Any ideas how to get rid of them?}
+{233}{}{This is a clan of a tribe that once lived in these lands. A small number of people. Faber destroyed the main part of them and drove away the rest. But for some reason, these returned. Probably couldn't find places as rich in game.}
+{234}{}{Any ideas on how to get rid of them?}
 {235}{}{Now it would be a good old shotgun or a detachment of mercenaries from the garrison. In the meantime, I can't even imagine what you can scare them with. They seem to be very superstitious. Otherwise, they would not have placed these totems around the perimeter of the camp.}
 {236}{}{Name the nearest city?}
 {237}{}{Flagstaff. It's a mining colony southwest of here.}
 {238}{}{Thank you.}
 
 {240}{}{You're safe now.}
-{241}{}{When they find out I've escaped, they'll raise the alarm. But I'll be far away by then. Thanks for the help. The whole Flagstaff will know about your help when I get there.}
+{241}{}{When they find out I've escaped, they'll raise the alarm. But I'll be far away by then. Thanks for the help. The whole of Flagstaff will know about your help when I get there.}
 {242}{}{Good luck.}

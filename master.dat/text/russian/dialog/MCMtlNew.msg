@@ -1,4 +1,4 @@
-{100}{}{Here is a migrant from Phoenix.}
+{100}{}{You see a migrant from Phoenix.}
 {101}{}{You see a man in dusty clothes. His hands are soiled in mud.}
 {102}{}{Hello}
 
@@ -35,11 +35,11 @@
 {232}{}{And are you ready to settle here, knowing about the horrors that were happening in the walls of the motel?}
 {233}{}{Although these mutants were cannibals and sadists, they were watching the motel at the same time. That's why we stopped here. Because this is the only place suitable for living in the district!}
 {234}{}{Did the mutants try?}
-{235}{}{They repaired the roof and fence, fertilized the beds, put up desert water storage - this is a great place to start anew.}
+{235}{}{They repaired the roof and fence, fertilized the beds, and put up desert water storage - this is a great place to start anew.}
 {236}{}{That is, you have come to everything ready.}
 {237}{}{I think it's time for you to go.}
 {238}{}{Yes, I have to go. Goodbye.}
-{239}{}{That was rude of you. Now I definitely don't want to linger here.}
+{239}{}{That was rude of you. Now I don't want to linger here.}
 {240}{}{We can be happy for you. At least this cursed place will bring some benefit.}
 {241}{}{Now everything will be different. Aaron gave us and the motel a second chance. I promise - we will make the promised land out of this desert.}
 {242}{}{Amen.}

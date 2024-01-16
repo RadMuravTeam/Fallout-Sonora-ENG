@@ -1,5 +1,5 @@
 {100}{}{It's a computer.}
-{101}{}{Here is an ancient computer. It's amazing that it still works.}
+{101}{}{You see an ancient computer. It's amazing that it still works.}
 
 #Dialog
 {200}{}{The system is loaded.}
@@ -11,17 +11,17 @@
 {210}{}{Supermarket attack.}
 {211}{}{"...You've known him for a long time. What do you think caused such an act?"}
 {212}{}{Next.}
-{213}{}{"What's there to tell? He's a war veteran. You know, all this horror at Anchorage. And although he was awarded for excellent service, but the injury in his head remained."}
+{213}{}{"What's there to tell? He's a war veteran. You know, all this horror at Anchorage. And although he was awarded for excellent service, the injury in his head remained."}
 {214}{}{Next.}
 {215}{}{"In the head? Was he injured?"}
 {216}{}{Further.}
-{217}{}{"No, he's gone mad! It was for you that he took a machine gun and shot people in a supermarket. And for him it is a continuation of the war. He thought he was shooting at the Reds..."}
+{217}{}{"No, he's gone mad! It was for you that he took a machine gun and shot people in a supermarket. And for him, it is a continuation of the war. He thought he was shooting at the Reds..."}
 {218}{}{Stop recording.}
 
 {220}{}{Complaints about construction work.}
 {221}{}{"...I'm telling you - my plan is fully coordinated! Everything is according to the law! And how will the neighbors prove that I got into their bowels when mining the soil?"}
 {222}{}{Next.}
-{223}{}{"Suppose. But what about the vibrations from the construction work that prevent them from resting? As well as dust, broken windows and endless trucks? They also say that you use the labor of hired workers without a license."}
+{223}{}{"Suppose. But what about the vibrations from the construction work that prevent them from resting? As well as dust, broken windows, and endless trucks? They also say that you use the labor of hired workers without a license."}
 {224}{}{Next.}
 {225}{}{"This is an expensive project... Ar-rh, yes, you understand! When the world war begins, and it will definitely begin, no one will care about vibrations and trucks! I'm building a bomb Vault to save myself and my family. And what will the neighbors do? Oh, they'll run to me to ask for Vault. You'll see, Officer. You'll see..."}
 {226}{}{Stop recording.}
@@ -31,7 +31,7 @@
 {232}{}{Next.}
 {233}{}{"Calm down? These barbarians want me dead! The neighbors have been trying to drive me out of town for a long time. I've been putting up with their antics for years. But they have already crossed all the boundaries! I pay dearly for the house and will not allow anyone to accuse me of having ties with the Reds just because I have Chinese blood in me. Do something, you're the police!"}
 {234}{}{Next.}
-{235}{}{"Of course, ma'am... uh, we don't tolerate racism either... But understand - your evidence is not enough to accuse the neighbors. A dead cat, notes on the walls and anonymous notes - all this does not indicate a real threat. We are not smo..."}
+{235}{}{"Of course, ma'am... uh, we don't tolerate racism either... But understand - your evidence is not enough to accuse the neighbors. A dead cat, notes on the walls, and anonymous notes - all this does not indicate a real threat. We are not smo..."}
 {236}{}{Next.}
 {237}{}{"Why am I wasting my time here with you! And so it is clear - you are all racists here! Racists! Give me my application, I'm leaving..."}
 {238}{}{Next.}
@@ -41,7 +41,7 @@
 {242}{}{Stop recording.}
 
 {250}{}{The case of the cactus.}
-{251}{}{"So, guys. Tell us how it really happened."}
+{251}{}{"So, guys. Tell us how it happened."}
 {252}{}{Next.}
 {253}{}{"Well, we were just walking in the desert and sat down near a cactus. And then this thing fell on Paco! We didn't do anything wrong, honestly, señor!"}
 {254}{}{Next.}
@@ -55,7 +55,7 @@
 {270}{}{The case of the robot.}
 {271}{}{"...So you're saying that the robot had no defects, and it acted independently?"}
 {272}{}{Next.}
-{273}{}{"I'm afraid it doesn't sound quite right in this form, señor Officer... The robot of the "Mr. Assistant" series only performs the assigned tasks. But look at the requests of the Wilson family! I think they had... some relationship problems."}
+{273}{}{"I'm afraid it doesn't sound quite right in this form, señor Officer... The robot of the "Mr. Handy" series only performs the assigned tasks. But look at the requests of the Wilson family! I think they had... some relationship problems."}
 {274}{}{Next.}
 {275}{}{"Relationship problems? Yes, we know that there were regular quarrels in their family. But how could this affect a robot that "only performs the assigned tasks"?"}
 {276}{}{Next.}
@@ -69,7 +69,7 @@
 {292}{}{Next.}
 {293}{}{"Guilt? Well, no! These Americans have enslaved all of Sonora! They are the criminals! They and our corrupt government! How can you call the rally illegal?..."}
 {294}{}{Next.}
-{295}{}{"So. I will repeat my question again..."}
+{295}{}{"So. I will repeat my question..."}
 {296}{}{Next.}
 {297}{}{"Mexico to Mexicans! Mexico to Mexicans!"}
 {298}{}{Next.}

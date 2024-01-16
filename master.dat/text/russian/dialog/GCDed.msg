@@ -1,4 +1,4 @@
-{100}{}{Here is an old man.}
+{100}{}{You see an old man.}
 {101}{}{You see a swarthy old man with a thick beard.}
 {102}{}{This is old Carmelo.}
 
@@ -16,9 +16,9 @@
 {210}{}{Then just talk.}
 {211}{}{Then I'm not interested in you. Goodbye.}
 {212}{}{I'm looking at you and I think we should get to know each other.}
-{213}{}{Usually people don't impose themselves just like that. But for some reason I believe you.}
+{213}{}{Usually people don't impose themselves just like that. But for some reason, I believe you.}
 {214}{}{Just wonderful. Shall we talk?}
-{215}{}{You're right, you shouldn't force yourself on a conversation with a beggar like you. Be.}
+{215}{}{You're right, you shouldn't force yourself into a conversation with a beggar like you. Be.}
 {216}{}{What do you want? If it's an iguana, I won't give it to you. I have nothing to eat myself.}
 {217}{}{Come on, I'm not going to rip it out of your mouth.}
 {218}{}{That's good. And then you'll be left without a hand. What do you want?}
@@ -97,7 +97,7 @@
 {290}{}{You say that like the end of the city has come.}
 {291}{}{It hasn't come yet. But there's not much left. The resources in the ruins are depleted, and people have nothing else to earn. Therefore, the city is dying out. And it will die out if someone doesn't come up with something.}
 {292}{}{Nothing will help this dump for sure.}
-{293}{}{A sad story. Let's change the subject?}
+{293}{}{A sad story. Let's change the subject.}
 {294}{}{Is there really nothing we can do?}
 {295}{}{Well, if the garage still decides to restore the old factory, then it can save the settlement and give jobs. But something I hardly believe in it.}
 {296}{}{What's the story with the plant?}
@@ -106,7 +106,7 @@
 {299}{}{Believe me, there are places in the south that are waiting for all these pre-war wonders. You can't do much with your hands alone.}
 
 {300}{}{If no one lived here before, then where did these ruins come from?}
-{301}{}{Earlier - this is before the arrival of the cartel. Don't twist the words. Of course, before the War there was a whole town called Kingman. But that was almost a hundred years ago.}
+{301}{}{Earlier - this is before the arrival of the cartel. Don't twist the words. Of course, before the War, there was a whole town called Kingman. But that was almost a hundred years ago.}
 {302}{}{What are you talking about? Is there a war going on somewhere?}
 {303}{}{Don't you know? It's an old story. There are many legends about her. They say that a hundred years ago there were large states that could not get along and divide the remnants of "garbage". Just like now in our Garage City.}
 {304}{}{So they destroyed each other?}
@@ -122,7 +122,7 @@
 {322}{}{Enough about lizards. My stomach is already rumbling.}
 {323}{}{That's great. Otherwise, if everyone around starts catching lizards, then I will have nothing left.}
 {324}{}{Is there really no other food here?}
-{325}{}{So where does it come from? There are desert and mountains all around. Previously, the products were brought by traders from the south. But lately there are fewer and fewer caravans, and the products are getting dirtier. We have to catch lizards, at least some food.}
+{325}{}{So where does it come from? There are deserts and mountains all around. Previously, the products were brought by traders from the south. But lately, there are fewer and fewer caravans, and the products are getting dirtier. We have to catch lizards, and at least some food.}
 {326}{}{What about coyotes and scorpions?}
 {327}{}{Things are more dangerous with them. A coyote can bite off a leg. And scorpions are poisonous, and there is less meat in them.}
 {328}{}{Have you tried growing crops?}
@@ -155,7 +155,7 @@
 {355}{}{That's my business. Just get it and bring it.}
 {356}{}{Agreed. But don't try to deceive me, old man.}
 {357}{}{No problem.}
-{358}{}{If you catch a parish from them, then it's really not my problem. See you later.}
+{358}{}{If you catch a parish from them, then it's not my problem. See you later.}
 
 {360}{}{Share your wisdom, how do I get these damn mushrooms?}
 {361}{}{Toxic puddles are burning, you need tight shoes. Rubber boots will do, but they won't last long.}
@@ -178,7 +178,7 @@
 {378}{}{That's it! And you know a lot.}
 {379}{}{A curious scheme. Surely not the only one in your craft.}
 {380}{}{Sure. But tell me, what exactly are you going to do?}
-{381}{}{Tell us about iguanas, their habits, habitats. [Survival +3]}
+{381}{}{Tell us about iguanas, their habits, and habitats. [Survival +3]}
 {382}{}{Tell me about the trapper's tricks. It could save my life. [Traps +3]}
 {383}{}{Better share your scavenger skills. You worked in the cartel once. [Repair +3]}
 {384}{}{Then listen carefully, I won't repeat it twice.}

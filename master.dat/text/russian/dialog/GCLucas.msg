@@ -6,7 +6,7 @@
 {150}{}{(you see a seasoned scavenger; he frowns at you, sitting in a free pose) I didn't expect Kogan to send an outsider. Who are you?}
 {1150}{}{(you see a seasoned scavenger; he frowns at you, sitting in a free pose) I didn't expect Kogan to send a foreigner. Who are you?}
 {151}{}{I have no idea who Kogan is. I'm chasing a slave convoy.}
-{152}{}{Hmm. So you're from the village that the colonists captured? I know the story. Kogan tried to get along with the raiders in the hope of future contracts. He told them about the Villa, because those guys were following the savages, they didn't even hear about you.}
+{152}{}{Hmm. So you're from the village that the colonists captured? I know the story. Kogan tried to get along with the raiders in the hope of future contracts. He told them about the Villa because those guys were following the savages, they didn't even hear about you.}
 {153}{}{Kogan demands an explanation.}
 {154}{}{He'll get them. But I want to know, why are YOU working for this greedy rich man? What did he promise you for the job?}
 {155}{}{In fact, I am persecuting people who took my relatives away against their will. Kogan knows something about it.}
@@ -16,7 +16,7 @@
 {159}{}{Do you have a brain? Then take care of their safety. Because here you can lose them.}
 {160}{}{What should I do?}
 {161}{}{Okay, I'll listen to your "demands".}
-{162}{}{I need all of Kogan's latest contracts. They should be recorded in the computer in his garage. Just copy it and bring it to me. Then we'll talk.}
+{162}{}{I need all of Kogan's latest contracts. They should be recorded on the computer in his garage. Just copy it and bring it to me. Then we'll talk.}
 {163}{}{Okay, I'll do what you ask. See you soon.}
 {164}{}{The hell I'm going to take that risk. You're asking too much.}
 {165}{}{Do you want to know about the raiders? Then go and don't come back without information.}
@@ -44,7 +44,7 @@
 {187}{}{Hey, what about our deal?}
 {188}{}{You'd better stick with us. We'll talk about it when it's done.}
 {189}{}{But I don't want to be a part of it!}
-{190}{}{If everything goes smoothly, then you won't have to. Just meet with the caravan, exchange things and disperse.}
+{190}{}{If everything goes smoothly, then you won't have to. Just meet with the caravan, exchange things, and disperse.}
 {191}{}{Do as you like. I don't care.}
 {192}{}{Great idea. When do we move out?}
 {193}{}{First you need to assemble the parts. Walk around the factory and bring what is written in the contract. There should be everything you need here.}
@@ -67,7 +67,7 @@
 {226}{}{And what was produced here?}
 {227}{}{This is a factory of Watts Electronics. Parts for electronic equipment and nuclear batteries were manufactured here.}
 {228}{}{Where does so much light come from?}
-{229}{}{Old lamps. They are powered by electricity, and it is produced by backup generators, because the local reactor has been idle since the "big boom". It can still be started. But this requires nuclear fuel. And there is nowhere to take it yet.}
+{229}{}{Old lamps. They are powered by electricity, and it is produced by backup generators because the local reactor has been idle since the "big boom". It can still be started. But this requires nuclear fuel. And there is nowhere to take it yet.}
 {230}{}{How do you know so much about pre-war production?}
 {231}{}{I'm a garbage man, I've been working with old items for many years.}
 {232}{}{You know, these pieces of iron do not inspire confidence.}
@@ -79,7 +79,7 @@
 {243}{}{Kogan was a greedy bastard, but he was a decent entrepreneur. And it was possible to negotiate with him. Without him, the scavengers will tear everything down here.}
 {244}{}{It looks like you're having problems here. Let's talk about something more pleasant.}
 {245}{}{It seems you've upset your boss a lot.}
-{246}{}{Spit. The boss needs new investments in the business, and only I can provide them among all the garbage collectors of the city. He will have to make concessions.}
+{246}{}{Spit. The boss needs new investments in the business, and only I can provide them among all the garbage collectors in the city. He will have to make concessions.}
 {247}{}{Your position is clear.}
 {248}{}{What about the rest of the scavengers? Have you thought about them?}
 {249}{}{Wipe your eyes - Garage City is devastated. There is no place for so many workers here anymore. Let them go to other places.}
@@ -95,7 +95,7 @@
 
 {260}{}{The transaction was successful! Without your help, it would have been much more difficult for us, and we are now in debt to you. Here, take 200 caps. This is your share of the deal.}
 {261}{}{What are you going to do now?}
-{262}{}{I will restore the plant. We were promised to bring fuel for the reactor, then we will be able to start the machines and start producing new parts.}
+{262}{}{I will restore the plant. We were promised to bring fuel for the reactor, then we would be able to start the machines and start producing new parts.}
 {263}{}{Good luck then. And my business here is finished.}
 {264}{}{Well, well, I'll look at your efforts in the future. Goodbye, dreamer-scavenger.}
 {265}{}{The transaction was successful! It would have been a little harder for us without your help. But we consulted and decided that you don't deserve your share.}
@@ -108,12 +108,12 @@
 {272}{}{Why do they need peasants?}
 {273}{}{At first they were looking for a den of Jackals to force them to work in some mines. But then Kogan sensed a profit and suggested an attack on the Villa. He knows where to put the caps. Because Flagstaff promises to be a good client for the cartel.}
 {274}{}{So you're all tied up here, right?}
-{275}{}{You understand, such a deal provided Garage City with a good welding. And our meeting with the caravan was part of this process. You may not like it, but we scavengers need to survive on our own.}
+{275}{}{You understand, such a deal provided Garage City with good welding. And our meeting with the caravan was part of this process. You may not like it, but we scavengers need to survive on our own.}
 {276}{}{I forgive you. And now I have to go to this one... Flagstaff.}
 {277}{}{Don't think we'll ever forget this story. The peasants of the Villa have a long memory.}
 
 {280}{}{Hi, Lucas. About production. My community fears that it will have a bad effect on the Villa.}
-{281}{}{Nonsense. New workers will come here, and the city's turnover will increase. It's better for you, because you will be able to trade crops and ceramics with big cities.}
+{281}{}{Nonsense. New workers will come here, and the city's turnover will increase. It's better for you because you will be able to trade crops and ceramics with big cities.}
 {282}{}{Perhaps. However, our elders want isolation.}
 {283}{}{Old people don't want change? So let them change! The world is changing, they will have to too.}
 {284}{}{I'll think about it.}

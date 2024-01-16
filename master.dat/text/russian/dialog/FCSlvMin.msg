@@ -1,8 +1,8 @@
-{100}{}{Here is a miner.}
+{100}{}{You see a miner.}
 {101}{}{You see a terribly dirty man. His manners are no better.}
 
 #Retaliatory remarks
-{110}{}{*Chokes on coughing*}
+{110}{}{*Chokes while coughing*}
 {111}{}{We survive only thanks to this mine.}
 {112}{}{Each shift underground may be the last.}
 {113}{}{This shift is going to be a long one.}

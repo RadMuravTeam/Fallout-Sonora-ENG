@@ -1,4 +1,4 @@
-{100}{}{Here is the mutant Sherman.}
+{100}{}{You see the mutant Sherman.}
 {101}{}{You see a terribly disfigured person.}
 {102}{}{A mutant suddenly appears from the shadows.}
 {103}{}{Who opened the gate?}

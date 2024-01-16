@@ -1,4 +1,4 @@
-{100}{}{Here is a bar visitor.}
+{100}{}{You see a bar visitor.}
 {101}{}{You see a strung-out colonist. He's a little drunk.}
 {102}{}{Don't come near me.}
 {103}{}{Stop, that's enough! I'm guilty, I admit!}
@@ -14,7 +14,7 @@
 {1202}{}{Look, I don't want any trouble, just don't touch me, okay?}
 {203}{}{The hell with it.}
 
-{204}{}{Because in front of you is the living embodiment of power and law in this city! I work for Roy Faber himself. Got it? Then bring a drink, otherwise you'll run into a fight.}
+{204}{}{Because in front of you is the living embodiment of power and law in this city! I work for Roy Faber himself. Got it? Then bring a drink, otherwise, you'll run into a fight.}
 {205}{}{I don't want any trouble, don't touch me.}
 {206}{}{You can only scream. Haven't you been hit in the ribs for a long time?}
 

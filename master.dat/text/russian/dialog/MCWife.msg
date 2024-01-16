@@ -1,4 +1,4 @@
-{100}{}{Here is Ben's concubine.}
+{100}{}{You see Ben's concubine.}
 {101}{}{You see a woman. Her exhausted face contorts in a hysterical fit.}
 {102}{}{Consider it a favor, bitch.}
 {103}{}{I hope you find peace now.}

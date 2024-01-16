@@ -1,10 +1,10 @@
-{100}{}{Here is a bar visitor.}
+{100}{}{You see a bar visitor.}
 {101}{}{You see a regular of the bar. This man is not averse to chatting over a mug of something stronger.}
 
 {200}{}{Hey, hi.}
 {201}{}{Bye.}
-{202}{}{Hey, great, buddy. Would you buy me a drink? Or do you go into a bar just to watch?}
-{1202}{}{Hey, great, girlfriend. Would you buy me a drink? Or do you go into a bar just to watch?}
+{202}{}{Hey, great, buddy. Would you buy me a drink? Or do you go to a bar just to watch?}
+{1202}{}{Hey, great, miss. Would you buy me a drink? Or do you go to a bar just to watch?}
 {203}{}{Hey, it was a cool fight. Would you buy me a drink? Or do you go into a bar just for a fight?}
 
 {204}{}{I don't have many bottlecaps.}
@@ -20,7 +20,7 @@
 
 {220}{}{Absolutely, just let me get to the counter.}
 {221}{}{I'll take you at your word, cowboy.}
-{1221}{}{I'm taking you at your word, girlfriend.}
+{1221}{}{I'm taking you at your word, miss.}
 {222}{}{Uh, bye.}
 {223}{}{Here's a nuclear beer. A cheap but sure way to keep the conversation going, right?}
 {224}{}{Let's open this bottle of wasteland tequila. A great way to relax, don't you think?}
@@ -39,7 +39,7 @@
 {236}{}{I came here with my boyfriend. Everything was going well. We collected everything in the ruins and paid the colony a "tax" for it.}
 {237}{}{[Next]}
 
-{238}{}{But when there were not enough caps, Karl got into debt. Further - more. And in the end Faber gave the order to put Karl behind bars. Now he's there and I'm here. And I don't know what to do.}
+{238}{}{But when there were not enough caps, Karl got into debt. Furthermore. And in the end, Faber gave the order to put Karl behind bars. Now he's there and I'm here. And I don't know what to do.}
 {239}{}{Is he there for life?}
 {240}{}{Faber obliged him to one year of hard labor. But Karl will not survive such a period. Me too.}
 {241}{}{Is there any way to get him out of prison?}

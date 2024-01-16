@@ -1,4 +1,4 @@
-{100}{}{Here is a refugee.}
+{100}{}{You see a refugee.}
 {101}{}{You see one of the new arrivals.}
 {102}{}{To feed a refugee, use food on him.}
 
@@ -26,14 +26,14 @@
 {224}{}{I see.}
 
 {230}{}{What are you doing in this city?}
-{231}{}{We're running from trouble. Terrible things are happening in the southeast: power is changing in cities, people are being enslaved, farmers are being driven from their legitimate lands. We hoped to find salvation in the Ranger lands, but they turned out to be no better.}
+{231}{}{We're running from trouble. Terrible things are happening in the southeast: power is changing in cities, people are being enslaved, and farmers are being driven from their legitimate lands. We hoped to find salvation in the Ranger lands, but they turned out to be no better.}
 {232}{}{How did you manage to get across the desert?}
-{233}{}{It was an ordeal. It's cold at night, and it was so hot during the day that we fried lizards right on the rocks. The main way was overcome in the evening and early in the morning. Sometimes it seemed that we would not survive. We will definitely not survive the second such way.}
-{234}{}{Yes, it's really not easy.}
+{233}{}{It was an ordeal. It's cold at night, and it was so hot during the day that we fried lizards right on the rocks. The main way was overcome in the evening and early in the morning. Sometimes it seemed that we would not survive. We will not survive the second such way.}
+{234}{}{Yes, it's not easy.}
 {235}{}{Tell me again, how did you end up here?}
 
 {240}{}{What made you leave the Ranger lands?}
-{241}{}{Rangers? Ha! We were told that they protect law and order. But in fact they are ordinary bandits.}
+{241}{}{Rangers? Ha! We were told that they protect law and order. But in fact, they are ordinary bandits.}
 {242}{}{Why did you decide that?}
 {243}{}{How dare you talk about Rangers like that?}
 {244}{}{First they took away everything of value from us, and then they told us to get out of their lands.}
@@ -49,7 +49,7 @@
 {253}{}{Really, it's too dangerous. Forget it.}
 {254}{}{Uh no, I'm too weak to travel. I would like to refresh myself before the road.}
 {255}{}{I'll come back when you're stronger. Later.}
-{256}{}{You'll chew your own teeth if you don't show me this place.}
+{256}{}{You'll chew your teeth if you don't show me this place.}
 {257}{}{Fair. Here are 20 caps, you can buy food at a local bar with them.}
 {258}{}{(greedily watching you rummage through your pockets)}
 {259}{}{Uh, I think I left cash at the motel.}

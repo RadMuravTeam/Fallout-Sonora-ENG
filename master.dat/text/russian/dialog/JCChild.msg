@@ -1,5 +1,5 @@
 {100}{}{You see a puppy.}
-{101}{}{Here is a young savage from the tribe of Jackals.}
+{101}{}{You see a young savage from the tribe of Jackals.}
 {102}{}{*Hisses*}
 
 #Response remarks

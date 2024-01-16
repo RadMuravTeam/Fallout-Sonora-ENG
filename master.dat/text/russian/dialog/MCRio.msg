@@ -1,4 +1,4 @@
-{100}{}{Here is Rio.}
+{100}{}{You see Rio.}
 {101}{}{One of the highway robbers.}
 {102}{}{Well, well, we've got a mole rat here.}
 {103}{}{Not a bad armor. But it lacks the most important thing - speed.}
@@ -15,8 +15,8 @@
 {204}{}{}
 {205}{}{( showing a grin with one side of his face) Look who came to us. It's Ben's new pet.}
 {206}{}{And you're jealous, right? Do you feel that you have to move?}
-{207}{}{What is it, bitch, are you going to twist my balls? Then remember - NO one will take my place next to Ben. We have known each other for a long time, he trusts me. And you? No one here knows you at all.}
-{208}{}{Don't be nervous, Rio, I'm not going to challenge your place at the throne.}
+{207}{}{What is it, bitch, are you going to twist my balls? Then remember - NO one will take my place next to Ben. We have known each other for a long time, and he trusts me. And you? No one here knows you at all.}
+{208}{}{Don't be nervous, Rio, I'm not going to challenge your place on the throne.}
 {209}{}{That's the right answer, bitch. Know your place. Ben and I have known each other for a long time, he trusts me. And who are you? I've only seen you a few times.}
 {210}{}{You should wash your mouth with soap.}
 {211}{}{Ah, so Ben's place still gives you a sense of superiority. Don't think about crossing my path, carrion.}
@@ -32,15 +32,15 @@
 {223}{}{Get to know each other, huh? MEET YOU, bitch? Do I look like a prostitute to you? You will get acquainted with corpses in the wastelands, and we have a gang. They don't like soft-bodied brats here. Get this straight.}
 {224}{}{You have shitty manners, bro.}
 {225}{}{Yes, that's right, bro. I see you're starting to learn something. Maybe we'll work together again.}
-{226}{}{Great, the first contact is estaablished.}
+{226}{}{Great, the first contact is established.}
 {227}{}{This is not a good start.}
 {228}{}{Then shove your manners up your ass and dance a jig on the hot asphalt, bitch.}
 {229}{}{Whoa, take it easy. I just want to talk to you.}
 {230}{}{I'm looking for someone to deal with in this dump. And it looks like you're one of them.}
 {231}{}{Okay, I see you're not one of the timid guys. Consider that the first contact was a success. But don't count on trust just because Ben lets you walk around the base. Show yourself in action, then we'll talk.}
 {232}{}{Okay. Who are you anyway?}
-{233}{}{My name is Rio, baby. And this is the end of our acquaintance, until you show yourself in action.}
-{234}{}{You'll have to answer the questaions.}
+{233}{}{My name is Rio, baby. And this is the end of our acquaintance until you show yourself in action.}
+{234}{}{You'll have to answer the questions.}
 {235}{}{Well, that's fine.}
 
 #Repeat dialog
@@ -51,7 +51,7 @@
 
 {260}{}{I'm wondering how someone like you ended up in a gang.}
 {261}{}{There were overlays. I had to wander around the highways with different gangs until I ended up here.}
-{262}{}{What, kicked out of all normal cities?}
+{262}{}{What kicked out of all normal cities?}
 {263}{}{What are you implying, bitch? Do you think the gang just appeared like that? We are all victims of circumstances, understand this.}
 {264}{}{Yeah, sure, that sounds a lot better.}
 {265}{}{What did you do?}
@@ -79,10 +79,10 @@
 {293}{}{And when Ben comes back, I do everything to make him feel at home - dope, girls, iron.}
 {294}{}{Clear.}
 {295}{}{What can you teach?}
-{296}{}{Training? Interestaing, tell me more.}
-{297}{}{We need to be in shape. I teach the use of weapons, conduct fights and initiation rites. It is especially valuable for us to handle fire bombs and cold weapons.}
+{296}{}{Training? Interesting, tell me more.}
+{297}{}{We need to be in shape. I teach the use of weapons, conduct fights, and initiation rites. It is especially valuable for us to handle fire bombs and cold weapons.}
 {298}{}{It wouldn't hurt me to learn how to throw fire cocktails.}
-{299}{}{I'm not interestaed in that.}
+{299}{}{I'm not interested in that.}
 {300}{}{Teach you? I'll tell you what it is - I don't like you.}
 {301}{}{Okay, we'll come back to that.}
 {302}{}{Imagine - you are to me too.}
@@ -105,7 +105,7 @@
 {321}{}{For Ben, it's not just a toy, it's part of his life. I make sure he doesn't need anything. Fixing a bike, looking for dope, looking for women - and everything else that Ben needs.}
 {322}{}{Cool. I will know.}
 {323}{}{Wow, so he's on the move?}
-{324}{}{Sure. Who do you think I am? If Ben said to watch his bike, then the bike will be fine.}
+{324}{}{Sure. Who do you think I am? If Ben said to watch his bike, then the bike would be fine.}
 {325}{}{Is it for sale?}
 {326}{}{You're delusional. Ben appreciates this iron more than any of the gang. He won't give it up for anything.}
 {327}{}{Ben lent me his motorcycle. Give me the key.}

@@ -1,4 +1,4 @@
-{100}{}{Here is a Nocturnal Beast.}
+{100}{}{You see a Nocturnal Beast.}
 {101}{}{You see the guardian of the Jackals. He faithfully guards the warehouses of his tribe.}
 {102}{}{Sh-what for sh-jokes?!}
 

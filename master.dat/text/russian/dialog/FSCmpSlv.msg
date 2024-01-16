@@ -1,15 +1,15 @@
-{100}{}{This is Faber's computer.}
-{101}{}{Here is an ancient computer. It's amazing that it still works.}
+{100}{}{You see Faber's computer.}
+{101}{}{You see an ancient computer. It's amazing that it still works.}
 
 #Dialog
-{200}{}{Enter the command.}
+{200}{}{Enter command.}
 {201}{}{End session.}
 {202}{}{Back.}
 
 {210}{}{Request for new prisoners.}
 {211}{}{The report of the mine administration: "Due to a shortage of workers, deadlines have been disrupted again. The mine destroys prisoners too quickly. We'll have to look for new blood in the surrounding settlements. There are rumors about wild tribes in the west. It's worth checking out."}
 {212}{}{Report on the expedition to the west.}
-{213}{}{The mercenaries returned with new blood. The peasants of the Villa turned out to be surprisingly excellent material - strong, healthy, hardy. Savages are worse, but they will also give odds to prisoners from the south. In addition to the peasants, there were provisions and other useful things in the Villa. On the way we found the town of Garage City; the locals offered a business, we need to think about it.}
+{213}{}{The mercenaries returned with new blood. The peasants of the Villa turned out to be surprisingly excellent material - strong, healthy, hardy. Savages are worse, but they will also give odds to prisoners from the south. In addition to the peasants, there were provisions and other useful things in the Villa. On the way we found the town of Garage City; the locals offered a business, and we need to think about it.}
 {214}{}{The incident in the mine.}
 {215}{}{A group of convicts disappeared in the mine again, they turned out to be the same peasants from the Villa. Either I underestimated these hillbillies, or our defense system is not reliable enough. We will have to carry out punitive prevention among prisoners.}
 {216}{}{Sending prisoners to Phoenix.}

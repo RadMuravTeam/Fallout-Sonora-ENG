@@ -1,4 +1,4 @@
-{100}{}{Here is Ruiz.}
+{100}{}{You see Ruiz.}
 {101}{}{You see a local. He is wearing a bandana and a light cape.}
 {102}{}{Dig.}
 {103}{}{Better not try my patience.}
@@ -12,7 +12,7 @@
 {202}{}{Think hard, you freak. No one will help the dead here. Besides, I found this treasure. And it belongs to me. Now kindly move over and GO to HELL!}
 {1202}{}{Think hard, ugly. No one will help the dead here. Besides, I found this treasure. And it belongs to me. Now would you kindly move over and GO to HELL!}
 {203}{}{Make me, shorty.}
-{204}{}{Oh, please. This is really your treasure.}
+{204}{}{Oh, please. This is your treasure.}
 {205}{}{Think hard, gringo. No one can help you here. I found this treasure. And it belongs to me. Now kindly move over and GO to HELL!}
 {1205}{}{Think carefully, señora. No one can help you here. I found this treasure. And it belongs to me. Now be a good girl -move over and GO TO HELL!}
 {206}{}{Oh, please, look.}

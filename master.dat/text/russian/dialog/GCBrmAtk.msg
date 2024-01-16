@@ -1,4 +1,4 @@
-{100}{}{Here is a scavenger.}
+{100}{}{You see a scavenger.}
 {101}{}{You see a scavenger ready to hunt a brahmin.}
 {102}{}{Damn it! This brahmin has a master. But we still have to take him away. Is that clear?}
 
@@ -12,7 +12,7 @@
 {202}{}{The city is dying without food, trade has almost stopped, we NEED this brahmin! So, do you have any better ideas?}
 {203}{}{I'm in. Let's get started!}
 {204}{}{Don't rush to commit a crime, maybe I can negotiate with these guys.}
-{205}{}{But there must be a way to do without bloodshed!}
+{205}{}{But there must be a way to do it without bloodshed!}
 {206}{}{You're a soft-hearted fool. If you don't want to participate in the attack, then just stand aside. Or will you try to take the brahmin away unnoticed from the shepherds?}
 {1206}{}{You're a soft-hearted fool. If you don't want to participate in the attack, then just stand aside. Or will you try to take the brahmin away unnoticed from the shepherds?}
 {207}{}{OK, let's do it. Go ahead!}
@@ -40,6 +40,6 @@
 {254}{}{Are you really going to attack peaceful shepherds?}
 {255}{}{Here's a brahmin. Take him away before the shepherds come to their senses.}
 {256}{}{The Brahmin is ours. The savages won't take any chances over his carcass.}
-{257}{}{This is a great success! Imagine what kind of feast we will throw from this body? Thank you.}
+{257}{}{This is a great success! Imagine what kind of feast we will throw from this body. Thank you.}
 {258}{}{See you in Garage City.}
 {259}{}{The Brahmin is almost in our hands. Wait until I bring him closer...}

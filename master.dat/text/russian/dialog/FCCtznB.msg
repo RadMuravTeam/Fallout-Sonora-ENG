@@ -1,4 +1,4 @@
-{100}{}{Here is a colonist.}
+{100}{}{You see a colonist.}
 {101}{}{You see a citizen of the colony.}
 {102}{}{What are you doing here during curfew?}
 {103}{}{I have better things to do than talk to strangers and strangers.}
@@ -18,7 +18,7 @@
 {212}{}{How do you feel about the cult of the Sacred Fire?}
 {213}{}{I've never liked this cult. What kind of crazy idea is it to worship old things and some mythical Fire? Any normal person has more important things to do.}
 {214}{}{Isn't a preacher engaged in healing and teaching?}
-{215}{}{Yes... if you properly appease him with a bunch of caps and then listen to idiotic nonsense. I can tell this nonsense about radiance, rent genes and other atoms for free myself. The whole church of the Sacred Fire consists of ordinary charlatans who help only for huge donations.}
+{215}{}{Yes... if you properly appease him with a bunch of caps and then listen to idiotic nonsense. I can tell this nonsense about radiance, rent genes, and other atoms for free myself. The whole church of the Sacred Fire consists of ordinary charlatans who help only with their huge donations.}
 {216}{}{I fully share your hatred for this stupid cult. What can we do?}
 {217}{}{I'll have to leave you with your skepticism. Be there.}
 {218}{}{Hmm-m. I don't know if I should believe you. But if you really want to cleanse the city of this filth, then one of two things - either we kill this sectarian, or the city will drive him away.}
@@ -29,7 +29,7 @@
 {223}{}{They say your relatives were enslaved. Then you should know that the sectarian has blessed the mercenaries for this "God-pleasing" enterprise. Some of your relatives were taken away by other fire worshippers and taken somewhere out of the city. If this is not enough, then think about the medicines that the sectarian receives from the south. That's where the real "uranium vein" is, eh?}
 {224}{}{How glad I am to see you!}
 {225}{}{Glad to see you.}
-{226}{}{Hiram tells my son's story at Sunday sermons. Nothing depends on me now.}
+{226}{}{Hiram tells my son's story in Sunday sermons. Nothing depends on me now.}
 
 {230}{}{I want you to come to the temple and publicly confess what you have done.}
 {231}{}{Are you out of your mind? So I will turn the whole city against me.}
@@ -52,7 +52,7 @@
 {251}{}{An idiotic cult that brainwashes people and pulls the bottlecaps out of them is *already* a weighty reason. But there is another one - this is my son suffering from the effects of radiation.}
 {252}{}{Sad story, let's change the subject.}
 {253}{}{Hiram refused to help you?}
-{254}{}{He demanded conversion to his faith. Not me, of course, but my son. He should become a servant of the temple, go to classes and morning prayers. Damn it. We moved away from these damned fanatics, and they still get into our personal life.}
+{254}{}{He demanded conversion to his faith. Not me, of course, but my son. He should become a servant of the temple, and go to classes and morning prayers. Damn it. We moved away from these damned fanatics, and they still get into our personal life.}
 {255}{}{Even the caps don't help?}
 {256}{}{The local temple is just a branch of the main temple from Phoenix. They have caps above the roof. Therefore, Hiram has enough means to exist. It's more important for him to impose his stupid faith on the colonists. And he will stop at nothing.}
 {257}{}{I can help with the treatment if you let me.}

@@ -1,4 +1,4 @@
-{100}{}{Here is Count Bustos.}
+{100}{}{You see Count Bustos.}
 {101}{}{You see a man in a solid but dilapidated suit. His gray temples seem to hint at a difficult past.}
 {102}{}{Thanks for the help. See you at my mansion.}
 {103}{}{Go back to the mansion. We'll talk there.}
@@ -44,12 +44,12 @@
 {1256}{}{Your daughter is dead. I saw it with my own eyes.}
 {257}{}{No! No!}
 {258}{}{I'm sorry.}
-{259}{}{(frantically) These bastards will pay cruelly. Listen UP, EVERYONE! I'll pay for the head of every son of a bitch who's stuck in a bar!}
+{259}{}{(frantically) These bastards will pay cruelly. Listen UP, EVERYONE! I'll pay for the head of every son of a bitch who's stuck in the bar!}
 {260}{}{Great, I'm in.}
 {261}{}{Without me. I don't want to participate in shootouts.}
 {262}{}{Bring my daughter. Immediately.}
-{263}{}{Now is not the time to talk. These highways will not give up so easily.}
-{264}{}{They deserve to be punished. But attacking while they're in the bar is too dangerous. Let them go, so at least you will save people.}
+{263}{}{Now is not the time to talk. These highwayman will not give up so easily.}
+{264}{}{They deserve to be punished. But attacking them while they're in the bar is too dangerous. Let them go, so at least you will save people.}
 {265}{}{I don't want another massacre in my city either. We already have a bloody reputation. Let them go. We're going back to the mansion.}
 {266}{}{The right decision, Mr. Mayor...}
 {267}{}{It doesn't make much sense. They are already leaving the city.}

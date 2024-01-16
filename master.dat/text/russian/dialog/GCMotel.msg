@@ -1,4 +1,4 @@
-{100}{}{Here is the administrator.}
+{100}{}{You see the administrator.}
 {101}{}{You see a bald, short man in badly worn clothes.}
 {102}{}{You have had a good rest and gained strength.}
 
@@ -57,7 +57,7 @@
 {219}{}{Forget it, I don't have so many caps right now.}
 {220}{}{I'm looking for a slave convoy that passed by the city. Do you know anything about it?}
 {221}{}{Perhaps. But sometimes there are gaps in my memory. And only the ringing of a hundred caps can fix it.}
-{222}{}{Yes, this is robbery! I'll ask someone else.}
+{222}{}{Yes, this is a robbery! I'll ask someone else.}
 {223}{}{Speak, you beast! My patience is running out!}
 {224}{}{That's not very kind of you. Every scavenger in this town knows me, and you're just a stranger from the wasteland. So get out of the motel before I call for help.}
 {225}{}{Let it be your way, here are a hundred caps. Now tell me everything you know.}
@@ -66,9 +66,9 @@
 {228}{}{I know that you have to be careful with these guys. Why do you ask?}
 {229}{}{I'm chasing this convoy. Do you know where he went?}
 
-{230}{}{(scrapes the bottlecaps under the table in amazement) I didn't think you were serious... yes, these guys have raised a fuss in our quiet town. It's been a long time since it's been so lively here. But the whole city got an excellent welding from them.}
+{230}{}{(scrapes the bottlecaps under the table in amazement) I didn't think you were serious... yes, these guys have raised a fuss in our quiet town. It's been a long time since it's been so lively here. But the whole city got excellent welding from them.}
 {231}{}{What are you talking about? What kind of welding?}
-{232}{}{Yes, almost any institution in the city got something of its own. In my motel, for example, there is not a single empty seat left. Almost all the drinks were drunk at the bar. And Mr. Kogan was counting on some contracts. The city lived for a whole week at the expense of all this mess with slaves.}
+{232}{}{Yes, almost any institution in the city has something of its own. In my motel, for example, there is not a single empty seat left. Almost all the drinks were drunk at the bar. And Mr. Kogan was counting on some contracts. The city lived for a whole week at the expense of all this mess with slaves.}
 {233}{}{Who are these slaveholders?}
 {234}{}{The squad was assembled from various mercenaries, but I do not know who the customer was. Obviously, he didn't want to drag himself so far.}
 {235}{}{So where did the squad go?}
@@ -78,10 +78,10 @@
 {239}{}{I think it's time for me to hit the road.}
 
 #Room
-{250}{}{It seems that you rent rooms for the night?}
+{250}{}{It seems that you rent rooms for the night.}
 {251}{}{Does the word "motel" mean anything to you? Yes. I rent rooms.}
 {252}{}{Tell me about the numbers.}
-{253}{}{A room for one person. Moderately *reliable* lock. The bed and furniture are attached, but I do not accept claims to cleanliness. At night, the lighting turns on in the corridor. The most important advantage is protection. No bandit will get through here so easily. So, you can sleep peacefully.}
+{253}{}{A room for one person. Moderately *reliable* lock. The bed and furniture are attached, but I do not accept claims of cleanliness. At night, the lighting turns on in the corridor. The most important advantage is protection. No bandit will get through here so easily. So, you can sleep peacefully.}
 {254}{}{Is this business really in demand?}
 {255}{}{Previously, the city actively traded with southern cities, crowds of seekers and caravanners flocked here. Recently, there have been few visitors. (sigh) Barely making ends meet.}
 {256}{}{How long have you been running this motel?}
@@ -92,7 +92,7 @@
 {261}{}{Tempting. I'll think about this proposal.}
 {262}{}{Enough of the story. Let's return to the more relevant issues.}
 {263}{}{Whatever you call it, but now I would like to change the subject.}
-{264}{}{Wow, you can give a lot for a quiet, peaceful sleep. How much does one night cost? }
+{264}{}{Wow, you can give a lot for a quiet, peaceful sleep. How much does one-night cost? }
 {265}{}{Oh, you should know about the wonderful adobe houses in my village... And how much does a night in this bedbug cost?}
 {266}{}{For you, it will cost in }
 {267}{}{ caps.}

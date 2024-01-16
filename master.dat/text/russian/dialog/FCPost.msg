@@ -1,4 +1,4 @@
-{100}{}{Here is En Brandley.}
+{100}{}{You see En Brandley.}
 {101}{}{You see a not particularly remarkable woman in business clothes.}
 {102}{}{Z-z-z}
 {103}{}{Sorry, we're closed. In these parts, no one needs our services anymore...}
@@ -7,7 +7,7 @@
 {120}{}{Please calm down!}
 {121}{}{I really have an empty cash register!}
 {122}{}{Don't touch anything here!}
-{123}{}{Listen, I really feel for you...}
+{123}{}{Listen, I feel for you...}
 {124}{}{I really can't help you!}
 {125}{}{Please go away, I have nothing!}
 {126}{}{Leave me alone!}
@@ -60,10 +60,10 @@
 {249}{}{How reliable is this contract?}
 
 {250}{}{You sure can... write?}
-{251}{}{Much better than most of the "literate" residents of the city. I took courses with the Followers of Fire... But I really don't have enough practice.}
+{251}{}{Much better than most of the "literate" residents of the city. I took courses with the Followers of Fire... But I don't have enough practice.}
 {252}{}{Uh, yes, of course.}
 {253}{}{We transport parcels once a month. And the cases of their loss can be counted on the fingers. We have experienced couriers. They know the terrain and ways of survival well. In case of loss of the parcel, you can claim compensation.}
-{254}{}{OF COURSE I can write! Otherwise I wouldn't be able to work here.}
+{254}{}{OF COURSE I can write! Otherwise, I wouldn't be able to work here.}
 {255}{}{Well, yes, well, yes.}
 
 #Quest
@@ -81,7 +81,7 @@
 {280}{}{About lost things. }
 {281}{}{What is it? Have you found them?}
 {282}{}{Just wondering if you have any ideas?}
-{283}{}{I don't know. In the morning, my things were with me, and after a walk around the city, they disappeared. Maybe someone saw from passers-by?}
+{283}{}{I don't know. In the morning, my things were with me, and after a walk around the city, they disappeared. Maybe some of the passersby saw it?}
 {284}{}{Good idea, we should try.}
 {285}{}{Oh yes. Here are your things.}
 {286}{}{Oh, really! I was afraid I'd lost them forever. You know, there is a lot of important information for me here. But who was that brazen thief?}
@@ -104,14 +104,14 @@
 {300}{}{What is this place?}
 {301}{}{This is the office of Sonora Express, the only delivery service in all of Arizona.}
 {302}{}{And what are you transporting?}
-{303}{}{Any small parcels, cover transfers and letters. There is another company for larger shipments, it cooperates with a uranium mine.}
+{303}{}{Any small parcels, cover transfers, and letters. There is another company for larger shipments, it cooperates with a uranium mine.}
 {304}{}{Unusual business in these places.}
 {305}{}{That's right. Previously, there was no need for parcels and letters, many did not even know how to write. But after the revolution, a lot has changed in the south. Sonora Express is one example.}
 {306}{}{So what is this place?}
 {307}{}{Are you here alone, without a guard?}
 {308}{}{It's safe in the colony, bandits don't come here because of the garrison and patrolmen. But outside the valley, especially along the trails, there are more and more bandits.}
 {309}{}{Why?}
-{310}{}{Previously, only wolves and rare tribes came across along the route, bandits had nowhere to profit. Now the growing Flagstaff attracts people to work.}
+{310}{}{Previously, only wolves and rare tribes came across the route, bandits had nowhere to profit. Now the growing Flagstaff attracts people to work.}
 
 {320}{}{Tell me about yourself.}
 {321}{}{My name is Ann Brandley, I own this office.}
@@ -120,7 +120,7 @@
 {324}{}{What made you leave Phoenix?}
 {325}{}{This is a big, but stuffy city in which competition does not allow anyone to turn around. I lacked freedom and security there.}
 {326}{}{Was it hard to get here?}
-{327}{}{I arrived by stagecoach on the wave of the first settlers. The road was difficult - we walked slowly because of the luggage, there was not enough clean water, hostile tribes attacked us several times. But in those days there were not so many bandits on the way as now.}
+{327}{}{I arrived by stagecoach on the wave of the first settlers. The road was difficult - we walked slowly because of the luggage, there was not enough clean water and hostile tribes attacked us several times. But in those days there were not so many bandits on the way as now.}
 {328}{}{Don't mercenaries bother you?}
 {329}{}{Soldiers in the garrison? Not at all. As long as my husband is one of them, this institution is not in danger.}
 {330}{}{Why do you call them soldiers?}
@@ -132,5 +132,5 @@
 {351}{}{It's a big city in the south, right here. (shows on the map) Go along Route 17 without turning off.}
 {352}{}{May I join your messengers?}
 {353}{}{We do not provide stagecoach services, it is against the company's rules. It is worth talking to the carriers of uranium ore, they sometimes need hired movers.}
-{354}{}{Great, I'll look in on them when I have time.}
+{354}{}{Great, I'll look into them when I have time.}
 {355}{}{Thanks, I'll go to them right now.}

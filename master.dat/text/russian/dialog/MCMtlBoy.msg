@@ -1,6 +1,6 @@
-{100}{}{Here is a cannibal victim.}
+{100}{}{You see a victim of cannibalism.}
 {101}{}{You see an exhausted man.}
-{102}{}{It's definitely better here than in that old motel. I will never stop there for the night again.}
+{102}{}{It's better here than in that old motel. I will never stop there for the night again.}
 
 {200}{}{Ah! Don't touch me!}
 {201}{}{I'm not going to touch you. Calm down.}
@@ -17,5 +17,5 @@
 {214}{}{So let's not waste time. Let's go.}
 {215}{}{Sit here and keep your head down. I'm on a reconnaissance mission.}
 
-{220}{}{We're definitely safe now. Ugh. If it wasn't for you, I would have been eaten by now. Thank you. I will tell all my friends who saved me.}
+{220}{}{We're safe now. Ugh. If it wasn't for you, I would have been eaten by now. Thank you. I will tell all my friends who saved me.}
 {221}{}{Happily. Good luck.}

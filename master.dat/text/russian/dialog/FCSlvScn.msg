@@ -1,10 +1,10 @@
-{100}{}{Here is a Smart Guy.}
+{100}{}{You see a Smart Guy.}
 {101}{}{You see a skinny man with glasses. He is busy with some calculations.}
 {102}{}{Finally... peace...}
 
 #Floating replicas
 {110}{}{So, uh, how much is eight by six?}
-{111}{}{I really don't know what these numbers mean.}
+{111}{}{I don't know what these numbers mean.}
 {112}{}{If I finish early, will they give me another fried rat?}
 {113}{}{Power failure again.}
 {114}{}{This iron will last no more than a year.}
@@ -63,8 +63,8 @@
 {258}{}{While the equipment was in working order, it was a radio station. Now it's just a warehouse of all sorts of junk. But outsiders don't belong here anyway.}
 
 {260}{}{Faber is dead. You're free.}
-{261}{}{God, why?! Without Faber, the whole Flagstaff will come to an end! The mercenaries will now fight over his place, and pogroms and looting will begin in the city! Do you have any idea how much work has been invested in the arrangement of this place? Thank you, of course, for freedom, but I don't need it anymore.}
+{261}{}{God, why?! Without Faber, the whole of Flagstaff will come to an end! The mercenaries will now fight over his place, and pogroms and looting will begin in the city! Do you have any idea how much work has been invested in the arrangement of this place? Thank you, of course, for freedom, but I don't need it anymore.}
 {262}{}{Hmm...}
 {263}{}{Why didn't you run away with the rest of the prisoners?}
-{264}{}{And where should I run? In the wasteland? The first mole-rat will bite me there. And in the city they won't even look at me. Prison is the only place where my talents were appreciated, given food and protection. Think what you want, but I was satisfied with this life.}
+{264}{}{And where should I run? In the wasteland? The first mole-rat will bite me there. And in the city, they won't even look at me. Prison is the only place where my talents were appreciated, and given food and protection. Think what you want, but I was satisfied with this life.}
 {265}{}{That's the irony. Okay, stay here, loser.}

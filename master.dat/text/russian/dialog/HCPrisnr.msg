@@ -1,4 +1,4 @@
-{100}{}{Here is a prisoner of war.}
+{100}{}{You see a prisoner of war.}
 {101}{}{You see a man with traces of beatings.}
 {102}{}{Jack is in front of you.}
 {103}{}{And this is your house? A little old-fashioned, but peaceful. I like it here.}
@@ -38,7 +38,7 @@
 {231}{}{Sounds like a pretty bad idea. Okay, I'll take it away. Until the first occasion.}
 {232}{}{It's not worth showing your hostility now.}
 {233}{}{We'll have to take off this armor.}
-{234}{}{OK. It's really quite stuffy in there.}
+{234}{}{OK. It's quite stuffy in there.}
 {235}{}{That's good.}
 {236}{}{Wait. Are you going to raise the alarm with the whole crowd? Well, no, I'd rather try to escape alone.}
 {237}{}{Are you sure? Your business.}
@@ -47,7 +47,7 @@
 {250}{}{What do you know about this place?}
 {251}{}{These places are unfamiliar to me. But I think it's not worth staying here.}
 {252}{}{I see.}
-{253}{}{Hermosillo is the ruins of a very old town. There were no residents here until the Mexican troops founded their fort. Apart from the old ruins, the military and a few civilians, there is nothing remarkable here.}
+{253}{}{Hermosillo is the ruins of a very old town. There were no residents here until the Mexican troops founded their fort. Apart from the old ruins, the military, and a few civilians, there is nothing remarkable here.}
 {254}{}{This is Phoenix, the biggest city I know of. But don't think that you can relax here. This city is treacherous.}
 {255}{}{Poor neighborhoods of Phoenix. I wouldn't live here. In any case, keep the gun close to your hands.}
 {256}{}{Sewage system? Well... listen, what are we even doing here?}
@@ -60,12 +60,12 @@
 {263}{}{Are you kidding? There is no brotherhood anymore!}
 {264}{}{The Brotherhood of Steel runs everything here. Great guys, if you don't piss them off. Keep your gun in your holster and watch your tongue, they don't like upstarts and provocateurs.}
 {265}{}{Some call this place the Devil's City. They say there are the living dead roaming the streets here or something like that. Listen, do we have to go there?}
-{266}{}{It turns out that the monks have been hiding this refuge from the rest of the city for many years? Damn, what other secrets do they keep in their dark storerooms?}
+{266}{}{It turns out that the monks have been hiding this vault from the rest of the city for many years. Damn, what other secrets do they keep in their dark storerooms?}
 
 {300}{}{Tell me about yourself?}
 {301}{}{There's nothing to tell. Call me Jack, if you like. I'm here by order of the caravaneers from the north. They needed guys to scout the southern lands. They hoped to find settlements suitable for trade here. But it seems that the idea is doomed to failure.}
 {302}{}{Why were you locked up in prison?}
-{303}{}{The military did not believe my explanations and decided that I was a spy. In their opinion, apparently, enemies are all around.}
+{303}{}{The military did not believe my explanations and decided that I was a spy. In their opinion, enemies are all around.}
 {304}{}{What are your plans now?}
 {305}{}{First we need to get out of Hermosillo, away from the garrison. And then we'll see.}
 {306}{}{Then let's get out of here.}
@@ -104,7 +104,7 @@
 {339}{}{You know, we should stick together. I need an assistant on the way, and you will surely find a place at the Villa when everything settles down there.}
 {340}{}{Do you think your relatives will accept me? Well, it's worth a try. It must be great to have your own home and family. Come on, partner. I'll watch your back.}
 {341}{}{Come on, Jack.}
-{342}{}{You're right. You're totally fucked. I think from now on our paths diverge.}
+{342}{}{You're right. You're majorly fucked. I think from now on our paths diverge.}
 {343}{}{Will you leave me like this? After everything we've been through together?}
 {344}{}{Yes. You've proved that you can't be trusted. Give me my things and go your own way.}
 {345}{}{And you know, I enjoyed escaping from the blazing Hermosillo with you. I think there will be a place for you at our Villa when everything settles down there.}
@@ -115,7 +115,7 @@
 {353}{}{[Next]}
 {354}{}{(Three hours later, Jack comes out to you with a contrite look)}
 {355}{}{How did the negotiations go?}
-{356}{}{These scum don't want to pay! In their opinion, I didn't get any valuable information. I had to tell you about you and my rescue from captivity. And for some reason they were interested in your personality. Go talk to Paladin Latham, he wants to see you. I'll rest here for now.}
+{356}{}{These scum don't want to pay! In their opinion, I didn't get any valuable information. I had to tell you about you and my rescue from captivity. And for some reason, they were interested in your personality. Go talk to Paladin Latham, he wants to see you. I'll rest here for now.}
 {357}{}{Okay, Jack. See you later.}
 {358}{}{The chief of the patrol service wanted to see you. Do you remember?}
 {359}{}{Something has changed. Now we are not welcome here. It's better to get out of here while your legs are intact.}

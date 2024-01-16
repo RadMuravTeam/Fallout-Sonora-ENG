@@ -1,10 +1,10 @@
-{110}{}{The equipment fails.}
+{110}{}{The equipment failed.}
 {111}{}{You managed to disable the radio transmitter. The whole colony was left without radio communication.}
 {112}{}{You have no idea how it works.}
 {113}{}{Not subject to repair.}
 
 #Dialog
-{200}{}{Enter the command.}
+{200}{}{Enter command.}
 {201}{}{End session.}
 {202}{}{Back.}
 {203}{}{The radio transmitter is not responding.}

@@ -1,4 +1,4 @@
-{100}{}{Here is Ben.}
+{100}{}{You see Ben.}
 {101}{}{Hiding his face with a mask, this man inspires fear in his subordinates.}
 {102}{}{Nothing personal. It's just that I'm sure I'll get a reward for your head.}
 {103}{}{You've been running these tracks for too long.}
@@ -16,7 +16,7 @@
 {1207}{}{I can't stand idiots...}
 {208}{}{Hey, what are you taking out?}
 {209}{}{You shouldn't do that to an ambassador of the outside world. It's in your best interest to keep me alive.}
-{210}{}{What the fuck are you talking about? And, apparently, Bustos sent you. This fool thinks that a couple of snipers can get rid of us. You know, the corpse of another mercenary is already lying behind the fence. But no one tried to talk to us until this moment.}
+{210}{}{What the fuck are you talking about? And Bustos sent you. This fool thinks that a couple of snipers can get rid of us. You know, the corpse of another mercenary is already lying behind the fence. But no one tried to talk to us until this moment.}
 {211}{}{Thank you, I hope for your understanding.}
 {212}{}{It was a pass fee. Now I'm ready to listen to you.}
 {213}{}{Thank you, uh, for letting me live.}
@@ -59,7 +59,7 @@
 {1256}{}{He knows perfectly well who is robbing caravans and why. What's the point of this performance, mercenary?}
 {257}{}{So, you admit your guilt. In the name of the law, you are all sentenced to death.}
 {258}{}{But why are you doing this? Aren't there other possibilities?}
-{259}{}{I lived in Casa Grande as a normal and law-abiding citizen. But Bustos came. He declared himself a count and seized power in the city. He declared the dissenters criminals and began to pursue.}
+{259}{}{I lived in Casa Grande as a normal and law-abiding citizen. But Bustos came. He declared himself a count and seized power in the city. He declared the dissenter's criminals and began to pursue them.}
 {260}{}{And now you have nowhere to go?}
 {261}{}{We are busy surviving through the fault of a tyrant and dictator. Robbing caravans, we just take our own - what was taken away from us. Besides, we are not bloodthirsty, we mercifully release the caravaneers who do not want a fight.}
 {262}{}{You're letting them go so they can lead a caravan again that can be robbed, aren't you? Oh, you bastards...}
@@ -67,7 +67,7 @@
 {264}{}{}
 {265}{}{ And I don't care how you justify your crimes. You deserve the death penalty.}
 {266}{}{You can be understood. I had to go through enslavement in Two-Sun. I can help you.}
-{267}{}{To be honest, I didn't know about this story. Now I definitely don't want to help Bustos.}
+{267}{}{To be honest, I didn't know about this story. Now I don't want to help Bustos.}
 
 {270}{}{I want to join your gang.}
 {271}{}{Why?}
@@ -94,7 +94,7 @@
 
 {290}{}{I escaped from the slave pen of the tinsmiths. Now I have nowhere to go.}
 {1290}{}{I escaped from the slave pen of the tinsmiths. Now I have nowhere to go.}
-{291}{}{You can be understood. Tinsmiths have annoyed many people in these lands. We ourselves have become a victim of their expansion.}
+{291}{}{You can be understood. Tinsmiths have annoyed many people in these lands. We have become a victim of their expansion.}
 {292}{}{Does that mean you'll accept me?}
 {293}{}{You'll have to prove your loyalty to the gang.}
 {294}{}{Sure. What should I do?}
@@ -117,22 +117,22 @@
 {320}{}{We rob caravans, hunt game, collect valuables from the ruins. The fuel depot provides us with a good service. Fire, like water, gives life. The water merchants in Casa Grande cannot understand our rage.}
 {321}{}{That's it. Interesting.}
 {322}{}{But how did you come to such a life? Where did all these guys come from?}
-{323}{}{Everyone has their own story. But we are all exiles. Some were kicked out of Casa Grande when Count Bustos came to power. Others were driven from their homes by tinsmiths. There are also those who fled from problems from Phoenix. We have no other way.}
+{323}{}{Everyone has their own story. But we are all exiles. Some were kicked out of Casa Grande when Count Bustos came to power. Others were driven from their homes by tinsmiths. There are also those who fled from problems in Phoenix. We have no other way.}
 {324}{}{It's really a turbulent time now.}
 {325}{}{What did the tinsmiths annoy you with?}
-{326}{}{Their power is expanding, and the inhabitants of the Wasteland take it for granted. They brazenly seize technologies and resources, impose their own rules in settlements, force them to work for the glory of their ideas. Now we are doing the same with their caravans.}
+{326}{}{Their power is expanding, and the inhabitants of the Wasteland take it for granted. They brazenly seize technologies and resources, impose their own rules in settlements, and force them to work for the glory of their ideas. Now we are doing the same with their caravans.}
 {327}{}{[Listen]}
-{328}{}{They came with their own understanding of life and began to set their own rules for us. Who asked them? Who gave them the right to decide what is good and what is bad? It used to be easier. Previously, everyone knew that the one who is able to stand up for his truth is right.}
-{329}{}{So you are fighting the invaders with their own methods? Curious.}
+{328}{}{They came with their understanding of life and began to set their own rules for us. Who asked them? Who gave them the right to decide what is good and what is bad? It used to be easier. Previously, everyone knew that the one who can stand up for his truth is right.}
+{329}{}{So you are fighting the invaders with their methods? Curious.}
 {330}{}{Tell me about Rio. He's not particularly open to me.}
 {331}{}{We are old friends. He is my right-hand man, I trust Rio more than anyone else. I know he doesn't like anyone who tries to gain my respect. You'll have to accept it and find a common language with him.}
 {332}{}{Clear.}
 {333}{}{What kind of place is this anyway?}
-{334}{}{Petro-Chico distillation station. Before the War, fuel was stored here. It seems that it was very valuable, since such a powerful fence was erected around it. Now it's giving us fire.}
+{334}{}{Petro-Chico distillation station. Before the War, fuel was stored here. It seems that it was very valuable since such a powerful fence was erected around it. Now it's giving us fire.}
 {335}{}{Clear.}
 {336}{}{What's your problem with the mayor of Casa Grande?}
 {337}{}{Count Bustos is a tyrant. He seized power in the city by cunning, killed or drove away all the dissenters. Now he enjoys a clean bath to the music of King Cole while we survive in the barren desert through his fault.}
-{338}{}{Looks like you've got a grudge against him. Let's change the subject?}
+{338}{}{Looks like you've got a grudge against him. Let's change the subject.}
 
 {350}{}{It's done. Your buddy is dead.}
 {351}{}{Your friend was killed by the locals. They organized a lynching right in the center of the city.}
@@ -140,7 +140,7 @@
 {353}{}{He's not my buddy. He's just a cog in my system. He owes his life to me, let him pay with it.}
 {354}{}{Well, then you'll figure it out for yourself.}
 {355}{}{Beautiful speech.}
-{356}{}{Now I see that you can be dealt with. The gang needs contacts with the rest of the world, you will be our intermediary.}
+{356}{}{Now I see that you can be dealt with. The gang needs contact with the rest of the world, you will be our intermediary.}
 {357}{}{Where should I go this time?}
 {358}{}{Well, it finally dawned on you that I'm here for a reason.}
 {359}{}{I sent that guy to investigate for a reason. The tinkerers are expanding their power, there are more caravans, and the mayor of Casa Grande is hiring more and more cool mercenaries. A new order is coming to these lands and Great Road Wars are brewing. My gang needs to strengthen in this new world.}
@@ -180,7 +180,7 @@
 {394}{}{I never imagined that your help would be so useful. You have proved your loyalty to the gang and can proudly wear the title of Blue Shield. Take this jacket and a flamethrower as a reward.}
 {1394}{}{I never imagined that your help would be so useful. You have proved your loyalty to the gang and can proudly wear the title of Blue Shield. Take this jacket and a flamethrower as a reward.}
 {395}{}{[Next]}
-{396}{}{It seems you have a long road ahead of you. I remember you needed allies. You can take the bike from Rio. With it, you will quickly get to any point on the highways.}
+{396}{}{It seems you have a long road ahead of you. I remember you needed allies. You can take the bike from Rio. With it, you will quickly get to any point on the highway.}
 {397}{}{Thanks, Ben. You are a true friend.}
 {398}{}{Don't say "thank you." We don't know that word. Just take what you deserve. It's your right.}
 {399}{}{Then goodbye, Ben.}

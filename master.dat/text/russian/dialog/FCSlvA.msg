@@ -1,4 +1,4 @@
-{100}{}{Here is a colonist.}
+{100}{}{You see a colonist.}
 {101}{}{You see a citizen of the colony.}
 {102}{}{Better not bother me.}
 {103}{}{Damn psycho, why did you kill my servant?! And who will pay me back the bottlecaps for it?}
@@ -37,5 +37,5 @@
 {217}{}{Okay, okay, I'm really hot today... But just dare to touch me and I'll call the guards. You definitely won't like it.}
 {218}{}{[Next]}
 {219}{}{}
-{220}{}{Let me give you some advice. I don't know what's on your mind, but the servants in this colony have to be kept on a leash. Otherwise it will end badly... All the best.}
+{220}{}{Let me give you some advice. I don't know what's on your mind, but the servants in this colony have to be kept on a leash. Otherwise, it will end badly... All the best.}
 {221}{}{Goodbye.}

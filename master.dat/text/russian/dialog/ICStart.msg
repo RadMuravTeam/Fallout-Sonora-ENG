@@ -44,7 +44,7 @@
 {255}{}{I'm ready to hit the road.}
 {1255}{}{I'm ready to hit the road.}
 {256}{}{Soon you will be in another world, friend.}
-{1256}{}{Soon you'll be in another world, girlfriend.}
+{1256}{}{Soon you'll be in another world, miss.}
 {257}{}{[Go on a trip]}
 {258}{}{You have too many things.}
 {259}{}{I have too many things. I'll come back when I hide them somewhere.}

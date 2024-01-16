@@ -1,4 +1,4 @@
-{100}{}{Here is a raider.}
+{100}{}{You see a raider.}
 {101}{}{You see your partner in the raid on the burrows.}
 {102}{}{It was a glorious battle, wasn't it?}
 

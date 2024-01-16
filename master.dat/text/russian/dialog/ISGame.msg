@@ -1,4 +1,4 @@
-{100}{}{Here is a slot machine.}
+{100}{}{You see a slot machine.}
 
 {110}{}{The slot machine is not working.}
 {111}{}{Please insert coins into the slot machine to start the game.}
@@ -37,7 +37,7 @@
 {202}{}{I'll take the ultra perception coupon.}
 {203}{}{I'll take a super-tolerance coupon.}
 {204}{}{I'll take the extra-attractiveness coupon.}
-{205}{}{I'll take the megaintellect coupon.}
+{205}{}{I'll take the mega intellect coupon.}
 {206}{}{I'll take the hyper-agility coupon.}
 {207}{}{I'll take a multi-issue coupon.}
 {208}{}{I don't need it.}

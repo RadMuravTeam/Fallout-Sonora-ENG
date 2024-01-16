@@ -1,4 +1,4 @@
-{100}{}{Here is a mercenary.}
+{100}{}{You see a mercenary.}
 {101}{}{You see an ordinary mercenary who keeps order in the colony.}
 {102}{}{*Muttering something to himself*}
 
@@ -8,7 +8,7 @@
 {112}{}{What are you doing here?}
 {113}{}{Our colony is open to everyone... Well, you know.}
 {114}{}{You can make good money here.}
-{115}{}{They say that raid on the Villa brought excellent bottlecaps.}
+{115}{}{They say that the raid on the Villa brought a lot of bottlecaps.}
 {116}{}{Don't hang around here doing nothing.}
 {117}{}{Don't talk to prisoners.}
 {118}{}{It's better not to bother the boss when he's furious.}

@@ -1,4 +1,4 @@
-{100}{}{Here is a servant.}
+{100}{}{You see a servant.}
 {101}{}{You see a servant with traces of beatings all over his emaciated body.}
 {102}{}{Can I really go?}
 {103}{}{Help! The owner will kill me!}
@@ -23,8 +23,8 @@
 {221}{}{For the cap, señor. I, an insignificant lump of dirt, probably dropped it when I went shopping for the owner.}
 {1221}{}{For the cap, señora. I, an insignificant lump of dirt, probably dropped it when I went shopping for the owner.}
 {222}{}{Did he beat you because of ONE cap?}
-{223}{}{The cap is a lot, señor. On the cap you can buy... half an iguana. But... (decides to look up at you and immediately drops down) Yes, it's a small amount, señor. The owner is angry because of the debts, because the city is now restless.}
-{1223}{}{The cap is a lot, señora. On the cap you can buy... half an iguana. But... (decides to look up at you and immediately drops down) Yes, it's a small amount, señora. The owner is angry because of the debts, because the city is restless now.}
+{223}{}{The cap is a lot, señor. On the cap you can buy... half an iguana. But... (decides to look up at you and immediately drops down) Yes, it's a small amount, señor. The owner is angry because of the debts because the city is now restless.}
+{1223}{}{The cap is a lot, señora. On the cap you can buy... half an iguana. But... (decides to look up at you and immediately drops down) Yes, it's a small amount, señora. The owner is angry because of the debts because the city is restless now.}
 {224}{}{It can be seen that things are not going well here.}
 
 {230}{}{I'm looking for my relatives. They were enslaved just like you.}

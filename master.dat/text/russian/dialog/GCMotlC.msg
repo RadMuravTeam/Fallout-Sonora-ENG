@@ -1,4 +1,4 @@
-{100}{}{Here is a scavenger.}
+{100}{}{You see a scavenger.}
 {101}{}{You see a guy red with tension.}
 
 {110}{}{Don't you dare blab}

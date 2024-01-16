@@ -1,4 +1,4 @@
-{100}{}{Here is a raider.}
+{100}{}{You see a raider.}
 {101}{}{One of the highway robbers.}
 
 {110}{}{Hey, how's business?}

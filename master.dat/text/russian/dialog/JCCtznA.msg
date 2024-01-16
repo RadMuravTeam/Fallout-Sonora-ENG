@@ -1,5 +1,5 @@
 {100}{}{You see a bitch.}
-{101}{}{Here is one of the bitches of the Jackal tribe.}
+{101}{}{You see one of the bitches of the Jackal tribe.}
 
 #Retaliatory remarks
 {200}{}{ (baring his teeth) Shh! Don't come near me, stranger!}

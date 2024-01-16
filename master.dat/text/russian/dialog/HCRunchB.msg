@@ -1,5 +1,5 @@
 {100}{}{You see Dominguez's wife.}
-{101}{}{Here is a typical peasant's wife.}
+{101}{}{You see a typical peasant's wife.}
 {102}{}{Please be careful! You'll break all my dishes in this thing!}
 {103}{}{The old shoes haven't worn out yet.}
 {104}{}{A woman is crazy about new shoes.}
@@ -17,7 +17,7 @@
 {201}{}{Aren't the military supposed to protect you?}
 {202}{}{Oh, yes, mostly they don't touch us, because we supply meat to the garrison. The general himself signed a decree on our protection. But these soldiers turned out to be nervous because of the pursuit of some spy, so they allowed themselves too much. In the end, they even caught him, but at the same time they were up to their ears in mud.}
 {203}{}{And what did they want from you?}
-{204}{}{They thought the spy might have been hiding with us, but in the end he was caught up in the desert. On the way back, they stopped by to rest, eat and get water. It's just a very unpleasant story.}
+{204}{}{They thought the spy might have been hiding with us, but in the end, he was caught up in the desert. On the way back, they stopped by to rest, eat and get water. It's just a very unpleasant story.}
 {205}{}{[Next]}
 {206}{}{However, one of them secretly took our radio. As if with its help we can eavesdrop on military negotiations. What nonsense!}
 {207}{}{And the truth is that this is not very good behavior. I think it's time for me to run away from here as fast as I can. Goodbye, señora.}

@@ -1,4 +1,4 @@
-{100}{}{Here is a mechanic.}
+{100}{}{You see a mechanic.}
 {101}{}{You see a simple hard worker. He is hard at work repairing old junk.}
 {102}{}{Now there will be more useful things and bottlecaps in the mechanic's product.}
 {103}{}{Now there will be even more useful things and bottlecaps in the mechanic's product.}
@@ -7,7 +7,7 @@
 {200}{}{Oh! Salute, compañero! First time in the city?}
 {201}{}{Is this a city?}
 {202}{}{And why not, señor? There is everything that the city should have - a bar, a hotel, housing, work. Live a little, you'll see for yourself.}
-{1202}{}{And why not, señorita? There is everything that the city should have - a bar, a hotel, housing, work. Live a little, you'll see for yourself.}
+{1202}{}{And why not, señorita? There is everything that the city should have - a bar, a hotel, housing, and work. Live a little, you'll see for yourself.}
 {203}{}{Uh, I'll think about it. And who are you?}
 {204}{}{My name is Pedro Fuerte... or just Pete.}
 {205}{}{I'll call you Pete.}
@@ -48,8 +48,8 @@
 {238}{}{Scavengers do not forgive this, no way. Within the clan, all the extracted resource is given to the leader, and the income is divided among all. If someone breaks the rules, then he doesn't stay here for long.}
 
 {240}{}{Your boss is dead. What are you going to do now?}
-{241}{}{This is bad, señor. The boss humiliated me, paid half a penny for hard work, but without him... without him, the whole Garage City will become a dump!}
-{1241}{}{This is bad, señora. The boss humiliated me, paid half a penny for hard work, but without him... without him, the whole Garage City will become a dump!}
+{241}{}{This is bad, señor. The boss humiliated me and paid half a penny for hard work, but without him... without him, the whole Garage City would become a dump!}
+{1241}{}{This is bad, señora. The boss humiliated me and paid half a penny for hard work, but without him... without him, the whole Garage City would become a dump!}
 {242}{}{Are you sure?}
 {243}{}{Only he knew how to run a business. And now there will be a war for the mine among the scavengers. I don't know what to do... Maybe it's time to leave these places. But where will I go?}
 {244}{}{Looks like you don't have a choice. Let's talk about something more pleasant.}
@@ -61,7 +61,7 @@
 {253}{}{Uh, no, the boss knows what he's talking about.}
 {254}{}{You know, you don't have to always be so executive.}
 {255}{}{Great. So what do you say you're selling?}
-{256}{}{Just look at this junk. You'll be selling it forever! And I can buy right now.}
+{256}{}{Just look at this junk. You'll be selling it forever! And I can buy it right now.}
 {257}{}{Your truth, señor. (reveals some part of the product)}
 {1257}{}{Your truth, señora. (reveals some part of the product)}
 {258}{}{If you refuse me a good product, you will miss a valuable customer.}
@@ -89,9 +89,9 @@
 {279}{}{I'll pay with REAL caps.}
 
 {280}{}{What are these, bottle caps?}
-{281}{}{Well, yes, we use them as money before the Great War. Don't you know about it?}
+{281}{}{Well, yes, we used them as money before the Great War. Don't you know about it?}
 {282}{}{It looks a bit... strange.}
-{283}{}{Everyone is already used to it. And it's just convenient. Just be careful, someone started minting their own caps. This is bad, because if there are too many caps, they will become worthless. And the richest person will be the one who makes them.}
+{283}{}{Everyone is already used to it. And it's just convenient. Just be careful, someone started minting their own caps. This is bad because if there are too many caps, they will become worthless. And the richest person will be the one who makes them.}
 {284}{}{Yes, it's a little unfair.}
 {285}{}{We've been trying to track down this Pendejo for a long time. If you find out who is minting fake caps, tell me.}
 {286}{}{Required.}
@@ -113,7 +113,7 @@
 {300}{}{What services does the garage provide?}
 {301}{}{We repair everything that needs to be repaired - weapons, armor, your favorite lawn mower. The only question is how many caps can you pay.}
 {302}{}{Do they repair cars or something like that here?}
-{303}{}{Oh, if only! Basically, I disassemble old equipment into useful parts. Fixing something really self-propelled is my dream.}
+{303}{}{Oh, if only! Basically, I disassemble old equipment into useful parts. Fixing something self-propelled is my dream.}
 {304}{}{Take a look at my bike.}
 {305}{}{In that case, take a look at my bike.}
 {306}{}{I see. Then what are you repairing?}

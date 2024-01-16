@@ -1,5 +1,5 @@
-{100}{}{You see the sentry.}
-{101}{}{Here is a private in a typical army armor with a recognizable symbol. He makes sure that outsiders do not enter the garrison.}
+{100}{}{You see a sentry.}
+{101}{}{You see a private in a typical army armor with a recognizable symbol. He makes sure that outsiders do not enter the garrison.}
 {102}{}{Un intruso!}
 
 {110}{}{*Yawn*}
@@ -26,7 +26,7 @@
 
 {200}{}{Shalto ahi! No te muevas.}
 {201}{}{What?}
-{202}{}{Eres un gringo, No? Hablas espanol?}
+{202}{}{Eres un gringo, No? Hablas Espanol?}
 {203}{}{Mine speak the language of the fists. Look and be surprised, native...}
 {204}{}{Unfortunately, I don't speak Spanish.}
 {205}{}{American - road - stop. Do you understand? Go back. Quickly.}
@@ -48,7 +48,7 @@
 {232}{}{Have you crossed the Sonoran desert? It's hard to believe. But in any case, turn around and go back.}
 {1232}{}{Have you crossed the Sonoran desert? It's hard to believe. But in any case, turn around and go back.}
 {233}{}{Why are you sending me away?}
-{234}{}{In front of you is the fort of the united Mexican Army. Civilians are not allowed here. I have orders to shoot anyone who violates the garrison border without permission.}
+{234}{}{In front of you is the fort of the United Mexican Army. Civilians are not allowed here. I have orders to shoot anyone who violates the garrison border without permission.}
 {235}{}{I understand. OK, I'll leave.}
 {236}{}{Can I join your ranks?}
 {237}{}{For a gringo from the north to become one of us? This is ridiculous. Just get out of here. Believe me, you have nothing to do here.}
@@ -76,4 +76,4 @@
 {258}{}{And if I give you this bottle of invigorating?}
 {259}{}{Okay, I'll talk to the commander...}
 {260}{}{Return it.}
-{261}{}{Please return it. It's terribly unfair.}
+{261}{}{Please return it. It's unfair.}

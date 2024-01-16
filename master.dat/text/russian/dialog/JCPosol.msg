@@ -1,5 +1,5 @@
 {100}{}{You see the delegate.}
-{101}{}{Here is a negotiator from the Rangers.}
+{101}{}{You see a negotiator from the Rangers.}
 {102}{}{The ambassador was killed... jackals. And I have nothing to do with it.}
 {103}{}{What kind of cretin started a massacre? All my work went down the jackal's ass!}
 {104}{}{Something happened. Now the Jackals are chasing me away.}
@@ -16,7 +16,7 @@
 {211}{}{It's hard, but progress is tangible. The first thing you need is to appease the Jackals with a small present of provisions. And then we will teach them to lead a civilized way of life.}
 {212}{}{What do you think? Someone broke all the plans by killing the Jackals. It remains to be hoped that these savages will not scatter across Sonora and Mojave in search of new victims.}
 {213}{}{Will Jackals be of use?}
-{214}{}{Rangers can learn tactics and survival from them. And they can also be used to monitor the terrain. It's already worth a lot. But I'm worried about their stupid principles - cannibalism, belief in the Spirit of Refuge, underground lifestyle and other nonsense. It will take a long time to get rid of this.}
+{214}{}{Rangers can learn tactics and survival from them. And they can also be used to monitor the terrain. It's already worth a lot. But I'm worried about their stupid principles - cannibalism, belief in the Spirit of the vault, underground lifestyle and other nonsense. It will take a long time to get rid of this.}
 {215}{}{How do you feel about an alliance with Jackals?}
 {216}{}{A difficult question. Many are dissatisfied with the concessions and believe that the Jackals should simply be eliminated. From this, the reputation of the Rangers was a little shaken. But after communicating with the tribe, I realized that this is not the way out. Their "flock" is scattered throughout the Mojave Desert and further west. By eliminating this lair, we will only anger the other clans. It's like throwing a stone into a river to change its course.}
 {217}{}{Why *in fact* did the Rangers agree to the alliance?}

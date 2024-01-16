@@ -1,4 +1,4 @@
-{100}{}{Here is a ranger.}
+{100}{}{You see a ranger.}
 {101}{}{You see the prisoner. The jackals pretty much beat up this poor guy.}
 {102}{}{Great. So I can live a little longer.}
 {103}{}{Is that all you've learned, Ranger?}
@@ -32,7 +32,7 @@
 {234}{}{My group explored the area. And these cunning sons of bitches lured us into a trap. I'm the only one who survived.}
 {235}{}{I see.}
 {236}{}{Jackals did not dare to open battle?}
-{237}{}{It's not their style. Individually, they are cowardly, attacking only as a whole pack... Arch, my legs are burning... Damn these savages!}
+{237}{}{It's not their style. Individually, they are cowardly, attacking only as a whole pack... Arch, my legs are burning... Damn, these savages!}
 {238}{}{What were you looking for in such a wilderness?}
 {239}{}{We were given a task. And orders are not discussed. This is the Rangers' charter.}
 {240}{}{Okay, I'll take your word for it.}
@@ -40,7 +40,7 @@
 {242}{}{And you have an eye for lies... The commanders believed that the Jackals would be a good reason for a contract with a neighboring city.}
 {243}{}{What kind of contract?}
 {244}{}{Are you Rangers always keeping something back?}
-{245}{}{Local settlements suffer from Jackals. If we got rid of them, we would increase our reputation in the neighboring settlements. Yes, they could also impose a lucrative contract on them. But first you need to collect strategic information about the enemy and the terrain... But how about you stop talking and get out of here faster?}
+{245}{}{Local settlements suffer from Jackals. If we got rid of them, we would increase our reputation in the neighboring settlements. Yes, they could also impose a lucrative contract on them. But first, you need to collect strategic information about the enemy and the terrain... But how about you stop talking and get out of here faster?}
 {246}{}{Not until I get more information.}
 {247}{}{Good idea.}
 {248}{}{What do you know about these burrows?}

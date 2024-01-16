@@ -1,4 +1,4 @@
-{100}{}{Here is an assistant.}
+{100}{}{You see an assistant.}
 {101}{}{You see a disfigured person. His face slides down like wax.}
 
 {110}{}{It's strange that they let you in here.}
@@ -10,7 +10,7 @@
 {116}{}{Desert dwellers are stupid.}
 {117}{}{Obey Levi.}
 {118}{}{I don't trust you or strangers like you.}
-{119}{}{Our people have suffered so much from normics...}
+{119}{}{Our people have suffered so much from normies...}
 
 {120}{}{Oh, come in, friend, have a seat.}
 {121}{}{Even though you are a pagan, but at least harmless.}
@@ -19,6 +19,6 @@
 {124}{}{What's wrong with your skin? How did you manage to save it?}
 {125}{}{You normies are doing great in this new world.}
 {126}{}{People amaze me with their vitality.}
-{127}{}{Obey Levi, he was God's own confidant!}
+{127}{}{Obey Levi, he was God's confidant!}
 {128}{}{I trust you. But not to these racists from the Brotherhood of Steel.}
 {129}{}{Our people have been through a lot. You wouldn't understand.}

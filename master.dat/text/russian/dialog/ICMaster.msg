@@ -1,10 +1,10 @@
-{100}{}{Here is Levi.}
+{100}{}{You see Levi.}
 {105}{}{Bastards! You will pay for the death of my comrades!}
 
 {110}{}{In the name of the Creator...}
 {111}{}{In the name of His Holy Spirit...}
 {112}{}{Accept the sinful soul of your slave...}
-{113}{}{Servant of God, kneel down and repent of your sins before the face of the Creator.}
+{113}{}{Servant of God, kneel and repent of your sins before the face of the Creator.}
 {114}{}{Drink from the holy chalice of the Holy Virus.}
 {115}{}{May the Holy Spirit be with you.}
 {116}{}{Amen.}
@@ -27,9 +27,9 @@
 {214}{}{Obviously, they are not here. You have a small mind if you're looking for a slave convoy in such a lifeless place.}
 {215}{}{Still, I had to check. But what are YOU doing here?}
 {216}{}{I'm looking for the Brotherhood of Steel convoy. He was lost somewhere in these ruins.}
-{217}{}{Oh yes. So the Brotherhood sent a mercenary instead of risking their own people. As I expected, they do not have enough forces in this region for full-fledged rescue operations. So much the better for us.}
+{217}{}{Oh yes. So the Brotherhood sent a mercenary instead of risking their people. As I expected, they do not have enough forces in this region for full-fledged rescue operations. So much the better for us.}
 {218}{}{Why is that? Are you up to something?}
-{219}{}{It's a long story. Some people think I'm the devil and I'm trying to create my own hell. But in fact, I'm trying to create a paradise for my people in the middle of hell.}
+{219}{}{It's a long story. Some people think I'm the devil and I'm trying to create my hell. But in fact, I'm trying to create a paradise for my people in the middle of hell.}
 {220}{}{Sounds like a diabolical plan.}
 {221}{}{Go on.}
 {222}{}{That's very noble of you.}
@@ -54,11 +54,11 @@
 {241}{}{Don't come near me, big guy!}
 
 {242}{}{Batvas? Great.. What?}
-{243}{}{(heavy sigh) Poor child... It's amazing that you managed to survive and get here. But don't worry. We're your friends. We will help. You won't hurt your friends, right?}
+{243}{}{(heavy sigh) Poor child... Amazingly, you managed to survive and get here. But don't worry. We're your friends. We will help. You won't hurt your friends, right?}
 {244}{}{Oh, friends! Friends!}
 {245}{}{You're lying. You're bad. I don't have a friend.}
 {246}{}{Well, I understand. You're lonely, like the rest of us. But now we're your friends. I give you my word, you'll be fine with us.}
-{247}{}{No! Don't believe! Deception!}
+{247}{}{No! Don't believe it! Deception!}
 {248}{}{There will be too many problems with this body. Garrett, end his suffering...}
 {249}{}{Yeah!}
 
@@ -80,21 +80,21 @@
 {262}{}{I've heard that before. Let's do something else.}
 {1262}{}{I've heard that before. Let's do something else.}
 {263}{}{The shepherd? Are you a priest or something?}
-{264}{}{Our church was destroyed by pagans like you. Our god died in the atomic flame, so I lead my flock according to his precepts. But far from those lands where our faith has turned into shame.}
+{264}{}{Our church was destroyed by pagans like you. Our god died in the atomic flame, so I led my flock according to his precepts. But far from those lands where our faith has turned into shame.}
 {265}{}{And what kind of faith and what is it?}
 {266}{}{You won't understand the basics even for an entire mass. I will only say that our God, the Creator, wanted to rid people of their vices and shortcomings by offering a different way.}
 {267}{}{Is the other way a path of mutations and deformity?}
-{268}{}{Your view is limited. Thanks to the Creator, we are devoid of human vices and are able to survive even in such a perilous place as these ruins. And you?}
+{268}{}{Your view is limited. Thanks to the Creator, we are devoid of human vices and can survive even in such a perilous place as these ruins. And you?}
 {269}{}{I don't think I would have settled here at all. But why did you come to these ruins?}
 {1269}{}{I don't think I would have settled here at all. But why did you come to these ruins?}
 {270}{}{Why did you choose this particular place for your flock?}
-{271}{}{A simple tactic. Here we are safe from pagans and heretics. We are gathering our strength for the Second Coming, when the Creator will rise again from the ashes.}
+{271}{}{A simple tactic. Here we are safe from pagans and heretics. We are gathering our strength for the Second Coming when the Creator will rise again from the ashes.}
 {272}{}{Your story is interesting. But there are more important things to do.}
 {273}{}{So what is this faith that you cling to so much?}
 {274}{}{It looks like this Creator was really important to you.}
 {275}{}{We are the Children Of the Cathedral. We were crucified for our faith, but we will continue our prayers until the end of the world. This is our burden.}
 {276}{}{And in my opinion, you are just another sect. I don't believe you.}
-{277}{}{It looks like you really believe what you're saying.}
+{277}{}{It looks like you believe what you're saying.}
 {278}{}{Your devotion to faith is worthy of respect.}
 
 {280}{}{How did you and the others become like this?}
@@ -108,7 +108,7 @@
 {288}{}{Okay.}
 
 {290}{}{What do you know about Diana?}
-{291}{}{The followers of the Apocalypse are kind, but stupid people. They try to help others to the best of their understanding of this help. They treat people like me with condescension, as if we need their care. But it's the opposite.}
+{291}{}{The followers of the Apocalypse are kind but stupid people. They try to help others to the best of their understanding of this help. They treat people like me with condescension, as if we need their care. But it's the opposite.}
 {292}{}{Why do you need Diana?}
 {293}{}{She is a medic and a scientist. Exactly the one I need to complete the mission.}
 {294}{}{And what kind of mission is this?}
@@ -123,7 +123,7 @@
 {304}{}{Clearly.}
 
 {310}{}{Diana has developed a mutagen.}
-{311}{}{Her work is priceless. But for now I can't risk giving medicine to my people.}
+{311}{}{Her work is priceless. But for now, I can't risk giving medicine to my people.}
 {312}{}{Do you want to check it out? But how?}
 {313}{}{Let's see how the mutagen acts on our distraught brothers living in ruins. Take these sprayers and place them in the busiest places. Where the rippers hold their demonic rites.}
 {314}{}{You do realize that I could die on this mission?}
@@ -138,7 +138,7 @@
 
 {330}{}{Your work is priceless. But I can't accept it yet.}
 {331}{}{We have completed the task. What's wrong? Do you need any guarantors?}
-{332}{}{The lives of my people depend on this medicine. Prove that it is really safe.}
+{332}{}{The lives of my people depend on this medicine. Prove that it is safe.}
 {333}{}{We did everything you wanted. If you don't want to keep your word, then go to hell.}
 {334}{}{It's very rude. Garrett, show our guest that he is no longer welcome here...}
 {335}{}{Die!}
@@ -175,7 +175,7 @@
 {362}{}{That's right, brother. You're a new person now. Forget the past and live in the present. Consider your past mission complete.}
 {1362}{}{That's right, Sister. You're a new person now. Forget the past and live in the present. Consider your past mission complete.}
 {363}{}{Will you let Diana go now?}
-{364}{}{Of course. She had fulfilled her mission and deserved forgiveness. But let him remember that Inferno is now under my control. All "normal" entrance here will be closed. I'll let her go and get her things, but don't let her come back.}
+{364}{}{Of course. She had fulfilled her mission and deserved forgiveness. But let him remember that Inferno is now under my control. All "normal" entrances here will be closed. I'll let her go and get her things, but don't let her come back.}
 {365}{}{Let me take my leave, Brother Levi.}
 {366}{}{So what have we decided about the mutagen?}
 {367}{}{Your task is to install mutagen sprayers in the busiest places where the most rippers gather.}

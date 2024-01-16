@@ -1,7 +1,7 @@
-{100}{}{Here is Preacher Hiram.}
+{100}{}{You see Preacher Hiram.}
 {101}{}{You see a man in a shabby cassock.}
 {102}{}{What... what are you doing...}
-{103}{}{...kx-x... hr-r-r...}
+{103}{}{...kh-h... hr-r-r...}
 {104}{}{Heretic! The technology of the Ancients is not for simple walks. This armor belongs in our main temple, in Phoenix.}
 
 #The first dialog
@@ -92,7 +92,7 @@
 {274}{}{Irradiation.}
 {275}{}{Poisoning.}
 {276}{}{However, nothing significant.}
-{277}{}{Of course, the church will help you, but don't you want to reward her with a small donation? It 's about the amount in }
+{277}{}{Of course, the church will help you, but don't you want to reward her with a small donation? It's about the amount in }
 {278}{}{ caps.}
 {279}{}{Here are the bottlecaps.}
 {280}{}{I don't have so many bottlecaps!}
@@ -124,7 +124,7 @@
 {300}{}{Are the bottlecaps the only problem?}
 {301}{}{Many despise our faith, but usually keep it to themselves. Some are not so restrained.}
 {302}{}{Is someone threatening you?}
-{303}{}{Someone unknown commits despicable acts at night - draws crosses on the walls, sets fires, dirties the door with mud. Obviously, he is trying to intimidate me and persuade me to escape from the colony. But I did not manage to meet this infidel face to face.}
+{303}{}{Someone unknown commits despicable acts at night - draws crosses on the walls, sets fires, dirties the door with mud. He is trying to intimidate me and persuade me to escape from the colony. But I did not manage to meet this infidel face to face.}
 {304}{}{Maybe I can find him. It's interesting to find out why he disliked you so much.}
 {305}{}{I don't want to get involved in such dark matters. Let's change the subject.}
 {306}{}{I would be extremely grateful.}
@@ -143,13 +143,13 @@
 {318}{}{What happened?}
 {319}{}{Festus' child became a quantum of discord. I begged to send this gifted youngster to study at the temple, but Festus refused in a rage. Alas, even in Flagstaff, many do not understand the value of knowledge and rely only on brute force.}
 {320}{}{[Next]}
-{321}{}{When the boy was seized by a radiant illness, I promised free treatment if the father changed his mind and gave his son to the temple. But Festus' hatred proved irresistible. Obviously, he's taking revenge now.}
+{321}{}{When the boy was seized by a radiant illness, I promised free treatment if the father changed his mind and gave his son to the temple. But Festus' hatred proved irresistible. He's taking revenge now.}
 {322}{}{What can I do?}
 {323}{}{To reason with Festus so that he would abandon the threats and give the child to the temple? This is extremely difficult.}
 {324}{}{It remains... murder?}
 {325}{}{Uh, I'll try the first option.}
 {326}{}{I need time to think.}
-{327}{}{When nuclear fuel becomes harmful, it is isolated and plunged into darkness. Otherwise it will be dangerous to others.}
+{327}{}{When nuclear fuel becomes harmful, it is isolated and plunged into darkness. Otherwise, it will be dangerous to others.}
 {328}{}{Well, may the Sacred Fire help you.}
 {329}{}{Uh, okay.}
 
@@ -176,11 +176,11 @@
 {349}{}{An accident? Lethal radiation dose? Poison? I am not an expert on such issues.}
 
 {350}{}{Thank you.}
-{351}{}{May the Flame of Heaven protect you. At the next sermon I will tell you about your benefactor. I'm sure it will raise your reputation in the eyes of ordinary colonists.}
+{351}{}{May the Flame of Heaven protect you. In the next sermon, I will tell you about your benefactor. I'm sure it will raise your reputation in the eyes of ordinary colonists.}
 {352}{}{Well, it's deserved. Take it.}
 {353}{}{Well, it's deserved. You can count on... "discount".}
 {354}{}{I can only offer 100 caps, as parishioners are stingy with donations. However, this is enough to get Faber to talk.}
-{355}{}{Hmm. I can write a letter of recommendation to the main Fire temple in Phoenix. But still your merit is not so great. We'll have to make some more donations.}
+{355}{}{Hmm. I can write a letter of recommendation to the main Fire temple in Phoenix. But still, your merit is not so great. We'll have to make some more donations.}
 {356}{}{This collection of priceless pre-war knowledge requires special treatment. Treat him with respect.}
 {357}{}{Forget about Festus and his baby. You're late.}
 {358}{}{Is he cured again? It seemed to me that this problem would never be solved without my intervention. Well, with great regret I have to give up my demands.}
@@ -193,7 +193,7 @@
 {363}{}{We've already eliminated Festus. It's time to fulfill the promise.}
 {364}{}{Delaying the process will not please the main temple of Fire.}
 {365}{}{Your integrity will only turn people against us.}
-{366}{}{The temple will increase its reputation if it concedes in this situation.}
+{366}{}{The temple will increase its reputation if it concedes to this situation.}
 {367}{}{Then I'll start treatment as soon as I'm ready.}
 {368}{}{That's good.}
 {369}{}{I'll stay on my own.}
@@ -219,8 +219,8 @@
 {411}{}{Stop! And what do you, brother in faith, know about what happened in Phoenix?}
 {1411}{}{Stop! And what do you, a sister in faith, know about what happened in Phoenix?}
 {412}{}{Uh, the same as you.}
-{413}{}{I blew up the temple of Fire. Because of him, a tragedy has befallen the Villa, so taste the same.}
-{1413}{}{I blew up the temple of Fire. Because of him, a tragedy struck the Villa, so taste the same.}
+{413}{}{I blew up the temple of Fire. Because of him, a tragedy has befallen the Villa, so tastes the same.}
+{1413}{}{I blew up the temple of Fire. Because of him, a tragedy struck the Villa, so tasted the same.}
 {414}{}{Hmm. Very sorry. Very.}
 {415}{}{Uh, I think I'll go.}
 {416}{}{That's how. It was revenge... What a barbaric motive! But if I am not a member of the cult now, then it remains to throw off the robe of a preacher and get away from Flagstaff. Your action gives me the right to start all over again. Maybe it's not so bad.}
@@ -230,7 +230,7 @@
 {420}{}{I will not tolerate abuse of my faith! The Sacred Fire is not a fiction. He was actually a hundred years ago! If even after all my sermons you do not believe the obvious, we can only hope for your speedy splitting into atoms.}
 {421}{}{Well, well.}
 {422}{}{Your faith preaches the wrong ideas.}
-{423}{}{Are you saying there was no Sacred Fire? And that we shouldn't restore the world to its former greatness by correcting its arrogant mistakes? What should we do then? Still dragging out a miserable existence among the ruins and barren wasteland? Then stay in your blissful blindness.}
+{423}{}{Are you saying there was no Sacred Fire? And that we shouldn't restore the world to its former greatness by correcting its arrogant mistakes? What should we do then? Still, dragging out a miserable existence among the ruins and barren wasteland? Then stay in your blissful blindness.}
 {424}{}{Well, well.}
 {425}{}{I still believe in Fire and still long for Rebirth, brother.}
 {426}{}{Your lies are only an outrage on faith. Get out of Flagstaff until the Fire opens your eyes to the truth.}

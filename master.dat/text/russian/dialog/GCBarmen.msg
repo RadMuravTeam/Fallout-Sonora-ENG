@@ -1,5 +1,5 @@
-{100}{}{Here is the bartender.}
-{101}{}{You see a strong man in an apron. Apparently, he owns this place.}
+{100}{}{You see a bartender.}
+{101}{}{You see a strong man in an apron. He owns this place.}
 {102}{}{So, I won't serve you while this armor is in the bar. Is that clear?}
 {103}{}{Sorry, but no guns in the bar.}
 
@@ -23,7 +23,7 @@
 {220}{}{There is nothing easier. But do you have something to pay with?}
 {221}{}{Listen, I've got a lot of trash in my pockets here. Take a look, which of these can be useful?}
 {222}{}{Wait a minute, I'm rummaging in my pockets...}
-{223}{}{(you dump pocket garbage on the counter, the bartender is perplexed sorting through this stuff) If I had such pockets, I would have become rich a long time ago. Look, there's a pre-war bill here, a couple of caps and a cartridge. With all this you can buy... a whole tail from a fried iguana, ha ha!}
+{223}{}{(you dump pocket garbage on the counter, the bartender is perplexed sorting through this stuff) If I had such pockets, I would have become rich a long time ago. Look, there's a pre-war bill here, a couple of caps, and a cartridge. With all this you can buy... a whole tail from a fried iguana, haha!}
 {224}{}{Ugh, finally, at least some benefit from this garbage.}
 
 # Chris from the Villa
@@ -38,13 +38,13 @@
 {240}{}{Hmm. You look like an inveterate brawler.}
 {1240}{}{Hmm. You look like an inveterate rebel.}
 {241}{}{Are you sure?}
-{242}{}{I am sure. I hope you're not going to make trouble for me?}
+{242}{}{I am sure. I hope you're not going to make trouble for me.}
 {243}{}{No, no problem, sir. I'm a regular visitor.}
 {1243}{}{No, no problem, sir. I'm an ordinary visitor.}
 {244}{}{And it seems to me that bars were invented just for fights.}
 {245}{}{Then remember a simple rule. If someone decides to make a scandal here, he will immediately be on the street and will not come back.}
 {246}{}{I understand. No problem, sir.}
-{247}{}{Don't tell me. Otherwise I'll get angry.}
+{247}{}{Don't tell me. Otherwise, I'll get angry.}
 
 #About the bar
 {250}{}{What drinks do you sell?}
@@ -57,14 +57,14 @@
 {1255}{}{Wow, I've never met so many hot drinks before!}
 {256}{}{Then congratulations on joining civilization. So what will you order?}
 {257}{}{Where did you get this alcohol from?}
-{258}{}{Some are brought by caravans, and some are brought by scavengers. All this is missing. I was thinking of starting my own production, but the business stopped giving the necessary income to recoup the raw materials.}
+{258}{}{Some are brought by caravans, and some are brought by scavengers. All this is missing. I was thinking of starting my own production, but the business stopped giving me the necessary income to recoup the raw materials.}
 {259}{}{I see.}
 
 {260}{}{Any hot drinks that you can get in these parts.}
 {261}{}{Why are you paying with caps here? We usually sell something *useful*.}
-{262}{}{Ah, you're from the wasteland. I don't know the whole story myself, but in big cities they came up with the idea of using caps as currency. It's like money before the Great War... You don't know anything about money either? Well... In general, this is all for exchange.}
+{262}{}{Ah, you're from the wasteland. I don't know the whole story myself, but in big cities, they came up with the idea of using caps as currency. It's like money before the Great War... You don't know anything about money either? Well... In general, this is all for exchange.}
 {263}{}{[Next]}
-{264}{}{However, the bottlecaps have taken root only in large cities, and in the wastelands they are rarely used.}
+{264}{}{However, bottlecaps have taken root only in large cities, and in the wasteland, they are rarely used.}
 {265}{}{A curious idea.}
 {266}{}{And what kind of assholes thought of that?}
 
@@ -93,7 +93,7 @@
 {290}{}{Hi. We're celebrating the extermination of Jackals here. These savages caused problems for scavengers and travelers, now it will be easier without them.}
 {291}{}{Yes, they fought like wild dogs.}
 {292}{}{Are you trying to tell me that you're involved in this?}
-{1292}{}{Do you really want to say that you are involved in this?}
+{1292}{}{Do you want to say that you are involved in this?}
 {293}{}{We went camping with your people. The gatekeeper knows about it.}
 {294}{}{Damn it, is it true? For the sake of such a case, I'll buy you a drink on the house. Thanks, buddy.}
 {295}{}{Please.}
@@ -106,7 +106,7 @@
 {300}{}{Can you tell me about this city?}
 {301}{}{What do you want to know?}
 {302}{}{Nothing else.}
-{303}{}{You either order something, or get others.}
+{303}{}{You either order something or get others.}
 {304}{}{Why is everyone squinting at me?}
 {305}{}{Uh, okay. The hint is understood.}
 {306}{}{Don't be rude to me, bartender.}
@@ -148,7 +148,7 @@
 {353}{}{Wait a minute, do you mean to say that the city has only benefited from this story with slaves?}
 {354}{}{The motel guy and I made good money, and Mr. Kogan signed a couple of new contracts. Even ordinary scavengers found a use. These slavers seemed to breathe life into our dump. At least for a little while.}
 {355}{}{The convoy went east to the city of Flagstaff. By the way, Mr. Kogan did business with the slave owners. Now that he's dead, you can study his records in the garage, if that's so important to you.}
-{356}{}{The convoy went east to the city of Flagstaff. Go along the 40th federal highway, you won't miss. The way there should take about a week.}
+{356}{}{The convoy went east to the city of Flagstaff. Go along the 40th federal highway, you won't miss it. The way there should take about a week.}
 {357}{}{Thanks for the information. I have to go.}
 {358}{}{Now I know that you are also to blame for the raid. And I'll remember that.}
 
@@ -156,7 +156,7 @@
 {361}{}{Previously, tequila and beer were brought from the south. And now this route is closed. I don't mind buying booze from Flagstaff at an increased price, but we don't have a permanent caravan even with this neighboring town. I need at least a courier for negotiations.}
 {362}{}{I'm just going there. I can talk to someone about the supply of alcohol.}
 {363}{}{Things are really bad for you. I hope you'll figure it out somehow.}
-{364}{}{Try. Otherwise I can't even send a letter there. Find a local bartender and convince him to send drinks here.}
+{364}{}{Try. Otherwise, I can't even send a letter there. Find a local bartender and convince him to send drinks here.}
 {365}{}{Agreed. I'll find him and come back with an answer.}
 {366}{}{Bye.}
 {367}{}{The bartender from Flagstaff agrees to supply drinks.}
@@ -175,7 +175,7 @@
 {403}{}{Trade turnover has fallen recently. Fewer and fewer caravans with provisions come into the city, because we have nothing to trade with. We have to survive on our own. Someone hunts coyotes, someone catches lizards, and someone unsuccessfully tries to grow crops.}
 {404}{}{Hunting? I would have participated.}
 {1404}{}{Hunting? I would have participated.}
-{405}{}{Is there really nothing you can do?}
+{405}{}{Is there nothing you can do?}
 {406}{}{And that's all you can do?}
 {407}{}{Well, the gatekeeper said that wild Brahmins were spotted in the desert. Some scavengers are going to find them. You can join the hunt too.}
 {408}{}{Interesting. I'll talk to this gatekeeper first. See you again.}
@@ -189,7 +189,7 @@
 {414}{}{Your people, uh, fell to a wild brahmin. He was stronger than anyone could have imagined.}
 {415}{}{Damn it. No meat, no people. Eh, it looks like the hungry season is waiting for us again...}
 {416}{}{Is it really that bad?}
-{417}{}{So you know what really happened there. You're not going to talk about it, are you?}
+{417}{}{So you know what happened there. You're not going to talk about it, are you?}
 {418}{}{I? Nope. I won't.}
 {419}{}{Cut off my tongue if I tell you that you stole a tame brahmin.}
 {420}{}{OK. Here's your share of the total carcass. Thank you, you are saving us from hunger.}
@@ -201,10 +201,10 @@
 {425}{}{So you have a hungry season?}
 {426}{}{Because of you, we lost a whole carcass of pure meat! She could feed one person for a whole year!}
 {427}{}{I have some ideas in stock.}
-{428}{}{Really? Very good. Because otherwise we'll have to roast you instead of a brahmin. We have a hungry season here, there is not enough food for everyone.}
+{428}{}{Really? Very good. Because otherwise, we'll have to roast you instead of a brahmin. We have a hungry season here, there is not enough food for everyone.}
 {429}{}{Is it that bad?}
 
-{430}{}{Exactly. We used to trade with southern cities, exchanging parts for products. But not only do we now have almost nothing to trade with, they have also announced a boycott in San Brahmin. They don't sell their meat to anyone anymore.}
+{430}{}{Exactly. We used to trade with southern cities, exchanging parts for products. But not only do we now have almost nothing to trade with, but they have also announced a boycott in San Brahmin. They don't sell their meat to anyone anymore.}
 {431}{}{And nothing can be done?}
 {432}{}{I don't know. We don't have any more caravans. I can't even contact the merchants.}
 {433}{}{Looks like you have a problem here.}
@@ -212,7 +212,7 @@
 {435}{}{I doubt I'll ever be in those places.}
 {436}{}{Okay, I'll talk to him if I'm around.}
 {437}{}{I can do it.}
-{438}{}{You'll be doing this a great favor. Find a merchant in the square in San Brahmin and persuade him to reopen the trade route.}
+{438}{}{You'll be doing this a great favor. Find a merchant in the square of San Brahmin and persuade him to reopen the trade route.}
 
 {440}{}{So, have the caravans from the south returned?}
 {441}{}{Business is coming to life. Thanks to you, we are getting meat from the San Brahmin again. So hunger does not threaten the city. And the turnover of caps in the bar has also increased. Thanks! Here, take a hundred as a share of the deal.}
@@ -223,9 +223,9 @@
 {446}{}{And what should we do now?}
 {447}{}{So now buy meat from the rangers.}
 {448}{}{I can buy meat from the rangers. But it will be much more expensive. And I'm not at all happy about the prospect of walking under the heel of these guys. We have a pretty strained relationship with them in the Garage, you know. But it seems that there is no choice anymore.}
-{449}{}{It's better than nothing. I'll talk to someone on their territory.}
+{449}{}{It's better than nothing. I'll talk to someone in their territory.}
 {450}{}{It's better than nothing. Good luck.}
-{451}{}{Unfortunately, none of the locals will listen to me. This is already a passed stage.}
+{451}{}{Unfortunately, none of the locals will listen to me. This is already a past stage.}
 {452}{}{I have some bad news. No one from Ranger territory wants to trade food with you.}
 {453}{}{I understand. Thanks for trying.}
 {454}{}{Good luck. You're holding on here.}

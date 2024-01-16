@@ -1,4 +1,4 @@
-{100}{}{Here is a miner.}
+{100}{}{You see a miner.}
 {101}{}{You see a dirty emaciated man.}
 {102}{}{You save me from torment.}
 {103}{}{Wow, you're one of the brave people. I won't tell anyone who killed Knut.}

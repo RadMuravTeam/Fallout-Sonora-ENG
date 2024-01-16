@@ -1,11 +1,11 @@
-{100}{}{Here is Chuck.}
+{100}{}{You see Chuck.}
 {101}{}{This is one of the highway robbers.}
 {102}{}{Hey, hello, how are you?}
 
 {200}{}{Hey, hello. My name is Chuck. And I haven't seen you before. Who are you?}
 {201}{}{You shouldn't know my name.}
 {202}{}{Seriously? Okay, whatever you say. Although I don't understand why you need such secrecy.}
-{203}{}{Your affability doesn't really fit into the spirit of the gang. Don't you find it?}
+{203}{}{Your affability doesn't fit into the spirit of the gang. Don't you find it?}
 {204}{}{Damn, that's right. I'm a newbie. I still don't know much, I haven't even been initiated.}
 {205}{}{Dedication?}
 {206}{}{I }
@@ -34,7 +34,7 @@
 {227}{}{Great. I will wait.}
 {228}{}{Bye.}
 {229}{}{No, sorry, I don't have one.}
-{230}{}{Sorry. Actually, psycho can be bought in Phoenix. For me, the way there is closed, because the local thugs have a warrant for my capture.}
+{230}{}{Sorry. Psycho can be bought in Phoenix. For me, the way there is closed, because the local thugs have a warrant for my capture.}
 {231}{}{Clear. If I find a psycho, I'll bring it. Later.}
 {232}{}{You don't belong in a gang. I want to rid you of the stigma of a criminal.}
 {233}{}{Have you thought about getting rid of the stigma of a criminal? Surely you can break the contract with the bounty hunters.}
@@ -43,8 +43,8 @@
 {236}{}{Have you ever thought to get rid of the stigma of a criminal and return to normal life in the city?}
 {237}{}{I got you a psycho.}
 {1237}{}{I got you a psycho.}
-{238}{}{This dose is enough for the whole ceremony. Thank you, friend, what would I do without you.}
-{1238}{}{This dose is enough for the whole ceremony. Thank you, girlfriend, what would I do without you.}
+{238}{}{This dose is enough for the whole ceremony. Thank you, friend, what would I do without you?}
+{1238}{}{This dose is enough for the whole ceremony. Thank you, miss, what would I do without you?}
 {239}{}{Just a quid pro quo. Remember who your real amigo is here.}
 {240}{}{All charges have been dropped against you. You're free.}
 {241}{}{It's true? So now I can go to the city and continue the life of a normal person?}

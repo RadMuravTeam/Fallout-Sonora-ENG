@@ -2,7 +2,7 @@
 {101}{}{You see a terminal with access to a shared network.}
 
 #Dialog
-{200}{}{Enter the command.}
+{200}{}{Enter command.}
 {201}{}{End session.}
 {202}{}{Back.}
 {203}{}{Next.}

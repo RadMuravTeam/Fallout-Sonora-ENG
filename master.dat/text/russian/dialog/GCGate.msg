@@ -1,4 +1,4 @@
-{100}{}{Here is the gatekeeper.}
+{100}{}{You see the gatekeeper.}
 {101}{}{You see a very tanned and not shaved guard for a long time. His steady gaze drills right through you.}
 {102}{}{I'll be damned! Is this bike really on the move?!}
 {103}{}{That's another conversation! Welcome to Garage City.}
@@ -19,7 +19,7 @@
 {210}{}{I want to ask the other settlers. Can I pass?}
 
 {211}{}{We have a hotel, but I'm not sure there are available seats there.}
-{212}{}{Maybe I'll go there and ask?}
+{212}{}{Maybe I'll go there and ask.}
 {213}{}{Sounds unconvincing. If you really are here by chance, then you should not bother the residents.}
 {214}{}{Still, I want to look around.}
 
@@ -27,14 +27,14 @@
 {216}{}{Sorry to hear that.}
 {217}{}{Serves you right. There was nothing to make friends with slavers.}
 {218}{}{You mean the convoy from Flagstaff? Yes, the deal was not the best, but it brought the city a good income. I doubt that these two cases were connected... Or not?}
-{219}{}{Think about it. And my business here is really already over.}
+{219}{}{Think about it. And my business here is already over.}
 
 {220}{}{Stop! Show me your hands.}
 {221}{}{Hands? What for?}
 {222}{}{(raises his gun threateningly) Just show me your hands!}
 {223}{}{I'll show you the right hook first!}
 {224}{}{Okay, calm down. I don't want to get into a fight over some little thing. But keep in mind that we don't like them.}
-{225}{}{And what does the hands have to do with it?}
+{225}{}{And what do the hands have to do with it?}
 {226}{}{Okay, here, look.}
 {227}{}{Hmm? Looks like you're fine. Come on in.}
 {228}{}{What the hell does that mean?}
@@ -59,13 +59,13 @@
 
 {246}{}{Ah, you're still here. Strange, I thought you didn't like it here.}
 {247}{}{Listen, the people here are uncooperative, you better not shine on the street once again.}
-{248}{}{Are you on business? It would be better this way, otherwise the locals may misunderstand it.}
+{248}{}{Are you on business? It would be better this way, otherwise, the locals may misunderstand it.}
 {249}{}{Listen, get someone else, I can have problems because of you anyway.}
 
 {250}{}{Do you know the guy who asked to join the Rangers?}
 {251}{}{Or maybe so. But why would I help the Rangers?}
 {252}{}{It won't affect you.}
-{253}{}{OK. Eugene Simon is the one you're looking for. His shack near the dorm.}
+{253}{}{OK. Eugene Simon is the one you're looking for. His shack is near the dorm.}
 {254}{}{Thank you.}
 {255}{}{It's none of your business. Just step back and don't get in the way.}
 {256}{}{Oh no, everything that passes through this gate concerns me.}
@@ -109,7 +109,7 @@
 {290}{}{They say a Brahmin hunt is planned?}
 {291}{}{Yeah. A wild brahmin was seen in the desert, our guys are going to catch him and cut him into pieces. But it's not so easy to finish off such a strong beast. We need people to attack. Do you want to join?}
 {292}{}{First explain what kind of animal it is.}
-{293}{}{A brahmin is... well... a large two-headed and four-legged beast. Lives in the desert, eats grass. Is that clear?}
+{293}{}{A brahmin is... well... a large two-headed and four-legged beast. Lives in the desert and eats grass. Is that clear?}
 {294}{}{I need some time to pack. Don't leave without me.}
 {295}{}{I'm not interested in hunting. Shall we talk about something else?}
 {296}{}{Great, I'm in. When do we move out?}
@@ -119,7 +119,7 @@
 
 #Questions
 {300}{}{It's the first time I've been so far from home. Can you tell us about this settlement?}
-{301}{}{Let's talk about Garage City?}
+{301}{}{Let's talk about Garage City.}
 {302}{}{Get some alcohol at a local bar and use it directly on the gatekeeper to get him to talk.}
 {303}{}{I'd love to chat, but my throat is dry.}
 {304}{}{Wait, I'll get you something to drink.}
@@ -136,7 +136,7 @@
 {315}{}{Mr. Kogan runs a cartel of scavengers and does business with merchants. Don't ask me about him anymore. The boss doesn't like to be discussed.}
 {316}{}{We don't have a mayor or a sheriff. Scavengers are divided into clans, and each has its own leader. They used to obey Mr. Kogan, but after his death, a serious fight for his chair began in the city.}
 {317}{}{Tell me about yourself.}
-{318}{}{There's nothing to tell. I came with the others in the hope of making money on the mine. Fortunately, Mr. Kogan gave me a job as a gatekeeper. Now I make sure that no extra people go here, and scare away the animals.}
+{318}{}{There's nothing to tell. I came with the others in the hope of making money on the mine. Fortunately, Mr. Kogan gave me a job as a gatekeeper. Now I make sure that no extra people go here and scare away the animals.}
 {319}{}{And what kind of animals are found here?}
 {320}{}{Mostly coyotes and small radscorpions. Large rats can be found in the ruins. In general, this place will disappoint any trapper. They say that hunting is flourishing in the mountains in the east. I'm thinking about going there when it gets really bad in the Garage.}
 {321}{}{How old are these ruins?}
@@ -158,7 +158,7 @@
 {337}{}{I'm sorry for you, but I can't help you.}
 {338}{}{If you lie to me, you will pay cruelly for it.}
 {339}{}{Okay, I'll talk to the other residents.}
-{340}{}{And keep in mind that the convoy is well armed and organized. These are not man-eating savages from the wasteland.}
+{340}{}{And keep in mind that the convoy is well-armed and organized. These are not man-eating savages from the wasteland.}
 {341}{}{Thanks for the information.}
 {342}{}{Bye, it's time for me to hit the road.}
 

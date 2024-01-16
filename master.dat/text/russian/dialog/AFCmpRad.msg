@@ -2,7 +2,7 @@
 {101}{}{You see a computer with access to a shared network.}
 
 #Dialog
-{200}{}{Enter the command.}
+{200}{}{Enter command.}
 {201}{}{End session.}
 {202}{}{Back.}
 {203}{}{Next.}
@@ -15,7 +15,7 @@
 {214}{}{October 23, 2077, 13:00}
 {215}{}{Says the Platform. There is no connection with the shore. If someone hears me, please give a counter signal.}
 {216}{}{October 23, 2077, 21:00}
-{217}{}{There is still no connection with the coast. We checked the radio equipment, no malfunctions were detected. Why is there no connection? Why is the Coast Guard silent? If someone hears me, give me an answer!}
+{217}{}{There is still no connection with the coast. We checked the radio equipment, and no malfunctions were detected. Why is there no connection? Why is the Coast Guard silent? If someone hears me, give me an answer!}
 {218}{}{October 24, 2077, 12:00}
 {219}{}{I'm switching to emergency frequencies. Can anyone hear me? Answer me! What's going on there? Our technologist says that the day before yesterday there was a noticeable flash from Mexicali. We suspect that this may be a Chinese sabotage at the power plant. I'm asking for help from the Coast Guard. Someone, please respond!}
 {220}{}{October 30, 2077, 12:00}

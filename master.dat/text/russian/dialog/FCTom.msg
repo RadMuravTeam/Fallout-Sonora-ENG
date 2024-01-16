@@ -1,7 +1,7 @@
-{100}{}{This is Uncle Tom.}
+{100}{}{You see Uncle Tom.}
 {101}{}{You see a strong and serene resident of the colony. Judging by the look, he's been through a lot.}
 
-{200}{}{Hi. My name is Tom. And I live in this shack. Let me know what brought you to me?}
+{200}{}{Hi. My name is Tom. And I live in this shack. Let me know what brought you to me.}
 {201}{}{I'm new here. I just want to get to know you.}
 {202}{}{Oh, so are you trying to find your "uranium vein" too? Forget. This city is no longer the one that was once on the posters. If you want to earn money, you will plow like a damn.}
 {203}{}{I'm not here for a living. I'm looking for my relatives.}
@@ -24,7 +24,7 @@
 {229}{}{Damn right. Perhaps I am the only one who was able to survive hard labor and gain a foothold in this city. But the colonists still look down on me.}
 {230}{}{Why did they treat you like that?}
 {231}{}{So, so, are you an ex-criminal?}
-{232}{}{Caught stealing mutafruits. I have served my time in hard labor and am now clean as a whistle before the world and before myself.}
+{232}{}{Caught stealing mutfruits. I have served my time in hard labor and am now clean as a whistle before the world and before myself.}
 {233}{}{Then why is your house so dirty?}
 {234}{}{You mean the writing on the walls? The local guys don't know where to blow off steam. They found a target in me. After all, the bastards know that I don't want to create problems for myself.}
 {235}{}{Thank you for your frankness, Tom.}
@@ -32,7 +32,7 @@
 {1236}{}{If I were you, I'd rip their hands off. But you know better.}
 
 {240}{}{What are you doing in Flagstaff?}
-{241}{}{I work part-time here and there, and in my spare time I dig through the ruins in search of useful scrap. There is enough for life so far.}
+{241}{}{I work part-time here and there, and in my spare time, I dig through the ruins in search of useful scrap. There is enough for life so far.}
 {242}{}{Clear.}
 {243}{}{How long have you been living in this colony?}
 {244}{}{A few years, probably. I can't count, sorry.}
@@ -65,6 +65,6 @@
 {272}{}{Please tell me what you know. I want to help.}
 {273}{}{Help who? Help yourself to earn caps on someone else's grief? No, I'm not signing up for this.}
 {274}{}{It's worse for you. Ciao.}
-{275}{}{It looks like you really don't know anything. Bye, Uncle Tom.}
+{275}{}{It looks like you don't know anything. Bye, Uncle Tom.}
 {276}{}{I promise - I will not betray a real thief. I just want to return the stolen goods.}
 {277}{}{Promise? (sigh) The neighborhood guys did it. I saw everything through the window. But keep in mind that this conversation did not happen.}

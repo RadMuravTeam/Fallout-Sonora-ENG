@@ -1,4 +1,4 @@
-{100}{}{Here is Black Fang.}
+{100}{}{You see a Black Fang.}
 {101}{}{You see a strong warrior of the Jackal tribe.}
 {102}{}{}
 {103}{}{You didn't have to piss me off, you geek.}

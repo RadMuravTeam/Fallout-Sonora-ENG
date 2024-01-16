@@ -1,4 +1,4 @@
-{100}{}{Here is a savage.}
+{100}{}{You see a savage.}
 {101}{}{You see one of the prisoners of the colony. He is distinguished from the others by his prominent facial features.}
 
 #Dialog

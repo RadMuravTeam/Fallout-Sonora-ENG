@@ -1,8 +1,8 @@
 {100}{}{It's a computer.}
-{101}{}{Here is an ancient computer. The keyboard is in Spanish.}
+{101}{}{You see an ancient computer. The keyboard is in Spanish.}
 
 #Dialog
-{200}{}{Enter the command.}
+{200}{}{Enter command.}
 {201}{}{End session.}
 {202}{}{Back.}
 

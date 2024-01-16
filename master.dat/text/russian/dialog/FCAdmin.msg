@@ -1,8 +1,8 @@
-{100}{}{Here is the administrator.}
+{100}{}{You see the administrator.}
 {101}{}{You see a hot-tempered manager. He mutters something to himself.}
 {102}{}{The mine is temporarily closed. Without Faber, the city went crazy!}
 {103}{}{That's what happens when they raise their voice at me.}
-{104}{}{Oh, finally my beloved brahminfry! The only joy in this crazy place.}
+{104}{}{Oh, finally my beloved brahmnin fries! The only joy in this crazy place.}
 
 #Random replicas
 {110}{}{Cretins! Idiots! We've missed all deadlines again!}
@@ -12,7 +12,7 @@
 {114}{}{The boss doesn't understand how hard I'm trying.}
 {115}{}{I would work even better, but such earnings kill any desire.}
 {116}{}{Ore, ore... What do I live for?}
-{117}{}{I'll rewrite a couple of notes. No one will even suspect.}
+{117}{}{I'll rewrite a couple of notes. No one will ever suspect.}
 {118}{}{This report needs to be written again.}
 {119}{}{No one can handle this position better than me.}
 
@@ -32,8 +32,8 @@
 {201}{}{Raise your voice at me again, and I'll knock out all your teeth.}
 {202}{}{Don't be so nervous. I just want to ask a couple of questions.}
 {203}{}{Do you even know who I am?! I am the administrator of this mine! You could say Roy Faber's own right-hand man. And you dare to talk to me like that? Get out before I get really mad!}
-{204}{}{Well all. It's going to *really* hurt, Mr. Big boss.}
-{205}{}{ (changes in voice) Okay, okay, don't let go of your hands! It's unlikely that the caravaneers will respect me if I'm covered in bruises... (to myself) Damn, and where do people like you come from...}
+{204}{}{Well all. It's going to *really* hurt, Mr. Big Boss.}
+{205}{}{ (voice changes) Okay, okay, don't let go of your hands! It's unlikely that the caravaneers will respect me if I'm covered in bruises... (to myself) Damn, and where do people like you come from...}
 {206}{}{So now you're ready to talk?}
 {207}{}{A couple of questions?! I don't get paid for idle chatter. I'm doing business here. Do you understand? BUSINESS! So let's get this over with.}
 {208}{}{So are you ready to talk now?}
@@ -70,8 +70,8 @@
 {240}{}{Forget. The mine has been destroyed, and there is no way to get inside now.}
 {241}{}{Well, we will have to look for another source of earnings. Bye.}
 {242}{}{The bartender asked me to take this to you.}
-{243}{}{Oh, finally my beloved bramfrey! The only joy in this crazy place. I hope you didn't touch anything here. Otherwise I will be VERY angry. Well, what are you looking at? Go do something.}
-{1243}{}{Oh, finally my beloved brahminfry! The only joy in this crazy place. I hope you didn't touch anything here. Otherwise I will be VERY angry. Well, what are you looking at? Go do something.}
+{243}{}{Oh, finally my beloved bramfrey! The only joy in this crazy place. I hope you didn't touch anything here. Otherwise, I will be VERY angry. Well, what are you looking at? Go do something.}
+{1243}{}{Oh, finally my beloved brahmnin fries! The only joy in this crazy place. I hope you didn't touch anything here. Otherwise, I will be VERY angry. Well, what are you looking at? Go do something.}
 {244}{}{OK.}
 {245}{}{Do you know that the warden beats up prisoners?}
 {246}{}{I'm not going to discuss this with you!}
@@ -96,7 +96,7 @@
 {265}{}{I really didn't expect that the redneck would cope with such a delicate problem. Well, here's your fee, there's 200 caps. Good job.}
 {266}{}{OK.}
 {267}{}{I will inform Faber about your merits. Go talk to him.}
-{268}{}{I will definitely look in on him.}
+{268}{}{I will definitely look into him.}
 {269}{}{Only when there is free time.}
 
 {270}{}{About the rat king.}
@@ -120,8 +120,8 @@
 {293}{}{After the sabotage, we spend all our strength on manually clearing the rubble. It will take a lot of time and effort. I don't know if we have enough resources and patience.}
 {294}{}{After the death of our boss, the city became dangerous. And the fate of the mine is even more unclear. We can only hope for the best.}
 {295}{}{After the escape of the prisoners, there is no one to mine ore. Deadlines have already been disrupted, and now this...}
-{296}{}{Thanks to your efforts, the mine is at the peak of production! I'm not even sure we'll sell out all the uranium this season. Keep it up ! Now I can channel my genius in the right direction.}
-{297}{}{Things are bad. Deadlines are disrupted, there are not enough workers, the boss breaks down on subordinates. Not the best times for the mine, that's for sure.}
+{296}{}{Thanks to your efforts, the mine is at the peak of production! I'm not even sure we'll sell out all the uranium this season. Keep it up! Now I can channel my genius in the right direction.}
+{297}{}{Things are bad. Deadlines are disrupted, there are not enough workers, and the boss breaks down on subordinates. Not the best times for the mine, that's for sure.}
 {298}{}{Can I help you with anything?}
 {299}{}{Production was stopped due to the collapse. If you want to help, just don't ask stupid questions.}
 {300}{}{The mine is temporarily closed. Without Faber, the city has gone crazy!}

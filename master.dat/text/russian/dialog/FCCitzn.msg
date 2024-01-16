@@ -1,4 +1,4 @@
-{100}{}{Here is a colonist.}
+{100}{}{You see a colonist.}
 {101}{}{You see a citizen of the colony.}
 {102}{}{I want to sleep, leave me alone.}
 {103}{}{Z-z-z...}
@@ -10,7 +10,7 @@
 
 #Floating replicas (they are responses when trying to speak)
 {110}{}{Do you know about the curfew? You can't go outside after it.}
-{111}{}{So far it is the safest city in Arizona.}
+{111}{}{So far it's the safest city in Arizona.}
 {112}{}{Sometimes I miss the Phoenix night lights.}
 {113}{}{My hamstrings tremble when I see Faber.}
 {114}{}{They say there are bandits in the abandoned ruins.}

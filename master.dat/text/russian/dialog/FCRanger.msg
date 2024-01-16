@@ -1,5 +1,5 @@
 {100}{}{You see the ranger.}
-{101}{}{Here is a ranger. His look expresses complete determination.}
+{101}{}{You see a ranger. His look expresses complete determination.}
 {102}{}{As soon as I pack my things, I'm on my way.}
 
 #The first dialog
@@ -28,7 +28,7 @@
 {220}{}{I am a simple traveler, looking for useful junk in these ruins.}
 {1220}{}{I am a simple traveler, looking for useful junk in these ruins.}
 {221}{}{Unconvincing. Either you're not here of your own free will, or you're working for mercenaries from the garrison.}
-{222}{}{You can't ask for food in the garrison. We have to look in the ruins.}
+{222}{}{You can't ask for food in the garrison. We have to look for it in the ruins.}
 {223}{}{I just need scrap metal.}
 {224}{}{This is the Museum of Northern Arizona. In the past, one of the attractions of the city.}
 {225}{}{I'm telling the truth.}
@@ -49,7 +49,7 @@
 {240}{}{Damn it, I should have listened more attentively to the saboteur's courses.}
 {241}{}{So what, you're not going to shoot?}
 {242}{}{What an idiotic answer... (preparing to shoot)}
-{243}{}{Stop, stop, stop! I'm really here for another reason.}
+{243}{}{Stop, stop, stop! I'm here for another reason.}
 {244}{}{[Parry the attack]}
 {250}{}{Not yet. You can go now. But don't bring a tail with you.}
 {251}{}{No problem.}
@@ -117,7 +117,7 @@
 {342}{}{You have an unusual name.}
 {343}{}{There are not many people of my tribe left. You've hardly heard of us.}
 {344}{}{Sounds like an Indian name. Mojave, Hopi... Navajo?}
-{345}{}{Hmm. I'm surprised. Usually our tribes stayed hidden from the white people after the Fire Rain. I left the Reservation when the slavers came.}
+{345}{}{Hmm. I'm surprised. Usually, our tribes stayed hidden from the white people after the Fire Rain. I left the Reservation when the slavers came.}
 {346}{}{Our stories have something in common. My village was also enslaved and burned.}
 {347}{}{I'm sorry... (puts some rifle cartridges in your hands) You should get revenge.}
 {348}{}{Uh, thanks.}
@@ -128,7 +128,7 @@
 {372}{}{Tell me more about the Rangers.}
 {373}{}{Enough about the Rangers.}
 {374}{}{Who are you anyway?}
-{375}{}{We are defenders of Law and Order. We catch criminals, protect settlers, help in restoring normal peaceful life.}
+{375}{}{We are defenders of Law and Order. We catch criminals, protect settlers, and help in restoring a normal peaceful life.}
 {376}{}{[Next]}
 {377}{}{Therefore, an ordinary ranger is primarily an elite fighter and a master of survival in the desert.}
 {378}{}{Why have I heard so little about you?}
@@ -137,7 +137,7 @@
 {380}{}{What does it take to become a ranger?}
 {381}{}{Go through 5 years of combat training, and then prove your readiness on a combat mission. But many cadets can't stand training and deprivation.}
 {382}{}{Uh, what happens to those who failed?}
-{383}{}{Some die on a mission, others go to the wastelands to become guards, mercenaries or caravanners. Some are lucky to find their place on the base as staff workers.}
+{383}{}{Some die on a mission, and others go to the wastelands to become guards, mercenaries, or caravanners. Some are lucky to find their place on the base as staff workers.}
 {384}{}{Where is your base located?}
 {385}{}{Why would I disclose this information to you?}
 {386}{}{My interest has no evil intentions.}
@@ -173,7 +173,7 @@
 {420}{}{Do you know that Faber has put a bounty on your head?}
 {421}{}{He should raise the price three times.}
 {422}{}{What do you know about Faber?}
-{423}{}{A tyrant with ambitions. Dreaming of his own empire. But in fact, just a criminal who oppresses other criminals.}
+{423}{}{A tyrant with ambitions. Dreaming of his empire. But in fact, just a criminal who oppresses other criminals.}
 
 {450}{}{I'm asking you to leave Flagstaff.}
 {451}{}{I'll stay here.}
@@ -201,8 +201,8 @@
 {473}{}{Stop killing. Go back to your people. They need you.}
 {474}{}{Well, if that's the case, then I can't convince you otherwise. Fight on.}
 {475}{}{I'm staying.}
-{476}{}{It looks like I was really obsessed. But the general warned... Okay I will leave Flagstaff and return to base. Thanks, buddy.}
-{1476}{}{It looks like I was really obsessed. But the general warned... Okay I will leave Flagstaff and return to base. Thank you, girlfriend.}
+{476}{}{It looks like I was obsessed. But the general warned... Okay, I will leave Flagstaff and return to base. Thanks, buddy.}
+{1476}{}{It looks like I was obsessed. But the general warned... Okay, I will leave Flagstaff and return to base. Thank you, miss.}
 {477}{}{Good luck.}
 {478}{}{Better hurry up.}
 

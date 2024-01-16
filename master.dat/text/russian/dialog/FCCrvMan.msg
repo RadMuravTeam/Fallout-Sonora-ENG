@@ -1,4 +1,4 @@
-{100}{}{There is a guard in front of you.}
+{100}{}{You see a guard in front of you.}
 {101}{}{You see the guard. He seems tired after a long flight.}
 
 {110}{}{What would you like to do before the shipment?}

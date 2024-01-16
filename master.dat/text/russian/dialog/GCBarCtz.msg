@@ -1,5 +1,5 @@
-{100}{}{Here is a bar visitor.}
-{101}{}{You see the customer. He has already gone over his daily allowance and is actively telling others something.}
+{100}{}{You see a bar visitor.}
+{101}{}{He has already gone over his daily allowance and is actively telling others something.}
 
 {110}{}{I don't know you.}
 {111}{}{Sorry, this table is occupied.}

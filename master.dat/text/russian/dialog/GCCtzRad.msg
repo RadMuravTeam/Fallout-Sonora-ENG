@@ -1,4 +1,4 @@
-{100}{}{Here is a sick scavenger.}
+{100}{}{You see a sick scavenger.}
 {101}{}{You see one of Trayvon's scavengers. He is suffering from the effects of some kind of illness.}
 {102}{}{You have successfully cured the scavenger's disease.}
 {103}{}{You are unable to analyze the disease and even more so to cure a person without medication.}

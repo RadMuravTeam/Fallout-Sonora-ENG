@@ -1,4 +1,4 @@
-{100}{}{Here is a miner.}
+{100}{}{You see a miner.}
 {101}{}{You see a terribly dirty man with an extremely intense look.}
 {102}{}{It's over for me, friend.}
 {1102}{}{It's over for me.}

@@ -1,4 +1,4 @@
-{100}{}{Here is an invader.}
+{100}{}{You see an invader.}
 {101}{}{You see a tattooed man with prominent features of the skull. He is not like the other inhabitants of Flagstaff.}
 {102}{}{We are leaving this earth.}
 {103}{}{This is our land!}
@@ -9,7 +9,7 @@
 {203}{}{[Defend]}
 {204}{}{I came in peace. The farmer says you took his house and land.}
 {1204}{}{I came in peace. The farmer says you took his house and land.}
-{205}{}{The alien is a hypocrite like everyone else. You came to these lands, killed our people and took our lands. We take it back.}
+{205}{}{The alien is a hypocrite like everyone else. You came to these lands, killed our people, and took our lands. We take it back.}
 {206}{}{Yes, you are ordinary robbers.}
 {207}{}{I do not know this story. What are we talking about?}
 {208}{}{Yes, you don't know. Our ancestors lived here for three generations. Then Faber's men came and took everyone to work, and the dissenters were killed. It was just us when we were kids. Now we want revenge. Blood for blood is our custom.}
@@ -34,10 +34,10 @@
 {254}{}{Yes, get out of here.}
 {255}{}{Oh, no, you'll have to pay for the inconvenience first. Pay with blood.}
 
-{260}{}{Stranger... Why do you look like a mutafruit skin that's been lying in the sun all day?}
+{260}{}{Stranger... Why do you look like a mutfruit skin that's been lying in the sun all day?}
 {261}{}{What do you think, dark-skinned? Eh, there are only racists around...}
 {262}{}{You're suffering, right? You suffer from others who don't look like you. We are the same, we understand you.}
 {263}{}{Don't even laugh at my appearance.}
 {264}{}{Actually, I'm here for my farmer friend. He is also very lonely.}
 {265}{}{Farmer? We saved his life. Let him thank you and leave.}
-{266}{}{No matter how you hide behind it, but you just seized his land. It's bad. Very bad.}
+{266}{}{No matter how you hide behind it, you just seized his land. It's bad. Very bad.}

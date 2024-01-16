@@ -1,4 +1,4 @@
-{100}{}{Here is a bar visitor.}
+{100}{}{You see a bar visitor.}
 {101}{}{You see a relaxed hard worker.}
 {102}{}{Hey, amigo, do you want to put on a drink as a sign of our friendship?}
 {103}{}{Thanks for the drink, amigo.}

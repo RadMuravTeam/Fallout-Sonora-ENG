@@ -1,4 +1,4 @@
-{100}{}{Here is a savage.}
+{100}{}{You see a savage.}
 {101}{}{You see one of the males of the Jackal tribe. His gaze excites like the gaze of a wolf.}
 {102}{}{ }
 

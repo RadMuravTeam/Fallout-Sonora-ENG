@@ -1,4 +1,4 @@
-{100}{}{Here is Kristina.}
+{100}{}{You see Kristina.}
 {101}{}{You see a girl with a puzzling look. It seems that the easy life has not taught her anything yet.}
 {102}{}{You see a girl with a sad look. It seems that recent events have made her think deeply.}
 {103}{}{Wow, how do you go to the toilet in this thing?}
@@ -26,7 +26,7 @@
 {126}{}{What would you like to do?}
 {127}{}{Water, caps. caps, water. They can't think of anything else?}
 {128}{}{I would like to see the neon Phoenix again.}
-{129}{}{It got really boring without a bar.}
+{129}{}{It got really boring without the bar.}
 
 {130}{}{Ah...}
 {131}{}{*Sigh*}
@@ -63,9 +63,9 @@
 {221}{}{Let's play. I'm putting 10 caps on.}
 {222}{}{Oh, hi. Do you want to play cards? I haven't played with anyone for so long that I'm dying of boredom.}
 {223}{}{Sorry, but I don't gamble.}
-{224}{}{And in my opinion, you're being pribed.}
+{224}{}{And in my opinion, you're being nice.}
 {225}{}{Uh, I don't think so. Bye.}
-{226}{}{A game of interest?}
+{226}{}{Gambling?}
 {227}{}{What else! Without betting, the game becomes boring. And when you know that you can lose your valuables - that's when a real drive appears.}
 {228}{}{Um, do you really have caps on the game?}
 {229}{}{Of course! My daddy is the head of the city. Even if I lose, he will give me more pocket caps, he has the whole safe full of them.}
@@ -119,7 +119,7 @@
 {330}{}{Oh, it's you... They killed my dad, do you know?}
 {331}{}{Yes, I saw it with my own eyes. How are you?}
 {1331}{}{Yes, I saw it with my own eyes. How are you?}
-{332}{}{I am well. Honestly. While I was being held hostage, the bandits were discussing my father. They said that he took power from the last mayor, that he ruthlessly exterminated half of the residents who opposed his power. I was too young to remember those days. Is it really true?}
+{332}{}{I am well. Honestly. While I was being held hostage, the bandits were discussing my father. They said that he took power from the last mayor and that he ruthlessly exterminated half of the residents who opposed his power. I was too young to remember those days. Is that really true?}
 {333}{}{Stop being a naive fool, open your eyes - any power is violence. Your daddy is just an example.}
 {334}{}{I understand... Perhaps he was a tyrant and committed terrible atrocities. But for me, he was a loving dad. He always tolerated my whims and gave me the best. How could it have turned out like this?}
 {335}{}{Welcome to the world of reality, baby. A world built on blood.}

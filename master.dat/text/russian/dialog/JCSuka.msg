@@ -38,7 +38,7 @@
 {1230}{}{I am the messenger of the Spirit of Vaults. My costume is proof of that.}
 {231}{}{Holy Jackal, now I remember! Our ancestors wore the same blue robes as you. So we all came out of the same hole, are we members of the same tribe?}
 {232}{}{More precisely, Vaults.}
-{233}{}{Then tell me, why did the Spirit of Refuge abandon us? Why was he punished with pestilence and starvation? We called Him at night, brought Him sacrifices. If He finally heard us barking, then explain what we should do?}
+{233}{}{Then tell me, why did the Spirit of the vault abandon us? Why was he punished with pestilence and starvation? We called Him at night, brought Him sacrifices. If He finally heard us barking, then explain what we should do?}
 {234}{}{Give me time to get to know the pack and explore your life. Maybe I can help you.}
 {235}{}{They call me a ghoul for a reason. Having tasted my dead flesh, you will become dead yourself.}
 {236}{}{The living dead! The spirits are punishing us with pestilence again. (a plaintive howl echoes through the burrows) But maybe YOU can teach us how to survive in this world? If you manage to keep breathing in a dead body, then we could also linger before being sent to the Great Kennels.}

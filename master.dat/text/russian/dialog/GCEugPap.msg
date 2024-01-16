@@ -1,4 +1,4 @@
-{100}{}{Here is a scavenger.}
+{100}{}{You see a scavenger.}
 {101}{}{You see a man burned by labor and time.}
 {102}{}{*Clutching his chest convulsively*}
 {103}{}{Arch...}
@@ -21,7 +21,7 @@
 {214}{}{Why is there a crossed-out star painted on your door?}
 {215}{}{Rangers. These filthy lovers of other people's goods want to take away from me the most valuable thing - my son. I'm trying to shield him from this stupidity.}
 {216}{}{Why do they need your son?}
-{217}{}{They recruit young animals, and then prepare warriors and scouts from them. I didn't work at this mine in order for my son to become a murderer in the name of someone else's idea. Let him plow, like me, on the ruins and benefit his home, not someone else's.}
+{217}{}{They recruit young animals and then prepare warriors and scouts from them. I didn't work at this mine in order for my son to become a murderer in the name of someone else's idea. Let him plow, like me, on the ruins and benefit his home, not someone else's.}
 {218}{}{What's the situation with the Rangers?}
 {219}{}{A crowd of armed guys who are trying to get their hands on the whole neighborhood. They promise security and order in exchange for resources and recruits.}
 {220}{}{And what's the catch?}

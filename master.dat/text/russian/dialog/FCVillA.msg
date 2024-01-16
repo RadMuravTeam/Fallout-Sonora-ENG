@@ -1,4 +1,4 @@
-{100}{}{Here is Sancho.}
+{100}{}{You see Sancho.}
 {101}{}{You see a slave. If you look closely, you will recognize in his dirty, emaciated face your fellow tribesman.}
 {102}{}{Oops, I hope no one at the Villa finds out about this...}
 {103}{}{The traitor! You're possessed by Diablo!}

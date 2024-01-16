@@ -1,5 +1,5 @@
 {100}{}{You see Frank.}
-{101}{}{You see a resident of the asylum. He looks pretty fresh and clean compared to any inhabitant of the wasteland.}
+{101}{}{You see a resident of the vault. He looks pretty fresh and clean compared to any inhabitant of the wasteland.}
 
 {200}{}{P-please don't hurt us! We are peaceful people. We don't want any problems.}
 {201}{}{Why are you afraid of me? I didn't do anything wrong.}
@@ -20,8 +20,8 @@
 {215}{}{Okay, I'll do it.}
 {216}{}{And now stand and look at the work of a professional.}
 
-{220}{}{Have you restored asylum support yet? It doesn't look like it. We need to fix the generator and get the computer to turn on life support.}
-{1220}{}{Have you restored asylum support yet? It doesn't look like it. We need to fix the generator and get the computer to turn on life support.}
+{220}{}{Have you restored vault life support yet? It doesn't look like it. We need to fix the generator and get the computer to turn on life support.}
+{1220}{}{Have you restored vault life support yet? It doesn't look like it. We need to fix the generator and get the computer to turn on life support.}
 {221}{}{It's time to get busy. See you later.}
 
 {230}{}{Where is the generator room?}

@@ -1,4 +1,4 @@
-{100}{}{Here is a settler.}
+{100}{}{You see a settler.}
 {101}{}{You see one of the few residents of Garage City.}
 
 {110}{}{So you're here in passing? That's good.}

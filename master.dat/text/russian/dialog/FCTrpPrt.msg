@@ -1,4 +1,4 @@
-{100}{}{Here is a mercenary.}
+{100}{}{You see a mercenary.}
 {101}{}{You see one of Faber's mercenaries. He is ready to help you in expelling the savages.}
 
 {110}{}{Don't worry, I'll help.}

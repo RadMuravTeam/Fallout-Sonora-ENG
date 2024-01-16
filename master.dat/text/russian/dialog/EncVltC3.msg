@@ -1,4 +1,4 @@
-{100}{}{You see a resident of the asylum.}
+{100}{}{You see a resident of the vault.}
 {101}{}{You see a local resident who looks unusually clean and freshly groomed.}
 
 {110}{}{Good afternoon... or night? What's going on outside?}
