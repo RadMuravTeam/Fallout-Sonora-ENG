@@ -1,39 +1,40 @@
-{100}{}{This is Don Reavis.}
-{101}{}{You see a man with a beautiful black beard and a noble bearing.}
+{100}{}{You see Don Rivis.}
+{101}{}{You see a man with a handsome black beard and noble posture.}
 
-{200}{}{Thanks for helping me deal with the rebels, friend. Some day a severe punishment will overtake them.}
-{1200}{}{Thank you for helping me deal with the rebels, lady. Some day a severe punishment will overtake them.}
-{201}{}{Who are you anyway?}
-{202}{}{I always lend a helping hand to those in need. But who are you and how have you angered these peasants?}
-{203}{}{This is Don James Reavis. I am the owner of the entire territory of the state of Arizona. A state that was barbarously taken from my ancestors.}
-{204}{}{Are you serious?}
+{200}{}{Thank you for helping me deal with those rebels, friend. Someday, they will be severely punished.}
+{1200}{}{Thank you for helping me deal with those rebels, lady. Someday, they will be severely punished.}
+{201}{}{Who the hell are you?}
+{202}{}{I always extend a helping hand to those in need. But I want to know who you are. And why did you anger those peasants?}
+{203}{}{Before you stands Don James Rivis. I am the owner of the entire state of Arizona. A state that was savagely taken away from my ancestors.}
+{204}{}{You serious?}
 {205}{}{How can you prove it?}
-{206}{}{I can show documents and an old tombstone with the names of my ancestors, but will it convince anyone? Therefore, I am not going to prove anything, but I will simply return the lands to the rightful heir. I am the Baron of Arizona. That should be enough.}
-{207}{}{And do you seriously think that you can bend the free peasants before you?}
-{208}{}{And so it will be. As you can see, many have already done it. Those who resist to the end will face a shameful fate. Bend down and you. If you take the oath, I will not forget your loyalty for the rest of my life.}
-{209}{}{I'm sorry, Baron, but I have obligations only to my native house.}
-{210}{}{Well, for your help, I recognize the independence of your house. Go in peace, friend.}
-{211}{}{Goodbye.}
-{212}{}{You're just a fraud. I shouldn't have broken up this fight.}
-{213}{}{Hurtful words for the person to whom I owe my life. Well, we're probably not on our way. But if we ever cross paths again, I hope for your prudence.}
-{214}{}{It would be better if the peasants lynched you. Goodbye.}
-{215}{}{I will finish what the peasants could not finish. Die, you bastard!}
-{216}{}{I will take the oath, O Don Reavis, Baron of beautiful Arizona.}
-{217}{}{Did you believe that? Idiot, I'd rather kill you than take your side!}
-{218}{}{[Other options]}
+{206}{}{Oh, I could show documents and the old tombstone with the names of my ancestors, but do you really think that will convince anyone? So, I do not intend to show anything. I will simply return the land to their rightful heir. I am the baron of Arizona. That should be enough.}
+{207}{}{And you really think you can convince those peasants to serve you?}
+{208}{}{Yes, I do. As you can see, many have done so already. A most ignominious lot awaits those that would resist me to the end. Why don't you kneel before me as well? If you do, I will remember your loyalty until my death.}
+{209}{}{I'm sorry, baron, but my commitment is only to my home.}
+{210}{}{Well. For your assistance, I recognize your home's independence. Go in peace, friend.}
+{211}{}{Farewell.}
+{212}{}{You're just a con man. I shouldn't have interfered in this fight.}
+{213}{}{Hurtful words for a person I owe my life to. Well, our ways almost certainly separate here. But if we ever meet again, I hope you will act with more wisdom.}
+{214}{}{Those peasants should've lynched you. Bye.}
+{215}{}{I'll finish what the peasants couldn't. Die, bastard!}
+{216}{}{I kneel before you, oh Don Rivis, baron of fair Arizona.}
+{217}{}{What, you believed me? I would never join an idiot like you! I'd rather kill you.}
+{218}{}{[Other variants]}
 
-{220}{}{I am glad to welcome you into my ranks, noble man. Kneel down and say the words of the oath...}
-{221}{}{I swear to protect you and your possessions. [+1 Strength]}
-{222}{}{I swear to be your loyal subject. [+1 Perception]}
-{1222}{}{I swear to be your loyal subject. [+1 Perception]}
-{223}{}{I swear never to leave you in trouble. [+1 Stamina]}
-{224}{}{I swear to always be your friend, Risis. [+1 Charisma]}
-{225}{}{I swear to be your loyal supporter. [+1 Intelligence]}
-{1225}{}{I swear to be your loyal supporter. [+1 Intelligence]}
-{226}{}{I swear to find a better way for your Arizona. [+1 Dexterity]}
-{227}{}{I swear to bring good luck to you and your possessions. [+1 Luck]}
-{228}{}{Stand up, my friend. From now on, your seal is equal to my seal. Protect Arizona, rule it on my behalf.}
-{229}{}{My compliments, Baron Reavis.}
+{220}{}{I am happy to accept you in my ranks, honorable friend. Bend your knee and say your oath...}
+{221}{}{I swear to protect you and your holdings. [+1 Strength]}
+{222}{}{I swear I will be your faithful subject. [+1 Perception]}
+{1222}{}{I swear I will be your faithful subject. [+1 Perception]}
+{223}{}{I swear I will never abandon you in times of trouble. [+1 Endurance]}
+{224}{}{I swear I will always remain your friend, Rivis. [+1 Charisma]}
+{225}{}{I swear I will always advocate for you. [+1 Intelligence]}
+{1225}{}{I swear I will always advocate for you. [+1 Intelligence]}
+{226}{}{I swear I will find the best path for your Arizona. [+1 Agility]}
+{227}{}{I swear I will bring fortune to you and your holdings. [+1 Luck]}
+{228}{}{Stand up, my friend. From this moment on, your seal is equal to my seal. Defend Arizona, and rule it on my behalf.}
+{229}{}{My regards, baron Rivis.}
 
 {230}{}{God bless you.}
-{231}{}{Goodbye.}
+{231}{}{Farewell.}
+

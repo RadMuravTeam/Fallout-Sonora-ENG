@@ -1,2 +1,5 @@
-{110}{}{This is a tribal totem, assembled from skulls and what savages consider "garbage". But you don't agree with them in everything.}
-{111}{}{The totem is destroyed. Perhaps there is something useful in this pile of garbage.}
+#---------------------------------------------------------
+#  Translated by Georg, garwert.
+#---------------------------------------------------------
+{110}{}{You see a tribal totem, built out of skulls and whatever else tribals consider to be "garbage". However, you don't fully agree with their assessment.}
+{111}{}{The totem is destroyed. There might be something useful in this pile of junk.}

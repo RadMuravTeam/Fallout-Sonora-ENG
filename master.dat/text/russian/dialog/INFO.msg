@@ -1,36 +1,36 @@
-{102}{}{ gets one bottle cap.}
+{102}{}{ receives one bottle cap.}
 {103}{}{This item won't help here.}
-{104}{}{This won't help here}
+{104}{}{This won't help here.}
 {105}{}{This skill won't help here.}
-{106}{}{This man refuses to go any further.}
-{107}{}{This creature refuses to go any further.}
+{106}{}{This person refuses to go further.}
+{107}{}{This creature refuses to go further.}
 {108}{}{This hostile person refuses to obey you.}
 {109}{}{This hostile creature refuses to obey you.}
 
 #---------------------------------------------
-# Names of skills and basic parameters
+#   Skill and character variable names
 #---------------------------------------------
-{110}{}{Small arms}
-{111}{}{A big weapon}
-{112}{}{Energy weapons}
-{113}{}{Hand-to-hand combat}
-{114}{}{Edged weapons}
+{110}{}{Small Guns}
+{111}{}{Big Guns}
+{112}{}{Energy Weapons}
+{113}{}{Unarmed}
+{114}{}{Melee Weapons}
 {115}{}{Throwing}
-{116}{}{First aid}
+{116}{}{First Aid}
 {117}{}{Doctor}
-{118}{}{Stealth}
-{119}{}{Hacking}
-{120}{}{Theft}
+{118}{}{Sneak}
+{119}{}{Lockpick}
+{120}{}{Steal}
 {121}{}{Traps}
 {122}{}{Science}
 {123}{}{Repair}
-{124}{}{Eloquence}
-{125}{}{Trade}
+{124}{}{Speech}
+{125}{}{Barter}
 {126}{}{Gambling}
 {127}{}{Survival}
 
-{130}{}{You have improved the skill "}
-{131}{}{" on }
+{130}{}{You've raised your "}
+{131}{}{" skill by }
 {132}{}{.}
 
 {133}{}{[}
@@ -38,138 +38,138 @@
 
 {135}{}{Attitude}
 {136}{}{Reputation}
-{137}{}{Glory}
+{137}{}{Fame}
 {138}{}{Level}
 
 {140}{}{}
-{141}{}{With your skills, this is not possible.}
-{142}{}{This creature cannot be robbed.}
-{143}{}{The victim didn't recognize your deception. You got out of the situation without consequences.}
-{144}{}{This time you managed to convince the victim that there was a misunderstanding.}
-{145}{}{The robot cannot be robbed while it is in active mode.}
-{146}{}{ it is watching you too closely.}
-{147}{}{Your skills do not allow you to heal these wounds without medication.}
-{148}{}{In power armor, it is impossible to commit pickpocketing.}
-{149}{}{It can't be done.}
+{141}{}{Impossible with your level of skill.}
+{142}{}{This creature cannot be stolen from.}
+{143}{}{The victim did not recognize your deception. You suffer no consequences.}
+{144}{}{You managed to convince the victim that a misunderstanding ocurred. This time.}
+{145}{}{A robot cannot be stolen from while it is active.}
+{146}{}{ is keeping too close of an eye on you.}
+{147}{}{Your skills are too low to heal these wounds without proper medicine.}
+{148}{}{Pickpocketing while in power armor is impossible.}
+{149}{}{Impossible to do.}
 
-{150}{}{Power}
+{150}{}{Strength}
 {151}{}{Perception}
 {152}{}{Endurance}
 {153}{}{Charisma}
 {154}{}{Intelligence}
-{155}{}{Dexterity}
+{155}{}{Agility}
 {156}{}{Luck}
 
 #---------------------------------------------
-# Gaining experience
+#   Receiving experience
 #---------------------------------------------
 
-{200}{}{You have received }
-{201}{}{ experience points.}
-{202}{}{ experience points for successful dialogue.}
-{203}{}{ experience points and reputation enhancement.}
+{200}{}{You receive }
+{201}{}{ experience.}
+{202}{}{ experience for successful conversation.}
+{203}{}{ experience and a reputation increase.}
 
 #---------------------------------------------
-# Injuries
+#   Traumas
 #---------------------------------------------
 
-{300}{}{Your left leg is crippled! You are suffering from severe pain.}
-{301}{}{Your right leg is crippled! You are suffering from severe pain.}
-{302}{}{Your left arm is crippled! You are suffering from acute pain.}
-{303}{}{Your right arm is crippled! You are suffering from acute pain.}
-{304}{}{Your eyes are crippled! You are suffering from unbearable pain.}
-{305}{}{Ugh, it's going to take a very long time to heal...}
+{300}{}{Your left leg is crippled! You are in serious pain.}
+{301}{}{Your right leg is crippled! You are in serious pain.}
+{302}{}{Your left arm is crippled! You are in intense pain.}
+{303}{}{Your right arm is crippled! You are in intense pain.}
+{304}{}{Your eyes are crippled! You are in unbearable pain.}
+{305}{}{Oh, this is going to take a long time to heal...}
 
 #---------------------------------------------
-# Messages in battle
+#   Combat messages
 #---------------------------------------------
 
-{320}{}{ hesitates to make an attack.}
-{321}{}{ regenerates and restores some health.}
+{320}{}{ hesitates to attack.}
+{321}{}{ regenerates a part of their health.}
 {322}{}{!!!}
-{323}{}{Scared of fire }
-{324}{}{flees.}
-{325}{}{Damn it!}
-{326}{}{ loses power and perception when an e/m pulse disables part of its electronics.}
+{323}{}{Fearing fire, }
+{324}{}{ runs away.}
+{325}{}{Dammit!}
+{326}{}{ loses strength and perception due to the EMP disabling part of it's electronics.}
 {327}{}{!}
-{328}{}{This cannot be done during combat.}
-{329}{}{Pi!}
+{328}{}{Impossible to do while in combat.}
+{329}{}{Squeak!}
 
 #---------------------------------------------
-# Replicas of futility (the wrong object, skill, etc. was used)
+#   Lines for an action yielding no results (using the wrong item, skill, etc.)
 #---------------------------------------------
 
-{330}{}{Useless}
-{331}{}{Not that}
-{332}{}{Something's wrong}
-{333}{}{To no avail}
-{334}{}{It doesn't work}
-{335}{}{Hmm?}
-{336}{}{Too complicated}
-{337}{}{Useless}
-{338}{}{Useless}
-{339}{}{Useless}
+{330}{}{Useless.}
+{331}{}{I'm doing it wrong.}
+{332}{}{Something's wrong.}
+{333}{}{Nothing changed.}
+{334}{}{Doesn't work.}
+{335}{}{Hm-m?}
+{336}{}{Too difficult.}
+{337}{}{Useless.}
+{338}{}{Useless.}
+{339}{}{Useless.}
 
 #---------------------------------------------
-# Replicas upon completion of cases (mine clearance, repair, refueling of the bike, etc.)
+#   Lines for completing an action (disabling a trap, repairing an object, refueling the bike, etc.)
 #---------------------------------------------
 
-{340}{}{Done}
-{341}{}{Okay}
-{342}{}{Great}
-{343}{}{Done}
-{344}{}{It turned out}
-{345}{}{Success}
-{346}{}{There is}
-{347}{}{Done}
-{348}{}{Done}
-{349}{}{Done}
+{340}{}{Done.}
+{341}{}{Okay.}
+{342}{}{Great.}
+{343}{}{Done.}
+{344}{}{I did it.}
+{345}{}{Success.}
+{346}{}{I did it.}
+{347}{}{Done.}
+{348}{}{Done.}
+{349}{}{Done.}
 
 #---------------------------------------------
-# The use of different items on the NPC
+#   Using items on NPCs
 #---------------------------------------------
 
-#Consumer goods
-{400}{}{ refuses to eat it.}
-{401}{}{This experience brought you resourcefulness.}
-{402}{}{ will not eat during the fight.}
-{403}{}{ refuses to take it out of your hands.}
-{404}{}{This does not apply to robots.}
-{405}{}{The free distribution of food has brought you experience and fame.}
-{406}{}{It doesn't apply to plants.}
-{407}{}{ refuses to accept it.}
-{408}{}{This creature becomes more friendly to you.}
-{409}{}{stimpacks only work on people.}
+#Consumption items
+{400}{}{ refuses to eat this.}
+{401}{}{Your resourcefulness has brought you experience.}
+{402}{}{ will not eat during combat.}
+{403}{}{ refuses to take this item from your hands.}
+{404}{}{Cannot be used on robots.}
+{405}{}{Freely giving out food has brought you experience and fame.}
+{406}{}{Cannot be used on plants.}
+{407}{}{ refuses to use this item.}
+{408}{}{This creature becomes more receptive toward you.}
+{409}{}{Stimpaks only work on human beings.}
 {410}{}{Animals and mutants do not drink alcohol.}
-{411}{}{It won't work on flyers.}
-{412}{}{ succumbs to the harmful effects of the chemical and becomes enraged.}
+{411}{}{Has no effect on floaters.}
+{412}{}{ succumbs to the harmful effects of the chemical and falls into a rage.}
 {413}{}{Alcohol? Not interested...}
-{414}{}{That's what I've been missing!}
-{415}{}{It is not necessary to tease the members of the Brotherhood with their own rations. You may be mistaken for a thief.}
-{416}{}{Wow, that's generosity!}
-{417}{}{Will you really just give it to me?}
-{418}{}{This item will not work through the protective helmet of power armor.}
-{419}{}{The free distribution of valuable liquid has brought you experience and fame.}
+{414}{}{That's what I was missing!}
+{415}{}{Teasing members of the Brotherhood with their own rations is not the best idea. You could be seen as a thief.}
+{416}{}{How generous!}
+{417}{}{You're really just giving this to me?}
+{418}{}{This item will have no effect so long as you're wearing the power armor's protective helmet.}
+{419}{}{Freely giving out a valuable liquid has brought you experience and fame.}
 
 #Clutter items
-{420}{}{I think it will be useful to me}
+{420}{}{I'll find a use for this.}
 {421}{}{Wow! Thank you!}
-{422}{}{The child accepts your gift with joy. Surely he will tell his friends about your action.}
-{423}{}{The child does not want to accept your gift. He seems to sense a hidden threat in you.}
-{424}{}{A shovel will definitely not help here.}
-{425}{}{Hacking a robot requires skills, a decoder will not help here.}
-{426}{}{poisoned!}
-{427}{}{dies in terrible convulsions.}
-{428}{}{falls dead.}
-{429}{}{ loses consciousness and soon dies.}
+{422}{}{The child graciously accepts your gift. Perhaps they will tell others about you.}
+{423}{}{The child doesn't want to accept your gift. Perhaps they feel that you are a threat, somehow.}
+{424}{}{A shovel is certainly not going to help here.}
+{425}{}{Hacking robots requires skill. A decoder won't help here.}
+{426}{}{ is poisoned!}
+{427}{}{ dies in terrible agony.}
+{428}{}{ falls dead.}
+{429}{}{ falls unconscious and soon dies.}
 {430}{}{ stops breathing.}
-{431}{}{This cannot be done during combat.}
-{432}{}{Your partner knows what this leads to.}
-{433}{}{U-u-u!}
-{434}{}{You're needlessly scaring the child. There will surely be a more worthy use for this trafei.}
-{435}{}{You have made 20 signal cartridges from old festive pyrotechnics.}
+{431}{}{Impossible to do in combat.}
+{432}{}{Your companion knows what this leads to.}
+{433}{}{Ou-u-u!}
+{434}{}{You're just scaring the child for no reason. Surely this trophey has a more worthy use.}
+{435}{}{You produce 20 signal flares from old pyrotechnics.}
 
-#Ammunition items
+#Ammo
 {440}{}{}
 {441}{}{}
 {442}{}{}
@@ -191,7 +191,7 @@
 {458}{}{}
 {459}{}{}
 
-#Items ammunition
+#Ammo
 {460}{}{}
 {461}{}{}
 {462}{}{}
@@ -214,81 +214,81 @@
 {479}{}{}
 
 #Other items
-{480}{}{Usually keys are used on locks.}
-{481}{}{Amazingly. And as soon as it occurred to you...}
-{482}{}{The weapon should be used in combat mode, holding it in your hands.}
-{483}{}{With the help of a surgical kit, you have cured all your injuries.}
-{484}{}{With the help of a surgical kit, you cured the patient's injuries.}
-{485}{}{This item should be used out of hand.}
-{486}{}{It is unlikely that this will help in fixing the robot.}
-{487}{}{ refuses your treatment.}
-{488}{}{You don't need surgical treatment.}
-{489}{}{This item should be used on a motorcycle.}
-{490}{}{It won't help here.}
-{491}{}{You have found the use of an ancient relic.}
-{492}{}{Your shovel has fallen into disrepair.}
-{493}{}{A surgical kit won't help here.}
+{480}{}{Keys are usually used on locks.}
+{481}{}{Incredible. One can only wonder how such amazing ideas can enter one's head...}
+{482}{}{Weapons should be used in combat, while being held in one's arms.}
+{483}{}{Using the surgery kit, you heal all your traumas.}
+{484}{}{Using the surgery kit, you heal the patient's traumas.}
+{485}{}{This item should be used while being held in one's arms.}
+{486}{}{I doubt this will help repair the robot.}
+{487}{}{ refuses your medical assistance.}
+{488}{}{You are not in need of surgery.}
+{489}{}{This item should be used on the motorcycle.}
+{490}{}{This won't help here.}
+{491}{}{You find a use for an ancient relic.}
+{492}{}{Your shovel is no longer functional.}
+{493}{}{A surgery kit won't help here.}
 
 #---------------------------------------------
-# Dialog Options
+#   Dialogue
 #---------------------------------------------
 
-#Critter
-{500}{}{This hostile person will not talk to you.}
-{501}{}{This robot has already been reprogrammed for your protection.}
-{502}{}{You have reprogrammed the robot for your protection.}
+#Critters
+{500}{}{This hostile person refuses to talk to you.}
+{501}{}{This robot has already been reprogrammed to defend you.}
+{502}{}{You reprogram the robot to defend you.}
 {503}{}{}
-{504}{}{You can't reconfigure the robot to protect yourself.}
-{505}{}{What is it? Are you threatening me?}
-{506}{}{This person will not communicate with you while you are holding a weapon in your hands.}
-{507}{}{This person is near death and cannot talk right now.}
+{504}{}{You fail to reprogram the robot to defend you.}
+{505}{}{What? Are you threatening me?}
+{506}{}{This person will not talk to you while you are holding a weapon.}
+{507}{}{This person is near death and cannot speak right now.}
 {508}{}{. . .}
-{509}{}{The negotiations failed.}
+{509}{}{Negotiations failed.}
 {510}{}{?}
-{511}{}{You see a Madman.}
-{512}{}{Without access to fresh air }
-{513}{}{suffocating in the freezer.}
-{514}{}{What is it? Are you threatening me?}
-{515}{}{Put away your weapon, otherwise I'll get mine}
-{516}{}{Power armor alarms your interlocutor.}
+{511}{}{You see a Crazed One.}
+{512}{}{Having breathed in all oxygen, }
+{513}{}{ suffocates in the freezer.}
+{514}{}{What? Are you threatening me?}
+{515}{}{Put your weapon away or I'll draw mine.}
+{516}{}{This person won't talk to you while you are wearing power armor.}
 {517}{}{...}
-{518}{}{It seems this robot can't talk.}
-{519}{}{This person refuses to obey you.}
+{518}{}{It doesn't seem like this robot was designed with the ability to talk.}
+{519}{}{This person refuses to obey you.} 
 
 #Computers
 {550}{}{Access denied.}
-{551}{}{This cannot be done during combat.}
-{552}{}{The defense system has already been hacked.}
-{553}{}{The defense system has been hacked!}
-{554}{}{Access received.}
-{555}{}{The game turned out to be very exciting.}
-{556}{}{You can't find the password.}
-{557}{}{You have installed the decoder. Now hacking a computer will become much easier.}
-{558}{}{The decoder won't help here anymore. It's time to use skills.}
+{551}{}{Cannot be done in combat.}
+{552}{}{Security system already hacked.}
+{553}{}{Security system hacked!}
+{554}{}{Access granted.}
+{555}{}{The game turned out to be quite fun.}
+{556}{}{You fail to guess the password.}
+{557}{}{You have installed a decoder. Hacking this computer will be much easier now.}
+{558}{}{The decoder won't be of any further help to you here. It's time to use your skills.}
 {559}{}{}
 
-#Repair of equipment
-{570}{}{ not in need of repair.}
-{571}{}{This cannot be done during combat.}
+#Equipment repair
+{570}{}{ does not require any repairs.}
+{571}{}{Cannot be done in combat.}
 {572}{}{}
-{573}{}{You have no idea how it can be fixed. Perhaps the lack of skills will be solved by replacing parts.}
-{574}{}{You have no idea how it can be fixed.}
-{575}{}{Failure! You were unlucky and you were electrocuted.}
-{576}{}{With these details, the repair will become a little easier.}
-{577}{}{With these parts, the repair will become much easier.}
-{578}{}{Additional details won't help here. It's time to use skills.}
-{579}{}{You see the ripper.}
+{573}{}{You have no idea how this can be fixed. Perhaps simply replacing components will make up for your lack of skills.}
+{574}{}{You have no idea how this can be fixed.}
+{575}{}{Failure! You were unlucky and got electrocuted.}
+{576}{}{These components make repairs a little easier.}
+{577}{}{These components will make repairs much easier.}
+{578}{}{Additional components won't be of any further help to you here. It's time to use your skills.}
+{579}{}{You see a ghoul.}
 
 #---------------------------------------------
-# Ring nicknames
+#   Phoenix Fighting Ring Nicknames
 #---------------------------------------------
 
-#Important: male and female nicknames are antipodes and match by numbers with a difference of 50.
-#- men's
+#Important: male and female nicknames are opposites. The difference between their numbers is 50.
+#- male
 {600}{}{Crusader}
-{601}{}{Scorpio}
+{601}{}{Scorpion}
 {602}{}{Cannibal}
-{603}{}{The King}
+{603}{}{King}
 {604}{}{Caesar}
 {605}{}{Hidalgo}
 {606}{}{Sergeant}
@@ -302,17 +302,17 @@
 {614}{}{Mr. X}
 {615}{}{Big Brother}
 {616}{}{Mad Dog}
-{617}{}{Rip}
-{618}{}{The Ripper}
+{617}{}{Dudd}
+{618}{}{Ripper}
 {619}{}{Butcher}
 {620}{}{Leprechaun}
 {621}{}{Whisperer}
 
-#- female
+#-female
 {650}{}{Black Widow}
 {651}{}{Scolopendra}
 {652}{}{Brain Eater}
-{653}{}{The Queen}
+{653}{}{Queen}
 {654}{}{Cleopatra}
 {655}{}{Duchess}
 {656}{}{Sergeant}
@@ -323,71 +323,71 @@
 {661}{}{Ross}
 {662}{}{Marine}
 {663}{}{Muchacho}
-{664}{}{Mrs. X}
-{665}{}{Big Mama}
-{666}{}{Crazy Bitch}
+{664}{}{Mrs X}
+{665}{}{Big Mom}
+{666}{}{Mad Bitch}
 {667}{}{Bad Girl}
 {668}{}{Angel}
 {669}{}{Wild Jane}
 {670}{}{Snow White}
-{671}{}{Ruby}
+{671}{}{Ruby} 
 
 #---------------------------------------------
-# Cartography
+#   Map
 #---------------------------------------------
 
-{1400}{}{A new place has been opened on the world map}
+{1400}{}{A new location has been added to the world map}
 {1401}{}{: }
 {1402}{}{.}
-{1403}{}{ Suspicious sounds are coming from the cave.}
+{1403}{}{Suspicious noises are coming out of the cave.}
 
-#Attention! The list should be copied unchanged from the file .../game/MAP.MSG
+#Warning! List of names is to be copied (no changes) from the file .../game/MAP.MSG
 {1500}{}{Villa}
 {1501}{}{Flagstaff}
 {1502}{}{Garage City}
 {1503}{}{San Brahmin}
-{1504}{}{Two-Sun}
+{1504}{}{Two Sun}
 {1505}{}{Puerto}
 {1506}{}{Rangers}
 {1507}{}{Phoenix}
 {1508}{}{Platform}
 {1509}{}{Casa Grande}
 {1510}{}{Hermosillo}
-{1511}{}{San Felipe}
+{1511}{}{San Filipe}
 {1512}{}{Inferno}
 {1513}{}{Casa Nueva}
 {1514}{}{-}
-{1515}{}{The motel}
-{1516}{}{The Dayglow}
+{1515}{}{Motel}
+{1516}{}{Dayglow}
 {1517}{}{-}
 {1518}{}{Santa Ana}
 {1519}{}{-}
 {1520}{}{Jackals}
-{1521}{}{Pit stop}
+{1521}{}{Bike}
 {1522}{}{Villa}
 {1523}{}{Vault 27}
 {1524}{}{Brotherhood Camp}
 {1525}{}{Raiders}
 {1526}{}{Wasteland}
-{1527}{}{Mountainous terrain}
+{1527}{}{Rocky area}
 {1528}{}{Ruins}
-{1529}{}{The coast}
+{1529}{}{Coast}
 {1530}{}{Puerto}
 {1531}{}{Gold!}
-{1532}{}{Henry Beamis}
-{1533}{}{Roadside cafe}
+{1532}{}{Henry Bemis}
+{1533}{}{Roadside Cafe}
 {1534}{}{Bomber}
-{1535}{}{Petro-Chico truck}
-{1536}{}{The cry of silence}
+{1535}{}{Petro Chico Truck}
+{1536}{}{The Cry of Silence}
 {1537}{}{Outdoor cinema}
 {1538}{}{Padre}
 {1539}{}{Baron of Arizona}
 {1540}{}{Snowfall}
-{1541}{}{The Lost Refuge}
+{1541}{}{Lost Vault}
 {1542}{}{Mobile Fortress}
 {1543}{}{Legend City}
 {1544}{}{-}
 {1545}{}{-}
-{1546}{}{Quartzsite}
-{1547}{}{A chance meeting}
-{1548}{}{Winon Camp}
+{1546}{}{Quartz}
+{1547}{}{Random Encounter}
+{1548}{}{Camp Wynon} 

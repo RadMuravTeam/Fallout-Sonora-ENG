@@ -1,6 +1,6 @@
-{102}{}{It won't help here.}
+{102}{}{This won't help here.}
 
-{110}{}{This generator provides electricity to local barracks and street lighting.}
-{111}{}{This generator is supposed to provide electricity to street lights, but now it is disconnected from the mains.}
-{112}{}{You have turned off the street lighting.}
-{113}{}{You have returned the lighting of the street lamps.}
+{110}{}{This generator provides electricity to the barracks and street lights.}
+{111}{}{This generator is supposed to provide electricity to the stret lights, but at the moment it is disconnected from the grid.}
+{112}{}{You turned off the street lights.}
+{113}{}{You have restored the street lighting.}

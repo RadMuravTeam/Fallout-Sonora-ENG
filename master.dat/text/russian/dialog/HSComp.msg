@@ -1,19 +1,19 @@
-{100}{}{It's a computer.}
-{101}{}{You see an ancient computer. The keyboard is in Spanish.}
+{100}{}{You see a computer.}
+{101}{}{You see an ancient computer with a spanish keyboard.}
 
-#Dialog
+#Dialogue
 {200}{}{Enter command.}
-{201}{}{End session.}
+{201}{}{Conclude session.}
 {202}{}{Back.}
 
-{210}{}{Report on the quartering of the fort.}
-{211}{}{(Report of 2162 for the General Staff in Monterrey. The detachment of General Sarabia entered the deserted Hermosillo and organized a temporary base. A week later, the order for permanent housing came.)}
-{212}{}{Fort in El Paso.}
-{213}{}{(This describes the supplies and communication codes with another similar fort in El Paso. It looks like real battles are taking place there now.)}
+{210}{}{Base report.}
+{211}{}{(2162 report intended for general HQ in Monterrey. General Sarabia's unit entered the lifeless city of Hermosillo and created a temporary base. After a week, an order demanding permanent presense came.)}
+{212}{}{El Paso base.}
+{213}{}{(The entry describes deliveries and communication codes for a similar base in El Paso. Looks like real battles are being waged there right now.)}
 {214}{}{Goals and objectives.}
-{215}{}{(The main task is to hold the position for the expansion of the possessions of the new state.)}
+{215}{}{(Primary objective - hold position to expand territory of the new government.)}
 {216}{}{Assessment of the situation.}
-{217}{}{(According to the latest data, the fort considers a certain Brotherhood of Steel on the ruins of Puerto Penasco and a settlement of tinsmiths near pre-war Tucson to be the main threat. The fort trains scouts to study the forces of these potential opponents.)}
-{218}{}{Copy the computer data to the holodisk.}
-{219}{}{The data archive has been copied.}
-{220}{}{(The data is entered in Spanish. You don't understand what it says here.)}
+{217}{}{(Latest data suggests that the base thinks the biggest threat is a "Brotherhood of Steel" located in the ruins of Puerto Penasco and a settlement of "tinsmiths" near the Pre-War city of Tucson. The base is readying scouts to investigate the military power of these potential enemies.)}
+{218}{}{Copy the data onto a holodisk.}
+{219}{}{Data copied.}
+{220}{}{(The data is in spanish. You don't understand a word of it.)}

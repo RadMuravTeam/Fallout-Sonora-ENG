@@ -1,19 +1,22 @@
-{100}{}{You see a Nocturnal Beast.}
-{101}{}{You see the guardian of the Jackals. He faithfully guards the warehouses of his tribe.}
-{102}{}{Sh-what for sh-jokes?!}
+#---------------------------------------------------------
+#  Translated by Georg; revised by garwert.
+#---------------------------------------------------------
+{100}{}{You see Night Beast.}
+{101}{}{You see the Jackal guard, watching his tribe's storerooms.}
+{102}{}{Wh-at kind of t-rick is this?!}
 
-#Replicas floating
-{120}{}{No one will dare to take my place.}
-{121}{}{Only I can guard these burrows, only I!}
-{122}{}{R-I will tear anyone who breaks into the warehouses!}
+#Floating lines
+{120}{}{Nobody dar-res take my place.}
+{121}{}{Only I can guard these bur-rrows, only I!}
+{122}{}{I'll r-rrip and tear-rr anyone who breaks into the storerooms!}
 {123}{}{The tribe needs me.}
-{124}{}{The Crazy Bitch wants me to guard the warehouses. And I'm guarding.}
-{125}{}{They say a stranger is wandering in the burrows.}
-{126}{}{R-r-r! I smell c-surveillance!}
-{127}{}{*Sniffing*}
-{128}{}{I smell a stranger.}
-{129}{}{These burrows lack the heart-rending moan of strangers.}
+{124}{}{Rabid Bitch wants me to guard the storerooms. And so I guard.}
+{125}{}{They say there is an outsider-r in the burrows.}
+{126}{}{Grrr! I feel like someone's watchin-ng me!}
+{127}{}{*Sniffs*}
+{128}{}{I feel the smell of an outsider.}
+{129}{}{These burrows lack the heartr-rrending screams of outsiders.}
 
-#Retaliatory remarks
-{200}{}{Get out! A stranger has no place in these warehouses!}
-{201}{}{Okay.}
+#Replies
+{200}{}{Get out of here! Don't come near the storerooms, outs-sider!}
+{201}{}{Alright.}

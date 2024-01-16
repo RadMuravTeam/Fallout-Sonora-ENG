@@ -1,23 +1,23 @@
-{100}{}{You see a warrior of the road.}
-{101}{}{This is one of the highway robbers.}
-{102}{}{Good luck on the way.}
+{100}{}{You see a road warrior.}
+{101}{}{You see one of the highwaymen.}
+{102}{}{Good luck.}
 
-{200}{}{Hey, thanks for the help, bro. These cops chased me for several days off-road. But why did you save me?}
-{1200}{}{Hey, thanks for the help, girl. These cops chased me for several days off-road. But why did you save me?}
+{200}{}{Hey, thanks for the help, bro. These people, they've been chasing me for several days in the roadless. But why'd you save me?}
+{1200}{}{Hey, thanks for the help, girl. These people, they've been chasing me for several days in the roadless. But why'd you save me?}
 {201}{}{I always help people in need.}
-{202}{}{Nonsense! I don't believe in any nobility. Everyone cares only about their own skin. But if you don't mind putting yourself under attack for the sake of an outsider, it's only better for me. By the way, do you want to meet my gang? The boss will probably be interested in you.}
-{203}{}{What kind of gang?}
-{204}{}{Blue Shields. We are so called because of these road signs. Don't you know? Then look at our base, it's over there. I'll tell them to let you through to Ben.}
-{205}{}{OK. Good luck on the road.}
+{202}{}{Nonsense! I don't believe you. There's no such thing as "honor". Everyone is out only for themselves. But if you don't mind taking the hit for someone else - I'm using the opportunity. Oh, and by the way, do you want to get acquainted with my gang? The boss would be interested in people like you.}
+{203}{}{What gang?}
+{204}{}{Blue Shields. They call us that because of these road signs. You really haven't heard of us? Then you should visit our base. It's in that direction. I'll tell them to let you see Ben.}
+{205}{}{Alright. Good luck.}
 {206}{}{I want to join your gang.}
-{207}{}{Ha! Not the best idea. Only those who really have nothing to lose in the "civilized world" take root here. In any case, this is handled personally by Ben, our leader. You need to talk to him.}
-{208}{}{Okay. I will do so.}
-{209}{}{The base is over there. I'll tell them to let you through to Ben. Have a good trip.}
-{210}{}{Good. Good luck on the road.}
-{211}{}{Hey, thanks for the help, bro. These cops chased me for several days off-road.}
-{1211}{}{Hey, thanks for the help, girl. These cops chased me off-road for several days.}
+{207}{}{Ha! Not the best idea. Only people who settle down in it are those who have nothing at all to lose in the "civilized world". In any case, it's Ben, our leader, who personally deals with that. You should talk to him.}
+{208}{}{Alright. Will do exactly that.}
+{209}{}{Base's in that direction. I'll tell them to let you see Ben. Good luck.}
+{210}{}{Alright. Good luck to you too.}
+{211}{}{Hey, thanks for the help, bro. These people, they've been chasing me for several days in the roadless.}
+{1211}{}{Hey, thanks for the help, girl. These people, they've been chasing me for several days in the roadless.}
 {212}{}{What did they want from you?}
-{213}{}{They were bounty hunters. They are sometimes hired in Casa Grande or Phoenix to drive our gang off the tracks. But these are our tracks! They won't succeed.}
-{214}{}{Clear.}
-{215}{}{I'll tell Ben and the others this story. See you at the base.}
-{216}{}{Have a good trip.}
+{213}{}{They were bounty hunters. People in Casa Grande and Phoenix sometimes hire them to drive our gang off the highways. But these are *our* highways! They won't succeed.}
+{214}{}{I see.}
+{215}{}{I'll tell this story to Ben and the others. See you at the base.}
+{216}{}{Good luck.}

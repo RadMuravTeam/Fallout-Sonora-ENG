@@ -1,29 +1,29 @@
-{100}{}{You see Dominguez's baby.}
-{101}{}{You see a typical country boy. And he smells the part.}
-{102}{}{Hr-r-r...}
-{103}{}{The old shoes haven't worn out yet.}
-{104}{}{The child is very happy about the new shoes.}
-{105}{}{Thank you!}
+{100}{}{You see Dominguez's child.}
+{101}{}{You see a typical peasant boy. The smell is appropriate.}
+{102}{}{Zz-z-z...}
+{103}{}{Previous shoes are still okay.}
+{104}{}{The child is pleased with the new shoes.}
+{105}{}{Thanks!}
 
 {110}{}{Hi. Did you really come from the north?}
-{111}{}{Strange. You don't look like a man-eating savage.}
-{112}{}{We have always been told that only savages live in the north.}
-{113}{}{Do you eat people there in the north?}
-{114}{}{Someday General Sarabia will capture Arizona.}
-{115}{}{Do you want to push Vaka?}
-{116}{}{It's better not to approach our waka. They don't tolerate strangers.}
-{117}{}{Do you want to ride the vaks? Then pay double the peso.}
-{118}{}{Are you paying with caps? Pf-ha-ha-ha!}
-{119}{}{Stupid Northerner! Stupid Northerner! Be-be-be!}
-{120}{}{My shoes are torn. Do you have anything to replace it?}
+{111}{}{Strange. You don't look like a savage cannibal to me.}
+{112}{}{They always told us that only savages live out there.}
+{113}{}{Do you really eat people there?}
+{114}{}{General Sarabia will conquer Arizona one day.}
+{115}{}{Want to push the vak?}
+{116}{}{Maybe it's best for you not to come close to our vak. They hate unfamiliar people.}
+{117}{}{Want to ride the vak? Double pesos.}
+{118}{}{You actually pay with bottle caps? Ph-ha-ha-ha!}
+{119}{}{Silly northener! Silly northener! Be-be-be!}
+{120}{}{My shoes got torn. Do you have any shoes you could spare?}
 
 {1110}{}{Hi. Did you really come from the north?}
-{1111}{}{Strange. You don't look like a man-eating savage.}
-{1112}{}{We have always been told that only savages live in the north.}
-{1113}{}{Do you eat people there, in the north?}
-{1114}{}{Someday General Sarabia will take Arizona.}
-{1115}{}{Do you want to push vaka?}
-{1116}{}{It's better not to approach our waka. They don't tolerate strangers.}
-{1117}{}{Do you want to ride the vaks? Then pay double the peso.}
-{1118}{}{Do you pay with caps? Pf-ha-ha-ha!}
-{1119}{}{Stupid Northerner! Stupid Northerner! Be-be-be!}
+{1111}{}{Strange. You don't look like a savage cannibal to me.}
+{1112}{}{They always told us that only savages live out there.}
+{1113}{}{Do you really eat people there?}
+{1114}{}{General Sarabia will conquer Arizona one day.}
+{1115}{}{Want to push the vak?}
+{1116}{}{Maybe it's best for you not to come close to our vak. They hate unfamiliar people.}
+{1117}{}{Want to ride the vak? Double pesos.}
+{1118}{}{You actually pay with bottle caps? Ph-ha-ha-ha!}
+{1119}{}{Silly northener! Silly northener! Be-be-be!}

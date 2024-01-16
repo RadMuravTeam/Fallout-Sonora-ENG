@@ -1,61 +1,61 @@
 {100}{}{You see Antonio.}
-{101}{}{You see a local boy in rumpled and dirty clothes.}
-{102}{}{This wreath was collected for Lucia.}
+{101}{}{You see a local boy in crumpled and dirty clothes.}
+{102}{}{This wreath was intended for Lucia.}
 
-#The first dialog
-{200}{}{What do you want, gringo?}
-{201}{}{Oh, do you speak English?}
-{202}{}{A little bit. I'm Antonio. My parents were from the north. So I understand a little foreign language.}
-{203}{}{So I'm lucky. But you're not talkative. Why aren't you having fun with everyone?}
-{204}{}{I don't like this holiday. And I want it to stop.}
+#First dialogue
+{200}{}{Why are you here, gringo?}
+{201}{}{Oh, you speak English?}
+{202}{}{A little. I am Antonio. My parents were from the north. That's why I understand a little of the foreign language.}
+{203}{}{I'm very lucky, it seems. But it doesn't look like you're very talkative. Why aren't you having fun with everyone else?}
+{204}{}{I don't like this holiday. I want it to stop.}
 {205}{}{Why?}
-{206}{}{How can you celebrate the day of life when how many people have died? This old man and everyone else are happy just because they are alive. Fools.}
-{207}{}{You can't argue with that. Only a fool would thank the saints who allowed so many sacrifices.}
-{208}{}{Precisely! And I like you, gringo.}
-{209}{}{Okay, I haven't looked around everywhere yet. See you later.}
-{1209}{}{Okay, I haven't looked everywhere yet. See you later.}
-{210}{}{Hey, don't get discouraged about spoiling our festival. Everyone deserves to be happy.}
+{206}{}{How can they celebrate the day of life when so many people have died? That old man and all the others are only happy because *they're* not dead. Idiots.}
+{207}{}{Can't argue with that. Only an idiot would thank saints who allowed so many sacrifices.}
+{208}{}{Exactly! You know, I like you, gringo.}
+{209}{}{Okay, I have to go for a bit. See you later.}
+{1209}{}{Okay, I have to go for a bit. See you later.}
+{210}{}{Hey, don't get so depressed. You'll ruin the celebration for other people. Everyone deserves to happy.}
 {211}{}{Yeah...}
-{212}{}{Hmm. Anyway, I'm going to have fun. See you.}
+{212}{}{Hmm. I'm going to go have fun. See you later.}
 
-#Repeat dialog
-{220}{}{Hey, hello!}
-{221}{}{Hello, gringo.}
+#Repeat dialogue
+{220}{}{Hello there!}
+{221}{}{Hi, gringo.}
 {222}{}{What do you want, gringo?}
 {223}{}{See you later.}
 
-{230}{}{Do you know that someone stole the crown?}
-{231}{}{No, I don't know anything about it.}
-{232}{}{Okay. I believe.}
-{233}{}{However, you let it slip that you want to stop the holiday.}
-{234}{}{ (silently looks down)}
-{235}{}{Can I consider your silence a sincere confession?}
+{230}{}{Have you heard that someone stole the crown?}
+{231}{}{No, I didn't hear anything about that.}
+{232}{}{I see.}
+{233}{}{You told me that you wanted the party to be over.}
+{234}{}{(looks down silently)}
+{235}{}{Am I to take your silence as a sincere confession?}
 {236}{}{I didn't want Lucia to be crowned.}
-{237}{}{Is it bad?}
-{238}{}{You're a gringo, you don't understand anything! If she wears a crown, then I won't even be able to get close to her. And I... I'm her...}
-{239}{}{Boy, I think you're being selfish.}
-{240}{}{Maybe so. I don't care!}
-{241}{}{So where's the crown, man?}
-{242}{}{I buried it in the center of the monument so that no one would find it.}
-{243}{}{And what is the monument?}
-{244}{}{Some kind of ancient monument. Lucia and I met there secretly and even scrawled our names on the pillars. So I immediately thought about this place.}
-{245}{}{It's good that you confessed. It will be less trouble for me. See you later.}
-{246}{}{Nobody cares about your "didn't want to". Tell me where you hid the crown!}
+{237}{}{Why? Is it a bad thing?}
+{238}{}{You gringo, you don't understand! If she wears the crown, I won't even be able to get close to her. And I... I'm her...}
+{239}{}{Kid, I think you're being selfish.}
+{240}{}{Maybe, I don't care!}
+{241}{}{So, where's the crown, boy?}
+{242}{}{I buried it in the center of the monument, so that nobody would be able to find it.}
+{243}{}{What monument are you talking about?}
+{244}{}{I don't really know. It was some old statue. Lucia and I were meeting there, in secret. We even scratched our names on the monument. That's why I hid it there. It was the first place that came to my mind.}
+{245}{}{Thanks for telling me. See you later.}
+{246}{}{No one cares about how you "didn't mean to". Tell me where you hid the crown!}
 {247}{}{Remind me where the crown is.}
 
-{250}{}{Lucia is safe now. I was already desperate and thought I had lost her forever. Thank you.}
-{251}{}{Glad to help.}
-{1251}{}{I was glad to help.}
-{252}{}{Is that why you didn't participate in the celebration? Wanted to keep her alive?}
-{253}{}{Yes. I even wanted to go to El Diablo instead of Lucia, but the headman wouldn't let me. He said that there should be more men in the village, otherwise there would be no one to work.}
-{254}{}{Your fate is not enviable.}
-{255}{}{But it's all over now. Here, take this magazine. I do not know how else I can repay you.}
-{256}{}{Interesting toys you have, boy. I think they will be useful to me.}
-{257}{}{A curious thing. I'll look through it sometime on the road.}
+{250}{}{Lucia is safe now. I was thinking that I had lost her forever. Thanks.}
+{251}{}{I'm glad I could help you.}
+{1251}{}{I'm glad I could help you.}
+{252}{}{So that's why you didn't participate in the party? You wanted to save her life?}
+{253}{}{Yes. I even wanted to take her place, go to El Diablo myself. But the elder wouldn't let me. He said that there must be more men in the village, otherwise, there won't be anyone left strong enough to do hard work.}
+{254}{}{That's terrible.}
+{255}{}{It's over now. Here, take these comics. I don't know how else I can repay you.}
+{256}{}{Interesting toys you have with you, boy. I think they'll come in handy.}
+{257}{}{Fascinating. I'll read some during my travels.}
 
 {260}{}{I saw Lucia run away from the church! What happened there? Did you really kill El Diablo?}
 {1260}{}{I saw Lucia run away from the church! What happened there? Did you really kill El Diablo?}
-{261}{}{Don't worry, everything is under control.}
-{262}{}{Please bring back Lucia!}
+{261}{}{Don't worry. Everything is under control.}
+{262}{}{Please bring Lucia back!}
 {263}{}{I'll try.}
-{264}{}{Don't count on me, man.}
+{264}{}{Don't count on it.}

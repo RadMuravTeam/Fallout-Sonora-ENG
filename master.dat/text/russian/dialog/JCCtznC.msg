@@ -1,14 +1,17 @@
+#---------------------------------------------------------
+#  Translated by Georg, garwert.
+#---------------------------------------------------------
 {100}{}{You see a female Jackal.}
-{101}{}{You see a wild woman of the Jackal tribe. She was "lucky" to survive the Ranger raid.}
-{102}{}{What should I do now?}
+{101}{}{You see a female member of the Jackal tribe. She was "lucky" to survive the Ranger raid.}
+{102}{}{What do I do now?}
 
-#Retaliatory remarks
-{200}{}{Stop! Have mercy! Don't kill!}
-{201}{}{So be it. Live for now.}
+#Replies
+{200}{}{Wait! Have mercy! Don't kill me!}
+{201}{}{So be it. You can live for now.}
 {202}{}{Tell me what happened here.}
-{203}{}{It's all Rangers! They attacked with their fire sticks and killed all the males... and then all the females... and all the puppies...}
+{203}{}{It's the Rangers! They attacked us with their fiery sticks and killed all the males... and the females... and the pups...}
 {204}{}{How did you manage to survive?}
-{205}{}{I used to catch iguanas for my puppies in the wastelands. When the strangers came, I was watching from the side... Damn, rangers!}
-{206}{}{And you left your puppies to their own devices?}
-{207}{}{I... (falls to his knees) I could not... Terror and hunger gave me legs...}
-{208}{}{Now live with it. And I'm leaving.}
+{205}{}{I was catching iguanas for my pups in the wastes. When the outsiders came, I was watching from afar... Damned Rangers!}
+{206}{}{And you left your pups for dead?}
+{207}{}{I... (falls to her knees) I couldn't... I was terrified and hungry... I couldn't do anything...}
+{208}{}{Now live with it. I'm leaving.}

@@ -1,6 +1,6 @@
-{110}{}{This armor lacks some details.}
+{110}{}{This armor lacks some parts.}
 {111}{}{Helmet installed.}
-{112}{}{The processor is installed.}
-{113}{}{Now the power armor is in full combat readiness!}
-{114}{}{Power armor is in full combat readiness.}
-{115}{}{All components are assembled. It remains to connect them correctly.}
+{112}{}{Processor installed.}
+{113}{}{The power armor is now fully operational!}
+{114}{}{The power armor is fully operational.}
+{115}{}{The components are there. Now, all that's left is correctly inserting them.}

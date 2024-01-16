@@ -1,8 +1,8 @@
-{100}{}{You see a resident of Santa Ana.}
-{101}{}{You see a man of Mexican appearance.}
+{100}{}{You see one of Santa Ana's inhabitants.}
+{101}{}{You see a mexican-looking person.}
 
-{110}{}{Â¡Hola!}
-{111}{}{Â¡Hola, hÂroe!}
-{112}{}{Â¡Hola, amigo!}
-{1112}{}{Â¡Hola, amiga!}
-{113}{}{Â¡Vete, traidor!}
+{110}{}{¡Hola!}
+{111}{}{¡Hola, hroe!}
+{112}{}{¡Hola, amigo!}
+{1112}{}{¡Hola, amiga!}
+{113}{}{¡Vete, traidor!}

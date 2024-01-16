@@ -1,13 +1,13 @@
-{100}{}{You are completely bankrupt.}
-{101}{}{You see a farmer angry at the whole world.}
+{100}{}{You see a bankrupt person.}
+{101}{}{You see a farmer who's mad at the whole world.}
 
-{110}{}{Die, you bastards!}
-{111}{}{I won't leave it so easy!}
-{112}{}{I will take back my land by force!}
-{113}{}{My farm was taken away from me, and I will take everything else.}
-{114}{}{The Rangers will fucking pay for everything!}
-{115}{}{Do you think I'm going crazy? No, I just want justice.}
-{116}{}{Why should I pay someone for land?}
-{117}{}{Now I don't care about laws and regulations!}
-{118}{}{The Rangers have tried me, and I will try them.}
-{119}{}{You will all pay!}
+{110}{}{Die, you sons of bitches!}
+{111}{}{I won't leave it like this!}
+{112}{}{I'll take my land back with force!}
+{113}{}{They took my farm, I'm taking everything else.}
+{114}{}{Those fucking Rangers are going to pay for everything!}
+{115}{}{You think I'm insane? No-o! I want justice.}
+{116}{}{Why the heck should I pay someone for land?}
+{117}{}{I don't care about those laws and rules anymore!}
+{118}{}{The Rangers put me on trial, I'll do the same to them.}
+{119}{}{You're gonna pay for everything!}

@@ -1,16 +1,16 @@
-{100}{}{You see a woman.}
-{101}{}{You see one of the women of the tribe. She is busy cooking.}
+{100}{}{You see a female tribal.}
+{101}{}{You see a female member of the tribe. She is busy preparing food.}
 
-{210}{}{What do you want?}
-{211}{}{Make yourself at home, hero.}
-{212}{}{Were you invited here?}
-{213}{}{Bye.}
+{210}{}{What is it?}
+{211}{}{Make yourself at home.}
+{212}{}{Did someone invite you here?}
+{213}{}{Goodbye.}
 
 {220}{}{What is that smell?}
-{221}{}{I'm cooking brahmin giblets. Hands off! I won't even let you lick the plate. Shoo away!}
-{222}{}{Okay, okay.}
-{223}{}{I'm cooking brahmin giblets. My favorite dish, but spices are hard to get.}
-{224}{}{It smells amazing! Can I try it?}
-{225}{}{What a smell. Is it edible at all?}
-{226}{}{Our hero is not sorry for anything. Here, take a plate.}
+{221}{}{I'm cooking brahmin offal. Hands off! It's not for you. Now get out!}
+{222}{}{Alright, alright.}
+{223}{}{I'm cooking brahmin offal. It's my favourite dish, but it's hard to get the correct spices.}
+{224}{}{Smells wonderful! Can I try it?}
+{225}{}{The smell is certainly... unique. Is it even eatable?}
+{226}{}{Nothing I wouldn't give to our hero. Here, take a plate.}
 {227}{}{Thank you.}

@@ -1,21 +1,21 @@
-{100}{}{You have a prisoner in front of you.}
-{101}{}{It looks like the bandits are forcing this man to hard work.}
-{102}{}{Am I free? Really?!}
+{100}{}{You see a captive.}
+{101}{}{It looks like this man is doing forced labor on behalf of the bandits.}
+{102}{}{I'm free? Really?!}
 
-{110}{}{They grabbed me and make me work.}
-{111}{}{Are you in a gang too?}
-{112}{}{I can't do it anymore, I don't have the strength.}
+{110}{}{They captured me and are making me work.}
+{111}{}{You're in the gang too?}
+{112}{}{I can't do this anymore, I have no strength left.}
 {113}{}{When will they leave me alone?}
-{114}{}{Save me, you're better than these robbers.}
+{114}{}{Save me! You're better than those bandits, right?}
 
-{120}{}{They grabbed me and make me work.}
-{121}{}{Are you in a gang too?}
-{122}{}{Kill me, I can't take it anymore.}
+{120}{}{They captured me and are making me work.}
+{121}{}{You're in the gang too?}
+{122}{}{Kill me, I can't endure any more of this.}
 {123}{}{When will you leave me alone?}
-{124}{}{You'd better kill me.}
+{124}{}{You should kill me instead.}
 
-{200}{}{hello}
-{201}{}{for now}
+{200}{}{hi}
+{201}{}{bye}
 
-{210}{}{hello}
-{211}{}{for now}
+{210}{}{hi}
+{211}{}{bye}

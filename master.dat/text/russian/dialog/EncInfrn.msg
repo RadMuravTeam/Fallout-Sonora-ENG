@@ -1,23 +1,23 @@
-{100}{}{in front of you Õarvi.}
+{100}{}{You see Harvey.}
 
-{110}{}{ÕArvi hates people!}
-{111}{}{Come on, you little bug!}
-{112}{}{People don't like people like you.}
-{113}{}{Why won't you leave us alone?!}
-{114}{}{People are chasing us everywhere!}
-{115}{}{People always shoot at us first!}
-{116}{}{Ñcreator, give me the strength to protect this place from the normies!}
-{117}{}{Levi did not want to see people in our city.}
-{118}{}{Õarvi just protects the city from the normies!}
-{119}{}{Õarvi is good. ÕArvi triesÿfor the sake of Leviÿ.}
+{110}{}{Harvey hates humans!}
+{111}{}{Fight, worthless insect!}
+{112}{}{Humans hate those like me.}
+{113}{}{Why can't you leave us alone?!}
+{114}{}{Humans follow us everywhere!}
+{115}{}{Humans always shot us first!}
+{116}{}{Master, give me the strength to defend this place from the normies!}
+{117}{}{Levi didn't want to see humans in our city.}
+{118}{}{Harvey just defends the city from normies!}
+{119}{}{Harvey's good. Harvey works hard for Levi.}
 
-{120}{}{Levi instructed to guard the city from people.}
-{121}{}{"Sorry, but you can't stay here."}
-{122}{}{Õarvi remembers who helped Levi. Õarvi is grateful.}
-{123}{}{Õarvi is good. arvi protects the city from people.}
-{124}{}{ÒDo you read meÿ as well as ÿ?}
-{125}{}{Ò Do you read the creator?}
-{126}{}{I miss the creator...}
-{127}{}{Õarvi!}
+{120}{}{Levi said to defend the city from humans.}
+{121}{}{Sorry. You can't stay here.}
+{122}{}{Harvey remembers who helped Levi. Harvey grateful.}
+{123}{}{Harvey's good. Harvey defends city from humans.}
+{124}{}{Do you honor Levi like I do?}
+{125}{}{Do you honor the Master?}
+{126}{}{I miss the Master...}
+{127}{}{Harvey!}
 {128}{}{}
 {129}{}{}

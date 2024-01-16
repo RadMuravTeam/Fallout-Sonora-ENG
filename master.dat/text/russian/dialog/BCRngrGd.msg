@@ -1,12 +1,12 @@
-{100}{}{You see a ranger.}
-{101}{}{You see a ranger in combat gear. He carefully examines the pueblo.}
+{100}{}{You see a Ranger.}
+{101}{}{You see a Ranger in a combat vest. He is carefully watching over the pueblo.}
 
-{110}{}{So it is to you that we owe the alliance with the tribe? Well done, good job.}
-{111}{}{You're doing a great job, comrade.}
-{112}{}{The general sent us to guard the leader.}
-{113}{}{You're on our side, aren't you?}
-{114}{}{The big chief is waiting for you. Come in.}
-{115}{}{You can pass.}
-{116}{}{*Salutes you*}
+{110}{}{So you're the one we should be thanking for an alliance with the tribe? Good work, bud.}
+{111}{}{You're doing very important work here, comrade.}
+{112}{}{The General has sent us here to protect the chieftain.}
+{113}{}{You *are* on our side, right?}
+{114}{}{The head chieftain is waiting for you. Move along.}
+{115}{}{You can move along.}
+{116}{}{*Pays you respects*}
 
-{120}{}{You shouldn't have come here.}
+{120}{}{You should have never come here.}

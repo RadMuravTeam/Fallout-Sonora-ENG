@@ -1,2 +1,2 @@
-{102}{}{You have included some old song.}
-{103}{}{You turned off the jukebox.}
+{102}{}{You've turned some old song on.}
+{103}{}{You've turned off the jukebox.}

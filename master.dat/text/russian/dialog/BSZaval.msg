@@ -1,3 +1,3 @@
-{110}{}{It's pretty dangerous.}
-{111}{}{You caused a landslide right on the monster's head.}
-{112}{}{If you roll these stones on a nearby creature, then he will certainly not be well.}
+{110}{}{This is quite dangerous.}
+{111}{}{The stones fall right onto the beast's head.}
+{112}{}{If these stones happened to fall on the beast standing close to me. it would no doubt be harmful to it's health.}

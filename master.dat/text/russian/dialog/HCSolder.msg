@@ -1,6 +1,6 @@
 {100}{}{You see a private.}
-{101}{}{You see a private in standard army armor with a recognizable symbol.}
-{102}{}{Intruso!}
+{101}{}{You see a private in typical military armor with a recognizable symbol.}
+{102}{}{¡El intruso!}
 {103}{}{Intruder!}
-{104}{}{Esta todo bien.}
-{105}{}{Everything is fine.}
+{104}{}{Todo es bueno.}
+{105}{}{Situation normal.}

@@ -1,111 +1,111 @@
-{100}{}{You see the priestess Nana.}
-{101}{}{You see a priestess in national dress.}
-{102}{}{Go away. We are not afraid of you and your iron toys.}
+{100}{}{You see priestess Nana.}
+{101}{}{You see a priestess in tribal attire.}
+{102}{}{Go away. We do not fear you or your iron toys.}
 
-#First meeting
-{200}{}{Stop. We don't let outsiders into the camp anymore.}
-{201}{}{Wait, stranger. We warned your squad to leave our land. Why do you keep bothering us?}
-{202}{}{I don't know what you're talking about. I'm chasing a convoy of slaves from the Villa. He may have passed through here.}
-{203}{}{So you're from the Villa? I've heard about your village! We've never been enemies. But we were never friends either.}
-{204}{}{I didn't know anything about you either.}
-{1204}{}{I didn't know anything about you either.}
-{205}{}{Then we should get to know each other better.}
-{206}{}{So you suffered the same fate as many? I'm sorry. But you won't find your fellow tribesmen here.}
-{207}{}{Are you also worried about slavers?}
-{208}{}{Perhaps the peasants of the Villa are kept here. Don't even think about interfering with my search.}
-{209}{}{So you're from the Villa? I've heard about your village. We've never been enemies. It's not worth starting this.}
-{210}{}{If you know where the slavers are keeping my people, then tell me.}
-{211}{}{So the slavers broke your village too? I'm sorry. You are not the first to suffer this fate. But you won't find your people here.}
-{212}{}{Are you also worried about slavers?}
-{213}{}{Madre... Padre... I want to go home!}
-{214}{}{Oh, poor child. Perhaps the Dark Brahmin of Radiation cursed the seed of your kind. I feel sorry for you.}
-{215}{}{Bra-Min? No, no, the padre's name is Andres!}
-{216}{}{Go to our chief, Geronimo. Talk to him. He is wise and can help you.}
-{217}{}{My go to Grandpa.}
+#First encounter
+{200}{}{Stop. We no longer allow outsiders into the pueblo.}
+{201}{}{Stop, outsider. We warned you that your group must leave our lands. Why do you continue to disturb us?}
+{202}{}{I don't know what you are talking about. I'm pursuing a convoy with slaves from Villa. I was thinking it could have passed through this place.}
+{203}{}{So you're from Villa? I've heard about your village! We never quarreled. But neither did we befriend one another.}
+{204}{}{I also didn't know anything about you.}
+{1204}{}{I also didn't know anything about you.}
+{205}{}{Then we should learn more about each other.}
+{206}{}{So, you too have suffered the same tragedy that has fallen upon so many others? I'm very sorry, but your people aren't here.}
+{207}{}{You are also concerned about slavers?}
+{208}{}{There might be a chance that the peasants of Villa are being held here. Don't even think about interrupting my search.}
+{209}{}{So you're from Villa? I heard about your village. We never quarreled. Let's not start quarreling now.}
+{210}{}{If you know where the slavers are holding my people, say it.}
+{211}{}{So the slavers have overwhelmed your village as well? I'm very sorry. You are not the first ones to suffer this fate. But you won't find your people here.}
+{212}{}{You are also concerned about slavers?}
+{213}{}{Madre... padre... I just want to go home!}
+{214}{}{O-ooh, poor child. The Dark Brahmin of Radiation must have cursed the seed of your father. I am sorry for you.}
+{215}{}{Brah-min? No, no, padre is called Andres!}
+{216}{}{Go to our chieftain, Jeronimo. Talk to him. He is wise and may be able to help you.}
+{217}{}{Me go to old man.}
 
-{220}{}{They call themselves missionaries. They came to our lands and imposed their own rules on us. The tribe resists, but the price for our freedom is getting higher. We are on the verge of war with the white-skinned citizens of Phoenix.}
-{221}{}{There's plenty of room in the wastelands. What didn't you share?}
-{222}{}{They want to bend us to their will for the sake of Brahmins and cheap workers. But we are not the kind of Brahmins who obey anyone with a whip.}
-{223}{}{You and I are alike. Villa also values her freedom. But it was taken away by force.}
-{224}{}{Then we should listen to each other. Talk to our leader, Geronimo. He refuses to talk to outsiders. But you're from a neighboring tribe. And neighbors should live in peace.}
-{225}{}{Good. Where to find the leader?}
-{226}{}{Go to the big house with columns. I will inform the chief of your arrival. But don't bother the other settlers until you are trusted.}
-{227}{}{Okay. See you later.}
-{228}{}{I'm looking for Ranger Oscar. I was sent to help him.}
-{229}{}{We appreciate what the Rangers are doing for our freedom. Recently, we have been on the verge of a war with missionaries. Talk to our leader about it, Geronimo.}
+{220}{}{They call themselves missionaries. They march into our lands and make us follow their rules. The tribe is resisting, but the cost of maintaining our freedom is an ever-rising one. We are on the verge of war with the Phoenixians.}
+{221}{}{The Wastes are vast and full of space. What resources can't you share?}
+{222}{}{They want to subjugate us for our brahmin and cheap labor. But we are not such weak-willed brahmin that will do what any man with a whip tells us to do.}
+{223}{}{We are similar. Villa also values it's own freedom. But it was taken away from us with force.}
+{224}{}{Then we should listen closely to each other. Talk to our chieftain Jeronimo. He refuses to talk with outsiders. But you are from a neighboring tribe. And neighbors should listen to one another.}
+{225}{}{Good. Where do I find this chieftain?}
+{226}{}{Walk to the big house with columns. I will report your arrival to the chieftain. But do not disturb others until you gain our trust.}
+{227}{}{Alright. Until we meet again.}
+{228}{}{I'm looking for Ranger Oscar. I was sent here to assist him.}
+{229}{}{The Rangers have done much to help us maintain our freedom. But tensions have become so high that we are now at the verge of war with the missionaries. You must talk about this with our chieftain, Jeronimo.}
 
-{230}{}{What did Geronimo say?}
-{231}{}{I haven't spoken to him yet.}
-{1231}{}{I haven't spoken to him yet.}
-{232}{}{Go to Geronimo. I won't discuss anything with you until he lets you stay.}
-{233}{}{Okay.}
-{234}{}{Can I talk to you from the beginning?}
-{235}{}{No. Go to Geronimo. I won't discuss anything with you until he lets you stay.}
-{236}{}{Okay.}
-{237}{}{Where is the chief?}
-{238}{}{In a large bright building with columns. Go ahead, you won't miss it.}
-{239}{}{Clear.}
-{240}{}{He offers to unite against the Phoenix.}
-{241}{}{A reasonable offer. This problem concerns all of us - both our tribe and your Villa. I hope you can help us.}
-{242}{}{Yes. Let's see what we can do.}
+{230}{}{What did Jeronimo say?}
+{231}{}{I haven't talked to him yet.}
+{1231}{}{I haven't talked to him yet.}
+{232}{}{Talk to Jeronimo. I will not discuss anything with you until he gives you permission to stay.}
+{233}{}{Alright.}
+{234}{}{Can't we have that discussion right now, before I talk to Jeronimo?}
+{235}{}{No.}
+{236}{}{Fine.}
+{237}{}{Where do I find the chieftain?}
+{238}{}{In the big illuminated building with columns. Just continue walking forward. You won't miss it.}
+{239}{}{Alright.}
+{240}{}{He has proposed to ally against Phoenix.}
+{241}{}{A wise proposal. This problem affects not only our tribe, but your Villa as well. I hope you'll help us solve it.}
+{242}{}{I'll see what I can do.}
 
-#Repeat dialog
-{250}{}{I'm listening to you, peasant from the Villa.}
-{1250}{}{I'm listening to you, peasant girl from the Villa.}
-{251}{}{Speak, peasant from the Villa.}
-{1251}{}{Speak, peasant woman from the Villa.}
-{252}{}{I have to go. See you later, Nana.}
+#Repeat dialogue
+{250}{}{I am listening to you, peasant of Villa.}
+{1250}{}{I am listening to you, peasant of Villa.}
+{251}{}{Speak, peasant of Villa.}
+{1251}{}{Speak, peasant of Villa.}
+{252}{}{I should go. Until next time, Nana.}
 
-{260}{}{I ask you to advocate for an alliance with the Phoenix missionaries.}
-{261}{}{I didn't expect you to take their side. But I don't see any reason to cuddle with a snake. Phoenix will betray our tribe as soon as it turns out to be profitable.}
-{262}{}{I do not know what to answer. Maybe you're even right.}
-{263}{}{Open your eyes - Phoenix is more profitable than rangers for the whole tribe.}
-{264}{}{As we lived without Phoenix before, so we will live. I am against this union.}
-{265}{}{You're going to regret this. Mark my words.}
-{266}{}{Okay. Let's not argue.}
-{267}{}{Rangers are treacherous. They are using you for the purposes of war. And Phoenix offers a trade union and a solution to many problems.}
-{268}{}{Hmm. I hadn't thought about it before. Okay, you can count on my vote during the council of elders.}
+{260}{}{I'm asking you to support an alliance with the Phoenixian missionaries.}
+{261}{}{I did not expect you to side with them. I see no reason to hug the serpent. Phoenix will betray our tribe the moment that will bring it benefit.}
+{262}{}{I don't know. You may be right.}
+{263}{}{Open your eyes - Phoenix will be better for the tribe as a whole than the Rangers.}
+{264}{}{We have lived our entire lives without Phoenix. We do not need it. I am against this alliance.}
+{265}{}{You'll regret this, mark my words.}
+{266}{}{Alright. Let's not argue.}
+{267}{}{The Rangers are treacherous - they use your tribe to fight their wars. Phoenix, meanwhile, is offering a mutually-beneficial commercial alliance, and the means to solve many of your problems.}
+{268}{}{Hmm. I have not thought about it like that before. Alright. You can count on my vote in the Council of Elders.}
 {269}{}{You won't regret your choice.}
-{270}{}{Great, that's all I need.}
-{271}{}{The union would solve many of your problems.}
-{272}{}{Perhaps it is. But if we become part of the empire, we will lose ourselves. More importantly, we will be defenseless against outsiders. What will we do if we are betrayed? How will we protect ourselves?}
-{273}{}{You need strength. You need a weapon.}
-{274}{}{Right. The kind of weapon that Phoenix won't give us. If we had those fire rifles that kill a healthy man with one shot, we wouldn't be afraid of any alliances.}
-{275}{}{I'll bring you three hunting rifles. And in return, you will advocate for the union at the council of elders.}
-{276}{}{So be it. Get us the alien weapons, and I'll take your side.}
+{270}{}{Terrific, just what I needed.}
+{271}{}{An alliance with Phoenix would provide you with the means to solve many of your problems.}
+{272}{}{Perhaps that is true. But if we become part of an empire, we will lose what makes us, well... us. And more importantly - we will be defenseless against outsiders. What will we do if they betray us? How will we defend ourselves?}
+{273}{}{You need weapons that will work against the Phoenixians.}
+{274}{}{Exactly. The kinds of weapons they won't give us. If we had those fire-spewing things that kill a healthy man in one shot, we wouldn't have anything to fear from an alliance.}
+{275}{}{I'll bring you three hunting rifles. In exchange, you will support this alliance in the Council of Elders.}
+{276}{}{Let it be so. Bring us the weapons of the outsiders and I will support your proposal.}
 {277}{}{Agreed.}
-{278}{}{OK. I heard you.}
-{1278}{}{Good. I heard you.}
-{279}{}{Okay. I always have a lot of different weapons.}
+{278}{}{Alright.}
+{1278}{}{Alright.}
+{279}{}{Alright. I'm always carrying various different weapons.}
 
-{280}{}{I have a weapon for you.}
-{281}{}{Show me what you brought?}
-{1281}{}{Show me what you brought?}
-{282}{}{Not now.}
+{280}{}{I have the weapons.}
+{281}{}{Show them to me.}
+{1281}{}{Show them to me.}
+{282}{}{Not right now.}
 {283}{}{.}
-{290}{}{ All right. But that's not enough.}
-{291}{}{I'll get more.}
-{292}{}{OK. That's enough. You can count on my vote during the council of elders.}
-{293}{}{And yet Geronimo made an alliance with the Rangers. I shouldn't have listened to you and opposed this union.}
-{294}{}{We were both wrong. It happens.}
-{295}{}{This mistake could cost someone their life. Think about it as best you can.}
-{296}{}{Yeah. Bye.}
-{297}{}{Ah, sorry. I forget that you savages are so stupid. Used to having leaders decide everything for you, right?}
-{298}{}{I will ask the Divine Brahmin to send snakes under your feet during the journey.}
-{299}{}{Aha. Later.}
+{290}{}{Good, but this is not enough.}
+{291}{}{I'll bring you some more.}
+{292}{}{Good. This is enough. You can count on my support in the Council of Elders.}
+{293}{}{And Jeronimo made an alliance with the Rangers still. I shouldn't have listened to you.}
+{294}{}{It turned out that we were both mistaken. It happens.}
+{295}{}{That mistake could cost someone their life. Think about that as best you can.}
+{296}{}{Uh-uh. Bye.}
+{297}{}{Ah, sorry. I forget that you savages are so used to chieftains deciding everything for you that you don't use your own brains.}
+{298}{}{I will tell the Holy Brahmin to send snakes under your feet in your travels.}
+{299}{}{Uh-uh. Bye.}
 
 #Questions
 {310}{}{Who are you?}
-{311}{}{I am Nana, a priestess of the southern clan of my tribe.}
+{311}{}{I am Nana, the priestess of the southern clan of my tribe.}
 {312}{}{Nice to meet you, Nana.}
-{313}{}{Are there other priestesses?}
-{314}{}{Now I, Genaro, Mangas, and the supreme leader Geronimo are in the camp.}
-{315}{}{Tell me about Genaro.}
-{316}{}{He runs the Brahmin pens and almost never goes out into the wastelands. Therefore, he knows the Phoenix outsiders and their customs better than anyone else.}
+{313}{}{Are there other priestesess?}
+{314}{}{Right now, only I, Henaro, Mangas and the supreme leader Jeronimo are present in the pueblo.}
+{315}{}{Tell me about Henaro.}
+{316}{}{He presides over the yards where the brahmin live and ocasionally walks out into the Wastes. That is why he knows the most about outsiders from Phoenix and the way they do things.}
 {317}{}{Tell me about Mangas.}
-{318}{}{Be careful with Mangas. He is intolerant of anything that violates our traditions.}
-{319}{}{Tell me about Chief Geronimo.}
-{320}{}{The great leader. He united a disparate tribe in the face of a new enemy. Before him, the tribe was feuding over the redistribution of lands. Now we live as one family.}
-{321}{}{I met Chatto here. What can you tell me about him?}
-{322}{}{The chief's son is an important person in the camp. There are young people behind him. Together they want change. And I don't like it.}
-{323}{}{Clear.}
+{318}{}{Be careful with Mangas. He is very impatient when it comes to anything or anyone that breaks our traditions.}
+{319}{}{Tell me about chieftain Jeronimo.}
+{320}{}{He is a great chieftain. He has united the scattered tribe in the face of a new enemy. Before him, the tribe quarreled over the distribution of land. Now we live like one family.}
+{321}{}{I've met this Chatto guy. What can you tell me about him?}
+{322}{}{He's the son of the chieftain - making him quite important in the pueblo. The youth support him. They all collectively want change. I do not particularly like that.}
+{323}{}{Alright.}
