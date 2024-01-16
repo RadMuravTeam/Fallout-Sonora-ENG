@@ -1,4 +1,4 @@
-{200}{}{Enter the command.}
+{200}{}{Enter command.}
 {201}{}{Cancel.}
 {202}{}{The current regime at the military base?}
 {203}{}{Full combat readiness mode has been introduced.}
