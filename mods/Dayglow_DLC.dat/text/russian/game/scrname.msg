@@ -149,11 +149,11 @@
 {249}{}{Toxic gas}
 {250}{}{Haloprojector}
 {251}{}{Elevator}
-{252}{}{The Caretaker's Ghost}
+{252}{}{The Overseer's Ghost}
 {253}{}{The door}
 {254}{}{Library Terminal}
 {255}{}{The Ghost}
-{256}{}{Caretaker post}
+{256}{}{Overseer post}
 {257}{}{Slave}
 {258}{}{Mercenary}
 {259}{}{Follower of Fire}

@@ -1028,19 +1028,19 @@
 {54801}{}{Floor grating.}
 {54900}{}{Foundation}
 {54901}{}{A hydraulic elevator designed to provide support, power and communication lines to the platform.}
-{55000}{}{Caretaker post}
+{55000}{}{Overseer post}
 {55001}{}{A comfortable chair surrounded by control panels and monitors.}
 {55100}{}{Grid}
 {55101}{}{Floor grating.}
 {55200}{}{Foundation}
 {55201}{}{A hydraulic elevator designed to provide support, power and communication lines for the platform.}
-{55300}{}{Caretaker post}
+{55300}{}{Overseer post}
 {55301}{}{A comfortable chair surrounded by control panels and monitors.}
 {55400}{}{Grid}
 {55401}{}{Floor grating.}
 {55500}{}{Foundation}
 {55501}{}{A hydraulic elevator designed to provide support, power and communication lines for the platform.}
-{55600}{}{Caretaker post}
+{55600}{}{Overseer post}
 {55601}{}{A comfortable chair surrounded by control panels and monitors.}
 {55700}{}{Hood}
 {55701}{}{An air fan that supplies recycled and purified air to the entire complex.}
@@ -2409,8 +2409,8 @@
 {124301}{}{Various Vault furniture stacked in a pile.}
 {124400}{}{Descent to the Vault}
 {124401}{}{Not everyone will dare to go down into the depths of darkness.}
-{124500}{}{Caretaker post}
-{124501}{}{This is the caretaker's post. It has not been used for a long time.}
+{124500}{}{Overseer post}
+{124501}{}{This is the Overseer's post. It has not been used for a long time.}
 {124600}{}{Bed}
 {124601}{}{The remains of a married couple are peacefully resting on this bed.}
 {124700}{}{Bed}

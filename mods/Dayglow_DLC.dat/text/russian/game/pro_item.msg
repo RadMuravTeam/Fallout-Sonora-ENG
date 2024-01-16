@@ -34,8 +34,8 @@
 {1700}{}{Universal container}
 {1701}{}{A container for storing things for all occasions.}
 ###------- THROWING WEAPONS
-{1800}{}{Stone}
-{1801}{}{This is an ordinary stone, similar to granite. However, its shape is quite convenient for combat use (strengthening the blow or throwing). Min ST: 1.}
+{1800}{}{Rock}
+{1801}{}{This is an ordinary rock, similar to granite. However, its shape is quite convenient for combat use (strengthening the blow or throwing). Min ST: 1.}
 {1900}{}{Throwing knife}
 {1901}{}{A knife of pre-war production, specially balanced for throwing. Made of titanium, with laser sharpening. Min ST: 2.}
 {2000}{}{Fragmentation grenade}
@@ -123,7 +123,7 @@
 ###------- PROVISIONS
 {6000}{}{Iguana-on-a-stick}
 {6001}{}{A desert iguana, fried right with the skin on the fire. Tasteless and unpalatable. In addition, you do not have confidence that she lived in an environmentally friendly environment. Effects: +2 health.}
-{6100}{}{Mutafruit}
+{6100}{}{Mutfruit}
 {6101}{}{An unusual fruit. Without preservatives and dyes. Effects: +3 health.}
 {6200}{}{Dried meat}
 {6201}{}{These dried and smoked pieces of meat remain edible and even to some extent nutritious for many, many, many years... Effects: +4 health.}
@@ -133,8 +133,8 @@
 {6401}{}{Frozen pre-war semi-finished product. You can't say for sure what it means, but it doesn't look as attractive as it used to. Effects: +10 health, +5 speed/isc.}
 {6500}{}{Larvae}
 {6501}{}{Huge larvae of fly-like insects, bred inside the corpse. For a Wasteland dweller, this is a real protein feast. Effects: +2 health.}
-{6600}{}{Brahmin giblets}
-{6601}{}{These giblets are cooked according to a special recipe. In addition to the obvious brahmin scar, there may be... anything. Effects: +5 health, +5 reaction.}
+{6600}{}{Brahmin fries}
+{6601}{}{These fries are cooked according to a special recipe. In addition to the obvious brahmin scar, there may be... anything. Effects: +5 health, +5 reaction.}
 {6700}{}{Rat soup}
 {6701}{}{A wonderful dish of sewer rat and unidentifiable additives. A little bit of everything. Effects: +6 health.}
 {6800}{}{IRP}
@@ -645,8 +645,8 @@
 {31801}{}{A pile of garbage that once served the Jackals as a totem.}
 {31900}{}{The body of a mercenary}
 {31901}{}{The stiffened corpse of one of the guards of the expedition. He died of blood loss.}
-{32000}{}{Caretaker post}
-{32001}{}{This is the caretaker's post. It has not been used for a long time.}
+{32000}{}{Overseer's post}
+{32001}{}{This is the overseer's post. It has not been used for a long time.}
 {32100}{}{Metal cabinet}
 {32101}{}{Antique armored cabinet. Very reliable.}
 {32200}{}{Tank with biomusor}
@@ -725,7 +725,7 @@
 {35800}{}{Letter to the shore}
 {35801}{}{Holo-recording of a letter from the Petro-Chico oil platform".}
 {35900}{}{Luther's Records}
-{35901}{}{Diary of a caretaker from the Vault 24.}
+{35901}{}{Diary of an overseer from Vault 24.}
 {36000}{}{Festive fireworks}
 {36001}{}{A large box with Mexican-made pyrotechnics.}
 {36100}{}{Ceremonial wreath}

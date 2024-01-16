@@ -691,7 +691,7 @@
 # Luther 's Notes
 # GVAR_HOLODISK_10
 #----------------------------------------------
-{11000}{}{Vault 24, the caretaker's log.}
+{11000}{}{Vault 24, the overseer's log.}
 {11001}{}{}
 {11002}{}{}
 {11003}{}{}
