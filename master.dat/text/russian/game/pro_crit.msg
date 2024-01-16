@@ -194,10 +194,10 @@
 {9701}{}{}
 {9800}{}{Arthur}
 {9801}{}{}
-{9900}{}{The Caretaker's Ghost}
+{9900}{}{The Overseer's Ghost}
 {9901}{}{A horribly disfigured creature in a torn jumpsuit.}
 {10000}{}{Advisor}
-{10001}{}{This person confidently sits at the post of caretaker and studies you down.}
+{10001}{}{This person confidently sits at the post of the overseer and studies you down.}
 {10100}{}{Don Diego}
 {10101}{}{Here is a sexy man in an expensive suit with an elegant pattern.}
 {10200}{}{Miguel}

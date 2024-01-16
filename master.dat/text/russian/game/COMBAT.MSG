@@ -753,7 +753,7 @@
 {5209}{}{. The right hand begins to swell, like an inflated balloon}
 {5210}{}{, and the baby starts crying}
 {5211}{}{. The blow falls right on the most sensitive spot}
-{5212}{}{. A blow to a vital organ knocks the spirit out of a child}
+{5212}{}{. A blow to a vital organ knocks the spirit out of the child}
 {5213}{}{. The blow knocks a small child off his feet like a toy}
 {5214}{}{. From now on, this little child will never know real life}
 {5215}{}{, while the child gets a severe cut}
