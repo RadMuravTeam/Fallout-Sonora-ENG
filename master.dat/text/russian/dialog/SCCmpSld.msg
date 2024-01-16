@@ -1,4 +1,4 @@
-{100}{}{Here is a soldier of the Brotherhood.}
+{100}{}{You see a soldier of the Brotherhood.}
 {101}{}{You see a warrior of the Brotherhood of Steel.}
 
 {110}{}{Keep an eye on the rear.}

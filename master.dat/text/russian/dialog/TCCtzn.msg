@@ -1,5 +1,5 @@
-{100}{}{You see the tinker.}
-{101}{}{Here is one of the ordinary residents of Two-Sun.}
+{100}{}{You see a tinker.}
+{101}{}{You see one of the ordinary residents of Two-Sun.}
 
 #Floating replicas
 {110}{}{The gods have become angry because of our slowness.}

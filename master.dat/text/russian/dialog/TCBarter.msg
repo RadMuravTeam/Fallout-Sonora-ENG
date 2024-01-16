@@ -1,5 +1,5 @@
 {100}{}{You see the quartermaster.}
-{101}{}{Here is the tinsmith responsible for the warehouse. His shaved head is covered with a powerful computing helmet.}
+{101}{}{You see the tinsmith responsible for the warehouse. His shaved head is covered with a powerful computing helmet.}
 {102}{}{Power armor T51b... Curious, how did YOU manage to tame such a complex technology?}
 
 #The first dialog
@@ -59,7 +59,7 @@
 #Quest for an energy cell
 {269}{}{We have temporarily halted the trade of all energy carriers until the Flagstaff mines restore production. Look for power cells somewhere else.}
 {270}{}{I need a power cell for the generator.}
-{271}{}{This is too valuable technology to give to the first comer.}
+{271}{}{This is too valuable technology to give to the firstcomer.}
 {272}{}{Just name your price.}
 {273}{}{After the events in the Forbidden Zone, I deserve loyalty.}
 {274}{}{That's my price. (adds the item to the rest of the goods) If you are not satisfied, you can leave.}
@@ -70,7 +70,7 @@
 {279}{}{Come on...}
 
 #Product Disclosure
-{280}{}{I have extensive connections throughout Arizona, it is profitable to do business with me.}
+{280}{}{I have extensive connections throughout Arizona, and it is profitable to do business with me.}
 {281}{}{Maybe so. But your words alone are not enough.}
 {282}{}{It's a pity that you don't see your benefits.}
 {283}{}{Okay, that's enough. Take a look at these beautiful pieces of technology and name your price.}
@@ -91,15 +91,15 @@
 {300}{}{Can you fix my gear?}
 {301}{}{What exactly? Equipment, weapons, armor? We work with any technology. But it will cost you a substantial amount of caps.}
 {302}{}{Forget it.}
-{303}{}{I'm talking about my personal bike.}
+{303}{}{I'm talking about my bike.}
 {304}{}{Hmm... I've never had to mess with such a technology. Motorcycle parts are rare here, mostly heavy military trucks and airplanes.}
 {305}{}{[Next]}
-{306}{}{But you know what, I can try to speed up the motorcycle with the help of aviation parts. However, for this you will have to put powerful tires and strengthen the engine, otherwise they may not cope with the increased load.}
+{306}{}{But you know what, I can try to speed up the motorcycle with the help of aviation parts. However, for this you will have to put in powerful tires and strengthen the engine, otherwise they may not cope with the increased load.}
 {307}{}{Can you do it?}
 {308}{}{I'm telling you, I don't have any tires or other motorcycle parts. Remember the places where there are old garages, there will surely be at least something useful.}
 {309}{}{Clear. I will return when I strengthen my iron brahmin.}
 {310}{}{Everything is ready. The master in Garage City has updated both the tires and the engine system. Tell me about that idea with the aviation accelerator.}
-{311}{}{The planes used the most powerful traction systems, but I can adapt some of these parts to a motorcycle. In order for the system not to overheat, you will also need a good blowing and thermal discharge pipes. Also, a couple of new modules for the on-board computer will not hurt... And, perhaps, a better aviation lubricant.}
+{311}{}{The planes used the most powerful traction systems, but I can adapt some of these parts to a motorcycle. For the system not to overheat, you will also need a good blowing and thermal discharge pipes. Also, a couple of new modules for the on-board computer will not hurt... And, perhaps, a better aviation lubricant.}
 {312}{}{Sounds good.}
 {313}{}{According to cursory calculations, this will give an increase in speed by 40%. Still interested? Then prepare }
 {314}{}{ bottlecaps, because this service is very time-consuming.}
@@ -124,7 +124,7 @@
 {341}{}{I'll put it to good use.}
 
 {350}{}{I need to fix my power armor.}
-{351}{}{A fine example of old technologies. I fix the failure of logical circuits in my neural network, I only have to look at this armor. Yes, we have the capacity to repair all of her damage. But it will cost you a very large amount of caps.}
+{351}{}{A fine example of old technologies. I fix the failure of logical circuits in my neural network, I only have to look at this armor. Yes, we can repair all of her damage. But it will cost you a very large amount of caps.}
 {352}{}{Act.}
 {353}{}{No need. Perhaps the Brotherhood itself will fix it for free.}
 {354}{}{I'll think. Anyway, I need to get out of this shell.}

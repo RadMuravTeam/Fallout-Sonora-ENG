@@ -19,7 +19,7 @@
 {221}{}{What can I do alone?}
 {222}{}{What do you think? Bring back our men and women. At least their parents. They, too, fell into the clutches of these extranos.}
 {223}{}{It won't be easy...}
-{224}{}{(Nods) Right. And I'll tell you what, although your padre won't like it much. Downstairs, in the cellars under the town hall, there is a secret room with family heirlooms. Only a few people know about it. Go down, find and take everything that will be useful to you on the road. And do it right now, time is precious.}
+{224}{}{(Nods) Right. And I'll tell you what, although your padre won't like it much. Downstairs, in the cellars under the town hall, there is a secret room with family heirlooms. Only a few people know about it. Go down, find, and take everything that will be useful to you on the road. And do it right now, time is precious.}
 {225}{}{Thanks, Grandma. Now every little thing will help me.}
 {226}{}{And that's it? Damn, you're no help. Okay, I'll look in Dad's cellar.}
 {227}{}{OK, I'll try to find these old things.}
@@ -42,7 +42,7 @@
 
 #Questions
 {240}{}{Find Jose in the square, he will tell me more.}
-{241}{}{How did the stranger’s assault happen?}
+{241}{}{How did the stranger's assualt happen?}
 {242}{}{Has someone died?}
 {243}{}{What's wrong with my parents?}
 {244}{}{This secret room in the cellars raises questions.}
@@ -54,9 +54,9 @@
 {250}{}{They all piled up at once at the most unexpected moment. All able-bodied people were tied up and taken away to the east in the morning. Jose knows more, ask him.}
 {251}{}{There was a whole massacre at the town hall. Several were killed, others were maimed. If your nerves are weak, it's better not to go there.}
 {252}{}{Your padre and madre were also taken away. So hurry up before anything worse happens to them.}
-{253}{}{Well of course. Only the old people knew about the Founder's secret room. There are ancient things and knowledge stored there, which everyone in the Villa is not supposed to know about. Padre would have taken you to this room anyway, when he thought it was necessary.}
-{254}{}{Don't be dumb. First find Jose and ask about the raid. And then go after the raiders. Then you will have to decide for yourself.}
-{1254}{}{Don't be dumb. First find Jose and ask about the raid. And then go after the raiders. Then you will have to decide for yourself.}
+{253}{}{Well of course. Only the old people knew about the Founder's secret room. There are ancient things and knowledge stored there, which no one in the Villa is supposed to know about. Padre would have taken you to this room anyway when he thought it was necessary.}
+{254}{}{Don't be dumb. First, find Jose and ask about the raid. And then go after the raiders. Then you will have to decide for yourself.}
+{1254}{}{Don't be dumb. First, find Jose and ask about the raid. And then go after the raiders. Then you will have to decide for yourself.}
 {255}{}{But the old people have always taught us that you can't use ancient things. Did even the Founder break this taboo?}
 {256}{}{Don't jump to conclusions. Taboos were invented to protect you from the dangers of old things. But not all of them are really dangerous, and some are even useful.}
 {257}{}{Perhaps if we knew more about ancient things, we would be ready for the attack of the raiders.}
@@ -90,10 +90,10 @@
 {1324}{}{You've come a long way, but you've stayed true to your home and your family. Now I can retire knowing that the Villa is in safe hands.}
 {325}{}{How could you doubt me?}
 {326}{}{Thanks for the kind words, Grandma.}
-{327}{}{The old people know a little more than the rest. We knew about the outer cities, and about the technologies of the Old World. And about the fact that only a common misfortune can unite people. And when people are doing well, there is no reason to restrain their selfishness.}
+{327}{}{The old people know a little more than the rest. We knew about the outer cities and the technologies of the Old World. And about the fact that only a common misfortune can unite people. And when people are doing well, there is no reason to restrain their selfishness.}
 {328}{}{Not without it.}
 {329}{}{Again these moralizing ...}
-{330}{}{Then conflicts and family breakdown begin. Perhaps the story of the raid was very useful - it reminded us that we should stick together. The founder of the Villa understood this well and prescribed it in his address to the descendants.}
+{330}{}{Then conflicts and family breakdowns begin. Perhaps the story of the raid was very useful - it reminded us that we should stick together. The founder of the Villa understood this well and prescribed it in his address to the descendants.}
 {331}{}{By the way, what happened to him?}
 
 {340}{}{So, }
@@ -106,7 +106,7 @@
 {347}{}{The Founder of the Villa himself warned us to stick together. But now it's too late - a raid on the Villa could rally the community. Your intervention can create discord.}
 {348}{}{By the way, what happened to the Founder? For some reason, I do not know the whole story.}
 
-{350}{}{He died prematurely from hard work in the fields and construction sites. We did not bury it in the ground according to tradition. Instead, they were taken to a cave and surrounded with a brick sarcophagus. This crypt is still well preserved.}
+{350}{}{He died prematurely from hard work in the fields and construction sites. We did not bury him in the ground according to tradition. Instead, he was taken to a cave and surrounded by a brick sarcophagus. The crypt is still well preserved.}
 {351}{}{I've never been there. Can you show me this crypt?}
 {1351}{}{I've never been there. Can you show me this crypt?}
 {352}{}{Curious. I think it's time for me to go. Bye, Grandma.}

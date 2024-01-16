@@ -1,5 +1,5 @@
 {100}{}{You see a peasant.}
-{101}{}{Here is a villager of quite ordinary appearance. It's strange to see him among all this crowd.}
+{101}{}{You see a villager of quite ordinary appearance. It's strange to see him among all this crowd.}
 {102}{}{Thanks for the help. We will not forget this and will tell everyone about your feat.}
 
 {200}{}{Hey, you're not from around here, right? You can see them right away. Let me give you a free tip - don't mess with these dealers. They don't put outsiders in anything.}
@@ -19,7 +19,7 @@
 {223}{}{Our whole community was supported by him! Water pump, lighting, radio communication - without all this, our valley will once again turn into a desert and become uninhabitable.}
 
 {230}{}{Nowhere else to get power cells?}
-{231}{}{Tinsmiths *are the only ones* who produce them nowadays. And pre-war cells became difficult to find. After all, the nearest neighborhoods have long been ruined by these technofanatics.}
+{231}{}{Tinsmiths *are the only ones* who produce them nowadays. And pre-war cells became difficult to find. After all, the nearest neighborhoods have long been ruined by these techno fanatics.}
 {232}{}{Have you tried searching in Phoenix?}
 {233}{}{Are you kidding? We are settled people, it will be a great challenge to overcome such a distance. In addition, the Big City also buys batteries from tinsmiths. And the prices there are much more expensive.}
 
@@ -42,7 +42,7 @@
 {261}{}{What are you doing here?}
 {262}{}{I need power cells for the generator. They are in the warehouse in the hangar, but I can't go there unnoticed. You seem to have just come from there, and the robots don't seem to touch you. Can you get it?}
 {263}{}{I'll see what I can do.}
-{264}{}{Deal with your problem yourself. I've already decided mine.}
+{264}{}{Deal with your problem yourself. I've already decided on mine.}
 {265}{}{Consider me no longer here.}
 
 {300}{}{Here is the power cell for the generator.}

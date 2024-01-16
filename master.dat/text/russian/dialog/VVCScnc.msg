@@ -1,4 +1,4 @@
-{100}{}{This is Arthur Carrington.}
+{100}{}{You see Arthur Carrington.}
 {101}{}{You see an archaeologist in a torn dirty robe. Despite his shabby appearance, he holds firm.}
 {102}{}{Did you want to break into the Vault? So stay here FOREVER!}
 
@@ -20,24 +20,24 @@
 {205}{}{Go so far to turn around? Well, no.}
 {206}{}{That's exactly what I thought when I led the expedition on its last outing. As you can see, it was a mistake.}
 {207}{}{Tell me what happened.}
-{208}{}{I don't think this is the right time to talk. I'll tell you everything, but first you need to finish what you started.}
+{208}{}{I don't think this is the right time to talk. I'll tell you everything, but first, you need to finish what you started.}
 {209}{}{What are you talking about?}
 {210}{}{Now is not the time to talk. Pack your things, we're leaving.}
-{211}{}{I totally agree. But first you need to finish what you started.}
-{212}{}{I have to get into the caretaker's post. This room is located one level above. Follow there. We shouldn't waste any time. Yes, my name is Arthur Carrington. Glad to meet you.}
+{211}{}{I totally agree. But first, you need to finish what you started.}
+{212}{}{I have to get into the overseer's post. This room is located one level above. Follow there. We shouldn't waste any time. Yes, my name is Arthur Carrington. Glad to meet you.}
 {213}{}{Is it really so necessary...}
 {214}{}{Okay. But don't be silly.}
-#Before the escape (as caretaker)
+#Before the escape (as overseer)
 {220}{}{Damn it! Is this a complete failure?}
 {221}{}{What happened? You look depressed...}
-{222}{}{Hey, are you talking to yourself? I actually want to know too.}
+{222}{}{Hey, are you talking to yourself? I want to know too.}
 {223}{}{Protocol zero.}
 {224}{}{Protocol... what?}
 {225}{}{What the hell is the protocol?}
-{226}{}{I suspected it would all end there. Many years of imprisonment brought the caretaker out of his mental balance, and he launched a chain of procedures to destroy the Vault. The so-called "protocol zero".}
+{226}{}{I suspected it would all end there. Many years of imprisonment brought the overseer out of his mental balance, and he launched a chain of procedures to destroy the Vault. The so-called "protocol zero".}
 {227}{}{But some of the equipment works.}
 {228}{}{Looks like his plans weren't much more successful than yours.}
-{229}{}{Yes, that's right. Obviously, the residents resisted the actions of the caretaker and were able to stop some of the procedures. They saved their lives, but doomed themselves to years of suffering by becoming... ghosts.}
+{229}{}{Yes, that's right. Obviously, the residents resisted the actions of the overseer and were able to stop some of the procedures. They saved their lives but doomed themselves to years of suffering by becoming... ghosts.}
 {230}{}{I think they suffered long before that.}
 {231}{}{If we stay here, we'll be one of them.}
 {232}{}{Yes... Of course... look, I need to get to the surface. There doesn't seem to be anything of value left here. I see no point in putting myself in further danger. Together we have more chances to break through. Will you help me?}
@@ -53,8 +53,8 @@
 {261}{}{This is the reactor level. Once the reactor overheated and caused a spontaneous explosion, destroying part of the level. Fortunately, the rock protects us from its powerful radiation.}
 {262}{}{This is the service level. There was a Vault management center and various support services. I would like to see all this splendor of technological progress in its original form.}
 {263}{}{Educational center. The library is in electronic form. Amazing ingenuity of our ancestors.}
-{264}{}{This is an entertainment hall. But it seems that because of overpopulation, they didn't have parties here, but literally lived.}
-{265}{}{This is the post of a caretaker, one might say, a local manager. From here it was possible to control all the Vault systems. Now nothing is working here - it looks like the caretaker destroyed the equipment with an emergency pulse explosion.}
+{264}{}{This is an entertainment hall. But it seems that because of overpopulation, they didn't have parties here, but lived.}
+{265}{}{This is the post of the overseer, one might say, a local manager. From here it was possible to control all the Vault systems. Now nothing is working here - it looks like the overseer destroyed the equipment with an emergency pulse explosion.}
 {266}{}{This is one of the residential levels. Apart from the bedrooms, there is nothing significant here.}
 {267}{}{Another question.}
 
@@ -103,28 +103,28 @@
 {336}{}{Thank you.}
 
 {350}{}{Tell me about yourself.}
-{351}{}{Haven't I introduced myself yet? Arthur Carrington, head of the expedition. To some extent I am a free scientist, if you like.}
+{351}{}{Haven't I introduced myself yet? Arthur Carrington, head of the expedition. To some extent, I am a free scientist, if you like.}
 {352}{}{Where did you get your education from?}
 {353}{}{My parents taught me the basics of writing and computer skills. This is a rarity in our area, so many people in Phoenix used my services. When the cult of fire worshippers took over the city, I had new opportunities for doing science, which I could only dream of before.}
 {354}{}{Who were your parents?}
 {355}{}{I think they were the descendants of those who came out of the Vault. Although they did not directly talk about it.}
 {356}{}{Why did you go on an expedition?}
-{357}{}{The fire worshippers were looking for people to scout. Their interests were too much... mercantile. They needed only practically significant things-old equipment, energy sources, weapons, after all. As a scientist, I looked at things more broadly. The Vault could tell a lot about the Old World and help in the development of the New One. Ancient relics should not be thrown around so recklessly.}
+{357}{}{The fire worshippers were looking for people to scout. Their interests were too much... mercantile. They needed only practically significant things-old equipment, energy sources, and weapons, after all. As a scientist, I looked at things more broadly. The Vault could tell a lot about the Old World and help in the development of the New One. Ancient relics should not be thrown around so recklessly.}
 
 {360}{}{Tell me what happened to the expedition.}
 {361}{}{Not the most pleasant topic for conversation. After descending to the Vault, we split into two groups. The first one was supposed to monitor the backup generator, and the second one was supposed to go down to the reactor room with me. After the split, everything didn't go according to plan.}
 {362}{}{What happened to your group?}
-{363}{}{We went down to the reactor room and began to examine the premises. But there was a trap in one of them. The explosion killed my subordinates, and knocked me unconscious. When I woke up, the elevator was lifted up, the electricity was turned off, and the first group did not get in touch.}
+{363}{}{We went down to the reactor room and began to examine the premises. But there was a trap in one of them. The explosion killed my subordinates and knocked me unconscious. When I woke up, the elevator was lifted up, the electricity was turned off, and the first group did not get in touch.}
 {364}{}{What happened to the first group?}
 {365}{}{Most likely, the group was attacked by ghosts. You probably know more than me. In any case, the generator could not run out on its own. Obviously, one of the ghosts pulled out the power cells from there and thereby left me trapped.}
 {366}{}{I examined the bodies of your group. One of them had a gunshot wound to the head. What do you say?}
 {1366}{}{I examined the bodies of your group. One of them had a gunshot wound to the head. What do you say?}
 {367}{}{And why did you have to stick your nose in dirty laundry? Yes, it wasn't just me who survived. The second member of the expedition was injured, but taking care of him would have required all my resources. I couldn't afford it.}
 {368}{}{It looks more like you were just holding the rear for safety, and you wasted your people.}
-{369}{}{Caution allowed me to live up to my age. And it was only here, in the Vault, that I paid the price for letting my ambitions get the better of me. But I had to act decisively, because the expedition was under threat - at any moment the cult could stop funding or send me a replacement. I couldn't derail my life's work!}
+{369}{}{Caution allowed me to live up to my age. And it was only here, in the Vault, that I paid the price for letting my ambitions get the better of me. But I had to act decisively because the expedition was under threat - at any moment the cult could stop funding or send me a replacement. I couldn't derail my life's work!}
 
 {370}{}{What do you know about ghosts?}
-{371}{}{They are victims of mutations that arose due to a set of conditions after the "zero protocol": poisonous gases and viruses in the air, the use of gas masks, radiation, taking certain medications and much more. They were in suspended animation for decades until we disturbed them. During this time, their brains have degraded. Only animal instincts remained.}
+{371}{}{They are victims of mutations that arose due to a set of conditions after the "zero protocol": poisonous gases and viruses in the air, the use of gas masks, radiation, taking certain medications, and much more. They were in suspended animation for decades until we disturbed them. During this time, their brains have degraded. Only animal instincts remained.}
 {372}{}{Have you noticed that I've mutated into something similar too?}
 {1372}{}{Have you noticed that I've mutated into something similar too?}
 {373}{}{I almost mistook you for a ghost when I met you. Congratulations, you have a long life ahead of you.}
@@ -143,7 +143,7 @@
 {393}{}{A lot of people died because of you and your ambitions. Do you want to continue?}
 {394}{}{As cruel as it may sound, the lives of mercenaries and slaves were less valuable than the legacy of ancient times. Just think what prospects will open up if we return Phoenix to its forgotten technologies!}
 {395}{}{Did technology help the local ghosts?}
-{396}{}{No, they didn't help. So what? This is nothing more than the stupidity of one particular person in the caretaker Vault.}
+{396}{}{No, they didn't help. So what? This is nothing more than the stupidity of one particular person in the overseer's Vault.}
 {397}{}{Okay. Whatever you say.}
 {398}{}{Technology has not saved the residents of the Vault. On the contrary, they were condemned to eternal suffering.}
 {399}{}{What do you mean by that?}
@@ -158,7 +158,7 @@
 {451}{}{No, boss. Too many people. This prevents me from concentrating on thinking about my grand plan.}
 {452}{}{But this is not good.}
 {453}{}{It's time for us to break up. Then you will go alone.}
-{454}{}{Are you going to leave me like this after all our adventures? Okay. I'm going to stay here and read a pocket book until you change your mind.}
+{454}{}{Are you going to leave me like this after all our adventures? Okay. I'm going to stay here and read a pocketbook until you change your mind.}
 {455}{}{Be.}
 {456}{}{You can take off your armor.}
 {457}{}{Thank you, Chief. It's too stuffy in there.}
@@ -167,16 +167,16 @@
 {460}{}{Hmm. Whatever you say, boss.}
 {461}{}{That's it.}
 {462}{}{Maybe I'll come back for you later.}
-{463}{}{We have reached Phoenix. That was what needed to be proved. You know, if there were people like you in the expedition, I wouldn't have failed.}
+{463}{}{We have reached Phoenix. That was what needed to be proved. You know, if there were people like you on the expedition, I wouldn't have failed.}
 {464}{}{What are you going to do?}
-{465}{}{I have a lot to do. First you need to meet with the customer and report on the results. It will take a couple of days. Until then, please don't bother me.}
+{465}{}{I have a lot to do. First, you need to meet with the customer and report on the results. It will take a couple of days. Until then, please don't bother me.}
 {466}{}{Okay. We'll meet here in two days.}
 {467}{}{Greetings to my savior.}
 {468}{}{Bye, Arthur.}
 
 {470}{}{And here is my savior. Glad to see you.}
 {1470}{}{And here is my savior. It's good to see you.}
-{471}{}{How was your report received? You're not really beaming with happiness.}
+{471}{}{How was your report received? You're not beaming with happiness.}
 {472}{}{Now no one needs the results of my many months of work. The Temple of Fire is destroyed. I don't know what happened there, but the fire worshippers are now in exile, and no one needs a scientist like me anymore.}
 {473}{}{Are you sure?}
 {474}{}{There is one clue. In the Cathedral, I came across scant reports about the city of scientists somewhere in the south, but there is too little information about it. I want to go there to find happiness at last. If you're going that way, let me know.}

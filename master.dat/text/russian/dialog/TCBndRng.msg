@@ -1,5 +1,5 @@
 {100}{}{You see the lookout.}
-{101}{}{Here is one of the runaway slaves. He's guarding the entrance.}
+{101}{}{You see one of the runaway slaves. He's guarding the entrance.}
 
 {200}{}{Stop! What the hell? How did you manage to get through the traps?}
 {201}{}{I had a map.}
@@ -22,7 +22,7 @@
 {213}{}{Spy! Everyone here!}
 {214}{}{And that was for nothing.}
 
-{220}{}{Tell me how you got here?}
+{220}{}{Tell me how you got here.}
 {221}{}{I was captured in Phoenix and sold to tinsmiths as a slave. Then they were sent to the Forbidden Zone to collect old things. Luckily for me, Jeff was there and helped me out of the trap. Now I'm here, helping in any way I can. I am appreciated for my skill with traps.}
 {222}{}{Just grabbed, right? Somehow doubtful.}
 {223}{}{Hey, have you ever come across these fanatics worshipping nuclear energy? They don't consider the people in the wastelands to be people. If they need slaves, then no matter who you are and what you do, they will still grab you by the throat with a collar.}
@@ -35,7 +35,7 @@
 {230}{}{How do I get out of here without being blown up by mines?}
 {231}{}{Go through the back door. I won't tell you anything else.}
 {232}{}{Okay.}
-{233}{}{We have to trust each other, because we are doing the same thing.}
+{233}{}{We have to trust each other because we are doing the same thing.}
 {234}{}{Okay, I'll show you the minefields. Be careful.}
 {235}{}{Thank you.}
 {236}{}{You already know too much.}

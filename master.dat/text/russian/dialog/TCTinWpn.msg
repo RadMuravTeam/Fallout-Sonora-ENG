@@ -1,5 +1,5 @@
 {100}{}{You see the Second-Of-Three.}
-{101}{}{Here is one of the tinsmiths. He is diligently cleaning his laser pistol.}
+{101}{}{You see one of the tinsmiths. He is diligently cleaning his laser pistol.}
 
 {200}{}{(You watch the tinker stubbornly cleaning his laser gun, not paying attention to you.)}
 {201}{}{Have you been doing this for a long time?}
@@ -24,7 +24,7 @@
 {225}{}{Even Master Hard entrusts me with some tasks.}
 {226}{}{It's true. This honor falls only to a few.}
 {227}{}{Many people in this city trust me.}
-{228}{}{Perhaps. But "many" does not mean consensus. However, I can make concessions for a valuable gift - bring a couple of pieces of electronics parts, this will be enough for my loyalty.}
+{228}{}{Perhaps. But "many" does not mean consensus. However, I can make concessions for a valuable gift - bring a couple of pieces of electronic parts, this will be enough for my loyalty.}
 {229}{}{Here are 2 units of electronic parts.}
 {230}{}{Here are 5 units of electronic parts.}
 {231}{}{We could exchange our skills.}
@@ -35,4 +35,4 @@
 {241}{}{So how about a little introductory course?}
 {242}{}{Do you know the basics of quantum mechanics? Then let's not waste time...}
 {243}{}{[Next]}
-{244}{}{The tinker turned out to be a demanding teacher. But he really taught you a lot.}
+{244}{}{The tinker turned out to be a demanding teacher. But he taught you a lot.}

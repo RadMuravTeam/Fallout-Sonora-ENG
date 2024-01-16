@@ -1,4 +1,4 @@
-{100}{}{Here is Alekhno.}
+{100}{}{You see Alekhno.}
 {101}{}{You see a half-naked man with a crazy look. He brandishes his machete threateningly.}
 
 {110}{}{And die, you creatures!}

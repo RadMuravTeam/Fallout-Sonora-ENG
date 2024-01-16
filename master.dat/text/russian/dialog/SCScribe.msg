@@ -1,5 +1,5 @@
 {100}{}{You see the clerk.}
-{101}{}{Here is an ordinary clerk of the Brotherhood of Steel.}
+{101}{}{You see an ordinary clerk of the Brotherhood of Steel.}
 
 {210}{}{What are you doing here? Who let you on board?}
 {211}{}{Don't distract me, I'm doing important research.}

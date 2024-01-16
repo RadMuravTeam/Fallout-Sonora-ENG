@@ -1,4 +1,4 @@
-{100}{}{Here is a fisherman.}
+{100}{}{You see a fisherman.}
 {101}{}{You see a local savage.}
 
 {110}{}{Fish!}

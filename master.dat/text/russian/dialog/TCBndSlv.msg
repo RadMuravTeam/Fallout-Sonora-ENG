@@ -1,5 +1,5 @@
 {100}{}{You see a runaway slave.}
-{101}{}{Here is one of the runaway slaves who settled in these ruins.}
+{101}{}{You see one of the runaway slaves who settled in these ruins.}
 
 {110}{}{The tinsmiths will pay for everything.}
 {111}{}{Did the tinsmiths separate you from your family? I understand...}

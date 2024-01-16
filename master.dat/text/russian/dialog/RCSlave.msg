@@ -1,4 +1,4 @@
-{100}{}{Here is a handyman.}
+{100}{}{You see a handyman.}
 {101}{}{You see an ordinary inhabitant from the wasteland.}
 
 #The first dialog
@@ -15,6 +15,6 @@
 {214}{}{Tell us about your community.}
 {215}{}{We live near an Aqueduct on the Colorado shore. We survive at the expense of fish and small game. I don't know what else to tell you.}
 {216}{}{What do you think about the Rangers?}
-{217}{}{When necessary, they will become the only hope for salvation. But the rest of the time they just parasitize our community, taking the catch and forcing them to work for their own benefit.}
+{217}{}{When necessary, they will become the only hope for salvation. But the rest of the time they just parasitize our community, taking the catch and forcing them to work for their benefit.}
 {218}{}{Do you know a way to get into the base?}
 {219}{}{I don't know. Excursions for tourists are not taken there. You need to do the Rangers a good service or have a really good reason.}

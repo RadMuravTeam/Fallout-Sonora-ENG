@@ -1,4 +1,4 @@
-{100}{}{Here is a bandit.}
+{100}{}{You see a bandit.}
 {101}{}{You see a man who doesn't look like a ranger at all.}
 {102}{}{Get out of here before I shoot you.}
 

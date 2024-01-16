@@ -1,4 +1,4 @@
-{100}{}{Here is a cannibal.}
+{100}{}{You see a cannibal.}
 {101}{}{You see a strange man. He smiles unkindly, looking at you.}
 
 {110}{}{Your body can feed my whole family.}

@@ -1,5 +1,5 @@
 {100}{}{You see the ambassador.}
-{101}{}{Here is an official ambassador from the Rangers.}
+{101}{}{You see an official ambassador from the Rangers.}
 {102}{}{Our union has come to an end, Ambassador.}
 {103}{}{You are under reliable protection.}
 

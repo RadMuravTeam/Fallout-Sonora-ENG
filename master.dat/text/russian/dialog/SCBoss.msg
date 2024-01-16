@@ -1,4 +1,4 @@
-{100}{}{This is General Dixon.}
+{100}{}{You see General Dixon.}
 {101}{}{You see the general himself - an incredibly vain and assertive soldier.}
 {102}{}{I'm not up to talking right now.}
 {103}{}{?}
@@ -20,7 +20,7 @@
 {204}{}{Damn...}
 {205}{}{It won't save you...}
 
-{210}{}{What the fuck are these jokes? Someone is going to be severely reprimanded today for missing civilians. Okay, tell me who you are and what you want?}
+{210}{}{What the fuck are these jokes? Someone is going to be severely reprimanded today for missing civilians. Okay, tell me who you are and what you want.}
 {211}{}{I'm here to wipe out your vile colonization squad. Death to the invaders!}
 {212}{}{Let me go, General.}
 {213}{}{Ulysses Grant sent you a report.}
@@ -33,14 +33,14 @@
 {220}{}{We cultivate the land and grow maize. But recently there have been problems with colonizers from Flagstaff...}
 {221}{}{Ah, that's it. I have already been informed that there is a shortage of labor in the uranium mines. Well, the costs are inevitable. It's not fucking fair, son.}
 {1221}{}{Ah, that's it. I have already been informed that there is a shortage of labor in the uranium mines. Well, the costs are inevitable. It's damn unfair, lady.}
-{222}{}{That's right, General. Terribly unfair.}
+{222}{}{That's right, General. Unfair.}
 {223}{}{I was sent by Hard from Two-Sun for service. Here is his recommendation.}
-{224}{}{Hard must have a really good reason for your recommendation. I heard that there have been major changes in Two-Sun recently? But tell me about yourself, who are you and how did you earn such trust among tinkerers?}
-{1224}{}{Hard must have a really good reason for your recommendation. I heard that there have been major changes in Two-Sun recently? But tell me about yourself, who are you and how have you earned such trust among tinkerers?}
+{224}{}{Hard must have a really good reason for your recommendation. I heard that there have been major changes in Two-Sun recently. But tell me about yourself, who are you and how did you earn such trust among tinkerers?}
+{1224}{}{Hard must have a really good reason for your recommendation. I heard that there have been major changes in Two-Sun recently. But tell me about yourself, who are you and how have you earned such trust among tinkerers?}
 {225}{}{The Rangers sent me. They want to stop you, but I'm interested in listening to both sides.}
 {226}{}{Ha, we know the Rangers are scouting. But I respect your courage. Tell me, what did the Rangers promise you in exchange for our secrets?}
 {227}{}{Actually, they promised freedom and protection of my native village.}
-{228}{}{I am here because you are responsible for the troubles of my village. Because of your craving for energy sources, the Flagstaff colony enslaves villages like ours.}
+{228}{}{I am here because you are responsible for the troubles that plague my village. Because you crave energy sources, the Flagstaff colony enslaves villages like ours.}
 {229}{}{I demand freedom and independence for my native village.}
 {230}{}{Perhaps you dream of freedom for your village? So that the bandits do not disturb your brother, and the maize grows without blood and sweat.}
 {231}{}{Is that possible, General?}
@@ -51,9 +51,9 @@
 {236}{}{If your village needs freedom, then join our Brotherhood. We will protect the Villa from enemies and help with technology. In exchange, of course, for a small surplus crop. But no creature in Arizona will dare to encroach on your sacred freedom.}
 {237}{}{But we know almost nothing about your Brotherhood.}
 {238}{}{Too loud a speech, General. What kind of Brotherhood are you anyway?}
-{239}{}{The Brotherhood of Steel is an ancient order. We are collecting and reviving technologies and knowledge that were lost after the Great War. For a long time we hid in the shadow of history, studying the situation and gathering strength. And now the end of our isolation has come. The brotherhood came out of its bunker a few years ago. Our scribes will tell you the details.}
+{239}{}{The Brotherhood of Steel is an ancient order. We are collecting and reviving technologies and knowledge that were lost after the Great War. For a long time, we hid in the shadow of history, studying the situation and gathering strength. And now the end of our isolation has come. The brotherhood came out of its bunker a few years ago. Our scribes will tell you the details.}
 {240}{}{.......}
-{241}{}{I'm just walking by and wondering if you have a job?}
+{241}{}{I'm just walking by and wondering if you have a job.}
 {242}{}{I don't do mercenaries. There is a special post outside for this. Now I ask you to leave our fortress immediately.}
 {243}{}{Excuse me, General...}
 {244}{}{OK, I'm leaving peacefully.}
@@ -61,9 +61,9 @@
 {246}{}{But what are you trying to achieve with your expansion?}
 {247}{}{The wastelands themselves must be reborn. We just happened to provide a little assistance. A small push that did not arise by our will. But it will give you an incentive for a big move. Tell me, surely people still work manually in your Villa, don't they?}
 {248}{}{[Nod]}
-{249}{}{Imagine how the village will change if we bring water pumps, generators and new tools there. Not to mention medicine and means of protection from bandits.}
+{249}{}{Imagine how the village will change if we bring water pumps, generators, and new tools there. Not to mention medicine and means of protection from bandits.}
 {250}{}{You will simply occupy us and force us to work for the good of the Brotherhood. This is not freedom.}
-{251}{}{In that case, I'm wasting my time trying to be nice to you. Your village WILL supply us with food even against its own will. You had a chance to choose an easy path, but this chance is missed. Put down your weapons and put your hands up.}
+{251}{}{In that case, I'm wasting my time trying to be nice to you. Your village WILL supply us with food even against its own will. You had a chance to choose an easy path, but this chance was missed. Put down your weapons and put your hands up.}
 {252}{}{Uh, don't, General...}
 {253}{}{The hell with it. You will not intimidate the free peasant people.}
 {254}{}{Sounds amazing. I'll talk to the elders.}
@@ -78,12 +78,12 @@
 {1261}{}{Here we are, you fucking bitch. I knew you'd come here someday. Yes, the whole of Arizona is already talking about you.}
 {262}{}{How do you know about me?}
 {263}{}{Naive Redneck, do you really think that your antics will go unnoticed? We have enough ears in the wastelands to know all the most important events.}
-{1263}{}{Naive rednechka, do you really think that your antics will go unnoticed? We have enough ears in the wastelands to know all the most important events.}
+{1263}{}{Naive redneck, do you really think that your antics will go unnoticed? We have enough ears in the wastelands to know all the most important events.}
 {264}{}{And what do you think about it, General?}
 {265}{}{I don't care. I'm here to kill you and your whole gang.}
 {266}{}{Son of a bitch, do you have any idea how much work it took to create a cult in Phoenix? All this grandiose work was aimed at the revival of the city. But now the only possibility has burned down in a nuclear fire because of some handful of peasants. This is a tragedy for the whole of Arizona, damn it!}
 {267}{}{Continue.}
-{268}{}{Do you know how much work we have put into an alliance with the tinsmiths? Our diplomats have shown miracles in establishing contact with them. But it was still necessary to establish caravan routes. Now everything in the Two-Sun district will die out because of you.}
+{268}{}{Do you know how much work we have put into an alliance with the tinsmiths? Our diplomats have shown miracles in establishing contact with them. It was still necessary to establish caravan routes. Now everything in the Two-Sun district will die out because of you.}
 {269}{}{Go ahead.}
 {270}{}{The Flagstaff mines were a critical element in the entire system. Uranium ore provides energy, and without it, all other development in Arizona is impossible. And now this source is blocked for the coming decades. Can you imagine the scale of this tragedy?}
 {271}{}{Continue.}
@@ -92,9 +92,9 @@
 {274}{}{And now I have a question for you - what are you trying to achieve, you son of a bitch?}
 {1274}{}{And now I have a question for you - what are you trying to achieve?}
 {275}{}{Because of all this movement, my family got into a difficult situation. I am seeking freedom for my Villa.}
-{276}{}{Maybe I would feel compassion for you, trying to find a compromise. But such a grandiose work on the establishment of social, economic and technological processes in the whole state is going down the drain because of one dirty rebellious village!}
+{276}{}{Maybe I would feel compassion for you, trying to find a compromise. But such a grandiose work on the establishment of social, economic, and technological processes in the whole state is going down the drain because of one dirty rebellious village!}
 {277}{}{Yes, that's right. You can't take away our freedom. Something you don't like, General?}
-{278}{}{You are committing a crime against local residents, hiding behind noble goals. But you didn't even ask our opinion.}
+{278}{}{You are committing a crime against residents, hiding behind noble goals. But you didn't even ask our opinion.}
 {279}{}{If housewives had ordered politics before the War, the world would not have been able to live a day!}
 {280}{}{Nonsense. Housewives don't want the world to burn. And because of your intervention, Dixon, the whole of Arizona is on fire.}
 {281}{}{Perhaps you're right about that, General.}
@@ -103,14 +103,14 @@
 {284}{}{Oh, how "noble" of you.}
 {285}{}{Your rebellious village will receive forgiveness and immunity from the Brotherhood. But for this to happen, it is necessary to eliminate our main competitor in Arizona - the Rangers. They say they built a fort on an old hydroelectric station. Conduct a reconnaissance and find a way to destroy their dam.}
 {286}{}{The hell with two. The Rangers will protect us, and you will go to hell.}
-{287}{}{Very sorry. So, in accordance with the laws of the Old World, you will face the death penalty for your crimes. Get ready to accept your fate, you piece of shit...}
+{287}{}{Very sorry. So, by the laws of the Old World, you will face the death penalty for your crimes. Get ready to accept your fate, you piece of shit...}
 {288}{}{Go to hell.}
 {289}{}{But I'm not a criminal...}
 {1289}{}{But I'm not a criminal...}
 {290}{}{If you leave us alone, then I will try to do it.}
 {291}{}{As the supreme Paladin, I will keep my word. Act.}
 {292}{}{Goodbye.}
-{293}{}{It is strange to hear this from the mouth of someone who is guilty of this.}
+{293}{}{It is strange to hear this from the mouth of someone guilty of this.}
 {294}{}{What the hell are you talking about? We are just the final buyers of nuclear batteries. They are made by Two-Sun tinsmiths, and uranium is brought for them from Flagstaff. I am also not in the mood that the colony's leadership has fallen victim to its greed. But we have to turn a blind eye to this. We need these batteries!}
 {295}{}{Yeah. It sounds like you're out of business. But really?}
 {296}{}{Listen, son, we're not slavers. We are an ancient noble order whose purpose is to keep order in the wastelands. And California is a complete mess right now. Right now there is a war being waged with an army of super mutants. If the Brotherhood fails to contain this green threat, it will soon get to you. Do you want this?}
@@ -126,25 +126,25 @@
 {310}{}{I have a message for you from Ulysses Grant.}
 {311}{}{I have been waiting for this report for a long time. Come here.}
 {312}{}{Here it is.}
-{313}{}{Actually, the film deteriorated on the way. I'm really sorry.}
+{313}{}{Actually, the film deteriorated on the way. I'm sorry.}
 {314}{}{}
 {315}{}{Why don't you put a sign on your chest that says: "Cretin"? I don't care how, but do your job and bring me this report!}
 {1315}{}{Why don't you put a sign on your chest that says, "Brainless fool"? I don't care how, but do your job and bring me this report!}
 {316}{}{Uh, yes, General.}
 {317}{}{It was a joke, General. The holodisk is in perfect order.}
-{318}{}{Do you think that's funny? Damn savages! I have a whole army under my command, and you're joking here? Pray that there is no sedition against you in the report. Otherwise I'll skin you alive. So where is the report?}
+{318}{}{Do you think that's funny? Damn, savages! I have a whole army under my command, and you're joking here? Pray that there is no sedition against you in the report. Otherwise, I'll skin you alive. So where is the report?}
 {319}{}{Here it is, General.}
 {320}{}{Not so fast. I was promised a reward for this work.}
 {321}{}{Your job is to do the job and shut your mouth until a senior officer turns to you. Shut up! So where's the report?}
 {322}{}{So. Umgu. Curious. Good news. It also talks about your services to the Cathedral. Ulysses wouldn't pay so much attention to you without a good reason.}
 {323}{}{Well, my task is done. I think I should go.}
-{324}{}{The journey through the desert must have taken a lot out of you. Don't worry, we'll pay for the job. Contact the quartermaster, he will give you a reward.}
+{324}{}{The journey through the desert must have taken a lot out of you. Don't worry, we'll pay for the job. Contact the quartermaster, he will reward you.}
 {325}{}{Thank you, General.}
 {326}{}{Just curious - what does it say?}
 {327}{}{It's not very smart of you to get involved in such questions. However, judging by the report, you already know a lot.}
 {328}{}{Indeed.}
 {329}{}{I'm just doing my job. So what about the payment?}
-{330}{}{Do you want caps, but don't want to choose? It is a pity that among your mercantile interests there is no concept of honor and justice. But you do your job properly, and this is appreciated in the Brotherhood. Don't worry, we'll pay. Contact the quartermaster, he will give you a fee.}
+{330}{}{Do you want caps, but don't want to choose? It is a pity that among your mercantile interests, there is no concept of honor and justice. But you do your job properly, and this is appreciated in the Brotherhood. Don't worry, we'll pay. Contact the quartermaster, he will give you a fee.}
 {331}{}{Thank you, General.}
 
 #Questions about BS
@@ -173,16 +173,16 @@
 {371}{}{[Next]}
 {372}{}{Is there such a force in these parts? No. But here we come. Of course, we have our own personal interests - pre-war resources and knowledge. You savages, in any case, are not able to properly use these deposits of priceless human creations.}
 {373}{}{[Next]}
-{374}{}{To get them, we push the tribes on the path of progress and unification. Thus, they gain valuable experience. We brought to these lands the economy, currency, medicine, the first school in the entire post-war history! No matter how much the local savages hate us, the whole of Arizona owes us its new achievements.}
+{374}{}{To get them, we push the tribes on the path of progress and unification. Thus, they gain valuable experience. We brought to these lands the economy, currency, medicine, and the first school in the entire post-war history! No matter how much the local savages hate us, the whole of Arizona owes us its new achievements.}
 {375}{}{Those are your words, Dixon. Does the General Staff know?}
-{376}{}{This fort is worth several... aside from the decisions of the general Staff. I was given "broad powers" to successfully complete the main mission.}
+{376}{}{This fort is worth several... aside from the decisions of the General Staff. I was given "broad powers" to successfully complete the main mission.}
 {377}{}{I see. May I ask another question about the Brotherhood?}
 {380}{}{What are your global goals?}
 {381}{}{The answer will be ambiguous. There have been disputes between scribes for decades. Some believe that we should throw our efforts at restoring civilization according to the ideals of the Old World. Others consider the world not worthy of our knowledge and technology.}
 {382}{}{[Next]}
 {383}{}{In any case, the leadership was not going to influence Arizona. Here the order hoped only to replenish stocks of nuclear material and launch several surviving workshops. Exclusively for their own internal purposes and for the war with the super mutants. But it turned out to be much more complicated.}
 {384}{}{What do you mean?}
-{385}{}{They don't understand that you can't just come and take old batteries from a pile of garbage. We need workers, caravans, even a postal service. We need a functioning infrastructure and economy! None of this happened until my squad entered these wild lands.}
+{385}{}{They don't understand that you can't just come and take old batteries from a pile of garbage. We need workers, caravans, and even a postal service. We need a functioning infrastructure and economy! None of this happened until my squad entered these wild lands.}
 {386}{}{I see. Let me ask you another question about the Brotherhood?}
 {387}{}{Tell us about California.}
 {388}{}{The lands of California are devastated by war and time. Los Angeles is in ruins. But gradually civilization rises from the ashes.}
@@ -208,18 +208,18 @@
 {417}{}{Thank you, General Dixon.}
 
 {420}{}{I want to join the Brotherhood.}
-{421}{}{Kneel down and tell me your name.}
+{421}{}{Kneel and tell me your name.}
 {422}{}{I }
 {423}{}{ from the Villa. And I swear allegiance to the Brotherhood of Steel.}
 {424}{}{Choose your division.}
 {425}{}{I want to become a scribe and carry the wisdom of the Old World.}
 {426}{}{I want to become a paladin and bring death to the enemies of the Brotherhood.}
 {427}{}{I want to become a knight to carry the light of technology.}
-{428}{}{I want to become a scout, in this I will be of the greatest benefit to the Brotherhood.}
+{428}{}{I want to become a scout, in this, I will be of the greatest benefit to the Brotherhood.}
 {429}{}{So be it. }
 {430}{}{ from the Villa. From now on, you are an honorary member of the Order of the Brotherhood of Steel. Do not disgrace our name and honor the laws. Remain faithful until death.}
 {431}{}{I swear loyalty!}
-{432}{}{Although I promised to give you a rank in the order, but it turned out that there is an evil reputation about you among our brothers. I'll have to hold off on the order until you prove yourself again.}
+{432}{}{Although I promised to give you a rank in the order, it turned out that there is an evil reputation about you among our brothers. I'll have to hold off on the order until you prove yourself again.}
 {433}{}{Damn. Reputation is quite a thing...}
 {434}{}{Our order can be entered only for outstanding merits. And your exploits aren't that impressive.}
 {435}{}{I will try my best.}

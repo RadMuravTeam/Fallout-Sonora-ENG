@@ -1,4 +1,4 @@
-{100}{}{Here is a trader Flick.}
+{100}{}{You see the trader Flick.}
 {101}{}{This is Flick, a traveling merchant.}
 {102}{}{No more Nuka-Cola... honestly.}
 {103}{}{The merchant lost the harmful goods. It remains to report the success to Commander Helford.}
@@ -17,7 +17,7 @@
 {220}{}{What do you sell, Flick?}
 {221}{}{I sell what I can -food, clothes, household utensils. But now I have nothing but caps left.}
 {222}{}{What's the story with caps?}
-{223}{}{Don't you know? In a big city in the east, someone thought of using caps as currency. That is, to exchange them for goods. It's a strange idea, but it's convenient! The only problem is that the Rangers do not recognize the caps and refuse to trade on them.}
+{223}{}{Don't you know? In a big city in the east, someone thought of using caps as currency. That is, to exchange them for goods. It's a strange idea, but it's convenient! The only problem is that the Rangers do not recognize the caps and refuse to trade with them.}
 {224}{}{What kind of principle is this?}
 {225}{}{Well, they think currency is a speculative thing. After all, you never know the true price of caps. And barter exchange is honest and not subject to any kind of "inflation". And yet many now have bags for caps, someday the rangers will be forced to change.}
 {226}{}{How interesting. Let's talk some more, aren't you in a hurry?}
@@ -51,7 +51,7 @@
 {263}{}{Hmm-m-m. Whatever you say.}
 {264}{}{Hmm-m-m. (ponders, assessing the prospects) Damn, it's too far and dangerous... Uh, I mean, there's nothing I can do to help you.}
 {265}{}{My people were kidnapped by slavers. I hope the Rangers will help bring them back.}
-{266}{}{I doubt it, my friend. But you talk to the commander in the infocenter. And where is your village located?}
+{266}{}{I doubt it, my friend. But you talk to the commander in the info center. And where is your village located?}
 {267}{}{This... far from here.}
 {268}{}{Hmm-m-m. Well, okay.}
 {269}{}{In the north. This place is called a Villa.}
@@ -67,7 +67,7 @@
 #Dialog on the road map
 {300}{}{What do you want? Did the Rangers send you?}
 {301}{}{I hear a note of nervousness in your words. You know they're already looking for you, right?}
-{302}{}{Yes, I know. But first prove that the epidemic was caused by an irradiated Nuka-cola! My product was *safe*. Got it?}
+{302}{}{Yes, I know. But first, prove that the epidemic was caused by an irradiated Nuka-cola! My product was *safe*. Got it?}
 {303}{}{That's what everyone says. How about checking with a radiometer?}
 {304}{}{Thu... The hell I'm going to let you near my product. Step away from the cart!}
 {305}{}{...}

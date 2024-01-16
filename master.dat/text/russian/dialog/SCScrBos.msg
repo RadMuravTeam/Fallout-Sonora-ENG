@@ -1,5 +1,5 @@
 {100}{}{You see Maura.}
-{101}{}{Here is the supreme clerk of the Brotherhood of Steel.}
+{101}{}{You see the supreme clerk of the Brotherhood of Steel.}
 {102}{}{I'm not up to talking right now.}
 {103}{}{}
 
@@ -23,7 +23,7 @@
 {205}{}{In that case, greetings, stranger. I am Maura, the supreme scribe of the Brotherhood of Steel. Civilians are not often allowed here. What are you doing on our ship?}
 {1205}{}{In that case, greetings, stranger. I am Maura, the supreme scribe of the Brotherhood of Steel. Civilians are not often allowed here. What are you doing on our ship?}
 {206}{}{I have an important mission.}
-{207}{}{Good. But still I will find out from the sentries why you were missed.}
+{207}{}{Good. But still, I will find out from the sentries why you were missed.}
 {208}{}{I count on your loyalty, Clerk Maura.}
 {209}{}{Better mind your own business, clerk.}
 
@@ -45,13 +45,13 @@
 {224}{}{However, he says that he took only a few cobs on a huge plantation.}
 {225}{}{First of all, this is not an excuse. And secondly, criminals are always trying to belittle their guilt. Of course, he does not admit that there were more cobs or that the robbery also took place in city houses. The usual thing.}
 {226}{}{I understand now. May I ask another question?}
-{227}{}{Either that, or you yourself are covering up your slaveholding ambitions.}
+{227}{}{Either that or you are covering up your slaveholding ambitions.}
 {228}{}{Nonsense! History shows well that forced labor is effective only in the short term. Besides, there is no need to resort to such measures when there are so many real criminals around. Grab any of them and make them benefit society. Here's a reasonable approach.}
 {229}{}{Perhaps you are right.}
 {230}{}{Well, well, tell me more.}
 {231}{}{Is it humane to put a collar on him and make him work?}
 {232}{}{Humane? A person has committed a crime, let him be grateful for the preservation of his worthless life.}
-{233}{}{He says that he took only a few cobs on a huge plantation in order to survive.}
+{233}{}{He says that he took only a few cobs on a huge plantation to survive.}
 {234}{}{Can you tell me who is who on the ship?}
 {235}{}{So you're not the one behind slavery in Arizona?}
 {236}{}{No, of course not. However, I know that some of our allies sometimes abuse their position. It's just a cost.}
@@ -73,9 +73,9 @@
 {253}{}{Where did you all come from?}
 {254}{}{We came from California. Previously, they sat quietly in their bunker and did not meddle in worldly affairs. But our time has come. This is just one of our remote outposts.}
 {255}{}{Tell the story of the Brotherhood.}
-{256}{}{Well, General Maxon gathered us during the Great War and brought us to the old military base. We went through the hardest times there. Several generations have passed, now his descendant rules our ranks.}
+{256}{}{Well, General Maxon gathered us during the Great War and brought us to the old military base. We went through the hardest times there. Several generations have passed, and now his descendant rules our ranks.}
 {257}{}{What is your mission? What are you trying to achieve in the end?}
-{258}{}{The main goal of our order is the search and preservation of ancient technologies in order to someday restore order to the lands of a once great country. However, there are numerous disputes about this in the order. For a long time we did not dare to start our "crusade", only recent events in California forced us to reconsider our strategy and come out of the shadows.}
+{258}{}{The main goal of our order is the search and preservation of ancient technologies to someday restore order to the lands of a once great country. However, there are numerous disputes about this in the order. For a long time we did not dare to start our "crusade", only recent events in California forced us to reconsider our strategy and come out of the shadows.}
 {259}{}{Countries? What country are we talking about?}
 {260}{}{United States of America.}
 {261}{}{What are these events in California that you mentioned?}
@@ -86,9 +86,9 @@
 {266}{}{Thank you. This concludes the conversation about the Brotherhood.}
 {267}{}{Since I am now also a member of the Brotherhood, I want to hear an honest answer. What is the management really trying to achieve?}
 {268}{}{I didn't say that, but our main goal in Arizona is to get nuclear material for the general staff in California. The General Staff needs other resources as well. Without them, the order will last for some time, but sooner or later our isolation will come to an end. And then the Brotherhood will be forced to take drastic measures to provide for itself.}
-{269}{}{That is, first the order needs to survive, for which the locals can go to the expense? Oh, yes, I understand now.}
+{269}{}{That is, first the order needs to survive, for which the locals can go to the expense. Oh, yes, I understand now.}
 
-{270}{}{The creator is a tyrant. Considering himself something like a god, he opened his own church and created a cult around his person. His sect included many people. Some of them were used as material for experiments. The most successful copies subsequently made up the personal army of the Creator.}
+{270}{}{The creator is a tyrant. Considering himself something like a god, he opened his church and created a cult around his person. His sect included many people. Some of them were used as material for experiments. The most successful copies subsequently made up the personal army of the Creator.}
 {271}{}{An army of super mutants? The Creator must have been pretty damn smart.}
 {272}{}{And, of course, you didn't want to share power with the dictator?}
 {273}{}{Our scouts studied the situation, risking their lives. The church was destroyed. The army is defeated. The remnants of the army settled in the wastelands, but our detachments quickly found them and erased them from history.}
@@ -98,7 +98,7 @@
 {277}{}{Oh, great. Great. Uh, bye.}
 {278}{}{}
 {279}{}{I do not believe. Surely the Brotherhood has embellished its merits.}
-{280}{}{Are you saying I'm lying? When you're in California, ask the locals. However, everyone in the Wastelands will say that it was he who detonated the nuclear bomb. Like, for example, that story with the Asylum-Seeker who was just our mercenary.}
+{280}{}{Are you saying I'm lying? When you're in California, ask the locals. However, everyone in the Wastelands will say that it was he who detonated the nuclear bomb. Like, for example, that story with the Vault-Seeker who was just our mercenary.}
 {281}{}{Indeed, it is not a good idea to believe private rumors.}
 {282}{}{Exactly. Your words are nothing more than your words.}
 
@@ -131,7 +131,7 @@
 {313}{}{Does it really hurt your eyes? You will not change this by my exile.}
 {314}{}{You can't shut me up! And just try it - I'll chew everyone's throat out!}
 {315}{}{In other words, you have come to take what does not belong to you.}
-{316}{}{You should choose your expressions more carefully. And no, the Brotherhood doesn't think so. Thanks to Dixon's sensitive policy, Arizona got an opportunity to develop. The local savages have education, medicine and production at a level that has not been here for almost a hundred years. Isn't this a miracle?}
+{316}{}{You should choose your expressions more carefully. And no, the Brotherhood doesn't think so. Thanks to Dixon's sensitive policy, Arizona got an opportunity to develop. The local savages have education, medicine, and production at a level that has not been here for almost a hundred years. Isn't this a miracle?}
 {317}{}{Maybe a miracle. Or maybe it's a mirage?}
 {318}{}{It's hard to argue with this. You got it, Scribe Maura.}
 {319}{}{Propaganda doesn't work on me, clerk. Have a good stay.}
@@ -140,9 +140,9 @@
 {322}{}{Weak argument, clerk. Goodbye.}
 {323}{}{General Dixon is wrong. You know that perfectly well.}
 {324}{}{Perhaps. But what do YOU mean by saying he's wrong?}
-{325}{}{Dixon is playing an inhumane game. Through his vassals on the ground, he imposes tyranny, seizes resources, takes technology and practices slavery.}
+{325}{}{Dixon is playing an inhumane game. Through his vassals on the ground, he imposes tyranny, seizes resources, takes technology, and practices slavery.}
 {326}{}{I don't even know what to say. Perhaps we'll leave it on his conscience.}
-{327}{}{Partly I agree. However, all these are forced measures. The locals have lost their roots with the Old World. They went wild, lost heart. Without our intervention, it will take centuries before they themselves can return to the bosom of civilization.}
+{327}{}{Partly I agree. However, all these are forced measures. The locals have lost their roots in the Old World. They went wild and lost their hearts. Without our intervention, it will take centuries before they can return to the bosom of civilization.}
 {328}{}{I don't know who to believe. Let me think a little.}
 {329}{}{I have visited many settlements. Your influence on these lands is not as unambiguous and majestic as you present it.}
 {1329}{}{I have visited many settlements. Your influence on these lands is not as majestic as you present it.}
@@ -158,7 +158,7 @@
 {339}{}{Casa Nueva is like a paddock with a herd of Brahmins. Without you, these people are weak-willed and helpless.}
 {340}{}{Well, I doubt our way too. But I couldn't find a solution that could satisfy everyone.}
 {341}{}{Really?}
-{342}{}{This outpost has done too little good for Arizona. We have no right to parasitize on foreign lands, take resources from local residents and force them to work for their own greatness. This is contrary to the spirit and principles of the order.}
+{342}{}{This outpost has done too little good for Arizona. We have no right to parasitize on foreign lands, take resources from local residents, and force them to work for their greatness. This is contrary to the spirit and principles of the order.}
 {343}{}{That's right.}
 {344}{}{And this is not so much a mistake of the order or the elders, as the result of Dixon's ambitions. But it cannot be stopped, and the new general is unlikely to change course.}
 {345}{}{It's very good that you have seen the light. But I think we've gone too far in our conversation. Let's finish with this.}

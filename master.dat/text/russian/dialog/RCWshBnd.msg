@@ -1,9 +1,9 @@
-{100}{}{Here is a bandit.}
-{101}{}{You see a dangerous criminal with a shotgun in his hands. And he's definitely ready to shoot it.}
+{100}{}{You see a bandit.}
+{101}{}{You see a dangerous criminal with a shotgun in his hands. And he's ready to shoot it.}
 
 {110}{}{Lie still and don't dig!}
 {111}{}{Where is this cute little bitch?}
-{112}{}{If the kid doesn't come back, I'll definitely shoot someone.}
+{112}{}{If the kid doesn't come back, I'll shoot someone.}
 {113}{}{Hey, Dad, do you want a shot of fractions?}
 {114}{}{Where do they keep the caps?}
 {115}{}{Damn, these beggars don't have any food!}

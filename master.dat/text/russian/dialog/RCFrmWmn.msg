@@ -1,5 +1,5 @@
 {100}{}{You see the farmer's wife.}
-{101}{}{Here is a farmer's wife, busy with ordinary farm chores.}
+{101}{}{You see a farmer's wife, busy with ordinary farm chores.}
 
 #Random replicas
 {110}{}{*Humming*}

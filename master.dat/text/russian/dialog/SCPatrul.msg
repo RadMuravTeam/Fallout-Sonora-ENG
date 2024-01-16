@@ -1,4 +1,4 @@
-{100}{}{Here is Paladin Latham.}
+{100}{}{You see Paladin Latham.}
 {101}{}{You see a strong unshaven man.}
 {102}{}{Well, no, not now.}
 {103}{}{?}
@@ -89,19 +89,19 @@
 {288}{}{Thank you, Paladin Latham. You've been very helpful.}
 {289}{}{Here is a holo recording with the data that was stored in the computer of the General Staff. They're in Spanish.}
 
-{300}{}{Let me know what your service does?}
+{300}{}{Let me know what your service does.}
 {301}{}{This is a patrol service. We keep order in the neighborhood. Any more questions?}
 {302}{}{No way, sir.}
-{303}{}{Yes, let me ask you something?}
+{303}{}{Yes, let me ask you something.}
 {304}{}{I understand that. But there's a desert all around. What order can be maintained here?}
 {305}{}{First of all, we protect the caravan routes. There are fishing settlements on the coast under our protection. Sometimes requests come from Casa Nueva. And yes, even in such a wilderness there are bandits. You should always be on your guard.}
 {306}{}{I see.}
 {307}{}{Interesting. Will you take me on patrol?}
 {308}{}{Taking a stranger on patrol is too dubious an idea. Even if your thoughts are pure.}
 {309}{}{Okay. Maybe you'll change your mind when I do something important.}
-{310}{}{You probably need experienced mercenaries. You said yourself that there are not enough people.}
+{310}{}{You probably need experienced mercenaries. You said to yourself that there are not enough people.}
 {311}{}{Yes, but you are clearly not the level of fruit to fight shoulder to shoulder with you. Start with something simpler.}
-{312}{}{Yes, but you... However, we really don't have enough people for one big operation.}
+{312}{}{Yes, but you... However, we don't have enough people for one big operation.}
 {313}{}{Great. Tell me what's what.}
 {314}{}{Take me on patrol.}
 {315}{}{The General was talking about you. I will be glad if you help us in one difficult operation.}
@@ -112,7 +112,7 @@
 {320}{}{Great. I'm listening carefully.}
 {321}{}{Bandits have been bothering us lately. They stuck to the main trade routes and local settlements. Recently they robbed one of our caravans, and this is no good at all.}
 {322}{}{They don't know who they've contacted yet, Paladin Latham.}
-{323}{}{They must be serious guys, since they robbed the Brotherhood caravan.}
+{323}{}{They must be serious guys since they robbed the Brotherhood caravan.}
 {324}{}{We tracked the attackers to one of their camps in the desert and want to visit them. It's time to pin the tail of these sons of bitches!}
 {325}{}{Great. When are the fees?}
 {326}{}{Go to the collection point, which I will indicate on the map. Field Commander Dobbs will meet you there and instruct you on the spot. And take care of your protection in advance. Good luck.}
@@ -124,12 +124,12 @@
 {330}{}{Here is my report on the raid on the bandit camp...}
 {331}{}{...Very good. Obviously, it was just a small field camp. After the attack on the caravan, the bandits split up. The second group took the goods to their main base. Rescuing a caravan is an important mission, but it is even more important to get the stolen cargo.}
 {332}{}{So there is another sortie ahead?}
-{333}{}{We don't know where the bandits' main base is. But during the operation, information appeared about a large outpost on the ruins of Kaborka. This outpost must be destroyed anyway. And at the same time you can get information about the location of the main base there.}
+{333}{}{We don't know where the bandits' main base is. However, during the operation, information appeared about a large outpost on the ruins of Kaborka. This outpost must be destroyed anyway. And at the same time, you can get information about the location of the main base there.}
 {334}{}{So what are the instructions, sir?}
 {335}{}{Go to Commander Dobbs and give my next order.}
 {336}{}{Yes, Paladin Latham.}
 {337}{}{If there are no other leads, then it's worth taking the risk.}
-{338}{}{Did I ask for your opinion? Ahem... Well, never mind. You're doing really well. It would be a little harder for us without you.}
+{338}{}{Did I ask for your opinion? Ahem... Well, never mind. You're doing well. It would be a little harder for us without you.}
 {339}{}{So what are the instructions, sir?}
 {340}{}{...It turns out that the camp in Kaborka was organized only to attack our caravan routes. The main base of the bandits is in the mountains to the east. No wonder it took us so long to figure them out.}
 {341}{}{So are you going to attack their general staff?}
@@ -137,7 +137,7 @@
 {343}{}{Acknowledged, sir.}
 {344}{}{Give the commander the order to attack. This time the operation will be harder than the previous ones. Let him gather the best guys. You, too, take your best weapons and armor. Good luck, soldier.}
 {345}{}{Yes, Paladin Latham.}
-{346}{}{...So we set up their main camp. The bandits were destroyed, the leaders were caught and put to death, the loot was returned to the order. Congratulations, warrior.}
+{346}{}{...So we set up their main camp. The bandits were destroyed, the leaders were caught and put to death, and the loot was returned to the order. Congratulations, warrior.}
 {347}{}{Yes, the wastelands will remember this for a long time.}
 {348}{}{It was a glorious day of victories! We have eradicated evil in these lands and once again showed the world our strength. After the defeat of the bandits, the roads will become safer, and the fame of the Brotherhood will spread further to the mainland. Thank you for your assistance.}
 {349}{}{I serve the Brotherhood of Steel!}

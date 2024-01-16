@@ -1,5 +1,5 @@
 {100}{}{You see Old Rufus.}
-{101}{}{Here is the dam keeper, an unshaven, wiry old man in overalls.}
+{101}{}{You see the damkeeper, an unshaven, wiry old man in overalls.}
 
 #The first dialog
 {200}{}{(you see a gray-haired, unshaven man of about fifty; dirty work clothes on him betray his occupation) What? I'm sorry, I've become a little deaf. Work for so many years among these noisy machines and you will also go deaf.}
@@ -18,13 +18,13 @@
 
 #Questions
 {220}{}{And who are you, exactly?}
-{221}{}{My name is Rufus. I'm the dam keeper. I make sure that nothing falls apart here.}
+{221}{}{My name is Rufus. I'm the damkeeper. I make sure that nothing falls apart here.}
 {222}{}{What is your rank, Rufus?}
 {223}{}{I don't have any rank. I'm doing business here, not currying favor.}
 {224}{}{How long have you been in office?}
 {225}{}{Let me think, it's been thirty years, probably. No one here counts the year.}
 {226}{}{Why did the Rangers settle on this dam?}
-{227}{}{There are many reasons for this: it is an impregnable fortress for enemies, protection from dust storms, an abundant source of water and endless energy. We can say that it happened historically.}
+{227}{}{There are many reasons for this: it is an impregnable fortress for enemies, protection from dust storms, an abundant source of water, and endless energy. We can say that it happened historically.}
 {228}{}{I'm the dam keeper. I make sure that nothing falls apart here.}
 {229}{}{So what are you doing, Rufus?}
 
@@ -43,12 +43,12 @@
 {252}{}{So this thing doesn't work? Maybe I can fix it?}
 {253}{}{Where are you going! Here you can hardly do with skills alone. However, you travel a lot, right? If you find parts from electronic equipment, then bring them here, maybe they can be restored with their help.}
 {254}{}{I'll see what I can do.}
-{255}{}{I'm afraid that's really not my profile. But I can find the details.}
+{255}{}{I'm afraid that's not my profile. But I can find the details.}
 {256}{}{That's good. And while you're making a hero out of yourself, I think I'll get busy. No offense.}
 {257}{}{Uh, no, I need to know more.}
 {258}{}{Then we'll talk later.}
 
-{260}{}{Let's talk about that broken controller?}
+{260}{}{Let's talk about that broken controller.}
 {261}{}{Eh? What are you up to?}
 {1261}{}{Eh? What are you up to?}
 {262}{}{Yes, the question is about nothing.}
@@ -65,7 +65,7 @@
 {271}{}{Keep in mind that Rangers sometimes have problems with humor. Especially on the topic of this dam.}
 {272}{}{But it works. Take a look.}
 
-{273}{}{Well, let's see... Holy heavens, it really worked!}
+{273}{}{Well, let's see... Holy heavens, it worked!}
 {274}{}{This job is not for nothing, you know.}
 {275}{}{Yes... of course. Here's a pack of nuclear batteries for your trouble. If you don't need them, exchange them in the nearest city for something useful.}
 {276}{}{You're welcome.}
@@ -101,7 +101,7 @@
 {324}{}{That's it, then...}
 
 {330}{}{This is the gifted guy you were looking for.}
-{331}{}{Hello, son! Here, at the Rangers, you will surely like it. I can see it in your eyes. But first you need to wash a little...}
+{331}{}{Hello, son! Here, at the Rangers, you will surely like it. I can see it in your eyes. But first, you need to wash a little...}
 {332}{}{Ahem...}
 {333}{}{...And you've done a great service to the Rangers by bringing this guy in. Look to the quartermaster, let him pick up a reward for you.}
 {1333}{}{...And you've done a great service to the Rangers by bringing this guy in. Look to the quartermaster, let him pick up a reward for you.}

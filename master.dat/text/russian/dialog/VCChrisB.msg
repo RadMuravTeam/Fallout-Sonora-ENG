@@ -1,5 +1,5 @@
-{100}{}{This is Chris.}
-{101}{}{Here is one of the residents of the Villa. His gaze betrays a fair amount of puzzlement.}
+{100}{}{You see Chris.}
+{101}{}{You see one of the residents of the Villa. His gaze betrays a fair amount of puzzlement.}
 
 {110}{}{Chris's backpack was filled with provisions.}
 {111}{}{Thank you, that's enough... I hope.}
@@ -32,7 +32,7 @@
 {228}{}{What are you going to do?}
 {229}{}{I don't know. I can't hide for long, and there's nowhere much to run. I've heard about the rangers and the scavengers from the neighboring town. But to go there, you need provisions. (bitter smile) Don't follow her to the Villa.}
 {230}{}{If I get you provisions, you can leave these places. But you'll never come back.}
-{231}{}{I know! Maybe that's what I've always wanted, but I was afraid to admit it. Among our people, most did not even try to learn anything about the outside world. They have lived their way for decades and are ready to throw stones for any change in it... I want to be free, amigo. Give me a chance!}
+{231}{}{I know! Maybe that's what I've always wanted, but I was afraid to admit it. Among our people, most did not even try to learn anything about the outside world. They have lived their way for decades and are ready to throw stones at any change in it... I want to be free, amigo. Give me a chance!}
 {232}{}{Okay, I'll get you some provisions for the trip. Wait here.}
 {233}{}{No. My reputation is important to me. And besides, you deserve to be punished. Pack up, we're going back to the community.}
 {234}{}{First of all, I need to know the details of this story.}

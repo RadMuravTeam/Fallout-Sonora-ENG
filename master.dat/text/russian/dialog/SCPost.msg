@@ -1,4 +1,4 @@
-{100}{}{There is a sentry in front of you.}
+{100}{}{You see a sentry in front of you.}
 {101}{}{You see a man in power armor. Looks impressive.}
 {102}{}{Now is not the time to chat with the locals.}
 {103}{}{?}
@@ -33,7 +33,7 @@
 {221}{}{I am forbidden to have idle conversations, especially about our Brotherhood.}
 {222}{}{Clearly. Well, you can't trample on the charter. Goodbye.}
 {223}{}{What are you doing here?}
-{224}{}{Guarding the ramp, obviously. Outsiders are not allowed to board without permission. And you don't have it.}
+{224}{}{Guarding the ramp. Outsiders are not allowed to board without permission. And you don't have it.}
 {225}{}{What are you doing here?}
 {226}{}{What is this place?}
 {227}{}{This is our fort. If these are all questions, then you'd better leave. Nothing to distract the sentries on duty.}
@@ -55,16 +55,16 @@
 {245}{}{I'll find a way anyway, you'll see.}
 {246}{}{OK, you can pass.}
 {247}{}{Thank you.}
-{248}{}{While you're inside, keep your gun holstered and don't do anything stupid. The general's office is on the middle deck, the warehouse is to the left of the entrance. It is strictly forbidden to enter the other compartments. Is that clear?}
+{248}{}{While you're inside, keep your gun holstered, and don't do anything stupid. The general's office is on the middle deck, the warehouse is to the left of the entrance. It is strictly forbidden to enter the other compartments. Is that clear?}
 {249}{}{I see.}
 
 {250}{}{I was sent by Master Hard from Two-Sun. Here is his recommendation.}
 {251}{}{A report from Ulysses Grant. Personally for General Dixon.}
-{252}{}{Paladin Latham gave me permission to meet the general.}
+{252}{}{Paladin Latham permitted me to meet the general.}
 {253}{}{General Dixon is waiting for me. This concerns the fort in Hermosillo.}
 {254}{}{It's probably a problem to get some raw materials in this fort. And my caravan is idle.}
 {255}{}{I have a lot of great products for sale. Interested?}
 {256}{}{No, we don't deal with solitary pilgrims.}
 {257}{}{Very sorry.}
 {258}{}{It's clear to me. But you should clean your armor. You look like a rusty bucket.}
-{259}{}{Paladin Latham gave me permission to meet with the quartermaster.}
+{259}{}{Paladin Latham permitted me to meet with the quartermaster.}

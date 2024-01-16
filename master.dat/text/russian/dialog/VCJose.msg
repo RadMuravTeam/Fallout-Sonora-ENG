@@ -1,5 +1,5 @@
-{100}{}{This is Jose.}
-{101}{}{You see your uncle. As always, he portrays a cheerful good-natured man, but now it's not working out well.}
+{100}{}{You see Jose.}
+{101}{}{It's your uncle. As always, he portrays a cheerful good-natured man, but now it's not working out well.}
 {102}{}{Today is not your day, Jose.}
 {103}{}{You have added a new task to your Pip-Boy.}
 {104}{}{Santo cielo! Why are you scaring me like that? Such armor has no place in a peaceful villa.}
@@ -19,7 +19,7 @@
 {208}{}{You say they went east. Or rather?}
 {209}{}{Why did the raiders take our people?}
 {210}{}{Well, I think it's time for me to deal with this problem.}
-{211}{}{They picked up all sorts of rabble from everywhere. I recognized someone from the Garage, but mostly people are not local and have never heard of such.}
+{211}{}{They picked up all sorts of rabble from everywhere. I recognized someone from the Garage, but most people are not local and have never heard of such.}
 {212}{}{I only know about Garage City in that direction. The raiders will probably wander there for the night.}
 {213}{}{That's what they didn't tell old Jose about their plans. But you know what, it looks like they'll be forced to work. I don't know where or why.}
 {214}{}{And my parents?}
@@ -32,7 +32,7 @@
 {222}{}{First tell me again about the raid.}
 {223}{}{Well, first look into Garage City. It's a nasty place, but the raiders will probably look there. Ask around the locals, they have a chatty tongue when they are well cajoled.}
 {224}{}{Cajoling?}
-{225}{}{Be careful with those people, they will sell their own mother for profit. Here, take these fruits for the road and maize flour. They'll tell you anything for such things there.}
+{225}{}{Be careful with those people, they would sell their own mother for profit. Here, take these fruits for the road and maize flour. They'll tell you anything for such things there.}
 {226}{}{Thank you, Jose.}
 {227}{}{You're welcome. These raiders took out everything they could find. I'm giving you the last one. The main thing is to use it wisely.}
 {228}{}{And that's it? What a miser you are.}
@@ -62,7 +62,7 @@
 {258}{}{}
 {259}{}{Another question.}
 
-{260}{}{Wild desert places. In the north there are cannibal savages, in the east there is a dump town, there are several other small villages and ranger camps. There is also a rumor about some big city, but I myself have never been further than the Garage.}
+{260}{}{Wild desert places. In the north there are cannibal savages, in the east, there is a dump town, there are several other small villages and ranger camps. There is also a rumor about some big city, but I myself have never been further than the Garage.}
 {261}{}{Why do you call the neighborhood wild?}
 {262}{}{We've been trying to avoid strangers for years. Only if it presses hard, then we go to trade. Strangers cannot be trusted, they usually have neither families nor homes. Is it possible to make friends with such people? So your padre drove all the strangers away.}
 {263}{}{It seems that Villa's knowledge of the outside world is very limited. Don't you find it?}
@@ -74,7 +74,7 @@
 {269}{}{If you haven't been, who has?}
 {270}{}{Your Uncle Miguel, for example. He once quarreled with your padre and left the Villa. Haven't heard of him for years.}
 {271}{}{Why did they quarrel?}
-{272}{}{They had an argument about how Villa should deal with outsiders. One believed that it was necessary to drive them away, and the other offered to do business with them. They never found a common language. Although both were talking business.}
+{272}{}{They had an argument about how Villa should deal with outsiders. Some believed that it was necessary to drive them away, and others offered to do business with them. They never found a common language. Although both were talking business.}
 
 {273}{}{Tell me about the neighboring city.}
 {274}{}{Garage City? It's a bad town and the people there are bad.}

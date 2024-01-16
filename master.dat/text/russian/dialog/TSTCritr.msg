@@ -1,4 +1,4 @@
-{100}{}{Here is a Test Character.}
+{100}{}{You see a Test Character.}
 {101}{}{This is a character for cruel experiments. You can have a good time with him.}
 {110}{}{Okay, okay, cool it.}
 
@@ -31,5 +31,5 @@
 {211}{}{Mine is yours not to understand, friend.}
 {212}{}{Do you take me for a fool? Here I am for you!}
 {213}{}{Stay here while I think about the answer.}
-{214}{}{The brotherhood? For the first time I hear.}
+{214}{}{The brotherhood? For the first time, I hear.}
 {215}{}{Tell me about the Brotherhood.}

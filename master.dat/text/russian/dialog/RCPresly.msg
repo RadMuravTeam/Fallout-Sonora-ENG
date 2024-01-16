@@ -1,4 +1,4 @@
-{100}{}{This is Cadet Presley.}
+{100}{}{You see Cadet Presley.}
 {101}{}{You see one of the recruits.}
 {102}{}{Rest in peace, Cadet Presley.}
 {103}{}{Hey, Cadet, don't you dare die!}
@@ -45,19 +45,19 @@
 {302}{}{I also want to participate in the roundup. It'll be fun.}
 {303}{}{That's for sure. We are not allowed to shoot from serious weapons, they save ammunition, and it makes sense to shoot from pneumatics only at dead targets.}
 {304}{}{I want to help the Rangers in their difficult task.}
-{305}{}{Are you looking for friends among our brother? Tricky. Everyone on the wastelands needs a strong patron.}
+{305}{}{Are you looking for friends among our brothers? Tricky. Everyone in the wastelands needs a strong patron.}
 {306}{}{Agatha asked me to keep an eye on you.}
 {307}{}{Really? Do you think I need a mentor to shoot ordinary rodents? Although... I really could use a partner... and I need a witness, just in case.}
 {308}{}{So?}
 {309}{}{It's a deal! But I can't go there without a gun.}
 {310}{}{The extradition order is already on the quartermaster's desk. Thank your supervisor.}
-{311}{}{What?! How did you manage it?! Cool, I'm going to the warehouse right now. You, too, prepare for a sortie. Meet me outside, near the infocenter.}
+{311}{}{What?! How did you manage it?! Cool, I'm going to the warehouse right now. You, too, prepare for a sortie. Meet me outside, near the info center.}
 {312}{}{See you.}
 
 {320}{}{I'm ready to move out. And you?}
 {321}{}{Wait a little longer.}
 {322}{}{What can we use?}
-{323}{}{It will be dark in the cave, you should stock up on a couple of flares. And most likely there are a lot of pig rats. Alone they are weak, but all together they can become a problem. The best weapon against such a crowd is a shotgun. However, I have no idea where to get one.}
+{323}{}{It will be dark in the cave, so you should stock up on a couple of flares. And most likely there are a lot of pig rats. Alone they are weak, but all together they can become a problem. The best weapon against such a crowd is a shotgun. However, I have no idea where to get one.}
 {324}{}{It's worth considering.}
 {325}{}{Then let's move out.}
 {326}{}{Why did we come back? Did you forget something?}
@@ -73,7 +73,7 @@
 {335}{}{Are you all right?}
 {336}{}{I don't know... This bandit... He had a weapon, he could have found another way to survive. But he attacked a defenseless family. Why did he do it?}
 {337}{}{He didn't know any other way.}
-{338}{}{I'm no better, right? Now I understand why all this training was needed at the base. And why we are not allowed to important tasks. Now I will take the words of veterans more seriously.}
+{338}{}{I'm no better, right? Now I understand why all this training was needed at the base. And why we are not allowed to do important tasks. Now I will take the words of veterans more seriously.}
 {339}{}{Thanks to this outing, you've become a little wiser. Goodbye, cadet.}
 {340}{}{Remember the main lesson of the Wasteland - kill or you will be killed yourself. And it's time for me to go back to the desert.}
 {341}{}{It was a great operation, wasn't it? I'm going to show the head to the others in the dining room. Good luck on the road.}
@@ -82,7 +82,7 @@
 {350}{}{Keep an eye on the sides.}
 {351}{}{Let's move on.}
 {352}{}{So what is our task?}
-{353}{}{Find and kill Nat-Aani. So the locals called the biggest and most dangerous pig-rat of this cave.}
+{353}{}{Find and kill Nat-Aani. So the locals called it the biggest and most dangerous pig-rat of this cave.}
 {354}{}{What does this name mean?}
 {355}{}{Just that he's the leader of the pack. This means that he is the strongest and fiercest of his fellows.}
 {356}{}{What do you know about the Milton family?}

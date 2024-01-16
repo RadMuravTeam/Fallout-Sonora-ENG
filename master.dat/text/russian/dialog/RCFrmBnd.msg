@@ -1,5 +1,5 @@
 {100}{}{You see a fugitive.}
-{101}{}{Here is an exhausted young man in a dirty jacket. It looks like he got pretty bad.}
+{101}{}{You see an exhausted young man in a dirty jacket. It looks like he got pretty bad.}
 {102}{}{What... what are you giving me...}
 {103}{}{...Oh, you... trash...}
 {104}{}{Looks like the Rangers finally caught up with the spy. His lifeless body on the road will be a reminder to the rest of the mercenaries.}
@@ -21,7 +21,7 @@
 {211}{}{Are you feeling better?}
 {212}{}{You're saving me... but it won't be for long.}
 {213}{}{It looks like you won't last long with such a wound. I'll call the Rangers for help...}
-{214}{}{no! These bastards won't want to help me. It's because of them that I got into such a mess! Like you, I was just traveling in search of a new place to live. The Rangers mistook me for a bandit and, not wanting to figure it out, just shot me. I was lucky to survive, and pulled out the bullet with a knife, but this wound will finish me!}
+{214}{}{no! These bastards won't want to help me. It's because of them that I got into such a mess! Like you, I was just traveling in search of a new place to live. The Rangers mistook me for a bandit and, not wanting to figure it out, just shot me. I was lucky to survive and pulled out the bullet with a knife, but this wound will finish me!}
 {215}{}{A difficult case...}
 {216}{}{Do something! I'll die without you!}
 {217}{}{Then unbutton your jacket and get ready for the examination. The good doctor will cure you now.}
@@ -69,13 +69,13 @@
 {326}{}{Hey! You know it's not in your best interest to talk about it, right? Do you understand?}
 {327}{}{Uh, of course, no problem.}
 
-{330}{}{Now will you tell me what really happened?}
+{330}{}{Now will you tell me what happened?}
 {331}{}{I know a couple of guys from Phoenix who need a code from the Rangers broadcasting. They promised to pay well.}
 {332}{}{Did you get wounded when you were looking for information?}
-{333}{}{For the sake of bottlecaps, you have to take risks. I tried to break into the radio station at night, but only ran into a bullet. I've been hiding in this cellar ever since and I can't do anything... Hey, do you want to earn money with me?}
+{333}{}{For the sake of bottlecaps, you have to take risks. I tried to break into the radio station at night but only ran into a bullet. I've been hiding in this cellar ever since and I can't do anything... Hey, do you want to earn money with me?}
 {334}{}{Who are the guys who need a cipher?}
 {335}{}{I would say, but then I could lose a great income. Do you understand?}
-{336}{}{Any ideas how to find out the cipher?}
+{336}{}{Any ideas on how to find out the cipher?}
 {337}{}{The Ranger radio station has all the information. And it's almost impossible to persuade someone to share it.}
 {338}{}{Surely there are other mercenaries.}
 {339}{}{Maybe. But I don't know about them.}

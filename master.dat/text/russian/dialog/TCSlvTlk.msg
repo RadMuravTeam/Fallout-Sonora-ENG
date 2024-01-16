@@ -1,5 +1,5 @@
 {100}{}{You see a Survivalist.}
-{101}{}{Here is a dirty, emaciated man. His wild look expresses particularly good intentions.}
+{101}{}{You see a dirty, emaciated man. His wild look expresses particularly good intentions.}
 
 #The first dialog
 {200}{}{Come any closer and you're dead. Get lost before I blow your brains out!}
@@ -36,7 +36,7 @@
 {239}{}{A hundred years? How could you live so long?}
 {240}{}{I became like this after the nuclear explosions. It's not burns, it's something else. But it seems to prolong my life. I don't even know which is better: to die then or now.}
 {241}{}{So you're a man from an ancient era!}
-{242}{}{The old World was different. You would have been amazed by the technology of that era. But you know what? Nothing has really changed. People are still fighting over the remnants of resources. Just like in those days.}
+{242}{}{The old World was different. You would have been amazed by the technology of that era. But you know what? Nothing has changed. People are still fighting over the remnants of resources. Just like in those days.}
 {243}{}{An interesting point of view.}
 {244}{}{Why the tinsmiths were sent here... a ghoul?}
 {245}{}{Because having lived for so many years, I know a lot more than any smooth-skinned person. Add immunity to radiation - and here you have an ideal candidate for opening old bases. But the truth is that I have absolutely no idea how to disable the damn defense system of this damned burial ground!}

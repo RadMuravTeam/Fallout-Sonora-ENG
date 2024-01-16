@@ -1,5 +1,5 @@
 {100}{}{You see a doctor.}
-{101}{}{Here is a doctor. If it wasn't for the robe, you wouldn't have distinguished him from an ordinary soldier.}
+{101}{}{You see a doctor. If it wasn't for the robe, you wouldn't have distinguished him from an ordinary soldier.}
 {102}{}{If I don't hurry up, then I won't need the services of a doctor anymore.}
 {103}{}{?}
 
@@ -10,7 +10,7 @@
 {204}{}{Clear. Goodbye.}
 {205}{}{So are you the rookie?}
 {206}{}{Yes, I'm a rookie. The enrollment order has already been issued.}
-{207}{}{Good. Because otherwise I would have thrown you out of the infirmary. Civilians are not allowed to appear here.}
+{207}{}{Good. Because otherwise, I would have thrown you out of the infirmary. Civilians are not allowed to appear here.}
 {208}{}{I just need treatment.}
 {209}{}{It won't be necessary. I'm leaving anyway.}
 
@@ -42,9 +42,9 @@
 {240}{}{Hey, Doc. I was recently enlisted in the Brotherhood's intelligence squad.}
 {241}{}{So, great. That is, now I will have more work. Well, congratulations on the promotion.}
 {242}{}{What's wrong with the scouts?}
-{243}{}{Scouts are most often exposed to radiation and poisoning. Therefore, you consume medicines the most, and even take them with you on the road. And medicines are hard to get in our conditions. Especially Radaway.}
+{243}{}{Scouts are most often exposed to radiation and poisoning. Therefore, you consume medicines the most and even take them with you on the road. And medicines are hard to get in our conditions. Especially Radaway.}
 {244}{}{So, wait, do I get some kind of set of medications?}
-{245}{}{Radaway, antidote and stimpack - here is your survival kit. Spend it wisely, or even better - avoid dangerous places altogether.}
+{245}{}{Radaway, antidote, and stimpack - here is your survival kit. Spend it wisely, or even better - avoid dangerous places altogether.}
 {246}{}{Okay. Thanks, Doc.}
 
 {250}{}{Can you fix me up, Doc?}
@@ -59,7 +59,7 @@
 {260}{}{What's that shouting, Doc? Are you torturing someone?}
 {261}{}{Oh no. This is our valiant soldier going crazy. Severe case with acute mental disorder.}
 {262}{}{What is the expression of his illness?}
-{263}{}{The patient cannot serve due to insomnia and headaches. He even claims to hear voices in his head... Just a minute. I can't discuss this with outsiders. Although the case is really complicated.}
+{263}{}{The patient cannot serve due to insomnia and headaches. He even claims to hear voices in his head... Just a minute. I can't discuss this with outsiders. Although the case is complicated.}
 {264}{}{Maybe he's faking it?}
 {265}{}{What about? For the Brotherhood soldier to fake it? I do not think so. But it is not excluded. Lately, everyone in our fort has been homesick in California.}
 {266}{}{If you can't handle it, let me try.}
@@ -68,7 +68,7 @@
 {269}{}{Are you sure he's not faking it?}
 {270}{}{And what is the expression of his illness?}
 {271}{}{Surely you know how to cure it. Goodbye, doc.}
-{272}{}{It looks like Bell is really suffering from severe psychological trauma.}
+{272}{}{It looks like Bell is suffering from severe psychological trauma.}
 {273}{}{I've already figured that out. But what to do?}
 {274}{}{He was talking about some kind of ash desert. What could it mean?}
 {275}{}{Hmm. I don't even have any ideas. Actually, the disease manifested itself after one of the forays into the desert. Talk to his companions in the mess, perhaps they will be able to unravel this image.}

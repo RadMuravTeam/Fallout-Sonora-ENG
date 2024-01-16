@@ -1,5 +1,5 @@
 {100}{}{You see Graham.}
-{101}{}{Here is one of the knights of the Brotherhood of Steel.}
+{101}{}{You see one of the knights of the Brotherhood of Steel.}
 {102}{}{Stop. Show me the pass.}
 
 #The first dialog
@@ -79,7 +79,7 @@
 {291}{}{Heh, what does ignorance like you need to know about Brotherhood? Only that there is no greater power in the Wastelands than we are.}
 {292}{}{I believe it willingly. That's the end of the conversation about the Brotherhood.}
 {293}{}{It sounds loud, but I don't hear much about you in Arizona.}
-{294}{}{But we are well known in California. They know and are afraid, because it was we who destroyed the Creator and his entire army. What, you don't know that? Good God, where is this country going...}
+{294}{}{But we are well known in California. They know and are afraid because it was we who destroyed the Creator and his entire army. What, you don't know that? Good God, where is this country going...}
 {295}{}{I won't argue. But what have you done to be feared?}
 {296}{}{Here in Arizona, we have a lot to do, but the commoners don't know much about us yet. But in California, every mutt on the Wastelands knows that it was we who destroyed the Creator's army.}
 {297}{}{That's why I'm here, next to a powerful Brotherhood. But what brought your order to such glory?}
@@ -87,10 +87,10 @@
 {299}{}{What else is the Creator?}
 {300}{}{Please tell me more.}
 {301}{}{Once you've started, then tell me more.}
-{302}{}{The creator is a damn psychopath whose mutated brains gave rise to the idea of universal transformation of people into mutants. He thought it would save humanity from extinction.}
+{302}{}{The creator is a damn psychopath whose mutated brains gave rise to the idea of the universal transformation of people into mutants. He thought it would save humanity from extinction.}
 {303}{}{Go on.}
 {304}{}{That's not a bad idea.}
-{305}{}{He managed to create a cult around himself and gather an army of super mutants. No one on the Wastelands could match such strength. No one but us.}
+{305}{}{He managed to create a cult around himself and gather an army of super mutants. No one in the Wastelands could match such strength. No one but us.}
 {306}{}{And what did you do?}
 {307}{}{And you didn't like it, of course?}
 {308}{}{It was a year of glorious battles and great victories. We defeated the Creator's army and destroyed him with a nuclear explosion. There are still remnants of his henchmen in some places, but they no longer pose the former threat.}
@@ -101,13 +101,13 @@
 {313}{}{The brotherhood never lies. Talk to any knight or paladin - there are many who participated in those battles. I myself held the defense in the battle at the Dayglow.}
 {314}{}{Will you tell me how it was?}
 {315}{}{It seems there's no stopping you.}
-{316}{}{After the defeat, the super mutants fled in all directions from their base. The largest groups captured small settlements on their way. Junktown, Necropolis, Dayglow, even the Hub was attacked. We tried to respond to requests for help.}
+{316}{}{After the defeat, the super mutants fled in all directions from their base. The largest groups captured small settlements on their way. Junktown, Necropolis, Dayglow, and even the Hub was attacked. We tried to respond to requests for help.}
 {317}{}{It's very noble of you to help ordinary residents.}
 {318}{}{Yeah. As if you were doing it out of the goodness of your heart.}
 {319}{}{Intelligence reported that the super Mutants had set up a major outpost in the Glare of the Day. Our squad was supposed to destroy them, but the task was not easy. The enemy organized a fort, and around the fort - a complex system of anti-personnel traps and trenches. In addition, although the locals wanted to get rid of these monsters, they were not happy with us either.}
 {320}{}{Go on.}
 {321}{}{Of course. Who would like to be between two lines of fire?}
-{322}{}{The siege lasted two weeks. Due to the distance from the main base, we could not count on supplies and got out as best we could - smoked out the enemy with a smoke pipe, flooded bunkers with toxic barrels, used local criminals to create blockages. The super mutants were cut off from the outside world and could not receive provisions.}
+{322}{}{The siege lasted two weeks. Due to the distance from the main base, we could not count on supplies and got out as best we could - smoked out the enemy with a smoke pipe, flooded bunkers with toxic barrels, and used local criminals to create blockages. The super mutants were cut off from the outside world and could not receive provisions.}
 {323}{}{Did you starve them to death?}
 {324}{}{And do you think this is a glorious battle?}
 {325}{}{At the end of the second week, the super mutants had no choice. Some of them surrendered, while others tried to break out of the siege. The last fight was the fiercest and hardest. Our commander showed unprecedented skill in tactics. If we had undertaken the siege of the fort at the very beginning, I would not be telling this story now.}
@@ -117,7 +117,7 @@
 {329}{}{Don't worry, son. We'll turn Arizona into a civilized place, too. Just give me time.}
 {1329}{}{Don't worry, lady. We'll turn Arizona into a civilized place, too. Just give me time.}
 {330}{}{Oh, great. Great. Uh, bye.}
-{331}{}{I have no doubt at all after all I've heard. And thanks a lot for the story.}
+{331}{}{I do not doubt at all after all I've heard. And thanks a lot for the story.}
 {332}{}{I wouldn't want something like this to happen in Arizona. Good luck, man with a gun.}
 {340}{}{You know what happened to Paladin Bell, right?}
 {341}{}{What's it to you? You don't even know him, and we fought shoulder to shoulder. Leave him, it's none of your business.}
@@ -128,7 +128,7 @@
 {345}{}{He was talking about some kind of ash desert in hell. What do you think it means?}
 {346}{}{An ash-colored desert? I don't even know... Although there is one place near Casa Nueva. Cement was mined there, so everything is gray.}
 {347}{}{Did you have a task there?}
-{348}{}{I didn't tell you that, but at some point in the career, workers began to disappear. One by one. We were sent to deal with this problem.}
+{348}{}{I didn't tell you that, but at some point in my career, workers began to disappear. One by one. We were sent to deal with this problem.}
 {349}{}{Go on.}
-{350}{}{We found the gutted remains of people, as if someone had torn them apart. But neither the maniac nor the beast was found. Bell was with us, too. That was the first time we felt that something was wrong with him.}
+{350}{}{We found the gutted remains of people as if someone had torn them apart. But neither the maniac nor the beast was found. Bell was with us, too. That was the first time we felt that something was wrong with him.}
 {351}{}{So, the quarry in Casa Nueva. That's something. Thanks and bye.}

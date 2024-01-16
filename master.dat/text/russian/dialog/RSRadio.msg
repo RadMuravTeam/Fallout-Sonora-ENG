@@ -1,8 +1,8 @@
-{110}{}{The equipment fails.}
+{110}{}{The equipment failed.}
 {111}{}{You managed to disable the radio transmitter. The Rangers were left without radio communication.}
 
 #Dialog
-{200}{}{Enter the command.}
+{200}{}{Enter command.}
 {201}{}{End session.}
 {202}{}{Back.}
 {203}{}{The radio transmitter is not responding.}

@@ -4,9 +4,9 @@
 
 #The first dialog
 {200}{}{Damn it, I don't know where the hell that is... Oh, I thought it was the inspector again.}
-{201}{}{No, I'm definitely not an auditor.}
+{201}{}{No, I'm not an auditor.}
 {202}{}{Next time I might be offended.}
-{203}{}{Hmm, a new face. Here's a surprise. My name is Henry, I am the quartermaster and quartermaster at this base. Keep in mind, there is a strict schedule here. If you want to settle down, you will have to comply with it.}
+{203}{}{Hmm, a new face. Here's a surprise. My name is Henry, I am the quartermaster and quartermaster at this base. Keep in mind, that there is a strict schedule here. If you want to settle down, you will have to comply with it.}
 {204}{}{I don't like being pointed out to me.}
 {205}{}{No problems.}
 
@@ -22,7 +22,7 @@
 {213}{}{I'm still curious about your story.}
 
 {220}{}{Tell me about yourself.}
-{221}{}{Are you really interested in this?}
+{221}{}{Are you interested in this?}
 {222}{}{What are you doing here?}
 {223}{}{I am the quartermaster and quartermaster at this base.}
 {224}{}{Do you trade anything with outsiders?}
@@ -38,7 +38,7 @@
 {234}{}{Where are you from?}
 {235}{}{My family often changed their place of residence, so the most accurate answer to your question is that I came from the west.}
 {236}{}{Tell me about those lands.}
-{237}{}{Southern California? A living hell compared to this region. Cities lie in ruins, the land is barren, and cannibalism flourishes among the population. But at the same time there is much more population there than in Arizona.}
+{237}{}{Southern California? A living hell compared to this region. Cities lie in ruins, the land is barren, and cannibalism flourishes among the population. But at the same time, there is much more population there than in Arizona.}
 {238}{}{How did you become a ranger?}
 {239}{}{I was forced by the wasteland itself when I was separated from my family during the trip. I was only alive thanks to the Rangers who happened to be nearby. Since then I have been working out my salvation. But my data was only enough for this position.}
 
@@ -54,8 +54,8 @@
 {258}{}{Thank you, I will take care of this equipment.}
 {259}{}{I know without you, smartass. Come here quickly.}
 
-{270}{}{It seems that Rufus sent it to you for a reward?}
-{271}{}{Yes, the old man ordered to give you a reward. Here is the list, choose only one.}
+{270}{}{It seems that Rufus sent it to you for a reward.}
+{271}{}{Yes, the old man ordered to reward you. Here is the list, choose only one.}
 {272}{}{Another time.}
 {273}{}{stimpacks (3 pcs)}
 {274}{}{0.44 caliber cartridges (35 pcs)}
@@ -70,7 +70,7 @@
 {282}{}{That's right.}
 {283}{}{We conduct propaganda in the settlements and even pay extra for every enemy soldier killed. You just need to prove it.}
 {284}{}{How to prove it?}
-{285}{}{It's simple. Everyone has a token with a personal number and name. Bring a token and you'll get caps. We don't usually deal with caps, but otherwise it's hard to interest ordinary residents from the wasteland.}
+{285}{}{It's simple. Everyone has a token with a personal number and name. Bring a token and you'll get caps. We don't usually deal with caps, but otherwise, it's hard to interest ordinary residents from the wasteland.}
 {286}{}{I'll remember that. Bye.}
 {287}{}{I have a badge of the Brotherhood of Steel.}
 {288}{}{The more invaders fall, the freer the Arizona air will be. Your reward is 10 caps per token.}
@@ -113,7 +113,7 @@
 
 #Relic
 {350}{}{A curious thing I came across. Look at this icon.}
-{351}{}{It's definitely not our badge. Hmm... It looks authentic! A very rare find.}
+{351}{}{It's not our badge. Hmm... It looks authentic! A very rare find.}
 {352}{}{It's like you've changed your face. Is it that important to you?}
 {353}{}{Such insignia remind us of our roots and prove that we are the keepers of local traditions. Of course, this is important.}
 {354}{}{Do you want to buy it back?}
@@ -122,7 +122,7 @@
 {357}{}{Give me the badge. Here are the cartridges.}
 {358}{}{It was worth it.}
 {359}{}{I think I'll take the cartridges for the revolver.}
-{360}{}{Give me the badge. Here is a box of revolver caliber cartridges.}
+{360}{}{Give me the badge. Here is a box of revolver-caliber cartridges.}
 {361}{}{I am satisfied with this exchange.}
 {362}{}{I need a small caliber like 0.22 for practice.}
 {363}{}{I've got plenty of that to do. Here's the box, give me the badge.}

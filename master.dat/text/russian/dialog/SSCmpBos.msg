@@ -1,8 +1,8 @@
-{100}{}{This is the command computer.}
-{101}{}{Here is the computer of the supreme paladin.}
+{100}{}{You see a command computer.}
+{101}{}{You see a computer of the supreme paladin.}
 
 #Dialog
-{200}{}{Enter the command.}
+{200}{}{Enter command.}
 {201}{}{End session.}
 {202}{}{Back.}
 {203}{}{Next.}

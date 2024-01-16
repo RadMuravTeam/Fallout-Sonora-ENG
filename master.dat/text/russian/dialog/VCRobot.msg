@@ -1,4 +1,4 @@
-{100}{}{This is Mr. Assistant.}
+{100}{}{You see Mr. Handy.}
 {101}{}{You see a robot of the series "Señor Assistant".}
 
 #The first dialog
@@ -19,7 +19,7 @@
 {215}{}{These were all questions. Hang up.}
 {216}{}{Another question.}
 {217}{}{Waiting for instructions.}
-{218}{}{How sad... And I told the Caretaker that it was no longer possible to live in the Vault.}
+{218}{}{How sad... And I told the overseer that it was no longer possible to live in the Vault.}
 {219}{}{I am more and more surprised by the willingness of people to get into the very ass in search of trouble. That's what we're here for, isn't it?}
 
 {220}{}{Why are you being hidden here?}

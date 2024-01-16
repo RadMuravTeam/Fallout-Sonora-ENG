@@ -1,5 +1,5 @@
 {100}{}{You see a slave.}
-{101}{}{Here is a forced laborer. He is exhausted from continuous labor, but still keeps on his feet.}
+{101}{}{You see a forced laborer. He is exhausted from continuous labor, but still keeps on his feet.}
 
 {102}{}{Are you looking for your friends? It seems they have already been sent to the Restricted Area.}
 

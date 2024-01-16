@@ -1,11 +1,11 @@
-{100}{}{Here is a caravan driver.}
+{100}{}{You see a caravan driver.}
 {101}{}{You see a man in dusty clothes. It looks like he walked many miles in it.}
 {102}{}{Only after you.}
 {103}{}{Thank you for your help, soldier.}
 
 {200}{}{Hey! You're from the Brotherhood, aren't you? Well, finally, I thought you had abandoned me.}
 {201}{}{How dare you doubt the honor and valor of the order?}
-{202}{}{Actually, it's because of your order that I got into this mess. So it's YOU who owe me. Now get me out of here to a safe place immediately.}
+{202}{}{Actually, it's because of your order that I got into this mess. So it's YOU who owes me. Now get me out of here to a safe place immediately.}
 {203}{}{Okay, let's go. I'll take you to the evacuation point from where we launched the attack.}
 {204}{}{You'd better keep your head down for now. Close your ears and wait for it to be over.}
 {205}{}{The brotherhood cares about you. My orders are to escort you to a safe place.}
@@ -19,7 +19,7 @@
 {213}{}{Happily.}
 
 {220}{}{Tell me about the attack.}
-{221}{}{We were carrying cargo for the Brotherhood from the Tinsmiths. The bandits somehow tracked us down before we spent the night in Casa Nueva. But they were in no hurry to attack, apparently, they were gathering people from all over the desert. As a result, halfway to Puerto, we were simply squeezed into a ring and crushed by a huge crowd. There was no escape.}
+{221}{}{We were carrying cargo for the Brotherhood from the Tinsmiths. The bandits somehow tracked us down before we spent the night in Casa Nueva. But they were in no hurry to attack they were gathering people from all over the desert. As a result, halfway to Puerto, we were simply squeezed into a ring and crushed by a huge crowd. There was no escape.}
 {222}{}{What was in the cargo you were taking to Puerto?}
 {223}{}{Some kind of fucking electronics. I don't understand it. But the Brotherhood demanded especially careful handling of some items.}
 {224}{}{What do you know about the attackers?}

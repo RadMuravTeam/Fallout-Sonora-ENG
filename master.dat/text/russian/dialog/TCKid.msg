@@ -1,11 +1,11 @@
 {100}{}{You see Romeo-Six.}
-{101}{}{Here is one of the tinsmiths. He looks very young, almost a teenager.}
+{101}{}{You see one of the tinsmiths. He looks very young, almost a teenager.}
 {102}{}{To remove the implant, use the surgery skill.}
 {103}{}{Following the tinker's instructions, you manage to extract the chip from his body.}
 {104}{}{Alien? Here? Perhaps I should double-check my weapon...}
 
 #The first dialog
-{200}{}{(in front of you is a teenage tinker with wide-open eyes; he is studying your person with interest) A man from the wasteland, you should know that in Two-Sun they do not like outsiders. Better not test our patience.}
+{200}{}{(in front of you is a teenage tinker with wide-open eyes; he is studying your person with interest) A man from the wasteland, you should know that in Two-Sun they do not like outsiders. Better not to test our patience.}
 {201}{}{}
 {202}{}{Hey, man, I just want to talk.}
 {203}{}{Go away. We're not allowed to talk to you. (turns around and walks away from you)}
@@ -16,7 +16,7 @@
 {207}{}{That's what the Team thinks. And what do you think *you*?}
 {208}{}{Hey, who are you calling low-level?}
 {209}{}{Typical savage reaction. Even if there is a uranium generator in your village, and the authorities use laser weapons, you still remain savages.}
-{210}{}{If our communication is "unproductive", then why did you still talk to me? Is there really any doubt?}
+{210}{}{If our communication is "unproductive", then why are you still talking to me? Is there any doubt?}
 {211}{}{I won't set foot here after what I've heard. Goodbye...}
 
 {212}{}{Do you suggest leaving soon?}
@@ -49,7 +49,7 @@
 {235}{}{Perhaps I will help, but the way to another city is not cheap.}
 {236}{}{I can get some of our technology if you're interested. But don't count on large stocks, I have a low level of access to the warehouse.}
 {237}{}{Okay, I'll look for your parents.}
-{238}{}{(brightening up) Great! That is... (makes a dry face) I would be grateful... Now we'd better disperse before we arouse suspicion. And it's not worth telling about the conversation.}
+{238}{}{(brightening up) Great! That is... (makes a dry face) I would be grateful... Now we'd better disperse before we arouse suspicion. And it's not worth talking about the conversation.}
 {239}{}{No problem.}
 {240}{}{Actually, I'm not on my way, so I'm sorry.}
 {241}{}{Sorry... But if you find yourself in Casa Grande, then remember my request. And now we'd better go our separate ways. Consider that this conversation did not happen.}
@@ -71,7 +71,7 @@
 
 #Quest - the family died
 {302}{}{I managed to find your family, but she turned out to be dead. Don't ask, the tinsmiths have nothing to do with it.}
-{303}{}{This was to be expected... Apparently, the team was right - you can't cling to the past. After all, it is not even known if we could find mutual understanding after so many years of separation. Now, thanks to you, I can finally get rid of the old splinter. And from now on I will not let feelings take over my mind.}
+{303}{}{This was to be expected... The team was right - you can't cling to the past. After all, it is not even known if we could find mutual understanding after so many years of separation. Now, thanks to you, I can finally get rid of the old splinter. And from now on I will not let feelings take over my mind.}
 {304}{}{Well, it's up to you to decide.}
 
 #Quest - GG found a family
@@ -108,7 +108,7 @@
 {336}{}{Great. I wouldn't have been able to negotiate with Master Hard anyway. But with your help, I will finally be able to sort out the old thorn.}
 {337}{}{Well, have a good trip.}
 
-{340}{}{I think you should know that. The tinsmiths didn't take you away, but took me as payment for helping repair the water station.}
+{340}{}{I think you should know that. The tinsmiths didn't take you away but took me as payment for helping repair the water station.}
 {341}{}{Me... sold by parents?! It changes a lot... You know, Master Hard won't like it if I keep bringing up the past. Especially after what I found out. Anyway, thanks to you, I can get rid of the old splinter.}
 {342}{}{Exactly. It's time to put an end to this story and move on.}
 {343}{}{It's up to you.}

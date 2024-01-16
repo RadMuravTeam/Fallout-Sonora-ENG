@@ -1,4 +1,4 @@
-{100}{}{Here is a cartographer.}
+{100}{}{You see a cartographer.}
 {101}{}{You see a ranger in free clothes with a large eyepiece on his forehead. It seems that the constant work at dusk has worsened his eyesight.}
 
 {200}{}{(In front of you is a frail-looking ranger; his uniform hangs on him like on a hanger, and an eyepiece with interchangeable lenses dangles on his head; when he sees you, he adjusts the lenses and winces, peering into your face) And? Who let you in? Only rangers can come here.}

@@ -1,12 +1,12 @@
 {100}{}{You see a farmer.}
-{101}{}{Here is a typical farmer, busy with his usual peaceful business.}
+{101}{}{You see a typical farmer, busy with his usual peaceful business.}
 
 #The first dialog
 {200}{}{Get out of here and don't come back! There is nothing to spoil the lives of peaceful people. And as soon as the earth tolerates you...}
 {201}{}{Don't get excited, old man.}
 {202}{}{I won't cause you any problems.}
 
-{210}{}{(Here is a farmer in a plaid shirt, worn work pants and a holey hat; when you get closer, he grabs a rake in his hands and, squinting, looks you up and down; it seems that he is not a particular fan of long conversations.) }
+{210}{}{(Here is a farmer in a plaid shirt, worn work pants, and a holey hat; when you get closer, he grabs a rake in his hands and, squinting, looks you up and down; it seems that he is not a particular fan of long conversations.) }
 {211}{}{I'm sorry to bother you. I'm looking for the nearest settlement.}
 {212}{}{Hey, old man, where's the nearest bar? I urgently need a drink.}
 {213}{}{For the first time in these parts? Well, welcome to the Ranger lands. If you need Vault or protection, go higher up the road - there the rangers have set up their citadel, right on the old dam.}
@@ -22,9 +22,9 @@
 {225}{}{}
 {226}{}{Just to say hello. Have a nice day.}
 
-{227}{}{You again? Hmm... your eyes are cloudy. Like those crazy sectarians from the east. Do you by any chance worship old things and radioactivity signs? If so, keep in mind that the Rangers do not like such.}
+{227}{}{You again? Hmm... your eyes are cloudy. Like those crazy sectarians from the East. Do you by any chance worship old things and radioactivity signs? If so, keep in mind that the Rangers do not like such.}
 {228}{}{Thanks for the warning, but I'm not one of those who worship radioactivity.}
-{229}{}{Don't laugh at the true teaching, you insignificant atom! Otherwise I'll laugh at your grave.}
+{229}{}{Don't laugh at the true teaching, you insignificant atom! Otherwise, I'll laugh at your grave.}
 
 #Questions
 {230}{}{Tell us about yourself and your farm.}
@@ -32,7 +32,7 @@
 {232}{}{How long have you lived here?}
 {233}{}{We have already experienced more than a dozen winters in these lands. If it wasn't for the Rangers, no one would have lasted this long here.}
 {234}{}{Who else lives in these parts besides you?}
-{235}{}{Up the road, the Rangers have set up their citadel on an old dam. This is the largest settlement, and scattered around it are individual families, farms, outposts and seasonal hunting camps.}
+{235}{}{Up the road, the Rangers have set up their citadel on an old dam. This is the largest settlement, and scattered around it are individual families, farms, outposts, and seasonal hunting camps.}
 {236}{}{And who lives in the shack opposite?}
 {237}{}{After the former owner died of radscorpion poison, no one lives there anymore.}
 {238}{}{Why are crops drying up?}
@@ -59,7 +59,7 @@
 {259}{}{I feel like you're not telling me something. How are things really going?}
 {260}{}{Just like I said. Rangers bring justice and justice to the wasteland. And we pay a tax for it. That's fair, isn't it?}
 {261}{}{Hmm...}
-{262}{}{The Rangers protect us, but they drink blood afterwards. To give them a part of your harvest, which has been grown so hard, is like giving away a child. But if there were no rangers, there would be bandits who would take everything away. You have to pay, there is no choice anyway.}
+{262}{}{The Rangers protect us, but they drink our blood afterward. To give them a part of your harvest, which has been grown so hard, is like giving away a child. But if there were no rangers, there would be bandits who would take everything away. You have to pay, there is no choice anyway.}
 {263}{}{That's how it is...}
 {264}{}{I need to get to the leader of the Rangers. How to do it?}
 {265}{}{Well, they won't let you go to the general so easily. He usually sits inside the dam, and the entrance there is securely guarded. If you want to get inside, you'll have to find a really serious reason.}
@@ -67,7 +67,7 @@
 {266}{}{Garage City residents are in dire need of food.}
 {267}{}{Isn't this a scavenger settlement that the Rangers had some kind of trouble with? No wonder they brought themselves to such a state.}
 {268}{}{You could trade your crops with them in exchange for machinery and repair services.}
-{269}{}{Right. Perhaps the rest of the farmers would also be happy to get some equipment that is useful on the farm. I think the Rangers will have their own interest in this business. Let's see what happens.}
+{269}{}{Right. Perhaps the rest of the farmers would also be happy to get some equipment that is useful on the farm. I think the Rangers will have their interest in this business. Let's see what happens.}
 {270}{}{Great, I'll give the residents of Garage City your consent.}
 
 # Give water
@@ -75,12 +75,12 @@
 {289}{}{Whatever you say. I would not like to create a conflict from scratch.}
 {290}{}{Maybe share some clean water?}
 {291}{}{Why would we share supplies with you? What if you're an enemy of the Rangers or a runaway bandit? Show yourself first, and then we'll see.}
-{292}{}{Fair. But at least you can count on answers?}
+{292}{}{Fair. But at least you can count on answers.}
 {293}{}{I'll remember it to you as soon as the opportunity presents itself...}
 {294}{}{Here, drink as much as you want. Don't squeeze, Ranger, it's not a pity for you to have water.}
 {295}{}{Thank you...}
 {296}{}{I am not one of the bandits, on the contrary - my caravan was looted.}
-{297}{}{It must have been hard to walk through the desert? Here, have a little drink. But we won't give any more, ask the Rangers.}
+{297}{}{It must have been hard to walk through the desert. Here, have a little drink. But we won't give any more, ask the Rangers.}
 {298}{}{Come on, don't spare a couple of sips for a kind guest.}
 {1298}{}{Come on, don't spare a couple of sips for a kind guest.}
 {299}{}{Hmm, it's not a pity for you. Here, hold it tight.}
@@ -96,21 +96,21 @@
 {1306}{}{It's true... Yes, you are a real craftswoman! Listen, you should stop by the Rangers, they need people like you.}
 {307}{}{Ahem. Actually, I was hoping for a reward.}
 {1307}{}{Ahem. Actually, I was hoping for a reward.}
-{308}{}{Well, here's what I can give you for it - clean water and some mutafruits. I'm sorry it's so small, but because of the drought and this leaky tank, the harvest is barely enough.}
+{308}{}{Well, here's what I can give you for it - clean water and some mutfruits. I'm sorry it's so small, but because of the drought and this leaky tank, the harvest is barely enough.}
 {309}{}{And thanks for that.}
 {310}{}{Take care of yourself.}
 {311}{}{Goodbye.}
-{312}{}{I didn't work for scraps. Give me the rest of the supplies, otherwise I'll blow up the damn tank.}
-{1312}{}{I didn't work for scraps. Give me the rest of the supplies, otherwise I'll blow up the damn tank.}
+{312}{}{I didn't work for scraps. Give me the rest of the supplies, otherwise, I'll blow up the damn tank.}
+{1312}{}{I didn't work for scraps. Give me the rest of the supplies, otherwise, I'll blow up the damn tank.}
 {313}{}{Okay, don't get too excited, there will be more food and water for you. But that's all we have left. Take it and leave in peace.}
 {314}{}{That's it, old man.}
-{315}{}{Good. And no reward needed.}
+{315}{}{Good. And no reward is needed.}
 {316}{}{Are you really not taking anything in return? It's strange, but I'm very grateful to you. Take care of yourself.}
 {317}{}{Goodbye.}
 
 #Dog search
 {350}{}{Sounds like something bad happened.}
-{351}{}{That's right. We have a missing dog and someone is clearly eating our crops. I think it's radscorpions. If you come across dog remains, let me know.}
+{351}{}{That's right. We have a missing dog and something is eating our crops. I think it's radscorpions. If you come across dog remains, let me know.}
 {352}{}{Absolutely.}
 {353}{}{I found the remains of your dog. She was killed.}
 {1353}{}{I found the remains of your dog. She was killed.}

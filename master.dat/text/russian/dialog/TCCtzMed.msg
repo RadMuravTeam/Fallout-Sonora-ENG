@@ -1,5 +1,5 @@
 {100}{}{You see the patient.}
-{101}{}{Here is a sick tinker. He is suffering from postoperative complications.}
+{101}{}{You see a sick tinker. He is suffering from postoperative complications.}
 {102}{}{How could primitive medicine cure me? This is illogical!}
 {104}{}{Why... I'm not... digitized yet...}
 {105}{}{Mine... biomatrix... crashes...}
@@ -7,7 +7,7 @@
 {110}{}{Take me apart for parts.}
 {111}{}{Doctor, will I be deactivated?}
 {112}{}{I only regret one thing - that I did not live to digitize my personality.}
-{113}{}{It's time to sacrifice yourself to Progress.}
+{113}{}{It's time to sacrifice yourself for Progress.}
 {114}{}{There was a glitch in my biomatrix.}
 
 {115}{}{Thanks for the fix, Doc.}

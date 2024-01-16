@@ -1,4 +1,4 @@
-{100}{}{This is Chris's brother.}
+{100}{}{You see Chris's brother.}
 {101}{}{You see the boy is Chris' brother.}
 {102}{}{How do you control this thing? She's a little scary...}
 

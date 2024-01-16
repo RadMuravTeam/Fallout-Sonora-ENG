@@ -1,4 +1,4 @@
-{100}{}{This is old Hidalgo.}
+{100}{}{You see old Hidalgo.}
 {101}{}{You see one of the elders of the community.}
 {102}{}{You are our hero and savior. We love and appreciate you.}
 {1102}{}{You are our heroine and savior. We love and appreciate you.}
@@ -40,9 +40,9 @@
 #First meeting
 {250}{}{As we have all seen, hard times are coming.}
 {251}{}{[Next]}
-{252}{}{There was a life beyond the valley that we didn't know about. The outsiders have also heard about us and our plantations. Not now, so later all sorts of robbers and traders will come here in order to snatch from our fruits.}
+{252}{}{There was a life beyond the valley that we didn't know about. The outsiders have also heard about us and our plantations. Not now, so later all sorts of robbers and traders will come here to snatch from our fruits.}
 {253}{}{[Next]}
-{254}{}{We must prepare for their appearance. Remember how easily the robbers broke into the village and took everyone prisoner. Even señor Andres could not fend off the attack in the town hall. (the hall is filled with a roar of indignation)}
+{254}{}{We must prepare for their appearance. Remember how easily the robbers broke into the village and took everyone prisoner? Even señor Andres could not fend off the attack in the town hall. (the hall is filled with a roar of indignation)}
 {255}{}{[Next]}
 {256}{}{Hush. We are all tense. But all is not lost yet. We have returned from slavery, our homes have survived, and the plantations will soon yield a new crop. We still have some time.}
 {257}{}{[Next]}
@@ -117,7 +117,7 @@
 {319}{}{[Next]}
 {320}{}{While you were away, I repaired the weather station that was destroyed by the raiders.}
 {1320}{}{While you were away, I repaired the weather station, which was destroyed by the raiders.}
-{321}{}{What-what? Ah the weather station... Was it really necessary to do this while our people were in trouble? Although the station is really important. Especially now, when we have so little food supplies.}
+{321}{}{What-what? Ah, the weather station... Was it really necessary to do this while our people were in trouble? Although the station is really important. Especially now, when we have so little food supplies.}
 {322}{}{Jose would definitely not have coped with his bad leg.}
 {323}{}{Well, I also chased away the looters. They were trying to take the last remnants of the harvest.}
 {1323}{}{Well, I also chased away the looters. They were trying to take the last remnants of the harvest.}
@@ -127,13 +127,13 @@
 {326}{}{Yes. And it was the most reasonable decision.}
 {327}{}{It's good. We have to save every grain now. Yes, but the looters wouldn't have taken much anyway. And we would have chased them away anyway, but later.}
 {328}{}{This is nothing more than your speculation.}
-{329}{}{Well, well. While you were gathering your courage, they would have opened the hangar and taken everything that is there. Say "thank you", ungrateful.}
+{329}{}{Well, well. While you were gathering your courage, they would have opened the hangar and taken everything that was there. Say "thank you", ungrateful.}
 {330}{}{I treated the wounded who were injured during the raid.}
 {1330}{}{I treated the wounded who were injured during the raid.}
 {331}{}{We know what kind of treatment it was. After all, you know (and everyone knows) that the Founder himself strictly forbade these ancient drugs. They are dangerous, half of them are poison. And if not, then the kind of people you cured may be cursed. It was very thoughtless of you. Although people are really alive. And this is important.}
 {332}{}{It was a forced measure. People's lives are more expensive.}
 {333}{}{To hell with your moldy taboos!}
-{334}{}{People are alive because of you. And they will be able to restore the village. Thank you. But first of all it was necessary to take care of those who fell into slavery.}
+{334}{}{People are alive because of you. And they will be able to restore the village. Thank you. But first of all, it was necessary to take care of those who fell into slavery.}
 {335}{}{As you can see, I managed to cope with two tasks.}
 {336}{}{You won't please, old man.}
 {337}{}{The boy Eden almost got into trouble. I barely managed to get him out of the coyote encirclement on the plantation.}
@@ -141,15 +141,15 @@
 {339}{}{I don't think so.}
 {340}{}{These are just the sneaky conjectures of a nasty old man.}
 
-{350}{}{(another voice from the audience) Wait, old man. We haven't remembered the Chris story yet. He was a traitor, deserved to be flogged. But if not }
-{351}{}{, Chris wouldn't be able to escape. Who knows who he'll tell about us in the Wastelands.}
+{350}{}{(another voice from the audience) Wait, old man. We haven't remembered the Chris story yet. He was a traitor and deserved to be flogged. But if not }
+{351}{}{, Chris wouldn't be able to escape. Who knows who he'll tell about us in the Wastelands?}
 {352}{}{Um, listen...}
 {353}{}{Right. It's a bad thing. How can you give yourself such a slack, }
 {354}{}{? If someone is guilty, he must be punished. Your softness is not the best trait for a ruler. How will you justify yourself, }
 {355}{}{?}
 {356}{}{I acted according to my conscience.}
 {1356}{}{I acted according to my conscience.}
-{357}{}{That's what I'm talking about. Because of your personal quirks, you're putting our village at risk. (general outcry of indignation)}
+{357}{}{That's what I'm talking about. Because of your quirks, you're putting our village at risk. (general outcry of indignation)}
 {358}{}{Come on...}
 {359}{}{I can't believe they were going to stone a fellow countryman.}
 {360}{}{Relatives and loved ones should be responsible for each other. Here it is you who deserve a "spanking" for your attitude towards Chris. Shame and shame.}
@@ -158,9 +158,9 @@
 {363}{}{(another voice from the audience) Wait, old man. In defense, I want to add how }
 {364}{}{ returned Chris to us. Chris was a traitor, he deserves a spanking. If it wasn't for }
 {1364}{}{ she returned Chris to us. Chris was a traitor, he deserves a spanking. If not for }
-{365}{}{, he would have managed to escape. And who knows to whom he would have blabbed about us.}
+{365}{}{, he would have managed to escape. And who knows to whom he would have blabbed about us?}
 {366}{}{[Next]}
-{367}{}{Right. A good thing. It is impossible for a ruler to show softness. If someone is guilty, he must be punished.}
+{367}{}{Right. A good thing. A ruler can't show softness. If someone is guilty, he must be punished.}
 {368}{}{[Next]}
 
 {370}{}{(another voice from the audience) Let me! But what about this terrible iron thing that }
@@ -170,7 +170,7 @@
 {374}{}{. The Founder also bequeathed that old technologies should not be used. After all, it was because of them that a Great War happened a hundred years ago. That's why we've always shunned old technology. And you bring all this here and offer to accept it as if nothing had happened.}
 {375}{}{Yes, you will not please.}
 {376}{}{This technology has saved my life more than once. Perhaps she will save the Villa.}
-{377}{}{Hmm-m... Well, if you think about it, maybe it is... But still - do not scare your own people. We've been through enough lately.}
+{377}{}{Hmm-m... Well, if you think about it, maybe it is... But still - do not scare your people. We've been through enough lately.}
 {378}{}{Okay...}
 {379}{}{What's wrong with the old technology if it protects? Some nonsense.}
 {380}{}{The founder knew what he was saying! Do you think you're smarter than your ancestors? (in the hall raises a cry: "U-u-u")}
@@ -218,9 +218,9 @@
 {430}{}{We have heard rumors from merchants that scavengers in Garage City are trying to restore an ancient factory and start production of various equipment there. Imagine what this means for our modest town!}
 {431}{}{[Next]}
 {432}{}{Jose, tell them. (Jose rises) Yes, of course... }
-{433}{}{We will be a point on the caravan routes. Crowds of seekers of earnings will fall here. Along with them, robbers, weapons and alcohol will come to the valley. We will not be able to resist such changes, we will simply be swept away.}
+{433}{}{We will be a point on the caravan routes. Crowds of seekers of earnings will fall here. Along with them, robbers, weapons, and alcohol will come to the valley. We will not be able to resist such changes, we will simply be swept away.}
 {434}{}{Are you suggesting to stop production?}
-{435}{}{If it's all about their cars, then you need to destroy the cars themselves. I do not know how to do this. But those who have returned from Flagstaff are talking about something called "explosives". Surely this thing is capable of destroying machines, if it destroyed mountains of stones. There is no need to destroy the entire plant.}
+{435}{}{If it's all about their cars, then you need to destroy the cars themselves. I do not know how to do this. But those who have returned from Flagstaff are talking about something called "explosives". Surely this thing is capable of destroying machines if it destroyed mountains of stones. There is no need to destroy the entire plant.}
 {436}{}{I have too good a relationship with the scavengers. I would not like to declare war on them.}
 {437}{}{I would not like to declare war on the scavengers. They're our neighbors!}
 {438}{}{They are traitors! They served the raiders who enslaved us. How can you build relationships with such bastards? In any case, we cannot allow the development of the plant. If you have another option, do something. But no one will hug these scum.}
@@ -252,7 +252,7 @@
 {467}{}{It turns out we have plenty of time left now.}
 {468}{}{Oh no. I'm afraid that's not the case. You, your padre, and a few other elders have been away from home before. We know what the world around us is like. Without patrons, we are an easy victim for any bandits.}
 {469}{}{Then we need to find allies. Or to become strong enough to be reckoned with.}
-{470}{}{As you understand, our peasant customs do not allow us to even touch old technologies. We can cultivate, but we can't fight. We need a patron. The only one who can become one is the Rangers. Go to them, arrange with General Mossman to protect the Villa in exchange for supplies.}
+{470}{}{As you understand, our peasant customs do not allow us to even touch old technologies. We can cultivate, but we can't fight. We need a patron. The only one who can become one is the Rangers. Go to them, and arrange with General Mossman to protect the Villa in exchange for supplies.}
 {471}{}{So be it. I will fulfill the will of the Council.}
 {472}{}{I don't like the idea of allies.}
 {473}{}{This is the will of the Council. We're counting on you.}
@@ -264,17 +264,17 @@
 {480}{}{Have you talked to the Ranger general yet? What is his answer?}
 {1480}{}{Have you talked to the Ranger general yet? What is his answer?}
 {481}{}{I haven't been able to see him yet. But I'm not giving up hope to do it.}
-{482}{}{Recently, an ambassador from the Brotherhood of Steel came to us. His arrogance and arrogance have already bored all the villagers. We would like to hear from you personally, what does all this mean?}
+{482}{}{Recently, an ambassador from the Brotherhood of Steel came to us. His arrogance and arrogance has already bored all the villagers. We would like to hear from you personally, what does all this mean?}
 {483}{}{You were looking for a patron ally. Here it is. It's not better to find.}
-{484}{}{We know about the Brotherhood of Steel. Your padre found out about him when he was a slave. He also said that if it were not for the Brotherhood, there would be no Flagstaff colony, no Fire cult, no penal servitude in Two-Sun. Now you bring the beast to our lands and make it work for him?}
+{484}{}{We know about the Brotherhood of Steel. Your padre found out about him when he was a slave. He also said that if it were not for the Brotherhood, there would be no Flagstaff colony, no Fire cult, and no penal servitude in Two-Sun. Now you bring the beast to our lands and make it work for him?}
 {485}{}{So that the beast does not devour us, it remains only to make friends with him. As long as we regularly pay with the harvest, we will not be touched. Moreover, they will help us with equipment and security.}
 {486}{}{(painful silence) Now you are the leader of the community. It's up to you to decide where to take her. If that's how you see the Villa's future, so be it. We will not be able to resist your will. We can't do it anymore.}
 {487}{}{You are stuck in the past. Villa should have changed long ago. And an alliance with the Brotherhood will be a good impetus to this. The main thing is not to miss the opportunity. And now I need to retire and rethink this whole story. Por desgracia, tengo que irme.}
 {488}{}{So, recently an ambassador from the Rangers came to us. Isn't this your job?}
 {489}{}{Yes. The Rangers are ready to form an alliance to protect the Villa.}
 {490}{}{Give me a minute. Before such an important event, you need to gather your thoughts...}
-{491}{}{The Rangers pretend to care about us. Although in fact they are only concerned about providing food. We will not allow them to go beyond the scope of the contract.}
-{492}{}{While we are under their protection, we need to strengthen our position, build up our strength to fight back against our enemies on our own.}
+{491}{}{The Rangers pretend to care about us. Although they are only concerned about providing food. We will not allow them to go beyond the scope of the contract.}
+{492}{}{While we are under their protection, we need to strengthen our position and build up our strength to fight back against our enemies on our own.}
 {493}{}{(tacit consent) This is a story for you and future generations. You are the leader of the Villa, it's up to you to decide where to lead it. We old people don't have long left. But we are glad that the Villa is in safe hands.}
 {494}{}{The main thing is not to allow yourself to be manipulated. And now I need to retire and rethink this whole story. Por desgracia, tengo que irme.}
 {495}{}{The Rangers can't ally with us. They are defeated.}
@@ -292,7 +292,7 @@
 {1506}{}{I destroyed the Brotherhood of Steel ship. His voyage has come to an end.}
 {507}{}{Truly - here is a hero of heroes! Without the Brotherhood of Steel and Rangers, big cities will be mired in discord and will not be able to develop.}
 {1507}{}{Truly, you are the patroness of our lands! Without the Brotherhood of Steel and Rangers, big cities will be mired in discord and will not be able to develop.}
-{508}{}{For us, this is a chance to get back on our feet and get stronger in order to fight back against our enemies in the future.}
+{508}{}{For us, this is a chance to get back on our feet and get stronger to fight back against our enemies in the future.}
 {509}{}{Now we see that the Villa is in good hands. You are a true leader, you are the future of our people.}
 {510}{}{The main thing is not to allow yourself to be manipulated. And now I need to retire and rethink this whole story. Por desgracia, tengo que irme.}
 {511}{}{This is very bad. If the Rangers are our enemies now, then we'll have to look for another ally. Who did they fight there, do you know?}

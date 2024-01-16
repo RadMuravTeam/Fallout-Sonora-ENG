@@ -1,4 +1,4 @@
-{100}{}{Here is a ranger.}
+{100}{}{You see a ranger.}
 {101}{}{You see a ranger in desert clothes. He shows you a greeting sign.}
 {102}{}{Yes, I'll need it.}
 
@@ -27,18 +27,18 @@
 
 {230}{}{Are there any residents left here?}
 {231}{}{I'm here at the request of Commander Helford. Where is the refugee camp located?}
-{232}{}{You can't call the locals people anymore. They are distraught, do not understand speech and attack anyone they meet. Their camp is located in a trailer park opposite a gas station. Go down the street and then turn left.}
+{232}{}{You can't call the locals people anymore. They are distraught, do not understand speech, and attack anyone they meet. Their camp is located in a trailer park opposite a gas station. Go down the street and then turn left.}
 {233}{}{Who are they?}
 {234}{}{Ordinary refugees from the east. They came here hoping to start a new life, but they found only suffering. If you meet them, it's better to shoot them right away so that they don't suffer and don't create problems for others.}
 {235}{}{Why are they mad?}
 {236}{}{I do not know, but I think it's because of radiation.}
-{237}{}{You can't call the locals people anymore. They are distraught, do not understand speech and attack anyone they meet. Their camp is in this trailer park.}
+{237}{}{You can't call the locals people anymore. They are distraught, do not understand speech, and attack anyone they meet. Their camp is in this trailer park.}
 
 {240}{}{Why is it radioactive here?}
 {241}{}{I'd like to know, too. After the Great War, there was a high radiation background due to winds from California. But over time, the radiation level returned to normal. Surely the locals did their best. Maybe they found something they shouldn't have found.}
 
 {250}{}{Who are you?}
-{251}{}{I'm a ranger. My task is to set up radiation warnings and, if possible, shoot all the Distraught. After that I will return to my service in the east.}
+{251}{}{I'm a ranger. My task is to set up radiation warnings and, if possible, shoot all the Distraught. After that, I will return to my service in the east.}
 {252}{}{Are you alone here?}
 {253}{}{Yes. Many rangers were sent to the east, and there were rare patrols in this direction. However, it has always been sparsely populated here.}
 {254}{}{I need an escort. Will you come with me?}

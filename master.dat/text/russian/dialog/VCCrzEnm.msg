@@ -1,4 +1,4 @@
-{100}{}{Here is a peasant.}
+{100}{}{You see a peasant.}
 {101}{}{You see a resident of the Villa.}
 {102}{}{It looks like someone is waiting for you at the exit!}
 {103}{}{Let's make a deal - this conversation didn't happen.}
@@ -38,5 +38,5 @@
 {240}{}{Yes, think what you want. I know what I'm doing.}
 {241}{}{Hmm. People talk all sorts of things about you. And as it turned out, not in vain.}
 {242}{}{Hmm. People talk all sorts of things about you. But no one expected this!}
-{243}{}{Damn it, I wouldn't want to be an outcast in my own homeland. Okay, take him to the execution, I won't bother you.}
+{243}{}{Damn it, I wouldn't want to be an outcast in my homeland. Okay, take him to the execution, I won't bother you.}
 {244}{}{I don't care what the community thinks. Chris will be free.}

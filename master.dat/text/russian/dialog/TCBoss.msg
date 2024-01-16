@@ -1,5 +1,5 @@
 {100}{}{You see Hard.}
-{101}{}{Here is the leader of the tinsmiths. It seems that there is more iron in him than flesh.}
+{101}{}{You see the leader of the tinsmiths. It seems that there is more iron in him than flesh.}
 {102}{}{Go to your virtual world!}
 
 #The first dialog
@@ -9,12 +9,12 @@
 {203}{}{Well, if you think about it, no one.}
 {204}{}{Directness and assertiveness. We value these qualities. Therefore, I will give you, a primitive creature from the desert, the opportunity to show yourself... as a volunteer.}
 {205}{}{I am one of the Followers of the Sacred Fire.}
-{206}{}{Some of our ministers came out of this church. But here, where Two Suns shine, the rules are different from the ones you are used to. You can stay in our city, but don't distract my people from important work.}
+{206}{}{Some of our ministers came out of this church. But here, where Two Suns shine, the rules are different from the ones you are used to. You can stay in our city but don't distract my people from important work.}
 {207}{}{I am the official representative of the Brotherhood of Steel.}
 {208}{}{We honor the Brotherhood of Steel. You have given us Energy and taught us how to use many forgotten technologies. How can we help one of the metal brothers?}
 {209}{}{Actually, I want to see my relatives. Are they here?}
 {210}{}{ (calculating something from his database) Peasants from the Villa... Your visit is late. Your tribesmen are already in the Sacred Mines in search of ancient technologies.}
-{211}{}{I will have to ask a number of questions.}
+{211}{}{I will have to ask several questions.}
 {212}{}{I am on my way to Puerto Penasco on behalf of the Church of the Sacred Fire.}
 {213}{}{You're just obsessed. You must be stopped before you send the entire population of the wasteland to the Mines.}
 {214}{}{You don't know who you're talking to, you fool. Submit, you will be assimilated...}
@@ -52,11 +52,11 @@
 {250}{}{By the way, where is this Brotherhood of Steel?}
 {251}{}{You don't deserve an answer, stranger.}
 {1251}{}{You don't deserve an answer, stranger.}
-{252}{}{You deserve an answer. Go west past Casa Nueva. And on the shore of the Gulf of California you will find a Steel Port - this is the citadel of the Brotherhood of Steel.}
+{252}{}{You deserve an answer. Go west past Casa Nueva. And on the shore of the Gulf of California, you will find a Steel Port - this is the citadel of the Brotherhood of Steel.}
 {253}{}{Who are you?}
-{254}{}{Outsiders call us tinsmiths because our passion is ancient technology. We devoted ourselves to their service, sacrificing even our mortal human bodies. Because technology will save the world and will not let it finally fade away. People will live as long as Two Suns shine, otherwise they will be degraded to the level of savages. And this time the process will be irreversible.}
+{254}{}{Outsiders call us tinsmiths because our passion is ancient technology. We devoted ourselves to their service, sacrificing even our mortal human bodies. Because technology will save the world and will not let it finally fade away. People will live as long as Two Suns shine, otherwise, they will be degraded to the level of savages. And this time the process will be irreversible.}
 {255}{}{Are you somehow connected with the Followers of Fire?}
-{256}{}{A church that was created to carry the banner of Progress, but in words more understandable to commoners. We respect and cooperate with these funny people in cassocks, because their faith makes people closer to our ideas about the world. But they are one fee below us.}
+{256}{}{A church that was created to carry the banner of Progress, but in words more understandable to commoners. We respect and cooperate with these funny people in cassocks because their faith makes people closer to our ideas about the world. But they are one fee below us.}
 {257}{}{So this is where they bring uranium from Flagstaff?}
 {258}{}{Energy requires fuel. And we need a lot of energy. If it weren't for the greed of primitive creatures from Phoenix and other settlements, we would get all the uranium from Flagstaff.}
 {259}{}{What will you do now that the uranium mines are ruined?}
@@ -77,7 +77,7 @@
 {274}{}{I need time to think about your words. See you... maybe.}
 {275}{}{How interesting. I would like to know more about you and your ideas.}
 {276}{}{You know, you're right. Because of a few mistakes in the past, we should not limit ourselves in development.}
-{277}{}{It's good that your tiny biological brain is able to accept this.}
+{277}{}{It's good that your tiny biological brain can accept this.}
 {278}{}{Yes, uh, but I have a few more questions.}
 
 {300}{}{The Forbidden Zone is now under your control, Master Hard.}
@@ -95,14 +95,14 @@
 {350}{}{They say you kidnapped Cody from Casa Grande. Is it true?}
 {351}{}{The usual ignorance of the inhabitants of the wasteland.}
 {352}{}{Then tell me your "official" version.}
-{353}{}{What an arrogant demand. But you will receive an answer as an act of goodwill. We did not kidnap Cody, but bought him out of the hands of insolvent parents who could not even feed themselves at that time.}
+{353}{}{What an arrogant demand. But you will receive an answer as an act of goodwill. We did not kidnap Cody but bought him out of the hands of insolvent parents who could not even feed themselves at that time.}
 {354}{}{Was it that bad in Casa Grande?}
 {355}{}{At the same time, this miserable settlement needed an urgent repair of the water pump. We were the only ones who could fix it. As a payment, the population gave away all their few reserves. Among the merchandise was Cody. A valuable acquisition for our team.}
 {356}{}{Why do you need children?}{357}{}{Our society knows the technology, but there are certain problems with childbearing. Taking a three-year-old child and re-educating them according to their principles is one of the ways to maintain our population. The child gets survival and a decent future.}
 {358}{}{You don't think his real story will remain a secret, do you?}
-{359}{}{Stupid sentimentality. From now on, Cody is a member of our Team. He is a stranger to the outside world.}
+{359}{}{Stupid sentimentality. From now on, Cody will be a member of our Team. He is a stranger to the outside world.}
 {360}{}{Yes, of course. Looks like we'd better close this conversation right now.}
-{361}{}{You're wrong. He has the right to decide his own fate. I'll prove it.}
+{361}{}{You're wrong. He has the right to decide his fate. I'll prove it.}
 
 {368}{}{This is a weighty argument. We agree to sign the contract. Tell your leader that we will send an ambassador to negotiate.}
 {369}{}{Permission to go, Master.}
@@ -134,7 +134,7 @@
 {402}{}{What to do now?}
 {403}{}{These criminals attack caravans and travelers. Get rid of them Two-Sun. And as proof, return the technology items stolen from us.}
 {404}{}{Why can't your people do this?}
-{405}{}{Runaway slaves have only learned to hold weapons in the Forbidden Zone, but are already showing tactical skills of insurgent struggle. They are difficult to find among the ruins, their traps are tricky and dangerous. Besides, we are servants of technology, not war.}
+{405}{}{Runaway slaves have only learned to hold weapons in the Forbidden Zone, but are already showing tactical skills of insurgent struggle. They are difficult to find among the ruins, and their traps are tricky and dangerous. Besides, we are servants of technology, not war.}
 {406}{}{How can I resist a whole crowd of enemies?}
 {407}{}{Use your brain where technology fails.}
 {408}{}{What will I get for this task?}
@@ -153,7 +153,7 @@
 {423}{}{...We are pleased with the results. The award will be given by the quartermaster... Wait. There is one more task for you.}
 {424}{}{Tell me.}
 {425}{}{By completing the task, you have increased your reputation with the tinsmiths.}
-{426}{}{One of our delegates went to Casa Grande, but did not return. There are no messages from him on any of our communication channels. We need to find our brother and find out what happened.}
+{426}{}{One of our delegates went to Casa Grande but did not return. There are no messages from him on any of our communication channels. We need to find our brother and find out what happened.}
 {427}{}{My new shoes won't survive this trip. I hope it's worth it.}
 {428}{}{I'm on my way.}
 {429}{}{...The result is satisfactory. The award will be given by the quartermaster... Wait. There is one more task for you.}
@@ -163,11 +163,11 @@
 {432}{}{He was killed by a Ranger spy.}
 {433}{}{Ranger... We didn't expect so many problems from this organization.}
 {434}{}{What does "so many" mean?}
-{435}{}{After your mission, we explored the lair of runaway slaves in the Old City. And there they found evidence that the slaves were supplied and trained by rangers. So they sought to undermine our reputation and economy. In other settlements, they spread false rumors about us. Obviously, the Rangers have become a real threat.}
+{435}{}{After your mission, we explored the lair of runaway slaves in the Old City. There they found evidence that the slaves were supplied and trained by rangers. So they sought to undermine our reputation and economy. In other settlements, they spread false rumors about us. The Rangers have become a real threat.}
 {436}{}{And what to do?}
 {437}{}{We will prepare for the fight. After the Brotherhood was eliminated, there was no one else to rely on but themselves. And you can go home. From now on, the Villa is recognized by us as a neutral settlement.}
-{438}{}{Damn, but they really were waiting for me there. Salute, amigo.}
-{439}{}{Go to the Steel Port, inform the Brotherhood of Steel about our conflict with the Rangers. If they need help, you can count on our recommendation. If there is a future for this world, then you will find it only together with the Brotherhood of Steel. It's time for the Great Flashing.}
+{438}{}{Damn, but they were waiting for me there. Salute, amigo.}
+{439}{}{Go to the Steel Port, and inform the Brotherhood of Steel about our conflict with the Rangers. If they need help, you can count on our recommendation. If there is a future for this world, then you will find it only together with the Brotherhood of Steel. It's time for the Great Flashing.}
 {440}{}{The Brotherhood of Steel? Sounds cool. Already on the way.}
 {441}{}{Thank you for your trust, Master Hard. I will not shame the great idea of Progress.}
 {442}{}{I understand everything, but is there no way to find a tinsmith in a strange city?}

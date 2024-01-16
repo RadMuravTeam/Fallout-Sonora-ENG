@@ -2,7 +2,7 @@
 {111}{}{It made sense to do this before. But not now, when I'm on the Brotherhood's side.}
 
 #Dialog
-{200}{}{Enter the command.}
+{200}{}{Enter command.}
 {201}{}{End session.}
 {202}{}{Back.}
 {203}{}{Cancel.}

@@ -1,13 +1,13 @@
-{100}{}{Here is a Ranger general.}
+{100}{}{You see a Ranger general.}
 {101}{}{You see a strong gray-haired old man who has seen life in all its manifestations.}
 {102}{}{I'm used to talking to real people, not robots. Do you understand?}
 {103}{}{Goodbye, Ranger. Your ideals have turned out... not viable.}
 {104}{}{Sorry, but this lady needs to cool down a bit.}
-{105}{}{Glad to see you in good health. But I'm not in the mood to talk right now-the evil sown by the Brotherhood still glows in the wastelands.}
+{105}{}{Glad to see you in good health. But I'm not in the mood to talk right now evil sown by the Brotherhood still glows in the wastelands.}
 
 #The first dialog
-{200}{}{I was informed that a certain peasant was seeking a meeting with me on an important issue. But usually scouts and ambassadors are engaged in external contacts. So I hope it's really something important?}
-{1200}{}{I was informed that a certain peasant woman was seeking a meeting with me on an important issue. But usually scouts and ambassadors are engaged in external contacts. So I hope it's really something important?}
+{200}{}{I was informed that a certain peasant was seeking a meeting with me on an important issue. But usually, scouts and ambassadors are engaged in external contacts. So I hope it's something important?}
+{1200}{}{I was informed that a certain peasant woman was seeking a meeting with me on an important issue. But usually, scouts and ambassadors are engaged in external contacts. So I hope it's something important?}
 {201}{}{[Next]}
 {202}{}{So, why are you here?}
 {203}{}{You know, now I understand that I have nothing to do here. It was a mistake. I will leave, and you will forget about me.}
@@ -18,7 +18,7 @@
 #Repeat dialog
 {210}{}{I'm listening.}
 {211}{}{Goodbye.}
-{212}{}{Good heavens, judging by your appearance, you've taken a lot of heat by the ruthless Wasteland. I'm really sorry.}
+{212}{}{Good heavens, judging by your appearance, you've taken a lot of heat from the ruthless Wasteland. I'm sorry.}
 {213}{}{Thank you, General, for your kind words. Most would just send me away.}
 {214}{}{I don't need pity. Look at yourself, old man.}
 {215}{}{Report, Ranger.}
@@ -53,15 +53,15 @@
 
 #Villa Union
 {250}{}{Times are hard in my native village. We need the Rangers' help.}
-{251}{}{Hard times... This can be said about almost any settlement in Arizona and California. But unlike ordinary inhabitants, we really have the opportunity to fight for the rights of people in the wastelands.}
+{251}{}{Hard times... This can be said about almost any settlement in Arizona and California. But unlike ordinary inhabitants, we have the opportunity to fight for the rights of people in the wastelands.}
 {252}{}{[Next]}
-{253}{}{Maintaining order requires serious investments in training rangers, equipping squads and patrols, intelligence and combat operations. Not everyone can invest in such an alliance, but we try to respond to everyone.}
+{253}{}{Maintaining order requires serious investments in training rangers, equipping squads and patrols, intelligence, and combat operations. Not everyone can invest in such an alliance, but we try to respond to everyone.}
 {254}{}{I think it will not be a problem for the Villa to supply you with food and ceramics.}
-{255}{}{You know, we really have nothing to offer. It looks like this union will be short-lived.}
+{255}{}{You know, we have nothing to offer. It looks like this union will be short-lived.}
 {256}{}{So you charge something for your protection?}
 {257}{}{Of course. This is a kind of security tax - a normal practice in the Old World.}
 {258}{}{And if the population has nothing to pay tax with?}
-{259}{}{We are able to benefit from any cooperation. Some can build homes, others can grow crops, and some make good cadets. With the right approach, everyone can become useful to society.}
+{259}{}{We can benefit from any cooperation. Some can build homes, others can grow crops, and some make good cadets. With the right approach, everyone can become useful to society.}
 
 {260}{}{Villa... The Rangers have always respected your independence. But you've always stayed away from the rest of the world. When we needed food in the hungry years, you drove us away. Now you're asking for help. Tell me, who sent you to us?}
 {261}{}{The community council has decided that it is time to conclude an alliance with you.}
@@ -74,7 +74,7 @@
 {272}{}{I don't care about your fighters. I'm only interested in saving the Villa.}
 {273}{}{I'm afraid now is not the best time to do this. There are big problems on the southeastern front, we have thrown all our forces in that direction.}
 {274}{}{Problems are my little hobby, General.}
-{275}{}{Talk to Commander Helford. Perhaps he will allocate people to live in the Villa. And then we will discuss the terms of the union... if your community really wants it.}
+{275}{}{Talk to Commander Helford. Perhaps he will allocate people to live in the Villa. And then we will discuss the terms of the union... if your community wants it.}
 {276}{}{Thank you, General. I'll talk to Helford.}
 {277}{}{Not yet. Keep in mind that you will have to be our right hand in negotiations with the peasants. Your task is to convince them of our friendliness and the need for an alliance.}
 {278}{}{No problems.}
@@ -105,7 +105,7 @@
 {300}{}{Let's talk about Jackals.}
 {301}{}{Jackals are one of the sick calluses on the body of this earth. What exactly did you want to discuss?}
 {302}{}{I know the location of their main base. And I managed to examine it from the inside.}
-{303}{}{A very dubious and at the same time intriguing statement. No one has ever managed to find this place and, moreover, get out of there alive.}
+{303}{}{A very dubious and at the same time intriguing statement. No one has ever managed to find this place and get out of there alive.}
 {304}{}{What about the rescued ranger?}
 {305}{}{So this is your merit? Well, Ranger Jackson was let down by inexperience - on the way back he got lost and wandered through the desert for a long time until he found one of our abandoned outposts. We never found out the exact coordinates, and combing a whole dangerous area in search of burrows was too big a task.}
 {306}{}{It turns out that even a ranger is primarily concerned with survival...}
@@ -138,7 +138,7 @@
 {330}{}{Don't be in such a hurry. Jackals are ready to form an alliance with outsiders if it solves their hunger problem.}
 {331}{}{What nonsense is this? These savages have already drunk so much blood from the Rangers and the surrounding settlements that negotiations are out of the question!}
 {332}{}{I think it's worth trying to negotiate with them. They lead such an aggressive lifestyle only because of widespread hunger.}
-{333}{}{Hmm. Then, if it's not too much trouble for you, explain to me what is the advantage of an alliance with cannibal savages?}
+{333}{}{Hmm. Then, if it's not too much trouble for you, explain to me what is the advantage of an alliance with cannibal savages.}
 {334}{}{They are disorganized and scattered all over the wasteland. By destroying the main base, you will only anger the remaining clans. This feud will last for generations.}
 {335}{}{The thought of a war with savages is not so much frightening as annoying. Well, we'll try diplomacy. Perhaps this approach will unite and calm the Jackal clans. Thanks for the information. You can go now.}
 {336}{}{Glad to try, General. I will return to the Jackals and tell them about the upcoming negotiations.}
@@ -196,14 +196,14 @@
 {386}{}{Oh yes. And the Rangers should treat this "organization" with all respect.}
 {387}{}{As you understand, with such recommendations, I cannot accept you into our ranks. You need to earn more trust.}
 {388}{}{No problem, General, nothing will crush my confidence.}
-{389}{}{Here's another thing, after this I won't even want to come back here.}
+{389}{}{Here's another thing, after this, I won't even want to come back here.}
 {390}{}{Hmm. Such situations are exceptional. Only a few were able to get their badge, bypassing many years of hard training. But I'm glad to dedicate you to the Rangers.}
 {391}{}{So I can get a badge?}
 {392}{}{This is normal for me. I always get my way.}
 {393}{}{Are you ready to accept this burden? Swear that you will carry Law and Order and not tarnish the honor of the Rangers.}
 {1393}{}{Are you ready to accept this burden? Swear that you will carry Law and Order and will not tarnish the honor of the Rangers.}
 {394}{}{I swear!}
-{395}{}{Great. Wear your badge with pride. And talk to the quartermaster, he will give out the primary equipment. In the meantime, I will prepare the papers on your enrollment.}
+{395}{}{Great. Wear your badge with pride. And talk to the quartermaster, he will give out the primary equipment. In the meantime, I will prepare the papers for your enrollment.}
 {396}{}{Thank you, General!}
 
 #Questions
@@ -214,8 +214,8 @@
 
 {410}{}{How did you become a ranger?}
 {411}{}{I passed all the milestones of ranger development and honestly rose to the rank of general.}
-{412}{}{You must have traveled a lot?}
-{413}{}{Oh yes, I've been to different parts of the Southwest, including Los Angeles, Las Vegas and Phoenix. The same problems are everywhere - hunger, devastation and desertification.}
+{412}{}{You must have traveled a lot.}
+{413}{}{Oh yes, I've been to different parts of the Southwest, including Los Angeles, Las Vegas, and Phoenix. The same problems are everywhere - hunger, devastation, and desertification.}
 {420}{}{Can you tell us about this place?}
 {421}{}{This is the main base of the rangers in Arizona. The power plant serves us as a citadel, and the dam as a fortress. Outside, as you already know, there is an information center and a training ground.}
 {422}{}{So there are other bases?}
@@ -223,13 +223,13 @@
 {424}{}{What is the mission of the Rangers?}
 {425}{}{We bring Law and Order to this chaotic world. To begin with, this means protecting settlements and caravan routes from bandits and mutants. But protection is only the first frontier.}
 {426}{}{[Next]}
-{427}{}{The residents who have joined us are obliged to adopt the Law, pay taxes and do useful work. Such as growing crops or hunting game.}
+{427}{}{The residents who have joined us are obliged to adopt the Law, pay taxes, and do useful work. Such as growing crops or hunting game.}
 {428}{}{Why did you dam the waters of Colorado?}
 {429}{}{(sighs mockingly) This dam has been standing here for a long time. It uses water pressure to generate electricity... I hope you know what it is. We have only restored the work of the dam and turned it into a fort for protection from enemies and bad weather.}
 {430}{}{But you have taken the only place to cross the Colorado for miles around.}
-{431}{}{Roadblocks allow you to save the dam and the power plant from stupid commoners. This is a unique equipment, it is critically important for us and for the surrounding lands. And to cross the river there is a ferry downstream with very reasonable prices.}
+{431}{}{Roadblocks allow you to save the dam and the power plant from stupid commoners. This is a unique piece of equipment, it is critically important for us and for the surrounding lands. And to cross the river there is a ferry downstream with very reasonable prices.}
 {432}{}{What Law were you talking about, General?}
-{433}{}{Simple truths for any prosperous society. Don't kill unless absolutely necessary. Don't take someone else's without asking. Act for the good of your community. There is a set of similar rules. But unfortunately, many in the Wastelands do not know how to read, so we have to explain in a simpler and more intelligible language.}
+{433}{}{Simple truths for any prosperous society. Don't kill unless absolutely necessary. Don't take someone else's without asking. Act for the good of your community. There is a set of similar rules. Unfortunately, many in the Wastelands do not know how to read, so we have to explain in a simpler and more intelligible language.}
 {434}{}{Human relations are much more important than any laws.}
 {435}{}{(tired sigh) As they used to say in the Old World, the law is harsh, but it's the law. People couldn't think of anything better for self-organization and discipline. Rejection of the Law leads to chaos. And we have learned this well over the last hundred years.}
 {436}{}{You mentioned the Old World. But it has been in ruins for a long time.}
@@ -240,9 +240,9 @@
 {450}{}{You will surely be interested in this report from the Cathedral.}
 {451}{}{From the Cathedral of the Sacred Fire in Phoenix? Curious. Where did you get this holodisk?}
 {452}{}{I managed to ingratiate myself with the Adviser. He asked me to take this report to the military base in Puerto Penasco.}
-{453}{}{Although this information is a little late, but thank you for your assistance.}
+{453}{}{Although this information is a little late, I thank you for your assistance anyway.}
 {454}{}{You're welcome.}
-{455}{}{Well, well. Very curious. We have been monitoring this database for a long time and we know that the Cathedral is somehow connected with it. This secret report clarifies the situation a little... I don't understand why you're giving it to us?}
+{455}{}{Well, well. Very curious. We have been monitoring this database for a long time and we know that the Cathedral is somehow connected with it. This secret report clarifies the situation a little... I don't understand why you're giving it to us.}
 {456}{}{Let's just say I'm... disappointed in the ideas of the Sacred Fire.}
 {1456}{}{Let's just say I'm... disappointed in the ideas of the Sacred Fire.}
 {457}{}{I have a personal score to settle with this Cathedral. They patronized the slaveholders who captured my relatives.}
@@ -298,7 +298,7 @@
 {501}{}{I'm listening carefully. What news?}
 {502}{}{Unfortunately, everything is still the same.}
 {503}{}{How do I find the rebels in question?}
-{504}{}{As far as I know, they hide in underground communications and conduct an encrypted radio transmission. You can also ask around people, there will certainly be their supporters among the locals. But be careful with the questions.}
+{504}{}{As far as I know, they hide in underground communications and conduct an encrypted radio transmission. You can also ask around people, there will certainly be supporters among the locals. But be careful with the questions.}
 {505}{}{Thank you, it may help.}
 {506}{}{Why is it so important to get rid of Aaron and his church?}
 {507}{}{The cult is just a puppet in the hands of Aaron, the local ruler. He seeks to create an empire, therefore he conducts an aggressive policy and physically exterminates dissent.}
@@ -318,7 +318,7 @@
 {520}{}{[Next]}
 {521}{}{Without its ruler, the city will fall victim to discord. The governors of Aaron will begin to fight among themselves for the throne, the peaceful population will "remember" the old grievances of the church, and the rebels will be able to act more openly and decisively. It will be a difficult period for the city, but I believe it's for the best.}
 {522}{}{[Next]}
-{523}{}{It was with his filing that slavery, harmful pre-war technologies and drugs returned to Arizona. Our world is already too fragile to admit tyrants to it.}
+{523}{}{It was with his filing that slavery, harmful pre-war technologies, and drugs returned to Arizona. Our world is already too fragile to admit tyrants to it.}
 {524}{}{I see.}
 {525}{}{What a coincidence - I'm just from there!}
 {526}{}{The Liberation Party led by Marcos stormed the cathedral. The Phoenix Lord is dead.}
@@ -371,7 +371,7 @@
 {604}{}{[Next]}
 {605}{}{, now you understand that your Villa just got "under fire". If this army continues to enslave Southern Arizona, then Villa, like all other small settlements, will lose its freedom. The best way to avoid this is to ally with the Rangers and present a united front against the invader.}
 {606}{}{What is required of me now?}
-{607}{}{Go to Puerto Penasco and find the weak points of the enemy. Our scouts have not been able to find out any valuable information yet - this military base is too far away and too well organized.}
+{607}{}{Go to Puerto Penasco and find the weak points of the enemy. Our scouts have not been able to find any valuable information yet - this military base is too far away and too well organized.}
 {608}{}{Then how do I do it?}
 {609}{}{You're a peasant. You'll be less suspicious. Besides, you have a good reason - the enslavement of the Villa. Good luck.}
 {1609}{}{You're a peasant. You'll be less suspicious. Besides, you have a good reason - the enslavement of the Villa. Good luck.}
@@ -399,7 +399,7 @@
 {634}{}{Admit defeat because of one message? It's a pity that everything turned out this way. Now I can't let you go until we get all the answers. It was not worth going against the Rangers.}
 {635}{}{No, General. I'll get out of here. And no one will touch me.}
 {636}{}{We are no longer allies. So fuck off, old man. You can't intimidate me.}
-{637}{}{I managed to infiltrate the Brotherhood ship and detonate the torpedoes. The base is completely destroyed.}
+{637}{}{I managed to infiltrate the Brotherhood ship and detonate the torpedoes. The base is destroyed.}
 {638}{}{There has never been such good news in many years! Having driven out the Brotherhood, we have preserved our native lands for ourselves and our descendants. What could be better?}
 {639}{}{Of course.}
 {640}{}{We still have a lot to do to eradicate the remnants of the evil sown by the Brotherhood. Your mission is over. I suggest you become a ranger and serve in your native Villa.}
@@ -419,8 +419,8 @@
 {651}{}{Sure. Did you find out anything?}
 {652}{}{Absolutely not.}
 {653}{}{What do you know about the base in Puerto?}
-{654}{}{Not much. The old ship appeared in the port a few years ago. They are not allowed inside, the perimeter is well guarded. It is difficult for scouts to get there through the desert, besides, we have directed all our forces in another direction. You'll have to find out the details yourself.}
-{655}{}{I don't understand how such a closed organization was able to subdue so many settlements?}
+{654}{}{Not much. The old ship appeared in the port a few years ago. They are not allowed inside, the perimeter is well-guarded. It is difficult for scouts to get there through the desert, besides, we have directed all our forces in another direction. You'll have to find out the details yourself.}
+{655}{}{I don't understand how such a closed organization was able to subdue so many settlements.}
 {656}{}{Competent policy and good technical equipment. The Puerto military itself does not get involved in the internecine wars of Arizona. But they successfully provoke them. And when the shooting subsides, the settlements are headed by the people they need - puppets like Aaron.}
 {657}{}{Why is this bad for Arizona?}
 {658}{}{They carry their worldview by means of force, and this is unacceptable. Because of their policy, the settlements lose their sovereignty and find themselves in a servile position. After all, society is not ready for their progressive ideas.}

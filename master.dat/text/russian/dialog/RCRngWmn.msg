@@ -1,4 +1,4 @@
-{100}{}{Here is Ranger Agatha.}
+{100}{}{You see Ranger Agatha.}
 {101}{}{You see a veteran ranger in combat armor.}
 {102}{}{The Ranger is not paying attention to you. It's better to wait a bit.}
 {103}{}{I don't want to see you.}
@@ -9,7 +9,7 @@
 {111}{}{Do you know how many of our fighters have fallen from the claws of Jackals?!}
 {112}{}{These scum must be destroyed!}
 {113}{}{All to the very last puppy!}
-{114}{}{And you... you make an alliance with them!}
+{114}{}{And you... you ally with them!}
 {115}{}{It's disgusting!}
 {116}{}{You can reprimand me as much as you like for insubordination...}
 {117}{}{But other rangers agree with me - it's wrong!}

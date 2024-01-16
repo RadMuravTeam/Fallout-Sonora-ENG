@@ -1,9 +1,9 @@
-{100}{}{Here is a merchant.}
+{100}{}{You see a merchant.}
 {101}{}{You see the head of the caravan.}
-{102}{}{Put away your weapon if you really have peaceful intentions.}
+{102}{}{Put away your weapon if you have peaceful intentions.}
 
-{200}{}{Hello, traveler. Lately it has become increasingly difficult to get from one place to another and not be ambushed at the same time.}
-{1200}{}{Hello, traveler. Lately it has become increasingly difficult to get from one place to another and not be ambushed at the same time.}
+{200}{}{Hello, traveler. Lately, it has become increasingly difficult to get from one place to another and not be ambushed at the same time.}
+{1200}{}{Hello, traveler. Lately, it has become increasingly difficult to get from one place to another and not be ambushed at the same time.}
 {201}{}{Hmm. There are rumors about a man of your appearance. Unkind rumors.}
 {202}{}{Thank God you're with us! I'm glad our paths crossed. What can I do for such a respected person?}
 {203}{}{I'm just passing by.}

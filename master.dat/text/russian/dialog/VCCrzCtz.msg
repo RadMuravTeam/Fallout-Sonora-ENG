@@ -1,4 +1,4 @@
-{100}{}{Here is a peasant.}
+{100}{}{You see a peasant.}
 {101}{}{You see one of the residents of the Villa. He carefully inspects the settlement.}
 
 {110}{}{Hey, has anyone seen Chris?}
@@ -22,7 +22,7 @@
 {210}{}{Have you seen Chris? It would be better for him to come back and answer to the Council.}
 {211}{}{Haven't met yet.}
 {212}{}{Where do you think he might be hiding?}
-{213}{}{He hardly escaped into the wasteland - there is not enough spirit, and there is nowhere to run. We examined the cellars, but we didn't find him there. It remains to think that someone is hiding it, but who is it? Friends, neighbors and his little brother won't confess.}
+{213}{}{He hardly escaped into the wasteland - there is not enough spirit, and there is nowhere to run. We examined the cellars, but we didn't find him there. It remains to think that someone is hiding it, but who is it? Friends, neighbors, and his little brother won't confess.}
 {214}{}{See you later.}
 
 {220}{}{Chris is dead. His body lies in the Ruins where he was hiding.}

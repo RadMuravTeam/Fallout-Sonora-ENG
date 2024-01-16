@@ -1,5 +1,5 @@
 {100}{}{You see Carlos.}
-{101}{}{Here is one of the peasants of the Villa. However, he became somehow... other.}
+{101}{}{You see one of the peasants of the Villa. However, he became somehow... other.}
 {102}{}{They say real science is coming back to Casa Nueva. Like before the Great War. I have to be there.}
 {103}{}{I'll be back home... to make it more civilized.}
 {104}{}{I have no choice but to go on a journey. I hope to see a lot of new things.}
@@ -11,7 +11,7 @@
 {201}{}{Obviously to save your ass, Carlos. Let's get out of here...}
 {202}{}{Salvation... Salvation from what? From the mouse fuss in the beds with dying crops? From diseases for which the peasants will never find a cure? From enemies against whom we didn't even have primitive rifles? I don't see salvation. I see only the narrow and limited horizons of a handful of diggers.}
 {203}{}{Who are you talking about?}
-{204}{}{We are savages, amigo, understand this. Savages who saw electric light for the first time only after being in slavery. It was like living in a tin can until someone opened it and showed us the vast world around. And the Villa turned out to be only a small part of it, and not the center, as previously thought.}
+{204}{}{We are savages, amigo, understand this. Savages who saw electric light for the first time only after being in slavery. It was like living in a tin can until someone opened it and showed us the vast world around us. And the Villa turned out to be only a small part of it, and not the center, as previously thought.}
 {205}{}{Wait a minute...}
 {206}{}{Only here I was able to realize myself and my talents. Because my passion for technology was banned in my homeland. I hid it so as not to cause problems for myself and others. Now I am free to follow the call of my mind, and not drag myself after the pack. Go away, amigo. Leave me here.}
 {207}{}{I'll leave you for now. But don't think you'll get rid of me so easily.}
@@ -21,14 +21,14 @@
 {211}{}{Okay, okay, finish it already.}
 
 {230}{}{Can you explain what's going on here?}
-{231}{}{Tinsmiths are trying to open the burial of ancient equipment in the Forbidden Zone. They need local technologies and resources to expand and promote the idea of Progress. But the territory is well protected. Periodically, detachments of slaves and mercenaries are sent there, usually none of them returns.}
+{231}{}{Tinsmiths are trying to open the burial of ancient equipment in the Forbidden Zone. They need local technologies and resources to expand and promote the idea of Progress. But the territory is well protected. Periodically, detachments of slaves and mercenaries are sent there, but usually, none of them returns.}
 {232}{}{Tell me about the tinsmiths.}
-{233}{}{This is a semi-religious clan with an old history. They want to revive the ancient technologies they worship in order to put them in the service of people.}
+{233}{}{This is a semi-religious clan with an old history. They want to revive the ancient technologies they worship to put them in the service of people.}
 {234}{}{Tell me about the Restricted Area.}
 {235}{}{This is a burial ground - the burial of ancient equipment, mainly for military purposes. Therefore, the territory is well fortified and guarded by robots. The tinkerers have found a way to disable the power barrier at the main gate for a short time, but this is not enough. If you're going to go inside, you'll need a special weapon against robots and a package of anti-radiation drugs.}
-{236}{}{Who else was here from the Villa besides you?}
+{236}{}{Who else was here from the Villa beside you?}
 {237}{}{Your padre and Gerardo. They have already been sent to the Restricted Area. If you want to save them, you'll have to go after them.}
-{238}{}{I'm going to go to the Restricted Area. Carlos, I really need help.}
+{238}{}{I'm going to go to the Restricted Area. Carlos, I need help.}
 {239}{}{I... can't help you... The tinsmiths keep a close eye on me and keep a clear record of their warehouses.}
 {240}{}{Thanks for the answers. Now it's time for me to get busy.}
 {241}{}{Come on, the tinkerers should be interested in my success!}

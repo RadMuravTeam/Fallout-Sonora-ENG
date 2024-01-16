@@ -1,4 +1,4 @@
-{100}{}{Here is a woman.}
+{100}{}{You see a woman.}
 {101}{}{You see a middle-aged woman. She is exhausted from a long journey.}
 {102}{}{May luck accompany you.}
 {103}{}{Bastards!!! What would you all die!}
@@ -36,7 +36,7 @@
 {226}{}{The guards are dead.}
 {227}{}{I see, but it doesn't change anything. We can't get to the General anyway. There are also a lot of rangers inside the dam. We won't even be able to approach the citadel on the other side of the dam. We will either be shot by snipers or caught by patrolmen.}
 {228}{}{The General is dead.}
-{229}{}{Are you sure you know that? Is this not a trick? However, I have already heard this news. It looks like he really gave up the ghost. Great. I feel better. But I don't understand what to do now.}
+{229}{}{Are you sure you know that? Is this not a trick? However, I have already heard this news. It looks like he gave up the ghost. Great. I feel better. But I don't understand what to do now.}
 
 {230}{}{Hey, traveler. You're trying to escape from this hell too, right?}
 {1230}{}{Hey, wayfarer. You're trying to escape from this hell too, right?}
@@ -66,10 +66,10 @@
 {311}{}{My name is Cecilia, and this is my son.}
 {312}{}{Your son has different facial features.}
 {313}{}{Because he's adopted. I found it in the ruins and couldn't get past it.}
-{314}{}{Was your husband really a criminal?}
+{314}{}{Was your husband a criminal?}
 {315}{}{I didn't ask where he gets his food and things from. But it was obvious that he was robbing travelers and farmers. So he protected the family. We had to survive somehow. It was worse in Phoenix, he was forced to do much dirtier work.}
 {316}{}{Have you escaped from Phoenix?}
-{317}{}{Yes... A big city. A lot of people, few resources. On the wastelands you are honest with fate, but in the city you always have to be on someone's side and fulfill someone's whims.}
+{317}{}{Yes... A big city. A lot of people, few resources. On the wastelands, you are honest with fate, but in the city, you always have to be on someone's side and fulfill someone's whims.}
 {318}{}{Do you hate Rangers now?}
 {319}{}{Of course.}
 {320}{}{They try to make sure that there are no stories like yours.}

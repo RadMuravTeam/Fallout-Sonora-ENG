@@ -1,5 +1,5 @@
 {100}{}{You see the tinker.}
-{101}{}{Here is a resident of Two-Sun. She looks more civilized than other residents.}
+{101}{}{You see a resident of Two-Sun. She looks more civilized than other residents.}
 {102}{}{You have won the favor of the local population.}
 
 #The first dialog
@@ -21,7 +21,7 @@
 {212}{}{Let me ask you another question.}
 
 {213}{}{Why don't you want to talk to me?}
-{214}{}{Outsiders with a low coefficient of development do not deserve our trust. An exception may be trade benefits, especially in relation to food. Do you have any nutrients?}
+{214}{}{Outsiders with a low coefficient of development do not deserve our trust. An exception may be trade benefits, especially concerning food. Do you have any nutrients?}
 {215}{}{I'm rummaging through my bag for something to eat.}
 {216}{}{You won't get anything from me.}
 {217}{}{My food gift deserves a couple of answers.}
@@ -48,9 +48,9 @@
 {237}{}{Our society is divided into levels. Each level has its own set of knowledge and technologies. For example, only the highest members of the team can perform complex and expensive implant operations.}
 
 {240}{}{Why are you so distrustful of outsiders?}
-{241}{}{Trust is immaterial. We outperform almost all the inhabitants of the Wasteland in terms of development coefficient. In such a situation, outsiders can be useful mainly as slaves, in some cases as trading partners.}
+{241}{}{Trust is immaterial. We outperform almost all the inhabitants of the Wasteland in terms of development coefficient. In such a situation, outsiders can be useful mainly as slaves and, in some cases as trading partners.}
 {242}{}{But still you have external connections.}
 {243}{}{Right... Until recently, we were a closed community and did not let anyone in from outside.}
 {244}{}{What has changed?}
-{245}{}{Food shortages, mathematical calculations of prospects and contact with one highly developed community. But I can't discuss this with outsiders.}
+{245}{}{Food shortages, mathematical calculations of prospects, and contact with one highly developed community. But I can't discuss this with outsiders.}
 {246}{}{A curious position.}

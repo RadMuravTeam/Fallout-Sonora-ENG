@@ -1,4 +1,4 @@
-{100}{}{Here is the administrator.}
+{100}{}{You see the administrator.}
 {101}{}{You see a middle-aged man. Judging by the way he speaks and moves, he is obsessed with order and neatness.}
 
 #Dialog
@@ -30,7 +30,7 @@
 
 #The first dialog
 {230}{}{What can I do for you?}
-{231}{}{Explain what this place is?}
+{231}{}{Explain what this place is.}
 {232}{}{The regional office of the courier company "Sonora Express". We are engaged in various types of delivery.}
 {233}{}{And how big is your caravan network?}
 {234}{}{It all depends on the specific order. Our central office is located in Phoenix. Paths diverge from it to the nearest settlements.}

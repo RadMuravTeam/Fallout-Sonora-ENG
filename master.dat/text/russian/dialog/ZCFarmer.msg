@@ -1,4 +1,4 @@
-{100}{}{Here is a farmer.}
+{100}{}{You see a farmer.}
 {101}{}{You see a man with overworked hands. He is carrying a bag of things.}
 {102}{}{First, let's put away the weapons. OK?}
 

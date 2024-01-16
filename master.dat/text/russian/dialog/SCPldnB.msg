@@ -1,5 +1,5 @@
 {100}{}{You see Christopher.}
-{101}{}{Here is a young military man with a very sad and thoughtful look.}
+{101}{}{You see a young military man with a very sad and thoughtful look.}
 {102}{}{Watch out for super mutants, buddy.}
 
 {200}{}{Hello... E... I didn't know there were civilians on board... e... Welcome aboard.}
@@ -13,7 +13,7 @@
 {220}{}{You were talking about home. Is it far from here?}
 {221}{}{Lost Hills Bunker. I was born and raised there. It's in California, far northwest of here. Convoys need at best a month to cover this distance. But usually much more.}
 {222}{}{Tell me about life in the bunker.}
-{223}{}{Bunker, you say? Man was born to live under the sun, not in dark basements.}
+{223}{}{Bunker, you say? The man was born to live under the sun, not in dark basements.}
 {224}{}{I miss the cute dark corridors and dangling wires. There, in the bunker, we had everything we needed - food, energy, even entertainment. And here we are free, but we live in terrible conditions.}
 {225}{}{Don't you like Arizona?}
 {226}{}{It is not proper for a soldier to whine about a change of location.}

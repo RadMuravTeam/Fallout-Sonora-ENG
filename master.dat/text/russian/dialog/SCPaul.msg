@@ -1,5 +1,5 @@
 {100}{}{You see Paul.}
-{101}{}{Here is a very emaciated man.}
+{101}{}{You see a very emaciated man.}
 
 {200}{}{Glad to see you again, friend. Do you remember how you and I ran away from super mutants? It was great.}
 {1201}{}{It's good to see you again, Sister. Do you remember how you and I ran away from super mutants? It was great.}
@@ -11,7 +11,7 @@
 {211}{}{Nothing, thank you.}
 
 {220}{}{Remind me, what rank are you in?}
-{221}{}{I am the knight Paul. He used to be the head of the Energy Weapons Research Department. Then I was sent to field work to help the paladins. And then I was captured by super mutants.}
+{221}{}{I am the knight Paul. He used to be the head of the Energy Weapons Research Department. Then I was sent to fieldwork to help the paladins. And then I was captured by super mutants.}
 {222}{}{Can I get a weapon here?}
 {223}{}{Contact the quartermaster. I don't have a free weapon. But I can upgrade something.}
 {224}{}{Work days for you. Be.}

@@ -1,5 +1,5 @@
 {100}{}{This is the owner of the hotel.}
-{101}{}{Here is the owner of the hotel. He lazily scratches his belly, sitting heavily in the old pilot's seat.}
+{101}{}{You see the owner of the hotel. He lazily scratches his belly, sitting heavily in the old pilot's seat.}
 {102}{}{Close the door quickly! These robots are everywhere!}
 
 #The first dialog

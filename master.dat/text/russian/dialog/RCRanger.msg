@@ -1,4 +1,4 @@
-{100}{}{Here is a ranger.}
+{100}{}{You see a ranger.}
 {101}{}{You see a private ranger.}
 {102}{}{This is a temporary isolation ward, there is no place for outsiders here.}
 
@@ -20,7 +20,7 @@
 {121}{}{Flagstaff is expanding. This is not good.}
 
 {122}{}{The fire worshippers must be stopped before they finally burn out these lands.}
-{123}{}{The Cult of fire is defeated by its own weapon}
+{123}{}{The Cult of Fire is defeated by its weapon}
 {124}{}{The damned sectarians are seizing more and more land.}
 
 {125}{}{What is this mysterious "threat from the south"?}

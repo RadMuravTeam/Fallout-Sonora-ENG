@@ -1,5 +1,5 @@
 {100}{}{You see the gatekeeper.}
-{101}{}{Here is a tinsmith guarding the entrance to the settlement.}
+{101}{}{You see a tinsmith guarding the entrance to the settlement.}
 {102}{}{You can pass. But we'll be watching you.}
 {103}{}{No entry without permission!}
 {104}{}{(hides food and looks around) You can pass, but don't do anything stupid.}
@@ -32,7 +32,7 @@
 {218}{}{My bike needs maintenance.}
 
 {220}{}{I'm looking for my relatives.}
-{221}{}{Maybe they're here. Or maybe not. We are gathering people to work from all over the wasteland, we really need workers. If you want to find relatives, you need to go to the workshop.}
+{221}{}{Maybe they're here. Or maybe not. We are gathering people to work from all over the wasteland, we need workers. If you want to find relatives, you need to go to the workshop.}
 {222}{}{I see.}
 
 {223}{}{I'm here to trade.}
@@ -44,7 +44,7 @@
 {228}{}{This is encouraging.}
 
 {229}{}{I need maintenance. Here are two hundred caps to start with.}
-{230}{}{We love work. And we love technology. Your problem will become our problem if you are able to pay.}
+{230}{}{We love work. And we love technology. Your problem will become our problem if you can pay.}
 {231}{}{I think I will find the right amount of caps.}
 
 {232}{}{I am only a peaceful preacher of the Sacred Fire. Let me in for the night, generous tinker!}
@@ -75,7 +75,7 @@
 {255}{}{Who do you think would attack the caravan?}
 {256}{}{Previously, no one dared to meddle in our lands, except for highway workers and rare robbers from the north. When Two-Sun opened up to the world, we had a lot of external connections, it could attract even more bandits. Consider it the costs of Progress.}
 {257}{}{What do the caravaneers themselves say?}
-{258}{}{The attack was sudden - the bandits were waiting for the caravan for several days, hiding in an old building near the highway. They were only interested in the cargo, they allowed the caravaneers to leave.}
+{258}{}{The attack was sudden - the bandits had been waiting for the caravan for several days, hiding in an old building near the highway. They were only interested in the cargo, they allowed the caravaneers to leave.}
 {259}{}{Is there something unusual about this?}
 {260}{}{Some of the bandits used energy weapons. We believe it was mined in a Restricted Area.}
 {261}{}{Show me the place of the attack.}

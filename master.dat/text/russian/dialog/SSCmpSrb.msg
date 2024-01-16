@@ -1,17 +1,17 @@
-{100}{}{This is the scribes' computer.}
-{101}{}{Here is a computer with access to a shared network.}
+{100}{}{You see a scribe's computer.}
+{101}{}{You see a computer with access to a shared network.}
 {102}{}{You have successfully copied the scribes library.}
 {103}{}{You have already copied the library to the holodisk.}
 
 #Dialog
-{200}{}{Enter the command.}
+{200}{}{Enter command.}
 {201}{}{End session.}
 {202}{}{Back.}
 {203}{}{Next.}
 {204}{}{Go back to the main menu.}
 
 {210}{}{Vault-Tec Vault Search.}
-{211}{}{According to the latest data, Vault-Tec Vaults with numbers 25-28 may be located in the vicinity of Phoenix. The General Staff of the Brotherhood of Steel ordered to find all these Vaults, study the situation and use the resources and equipment available there for self-sufficiency or export to the General Staff.}
+{211}{}{According to the latest data, Vault-Tec Vaults with numbers 25-28 may be located in the vicinity of Phoenix. The General Staff of the Brotherhood of Steel ordered to find all these Vaults, study the situation, and use the resources and equipment available there for self-sufficiency or export to the General Staff.}
 {212}{}{}
 {213}{}{}
 {214}{}{Vault 24.}
@@ -33,4 +33,4 @@
 {235}{}{We managed to fully cover our food requests thanks to the Casa Nueva plantations. At the moment, the harvest is also being exported.}
 {236}{}{Development of nuclear weapons.}
 {237}{}{In accordance with the request of the General Staff, we are moving to the production of nuclear weapons. At the moment, the project documentation has been completed and the necessary amount of nuclear material is being extracted.}
-{238}{}{For reasons of security, logistics and time savings, the assembly of the final weapon is carried out by representatives of the Phoenix Cathedral of Fire under the strict control of the Brotherhood of Steel.}
+{238}{}{For reasons of security, logistics, and time savings, the assembly of the final weapon is carried out by representatives of the Phoenix Cathedral of Fire under the strict control of the Brotherhood of Steel.}

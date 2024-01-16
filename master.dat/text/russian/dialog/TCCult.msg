@@ -1,15 +1,15 @@
 {100}{}{You see Abel.}
-{101}{}{Here is a representative of the Church of the Sacred Fire.}
+{101}{}{You see a representative of the Church of the Sacred Fire.}
 
 #The first dialog
 {200}{}{Are you here on business? Then you need to see Master Hard. It can be found in the workshop.}
 {201}{}{Thank you.}
 {202}{}{I would like to meet you specifically.}
-{203}{}{Too kind to be true. My name is Abel, I am one of the Followers of Fire, if that means anything to you. Now stop wasting my time.}
+{203}{}{Too kind to be true. My name is Abel, I am one of the Followers of Fire if that means anything to you. Now stop wasting my time.}
 {204}{}{What are you doing?}
 {205}{}{I see you're not going to get rid of that easily. The church needs the services of tinsmiths, just like any modern community. I am assigned to monitor the fulfillment of orders.}
 {206}{}{Are the tinkers that good?}
-{207}{}{They are the best in their field. You may have already come across their inventions. Pneumatic weapons, computing devices, even prosthetics and simple implants. Fortunately, tinkerers aren't stupid enough to deal with the first person they meet. They are reluctant to share knowledge and technology. Our church had the honor to find a common language with them.}
+{207}{}{They are the best in their field. You may have already come across their inventions. Pneumatic weapons, computing devices, even prosthetics, and simple implants. Fortunately, tinkerers aren't stupid enough to deal with the first person they meet. They are reluctant to share knowledge and technology. Our church had the honor to find a common language with them.}
 {208}{}{It shows. Well, I'll look at it all in action. Goodbye.}
 {209}{}{Simply put, someone coveted power in this region. Have a nice day.}
 
@@ -34,8 +34,8 @@
 {233}{}{I see.}
 {234}{}{Thank you for the answer. Now it's time for me to get busy.}
 
-{240}{}{What does the church in Two-Sun actually do?}
-{241}{}{As I have already said, the church needs technology and knowledge. This is one of our main postulates - the Sacred Fire incinerated the old civilization in order to build a new one in its place. The tinkerers are the builders of this new civilization. Their production skills and technologies are necessary for survival and development. Unfortunately, many in the wastelands do not understand the idea of Progress, they are afraid to change their ossified way of life.}
+{240}{}{What does the church in Two-Sun do?}
+{241}{}{As I have already said, the church needs technology and knowledge. This is one of our main postulates - the Sacred Fire incinerated the old civilization to build a new one in its place. The tinkerers are the builders of this new civilization. Their production skills and technologies are necessary for survival and development. Unfortunately, many in the wastelands do not understand the idea of Progress, they are afraid to change their ossified way of life.}
 {242}{}{What orders are being carried out by tinsmiths now?}
 {243}{}{The most important order is energy batteries. Without them, any serious equipment is no more valuable than a pile of garbage. They also make weapons and repair old electronics.}
 {244}{}{Where did the tinkerers learn about these technologies?}

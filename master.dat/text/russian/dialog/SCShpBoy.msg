@@ -1,11 +1,11 @@
-{100}{}{Here is the Cabin Boy.}
+{100}{}{You see the Cabin Boy.}
 {101}{}{You see a boy about five years old.}
 {102}{}{When I grow up, I will also wear such armor.}
 {103}{}{Stay away! I will defend myself!}
 
 {200}{}{Hello, I haven't seen you before.}
 {201}{}{And you won't see it again. So far.}
-{202}{}{Well, of course I haven't, silly. I'm straight from the desert.}
+{202}{}{Well, of course, I haven't, silly. I'm straight from the desert.}
 {203}{}{What, do you live in the desert? How strange. I wouldn't live there. And what is your name?}
 {204}{}{First name yourself, ignoramus.}
 {205}{}{My name is }
@@ -44,7 +44,7 @@
 {265}{}{I see.}
 {266}{}{What are you doing now?}
 {267}{}{I'm looking for my beast. I don't know where he's gone. A small one, with four paws. If you find it, give it back to me, okay?}
-{268}{}{Sorry, I'm definitely not up to games right now.}
+{268}{}{Sorry, I'm not up to games right now.}
 {269}{}{I can search for you. Where do you think he might be?}
 {270}{}{Well, I've been running all over the ship. I don't know.}
 {271}{}{Yeah. This clarifies a little.}
