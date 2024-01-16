@@ -680,8 +680,8 @@
 {34001}{}{You have been admiring these stones for a long time. Finally it seemed to you that they moved, but they didn't.}
 {34100}{}{Stones}
 {34101}{}{These stones are hardly worth looking at so closely.}
-{34200}{}{The well}
-{34201}{}{An ordinary well. Built a long time ago, but still in working condition.}
+{34200}{}{Well}
+{34201}{}{An ordinary well, constructed a while back, but still in operational condition.}
 {34300}{}{Toilet}
 {34301}{}{Rough, but doing its job toilet. A few leaves were thrown into the hole to make it stink less.}
 {34400}{}{*The invisible blocker}

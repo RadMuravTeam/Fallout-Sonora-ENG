@@ -140,7 +140,7 @@
 # 22: Villa2, VLPlaza.MAP
 #----------------------------------------
 {266}{}{Plaza de la Sombra}
-{267}{}{The bottom of the well}
+{267}{}{Bottom of the well}
 {268}{}{Upper floor of the Town Hall}
 #----------------------------------------
 # 23: Villa3, VLCave.MAP
