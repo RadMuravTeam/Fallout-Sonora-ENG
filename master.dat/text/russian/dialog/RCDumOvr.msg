@@ -1,108 +1,108 @@
-{100}{}{You see Old Rufus.}
-{101}{}{You see the damkeeper, an unshaven, wiry old man in overalls.}
+{100}{}{You see Old Man Rufus.}
+{101}{}{You see the overseer of the dam, an unshaven, wiry old man in overalls.}
 
-#The first dialog
-{200}{}{(you see a gray-haired, unshaven man of about fifty; dirty work clothes on him betray his occupation) What? I'm sorry, I've become a little deaf. Work for so many years among these noisy machines and you will also go deaf.}
-{201}{}{I will keep in mind.}
-{202}{}{And who are you? I don't remember you, but I know everyone here. Recruits are usually not allowed to the station, and the quartermaster does business with the caravans. So...}
-{203}{}{I'm here on business.}
-{204}{}{Yeah. On business. Let it be so. The main thing is not to interfere with other things to do.}
-{205}{}{What are you doing, old man?}
-{206}{}{Then I won't interfere.}
+#Первый диалог
+{200}{}{(you see a bald, unshaven man around 50 years old; the dirty overalls he wears reveals the kind of job he has) Eh? Sorry, my hearing's not that good nowadays. Work as many years as I did around these loud machines and you'll get deafness too.}
+{201}{}{Will keep that in mind.}
+{202}{}{And who are you? I don't remember you, and I know everyone around 'ere. Rookies aren't usually allowed at the plant, and the quartermaster deals with the caravans. Meaning...}
+{203}{}{I'm here for business.}
+{204}{}{Uh-uh. For business. So be it. Just don't interfere with others' business.}
+{205}{}{So, what are you doing here, old man?}
+{206}{}{Then I won't disturb you any longer.}
 
-#Repeat dialog
-{210}{}{Speak up, what are you mumbling about?}
-{211}{}{I say goodbye.}
-{212}{}{I need to ask something else.}
+#Повторный диалог
+{210}{}{Speak louder, why are you mumbling?}
+{211}{}{I said "goodbye".}
+{212}{}{I need to ask about another thing.}
 {213}{}{Another question.}
 
-#Questions
-{220}{}{And who are you, exactly?}
-{221}{}{My name is Rufus. I'm the damkeeper. I make sure that nothing falls apart here.}
-{222}{}{What is your rank, Rufus?}
-{223}{}{I don't have any rank. I'm doing business here, not currying favor.}
-{224}{}{How long have you been in office?}
-{225}{}{Let me think, it's been thirty years, probably. No one here counts the year.}
-{226}{}{Why did the Rangers settle on this dam?}
-{227}{}{There are many reasons for this: it is an impregnable fortress for enemies, protection from dust storms, an abundant source of water, and endless energy. We can say that it happened historically.}
-{228}{}{I'm the dam keeper. I make sure that nothing falls apart here.}
-{229}{}{So what are you doing, Rufus?}
+#Расспросы
+{220}{}{And who are you?}
+{221}{}{I'm called Rufus. I'm the dam's overseer. I make sure nothing breaks down here.}
+{222}{}{What's your rank, Rufus?}
+{223}{}{I don't have a rank. I'm working here, not serving.}
+{224}{}{How long have you been in this position?}
+{225}{}{Let me think, 30 years, probably. Nobody here counts years.}
+{226}{}{Why have the Rangers chosen this dam as their headquarters?}
+{227}{}{Oh, many reasons: it's an impregnable fortress for enemies, it defends against dust storms, it's an abundant source of water and endless energy. You can say it happened historically.}
+{228}{}{I'm the dam's overseer. I make sure nothing breaks down here.}
+{229}{}{So what is it exactly you do here, Rufus?}
 
-{230}{}{Is the aqueduct also part of the power plant?}
-{232}{}{No, no, the station works without an aqueduct. But the aqueduct would not be able to perform its functions without our dam. However, it still doesn't work anymore.}
-{231}{}{What's wrong with him?}
-{233}{}{Time takes its toll. The pumps have been out of order for a long time and it is impossible to repair them. In addition, the flow of water in the river has decreased. But even if the aqueduct was working, it would be idling. After all, there are no more plantations and settlements on his path that would benefit from this water.}
-{234}{}{An amazing structure. Who built all this?}
-{235}{}{The people of the past were smart. No one living today is capable of such a thing.}
-{236}{}{Have you forgotten that they destroyed themselves with their own mind?}
-{237}{}{Yes... But this does not negate the fact that they created an aqueduct to irrigate desert lands.}
+{230}{}{The aqueduct is part of the power plant too?}
+{232}{}{No, no, the plant works without the aqueduct. The aqueduct would not be able to perform it's functions without our power plant. In any case, it stopped working a long time ago.}
+{231}{}{What's wrong with it?}
+{233}{}{Time takes it's toll. The pumps went offline a long time ago and are impossible to repair. Besides, the amount of water in the river is much lower. But even if the aqueduct did work, it would be useless. Since there are no more plantations and settlements along the way that would have a use for that water.}
+{234}{}{An amazing structure. Who built it?}
+{235}{}{The people of the past were smart. Nobody alive today can create such a thing.}
+{236}{}{You forgot they also destroyed themselves with that exact intellect?}
+{237}{}{Yes... But that doesn't change the fact that they created an aqueduct to irrigate the desert.}
 
-#The first quest
-{250}{}{Is there such a risk?}
-{251}{}{Oh, this old lady has seen the sights! This controller, for example, does not want to work in any way. And there is nowhere to find a replacement - all the equipment here is unique.}
-{252}{}{So this thing doesn't work? Maybe I can fix it?}
-{253}{}{Where are you going! Here you can hardly do with skills alone. However, you travel a lot, right? If you find parts from electronic equipment, then bring them here, maybe they can be restored with their help.}
+#Первый квест
+{250}{}{There's such a risk?}
+{251}{}{Oh, that old lady has seen much! That controller, for example, just doesn't want to work. And we can't find a replacement - all the equipment here is unique.}
+{252}{}{So that thing doesn't work? Perhaps I could fix it?}
+{253}{}{Heck no! You can't do this with just skill. Though you do travel a lot, right? If you find components of electronic equipment, then bring em' here, maybe we could restore it using them.}
 {254}{}{I'll see what I can do.}
-{255}{}{I'm afraid that's not my profile. But I can find the details.}
-{256}{}{That's good. And while you're making a hero out of yourself, I think I'll get busy. No offense.}
-{257}{}{Uh, no, I need to know more.}
+{255}{}{I'm afraid repair's really not my thing. But I could find the details.}
+{256}{}{Great. While you here pretend to be a hero, I'll maybe go do something. No offense.}
+{257}{}{Uhh, no, I need to know more.}
 {258}{}{Then we'll talk later.}
 
-{260}{}{Let's talk about that broken controller.}
-{261}{}{Eh? What are you up to?}
-{1261}{}{Eh? What are you up to?}
-{262}{}{Yes, the question is about nothing.}
+{260}{}{Can we talk about that idle controller?}
+{261}{}{Eh? What were you thinking of?}
+{1261}{}{Eh? What were you thinking of?}
+{262}{}{Nothing, just a pointless question.}
 
-{263}{}{What's the problem with getting parts from electronics?}
-{264}{}{Do you think we haven't been looking? All patrols and traders are aware. But there is a rural area in the district, where can electronics come from here? And it's far and expensive to drive from big cities. There are plenty of their customers there.}
-{265}{}{Why do we need this controller?}
-{266}{}{Look at that big thing in the middle of the hall. Inside she has a screw submerged in the water of the Colorado River. It turns and generates electricity... You know what "electricity" is, right?}
-{267}{}{I think I can guess...}
-{268}{}{Through the controller, the current is directed to the power transformers outside, and then to the power lines. But now nothing works there - just bare and useless wires.}
+{263}{}{What's the problem with getting electronic components?}
+{264}{}{You think we haven't searched for 'em? All patrols and traders are aware. But everywhere 'round here is just a big rural area, where do you get electronics from in places like this? Transporting them from big cities is costly and long. They have enough of their own customers.}
+{265}{}{Why is that controller needed?}
+{266}{}{Look at that big thing in the center of the hall. There's a screw inside it, submerged into the Colorado river's water. It spins and generates electricity... You do know what "electricity" means, right?}
+{267}{}{I guess I do...}
+{268}{}{The electic current heads through the controller to the power transformers outside, and then to the power lines. But now nothing works there - only bare and useless wires.}
 {269}{}{I need to know more.}
 
-{270}{}{I managed to fix the equipment.}
-{271}{}{Keep in mind that Rangers sometimes have problems with humor. Especially on the topic of this dam.}
-{272}{}{But it works. Take a look.}
+{270}{}{I managed to repair the equipment.}
+{271}{}{You should keep in mind that Rangers sometimes have problems understanding humour. Especially regarding this dam.}
+{272}{}{But it does work. Take a look.}
 
-{273}{}{Well, let's see... Holy heavens, it worked!}
-{274}{}{This job is not for nothing, you know.}
-{275}{}{Yes... of course. Here's a pack of nuclear batteries for your trouble. If you don't need them, exchange them in the nearest city for something useful.}
+{273}{}{Welp, let's have a look... Good heavens, it really is working!}
+{274}{}{This isn't volunteer work I'm doing here, as you understand.}
+{275}{}{Yes... of course. Here, take a bunch of nuclear batteries for your trouble. If you don't need 'em, exchange them in some neighboring town for something useful.}
 {276}{}{You're welcome.}
-{277}{}{Rangers don't forget their friends. Here's a pack of nuclear batteries for your trouble. If you don't need them, exchange them in the nearest city for something useful.}
-{278}{}{[Next]}
-{279}{}{Thank you. It's a pity that you won't be able to replace me in this post when I retire. Now leave me with this baby for a while. She needs extra care.}
-{280}{}{Okay, I'll be back later... when you bring this iron to life.}
-{281}{}{Don't overdo it, old man. The wires can respond to your caresses with an electric current.}
+{277}{}{The Rangers don't forget their friends. Here, take a bunch of nuclear batteries for your trouble. If you don't need 'em, exchange them in some neighboring town for something useful.}
+{278}{}{[Continue]}
+{279}{}{Thanks. It's a shame you can't replace me on this post when I retire. Now if you were so kind to leave me with this baby for some time. She needs additional care.}
+{280}{}{Okay, I'll come back later... when you bring this hunk of metal to life.}
+{281}{}{Don't try too hard, old man. The wires may respond to your petting with electic current.}
 {282}{}{}
-{283}{}{Where can I find parts from electronics?}
-{284}{}{The nearest place I know of is Garage City. Yes, but we have already sent a request there.}
+{283}{}{Where can I find electronic components?}
+{284}{}{Nearest place I know of is Garage-City. We sent a request there some time ago already, though.}
 
-#The second quest
-{300}{}{How does the station work after repair?}
-{301}{}{That's great! The repair of the station is not in danger in the coming years. It's a pity that you won't be able to replace me in this post when I retire.}
-{302}{}{So you're the one manning the dam?}
-{303}{}{(sighs) Sometimes I listen to the noise of hydraulic units. Their rusty rotation reminds me of the years I've lived.}
-{304}{}{So you need a shift.}
-{305}{}{That's right, sir. This station needs a new caretaker - a young man gifted with technical skills, and you won't find such people in our time during the day with fire.}
-{1305}{}{That's right, ma'am. This station needs a new caretaker - a young man gifted with technical skills, and you won't find such people in our time during the day with fire.}
-{306}{}{Is there anyone in mind?}
-{307}{}{The caravaneers told about one such young talent. He lives in Garage City and suffers from a waste of time. I would like to take a look at him and bring him up to replace me. The problem is that the local population treats the Rangers without much sympathy, you know? And you can't just come and pick up the child, you need him to want to.}
-{308}{}{I'll take the job.}
-{309}{}{Whoever wants something in that dump, and I'll bring you a kid.}
-{310}{}{Well, it looks like you'll have to look for a replacement elsewhere. Bye, old man.}
-{311}{}{What a determination! It distinguishes greens from old people. Agreed. I will be waiting for your return.}
-{312}{}{Later.}
+#Второй квест
+{300}{}{How does the plant work after I fixed it?}
+{301}{}{Very well! I don't see any repairs being needed for the plant in the coming years. It's a shame you won't be able to replace me on this post when I retire.}
+{302}{}{So you service the dam alone?}
+{303}{}{(sighs) Sometimes I listen to the hum of the hydraulic units. Their rotation, squeaky with rust, reminds me of the years gone by.}
+{304}{}{So you need a replacement.}
+{305}{}{Exactly, sir. This plant needs a new overseer - a young man, gifted in technical skills, and those are hard to find these days.}
+{1305}{}{Exactly, ma'am. This plant needs a new overseer - a young man, gifted in technical skills, and those are hard to find these days.}
+{306}{}{Is there anyone you're keeping an eye on?}
+{307}{}{The caravaneers told about one such young, gifted mind. He lives in Garage-City and suffers from pointlessly wasting his time. I'd like to take a look at him and train him to be my replacement. Problem is the residents don't take too kindly to the Rangers, understand? And you can't just go and take the kid, you need him willing to go.}
+{308}{}{I'll take on this job.}
+{309}{}{Whoever wants him in that scrapyard, I'll bring you the kid.}
+{310}{}{Welp, looks like you'll have to find a replacement in another place. So long, old man.}
+{311}{}{That's the spirit! That's the thing that separates the greens from the old. Deal. Will await your return.}
+{312}{}{Bye.}
 
-{320}{}{Bad news - that guy from Garage City died on the way.}
-{321}{}{Sorry for the guy, he would be extremely useful to the Rangers in the future... Well, we'll have to work with local guys, although there is not a single one among them who is passionate about technology. I don't have any more assignments for you either. Thank you for your service.}
-{322}{}{Will I get nothing for my efforts?}
-{323}{}{Your labors were useless. Go somewhere already, don't interfere with work.}
-{324}{}{That's it, then...}
+{320}{}{Bad news - the guy from Garage-City died along the way.}
+{321}{}{A pity about the guy, he would have been very useful to the rangers in the future... Oh well, I'll have to work with the local guys, even though there isn't anyone particularly interested in technology among 'em. I don't have any more assignments for you. Thank you for your service.}
+{322}{}{So I won't receive anything for my troubles?}
+{323}{}{Your troubles ended up being fruitless. Go somewhere else already, don't bother me, I'm working.}
+{324}{}{So that's how it is, then...}
 
-{330}{}{This is the gifted guy you were looking for.}
-{331}{}{Hello, son! Here, at the Rangers, you will surely like it. I can see it in your eyes. But first, you need to wash a little...}
+{330}{}{Here's the gifted guy you were searching for.}
+{331}{}{Hi, son! You'll probably like it here, among the Rangers. See it in your eyes. But first you can certainly use a shower....}
 {332}{}{Ahem...}
-{333}{}{...And you've done a great service to the Rangers by bringing this guy in. Look to the quartermaster, let him pick up a reward for you.}
-{1333}{}{...And you've done a great service to the Rangers by bringing this guy in. Look to the quartermaster, let him pick up a reward for you.}
-{334}{}{Great, wait for me, reward! I'm on my way.}
+{333}{}{...And you have done an excellent service to the Rangers by bringing this guy here. Take a visit to the quartermaster, let him choose a reward for you.}
+{1333}{}{...And you have done an excellent service to the Rangers by bringing this guy here. Take a visit to the quartermaster, let him choose a reward for you.}
+{334}{}{Great! Wait for me, reward, I'm already on my way.}

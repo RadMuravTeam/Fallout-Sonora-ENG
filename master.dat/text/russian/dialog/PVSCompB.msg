@@ -1,45 +1,45 @@
 {100}{}{You see a lab computer.}
-{101}{}{You see a laboratory computer.}
+{101}{}{You see a computer made for research purposes.}
 
-#Dialog
-{200}{}{Enter the request.}
-{201}{}{End session.}
+#Dialogue
+{200}{}{Enter command.}
+{201}{}{Complete session.}
 {202}{}{Back.}
 
 {210}{}{Copy geographical data.}
-{211}{}{Geographical data has been successfully entered into the maps section of your Pip-Boy.}
+{211}{}{Geographical data successfully added to your Pip-Boy's map folder.}
 
-{220}{}{Information about the Vault 25.}
-{221}{}{The number of the Vault is 25. The start of construction is March 2064. Completion of construction - January 2068. Construction Contractor: Vault-Tec. The purpose is to protect civilians during a nuclear strike. The estimated number of inhabitants is 450. The duration of sealing is 15 years.}
-{222}{}{The history of the vault 25.}
-{223}{}{During the Great War in 2077, the asylum was opened to ordinary citizens of Phoenix. However, the proximity and suddenness of the nuclear strikes forced the Vault workers to seal the armored door without waiting for the majority of the population. Thus, only 12% of the planned residents managed to get access inside.}
-{224}{}{Next.}
-{225}{}{The excess of resources and space allowed the survivors to live a happy and carefree life without ever coming to the surface. The discovery and colonization of the vault was made by the expedition of Ulysses Grant in 2162.}
-{226}{}{Characteristics of the inhabitants.}
-{227}{}{The population of the Vault had excellent physical health, but weak endurance. The population is not adapted for heavy physical labor. Mental health in general remained good, although many suffered from phobias about the outside world.}
+{220}{}{Information about Vault 25.}
+{221}{}{Vault number - 25. Beginning of construction - March 2064. End of construction - January 2068. Construction contractor: Vault-Tec Industries. Purpose - protection of civilian population during nuclear war. Estimated number of inhabitants - 450. Duration of sealing - 15 years.}
+{222}{}{Vault 25's history.}
+{223}{}{During the Great War of 2077, the Vault was open for Phoenix's regular inhabitants. However, the close-by and unexpected nuclear blast forced the workers to seal the Vault door without the majority of the population having made it inside. Thus, only 12% of the registered inhabitants could get into the Vault.}
+{224}{}{Continue.}
+{225}{}{An excess of resources and space allowed those inside to lead carefree and hedonistic lives without ever going to the surface. The 2162 expedition, carried out by Ulysses Grant, managed to successfully unseal and colonize the Vault.}
+{226}{}{Characteristics of inhabitants.}
+{227}{}{The Vault's population was of excellent physical health, though had little endurance. The population was incapable of hard physical labor. Mental health largely good, though many posessed agoraphobia.}
 
 {230}{}{Medical experiments.}
-{231}{}{The followers of Fire are conducting various medical experiments thanks to the perfectly preserved equipment of the Vault.}
-{232}{}{Projects in development.}
-{233}{}{Increased resistance to radiation; increased combat capability of guards with chemical agents; antivirus for "wasteland disease".}
+{231}{}{The Followers of the Fire are conducting various medical experiments thanks to the very well-preserved Vault equipment.}
+{232}{}{Projects currently in development.}
+{233}{}{Increased body resistance to radiation; increasing the security team's combat potential with chemical means; cure for "wasteland illness".}
 {234}{}{Suspended projects.}
-{235}{}{Standard Med-Tec vaccinations (due to lack of raw materials); Remote control of consciousness (due to lack of equipment).}
+{235}{}{Standard Med-Tec vaccinations (due to lack of raw material); remote consciousness control (due to lack of equipment).}
 
-{240}{}{Affordable food project.}
-{241}{}{Followers of Fire are conducting various research to solve the food problem in Phoenix. These are experiments on plants (the project has been transferred to the Casa Nueva department), mushroom and microbiological farms, the manufacture of new food processors in Two-Sun, research on the GECK technology.}
-{242}{}{What else is GECK?}
-{243}{}{The Eden Bushes Compact Generator is an ancient technology for restoring the earth after being hit by a nuclear strike. The technology turned out to be too complex to be repeated in the laboratory conditions of Vault 25. In search of a GECK worker, the Followers equipped expeditions to other Vaults.}
-{244}{}{Expedition to the Vault 26.}
-{245}{}{The Vault was destroyed by a nuclear strike, the GECK was not preserved.}
-{246}{}{Expedition to the Vault 27.}
-{247}{}{Excavations are currently underway under the direction of Arthur Carrington. The coordinates of the Vault are attached. The presence of the GECK in the Vault has not been confirmed.}
+{240}{}{Accessible nutrition project.}
+{241}{}{The Followers of the Fire are conducting various studies with the goal of putting an end to the food problem in Phoenix. These include experiments on plants (project relocated to Casa Nueva), fungi and microbiological farms, creation of new food processors in Two Sun, research concerning the GECK technology.}
+{242}{}{Define "GECK".}
+{243}{}{The Garden of Eden Creation Kit is an ancient terraforming technology made to restore the biosphere after it's destruction during an atomic war. The technology has turned out to be too complex for it to be recreated in Vault 25's laboratory conditions. The Followers are sending expeditions to other Vaults in order to find a functional GECK unit.}
+{244}{}{Vault 26 expedition.}
+{245}{}{Vault destroyed by an atomic blast. GECK unit did not survive.}
+{246}{}{Vault 27 expedition.}
+{247}{}{Excavation is currently being conducted, with Arthur Carrington in charge of the operation. Attached are the Vault's coordinates. GECK presense in the Vault unconfirmed.}
 
-{250}{}{The project of a nuclear bomb.}
-{251}{}{The production of a uranium bomb "Baby Phoenix" using raw materials from Flagstaff. Curator: Professor Zach Zimmer. Completeness: 92%.}
-{252}{}{Disable the force field in the section with a nuclear bomb.}
-{253}{}{The force field is deactivated.}
+{250}{}{Atomic bomb project.}
+{251}{}{The creation of a uranium bomb "Baby Phoenix" using raw material from Flagstaff. Curator: professor Zack Zimmer. Total completion status: 92%.}
+{252}{}{Disable force field preventing access to the room in which the atomic bomb is located.}
+{253}{}{Force field deactivated.}
 
-{260}{}{Reports on the supply of uranium and slaves.}
-{261}{}{(The usual quarterly routine is described here. Uranium from Flagstaff and slaves from all over the region are partially used by the cult at its discretion, and partially transported by convoy to the south via Two-Sun)}
-{262}{}{Search for information about slaves from the Villa.}
-{263}{}{(You find data on several prisoners from the Villa. Alas, they have already been sent to Two-Sun.)}
+{260}{}{Report about uranium and slave deliveries.}
+{261}{}{(A typical quarterly routine is described here. The Flagstaff uranium and slaves from the entirety of the region are partly used by the cult for their own ends, and partly delivered to the southern Two Sun settlement by convoys)}
+{262}{}{Find a report about slaves from Villa.}
+{263}{}{(You find data about some captives from Villa. Alas, they have already been sent to Two Sun.)}

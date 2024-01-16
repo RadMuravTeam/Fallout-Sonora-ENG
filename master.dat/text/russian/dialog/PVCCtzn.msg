@@ -1,104 +1,104 @@
-{100}{}{You see Louis.}
-{101}{}{You see a resident of the vault 25.}
+{100}{}{You see Luis.}
+{101}{}{You see an inhabitant of Vault 25.}
 {102}{}{As you say...}
 {103}{}{Do it, I beg you!}
-{104}{}{As you wish, Mr....}
-{1104}{}{As you wish, Mr. Lady...}
+{104}{}{As you wish, m-master...}
+{1104}{}{As you wish, m-mistress...}
 
-{200}{}{(You see a man with a toolbox. At the sight of you, he hesitantly backs away and, looking at his feet, says: "M-my respects".)}
+{200}{}{(You see a man with a toolbox. Seeing you, he hesitantly backs away and, looking at his feet, says: "It is an h-honor".)}
 {201}{}{Wait a minute, who are you?}
-{202}{}{M-my name is Louis... with your permission.}
-{203}{}{And what are you doing here, Louis?}
-{204}{}{P-checking the t-pipeline... with your permission.}
-{205}{}{Will you stop repeating yourself?}
-{206}{}{P-excuse me, sir. I will leave immediately, sir.}
-{1206}{}{P-excuse me, madam. I will leave immediately, madam.}
-{207}{}{Do not rush. I want to ask you.}
-{208}{}{Uh, okay.}
+{202}{}{M-my name is Luis... with your permission.}
+{203}{}{What is it you do here, Luis?}
+{204}{}{Ch-checking the p-pipeling... with your permission.}
+{205}{}{Maybe you could stop repeating yourself?}
+{206}{}{I a-apologize, master. I will leave immediately, m-master.}
+{1206}{}{ a-apologize, mistress. I will leave immediately, m-mistress.}
+{207}{}{Don't rush. There's something I want to ask you.}
+{208}{}{Uhh, okay.}
 {209}{}{I'm asking who you are, not what your name is.}
 
-{210}{}{How can I help?}
-{211}{}{Nothing yet.}
+{210}{}{How can I help you?}
+{211}{}{You can't, at the moment.}
 {212}{}{Enough about that.}
 
 {220}{}{Tell me about yourself.}
-{221}{}{(confused) M-my name is Louis... I was born here... And grew up.}
-{222}{}{And that's it?}
-{223}{}{P-sorry, sir. I've been setting up equipment here all my life. I have nothing more to tell about myself.}
-{1223}{}{P-excuse me, madam. I've been setting up equipment here all my life. I have nothing more to tell about myself.}
-{224}{}{Have you ever left the Vault?}
-{225}{}{When I go up to the cathedral... but I've never been to the city of n-.}
-{226}{}{It seems that you are attached to this Vault.}
-{227}{}{I m-pray to our Lord for leaving me alive and giving me a job. Glory to the Lord!}
-{228}{}{It turns out that you are a forced person here. But maybe you can answer a couple more questions.}
+{221}{}{(bewildered) I-I'm Luis... I was born here... And grew up here.}
+{222}{}{Is that all?}
+{223}{}{I a-apologize, master. I spent all my life repairing equipment here. I have nothing more to say about myself.}
+{1223}{}{I a-apologize, mistress. I spent all my life repairing equipment here. I have nothing more to say about myself.}
+{224}{}{Did you ever actually leave the Vault?}
+{225}{}{S-sometimes I go up the cathedral... but I was never in the city.}
+{226}{}{It looks like you're attached to this Vault.}
+{227}{}{I pray that our Overlord leaves me alive and gives me a job. Hail the Overlord!}
+{228}{}{So you're not a free man. Maybe you could answer a few more questions?}
 
-{230}{}{Would you like to escape from here?}
-{231}{}{No way, sir! Without Vault, I will perish. That's what the Lord says, but I know it myself.}
-{1231}{}{No way, madam! Without Vault, I will perish. That's what the Lord says, but I know it myself.}
-{232}{}{I see this question has scared you pretty much.}
-{233}{}{Excuse me, sir! I've been here all my life... I-don't know how to behave from outside. I'm afraid, sir!}
-{1233}{}{Excuse me, madam! I've been here all my life... I-don't know how to behave from outside. I'm afraid, mistress!}
-{234}{}{I see. But at least answer the questions?}
-{235}{}{What are you doing here?}
-{236}{}{I humbly serve the Lord of the Phoenix and his Advisor for the benefit of the Sacred Fire. I was assigned to set up the equipment, as this is my sacred duty.}
+{230}{}{Do you want to escape this place?}
+{231}{}{No way, master! I'll die without the Vault. The Overlord says that, but it's self-evident to me.}
+{1231}{}{No way, mistress! I'll die without the Vault. The Overlord says that, but it's self-evident to me.}
+{232}{}{I see thinking about this topic scared you geatly.}
+{233}{}{I apologize, master! I spent all my life here... I-I don't know how to behave out-outside. I'm afraid, master!}
+{1233}{}{I apologize, mistress! I spent all my life here... I-I don't know how to behave out-outside. I'm afraid, mistress!}
+{234}{}{I see. But you *are* in a condition to answer my questions, right?}
+{235}{}{What is it you do here?}
+{236}{}{I humbly serve the Overlord of Phoenix and his Advisor for the good of the Holy Fire. I was t-told to repair the equipment, that is m-my holy duty.}
 {237}{}{I see.}
-{238}{}{You don't think so, do you?}
-{239}{}{(He looks down, not knowing what to say; it looks like he was seriously beaten by fire worshippers.)}
+{238}{}{You don't actually believe that, do you?}
+{239}{}{(Looks at his feet, not knowing what to say; looks like the Fire-worshippers seriously messed him up.)}
 
 {240}{}{Tell me about the Vault.}
-{241}{}{Vault number 25, built by Vault-Tec to protect people from nuclear war and its consequences...}
-{242}{}{Wait, but how did the fire worshippers end up here?}
-{243}{}{(hesitantly) They... they came from outside and... p-settled here.}
-{244}{}{You're not telling me something.}
-{245}{}{You can find out the story on the computer network, it's true.}
-{246}{}{I'll try. In the meantime, tell me more about the Vault.}
-{247}{}{They don't talk about it here... The cult has taken over the sanctuary... And I was left to debug the equipment.}
-{248}{}{A sad story. We're talking about something else.}
+{241}{}{Vault number 25, built by the Vault-Tec Corporation to protect humans from nuclear war and it's consequences...}
+{242}{}{Wait, how did the Fire-worshippers find their way here?}
+{243}{}{(hesitantly) They... came inside and... s-settled here.}
+{244}{}{You're clearly not telling something.}
+{245}{}{You can learn the story on the computer network. It's true.}
+{246}{}{I'll try. For now, tell me about the Vault.}
+{247}{}{They don't talk about that here... The cult captured the Vault... They left me alive to repair the equipment.}
+{248}{}{A sad story. Let's talk about something else.}
 
 {250}{}{You know the Vault like the back of your hand, right?}
-{251}{}{(smiling wryly) That's right, sir. I know, sir.}
-{1251}{}{(smiling crookedly) That's right, mistress. I know, madam.}
-{252}{}{Some doors are locked. Do you know how to open them?}
-{253}{}{N-need an access card. Everyone has their level of access, the guards have the highest.}
-{254}{}{Were there other Vaults?}
-{255}{}{Yes, and a lot! Scientists in the laboratory know about them.}
-{256}{}{Tell us about the days when the Vault was free.}
-{257}{}{Here... it was wonderful. We lived our lives peacefully and amicably. And we had enough food and energy. No one was going outside. Then the outsiders came. They used a special signal to open the armored door and then burst inside. Only then the cult of the Sacred Fire appeared, and the Vault became its base.}
+{251}{}{(vaguely smiling) That's right, master. I do, master.}
+{1251}{}{(vaguely smiling) That's right, mistress. I do, mistress.}
+{252}{}{Some doors are locked. You know a way to open them?}
+{253}{}{Y-you need a keycard. Every one has a clearance level, security has the highest one.}
+{254}{}{There were other Vaults?}
+{255}{}{Yes, many of them! The scientists in the laboratory know about them.}
+{256}{}{Tell me about the days the Vault was free.}
+{257}{}{It... it was... perfect. We lived together peacefully, we had enough food and energy for everyone. No one wanted to go outside. But then the outside came for us. They used a special kind of signal to open the large door and then barged inside. Then came the cult of the Holy Fire, and the Vault became it's main base.}
 
-{260}{}{Bring me some clean water.}
-{261}{}{(leaves and soon returns) Your water, sir.}
-{1261}{}{(leaves and soon returns) Your water, lady.}
-{262}{}{And now jump on one leg and get out of here!}
-{263}{}{Thank you, my dear.}
+{260}{}{Bring me clean water.}
+{261}{}{(walks away and returns soon after) Here is your water, master.}
+{1261}{}{(walks away and returns soon after) Here is your water, mistress.}
+{262}{}{Now jump on one leg 10 times and scram!}
+{263}{}{Thank you, dear.}
 {264}{}{As you wish...}
-{265}{}{Do you always fulfill the requests of strangers?}
-{266}{}{(looks up in amazement for a moment, but immediately turns it back down)}
-{267}{}{Do you always fulfill the requests of strangers?}
-{268}{}{There are no outsiders in the Vault, only Followers of Fire. And my sacred mission is to be useful to them...}
-{269}{}{Did you decide that yourself?}
-{270}{}{The adviser gives me instructions.}
-{271}{}{Don't you obey the Phoenix Lord?}
-{272}{}{Only as long as it does not contradict the words of the Adviser.}
-{273}{}{While your master is not looking, let's talk about something else.}
-{274}{}{Clearly. Later.}
+{265}{}{Do you always do whatever other people tell you?}
+{266}{}{(looks up for a moment, amazed, but immediately looks back down)}
+{267}{}{Do you always do whatever other people tell you?}
+{268}{}{There are no "other" people in the Vault. Only Followers of the Holy Fire. And my holy mission is to be useful to them...}
+{269}{}{Did you come up with that yourself?}
+{270}{}{The Advisor tells me what to think.}
+{271}{}{Don't you serve the Overlord of Phoenix?}
+{272}{}{Only if it doesn't go against what the Advisor says.}
+{273}{}{While your overlord's back is turned, let's talk about something else.}
+{274}{}{Alright. Bye.}
 
-{280}{}{Louis, do you want to end this life?}
-{281}{}{I've been thinking about it. There's n-none of my loved ones left here. I can't leave the Vault, even if the doors are opened. What's left for me? To benefit the Adviser...}
-{282}{}{But that's not what you want in your heart, right?}
-{283}{}{Wait, this dialogue is going the wrong way. Let's go back.}
-{284}{}{Well, it turns out you're a big loser. Have a good stay.}
-{285}{}{I am insignificant... Insignificant! These people have never cared about me, I am a slave to them, and it will always be so!}
-{286}{}{It's high time for you to end your suffering. Help me - we will destroy the Vault together.}
-{287}{}{I... ask you, let me do my job for the benefit of the Sacred Fire!}
+{280}{}{Luis. I'm going to ask you a question. Do you want to end your life?}
+{281}{}{I was... thinking about it. N-none of my friends or relatives are left. I can't leave the Vault, even if they opened the doors and told me to. What's left for me to do? Be useful to the Advisor...}
+{282}{}{But deep down in your heart, you don't want that, do you?}
+{283}{}{Wait, this conversation is going where it shouldn't. Let's go a bit back.}
+{284}{}{Well, it looks like you're just one big loser. Enjoy your stay.}
+{285}{}{I'm pathetic... Pathetic! These people never cared about me. I'm a slave! A slave! And always will be!}
+{286}{}{Your suffering should have been ended long ago. Help me - we'll destroy this Vault together.}
+{287}{}{I... Please, let me do my duties for the good of the Holy Fire!}
 {288}{}{Then stay here, loser.}
-{289}{}{Destroy it? That's it... How did I not guess earlier!}
-{290}{}{Do you have an idea?}
-{291}{}{There's a nuclear bomb down there. It's almost finished, scientists are waiting for only minor details, but it can already be started and ... (stammers and gets covered in cold sweat)}
-{292}{}{And what? Blow it up? That's what we need, Louis. Tell me how to run it.}
-{293}{}{The professor has details in his office, it is impossible to detonate a bomb without them...}
-{294}{}{I'll need an access card to get into his office.}
-{295}{}{Yes... This card has a high level of access. I will pray that everything will work out for you...}
-{296}{}{Thank you, Louis, you have done a service not only to me but to the whole Wasteland. And now I have to go.}
-{297}{}{It's easy to ingratiate myself with you, Louis. And now I will tell the Adviser about it. Bye, dummy.}
-{298}{}{Why does the cult need a uranium bomb?}
-{299}{}{I don't know, but after the complete assembly, it was going to be transported to the southwest, across the desert.}
+{289}{}{Destroy? So that's how it must end... How did I not think of it sooner!}
+{290}{}{You have an idea?}
+{291}{}{There, down below, is an atomic bomb. It's almost completed, the scientists are just waiting for secondary components, but it can already be turned on and... (stumbles and starts sweating)}
+{292}{}{And what? Be used to blow this place up? That's exactly what we need to do, Luis. Tell me how to turn it on.}
+{293}{}{The professor's office has some components, without it, using the bomb is im-mpossible...}
+{294}{}{I'll need a keycard to get inside of his office.}
+{295}{}{Yes... Here. This one has a high clearance level. I'll pray that you succeed...}
+{296}{}{Thank you, Luis. You've helped greatly not just me, but the entire Wasteland. Farewell.}
+{297}{}{You know, it's so easy to earn your trust, Luis. Laughably so. Now if you'll excuse me, I'm off to the Advisor. Bye-bye, idiot.}
+{298}{}{Why does the cult need a uranium bomb anyways?}
+{299}{}{I... I don't know, but after it's complete, they were going to send it somewhere to the south-west, across the entire desert.}

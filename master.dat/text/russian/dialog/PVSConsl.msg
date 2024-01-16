@@ -1,1 +1,1 @@
-{110}{}{sult is not responding.}
+{110}{}{The console is unresponsive.}

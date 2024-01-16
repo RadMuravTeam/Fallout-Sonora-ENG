@@ -1,79 +1,79 @@
-{100}{}{This is Merchant Clark.}
-{101}{}{You see the caravan manager. His swarthy skin speaks of uncounted miles of travel traveled under the scorching sun.}
-{102}{}{Have a good trip.}
-{103}{}{We're here. Up the road is the Brotherhood of Steel Fort.}
+{100}{}{You see merchant Clark.}
+{101}{}{You see the manager of the caravan. His dark skin speaks of uncountable miles traversed under the scorching sun.}
+{102}{}{Good luck.}
+{103}{}{Well, we're here. Brotherhood fort's up the road.}
 
-{200}{}{What do you want?}
-{201}{}{Maybe we can get acquainted? In a strange city, I would like to have a couple of contacts.}
-{202}{}{Then you're out of luck with the interlocutor. I am engaged in caravanning. And I have a special contract with tinsmiths, the last thing I need is extra acquaintances. Although I can understand you - I was a stranger in this city myself when I first came here.}
-{203}{}{Looks like you have something to ask.}
+{200}{}{What?}
+{201}{}{Maybe we could get to know each other? I'd like to have a few contacts in an unknown place.}
+{202}{}{I'm not good for that. I manage caravans. I have a special contract with the tinsmiths - more acquaintances are the last thing I need. But I get you. I used to be a stranger in this place as well, when I first showed up here.}
+{203}{}{Looks like you might know something. I'd like to ask you a few questions.}
 
-{210}{}{What do you want?}
+{210}{}{What?}
 {211}{}{Nothing.}
-{212}{}{I don't mind chatting some more.}
+{212}{}{I wouldn't mind chatting some more.}
 
-{220}{}{What are you doing?}
-{221}{}{I transport cargo across the desert. The tinkerers trust me with this case like no one else.}
-{222}{}{Hauling cargo across the desert? Who needs him there?}
-{223}{}{Sounds unconvincing, but there really are a couple of places in the desert where our cargo is very much expected. And they pay great caps for it.}
-{224}{}{Are slaves also a marketable commodity there?}
-{225}{}{Not anymore. Previously, they were driven there in droves from Phoenix to clear ruins and build settlements. But now there is no such need. But slaves became popular in the northern direction.}
-{226}{}{This Phoenix - where is it?}
-{227}{}{You really don't know? Oh, so you missed a lot. It's a big city in the north. Go along the 10th Federal highway, you won't miss it.}
-{1227}{}{You really don't know? Oh, so you missed a lot. It's a big city in the north. Go along the 10th federal highway, you won't miss it.}
-{228}{}{Thank you.}
+{220}{}{What is it you do?}
+{221}{}{I move cargo through the desert. Tinsmiths don't trust anyone else to do it quite like they trust me.}
+{222}{}{Just moving things through the desert? Who in the world would that be useful to?}
+{223}{}{I know, it sounds weird, but there really are a few places in the desert where they're waiting in anticipation to receive that stuff. They pay a ton of caps for it, too.}
+{224}{}{Are slaves among that cargo?}
+{225}{}{Not anymore. Back in the day, they were transferred from Phoenix in droves, to clean the ruins up and build new structures. But now, the demand for this is basically non-existent. Slaves became popular in the north after that, though.}
+{226}{}{This Phoenix place - where is it?}
+{227}{}{You really don't know? Oh, you missed a lot, then. It's a big city to the north. Go along the 10th highway, you won't miss it.}
+{1227}{}{You really don't know? Oh, you missed a lot, then. It's a big city to the north. Go along the 10th highway, you won't miss it.}
+{228}{}{Thanks.}
 
-{230}{}{So who are the tinkerers really?}
-{231}{}{Something like a cult, they worship technology and progress. Their most cherished dream is to find robotic bodies and upload their consciousness into them. Sounds fantastic, right? But they are already implanting some kind of hardware in themselves. And with their technical skills, no one in all of Sonora can compare.}
+{230}{}{So, who are those tinsmiths really?}
+{231}{}{They're something of a cult. They worship technology and progress. Their greatest dream is to acquire robotic bodies and put their consciousness in them. Sounds wild, doesn't it? But they're already integrating wires and stuff into themselves. No one in Sonora is as good with technology as they are.}
 {232}{}{What are their immediate plans?}
-{233}{}{I don't know, I'm just moving cargo. But the tinkerers are clearly planning something big.}
-{234}{}{Why did you decide that?}
-{235}{}{They buy up a lot of uranium ore and slaves. They must have taken up a large accumulation of old equipment. And this is fraught with serious investments in Phoenix or somewhere else. Oh, yes, I can already smell the bait for my caravan for the coming years.}
-{236}{}{Aren't you going to the place where the whole port was blown up recently?}
-{237}{}{Well, there's almost nothing left now. But there are still Casa Nueva plantations on the way. However, how long will he have the strength to survive without the protection of the Brotherhood of Steel? Sooner or later, the settlement will obey the will of the tinsmiths or become empty.}
-{238}{}{It looks like life there will get worse anyway. Let's change the subject?}
+{233}{}{I dunno, I just move cargo. But they're obviously planning something big.}
+{234}{}{Why do you think so?}
+{235}{}{They're buying up a ton of uranium ore and slaves. Probably found a big pile of old tech. That means serious investments in Phoenix or some other place, I hear. Yeah, I sense that my caravan will be making a lot of money in the next few years.}
+{236}{}{You aren't going to that place where an entire port just blew up, are you?}
+{237}{}{Well, there is barely anything left there. But still, there are the Casa Nueva plantations along the way. Though now that I think of it, how long will they be able to survive without Brotherhood of Steel protection? Sooner or later, the settlement will either be abandoned or will submit to the will of the tinsmiths. It's only a matter of time.}
+{238}{}{Either way, life isn't going to improve there. Maybe we should change the subject?}
 
-{240}{}{Is it hard to carry cargo through the wastelands?}
-{241}{}{We are masters in this business. We have to adapt and wait for the most suitable seasons for traveling.}
+{240}{}{Is it hard moving cargo through the Wastes?}
+{241}{}{We're unbeatable at it. We adapt and wait for the seasons most fit for travel.}
 {242}{}{What dangers await in the barren lands of Sonora?}
-{243}{}{Of course, first of all it is dehydration and lack of food. We take the water in advance in Casa Grande. This is enough to walk to the Bay. And there we are already desalinating the sea liquid.}
-{244}{}{What about the game?}
-{245}{}{No one will survive in such sands except radscorpions. It looks like they have looked after Sonora for breeding their offspring. But we almost did not meet robbers. People are rare in those places.}
-{246}{}{Your story only fuels my curiosity. Tell me more.}
-{247}{}{Thanks for the information. I'm going to get ready for the trip.}
+{243}{}{Biggest one is, of course, dehydration and starvation. We get water ahead of time in Casa Grande. That's enough to reach the Bay. There, we desalinate sea water.}
+{244}{}{What about animals?}
+{245}{}{Nothing can survive in these sands. Well, except radscorpions. Looks like they've chosen Sonora as the place to breed their offspring. The good thing is that we have basically never encountered bandits. People are a rarity in those places.}
+{246}{}{Your tales only serve to warm my curiosity. I would like to know more.}
+{247}{}{Thanks for the information. I'll go prepare to depart.}
 
-{300}{}{I need to get to the Steel Port.}
-{301}{}{Steel Port? For the first time I hear.}
+{300}{}{I need to get to Steel Port.}
+{301}{}{Steel Port? First time I hear about this place in my life.}
 {302}{}{You can trust me.}
-{303}{}{Don't worry, I'm joining the Brotherhood of Steel.}
-{304}{}{Don't worry, I'm one of the Followers of Fire.}
-{305}{}{Sorry. But maybe you know about other things.}
-{306}{}{Believe me, not a single caravan goes there now. Something went wrong with the Brotherhood of Steel, as a result, their ship exploded like a damn demolition beetle. Now instead of a ship there is a radioactive funnel and not a single living soul.}
-{307}{}{That's right... surprise.}
-{308}{}{I don't think so.}
+{303}{}{Don't worry, I'm part of the Brotherhood.}
+{304}{}{Don't worry, I'm a Follower of the Holy Fire.}
+{305}{}{What a shame. Perhaps you *have* heard of other places.}
+{306}{}{Believe me, no caravan goes there anymore. Something went horribly wrong there. Whole ship exploded like a damn boom bug. Now, in it's place, there's just one big radioactive crater and not a single living person.}
+{307}{}{How very... unexpected.}
+{308}{}{I don't believe it.}
 
-{310}{}{Okay, I see that you're your man. We need to be careful, because the Brotherhood has many enemies.}
-{311}{}{So can I go with your caravan?}
-{312}{}{Packing is at 6 am, don't be late. Take no more than 150 pounds of cargo with you. Keep in mind, we'll make a stop at Casa Nueva. This is the only settlement on the way to the Brotherhood.}
-{313}{}{I can go.}
-{314}{}{I will come at the appointed time.}
-{315}{}{No one will drag your stuff! Take away the extra load or we'll leave without you.}
-{316}{}{These will be my problems.}
+{310}{}{Alright, I see you can be trusted. But we gotta be careful. The Brotherhood has many enemies, after all.}
+{311}{}{So, I can go with your caravan?}
+{312}{}{We gather at 6 o'clock in the morning. Don't be late. You can carry no more than 150 pounds worth of cargo. Keep in mind that we'll be making a stop at Casa Nueva. It's the only settlement on the way to the Brotherhood.}
+{313}{}{I can head out.}
+{314}{}{I'll come at the specified time.}
+{315}{}{No one is going to carry your stuff! Get rid of the excess cargo, or we'll leave without you.}
+{316}{}{That will be my problem.}
 {317}{}{Whatever you say.}
-{318}{}{Great, then get ready for a hard journey through the wasteland.}
-{319}{}{[Go on a trip]}
-{320}{}{Maybe so. Or maybe not.}
-{321}{}{Okay, I'll review my backpack again.}
-{322}{}{I will pay 1000 caps for the escort.}
-{323}{}{Are you sure you have that many caps?}
-{324}{}{Let me count it...}
+{318}{}{Alright, get ready for a hard journey through the Wasteland.}
+{319}{}{[Head out]}
+{320}{}{Maybe. Maybe not.}
+{321}{}{Fine, I'll take another look at my backpack.}
+{322}{}{I'll pay you 1000 caps to go with your caravan.}
+{323}{}{You sure you've got that many caps?}
+{324}{}{Let me count...}
 
 #Other locations
-{400}{}{We will spend the night in this settlement. You have a little time to look around. Do not oversleep the departure of the caravan, otherwise we will leave without you.}
-{401}{}{What can you tell us about this settlement?}
-{402}{}{Casa Nueva is a blooming oasis in the middle of the desert. This is the best place to live among all that I know. But the conditions here are quite tough. Behave especially respectfully and carefully with the local population.}
-{403}{}{See you later.}
-{404}{}{[Wait for the caravan to depart]}
-{405}{}{Leave without me, I'll be late.}
-{406}{}{As you wish. But keep in mind that the path through the barren wasteland of Sonora is not easy even in a group with a caravan.}
-{407}{}{Okay, bye.}
+{400}{}{We'll rest for a bit here. You have some time to look around. Don't oversleep - if you aren't there by the specified time, we'll leave without you.}
+{401}{}{What can you tell me about this settlement?}
+{402}{}{Casa Nueva is a thriving oasis in the middle of the desert. It's the best place to live among all the ones I know about. But things are quite strict here. Be especially respectful and careful in dealing with the locals here.}
+{403}{}{Bye.}
+{404}{}{[Wait until the caravan departs]}
+{405}{}{You can leave without me. I'm going to stay here for some time.}
+{406}{}{As you wish. But keep in mind that travel through the barren wastes of Sonora isn't easy even in a caravan.}
+{407}{}{I know. Goodbye.}

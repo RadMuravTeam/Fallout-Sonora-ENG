@@ -1,70 +1,70 @@
-{100}{}{You see a sentry in front of you.}
-{101}{}{You see a man in power armor. Looks impressive.}
-{102}{}{Now is not the time to chat with the locals.}
+{100}{}{You see a guard.}
+{101}{}{You see a man in power armor. He looks fantastic.}
+{102}{}{Now is not the time to chat with locals.}
 {103}{}{?}
-{104}{}{You're taking a big risk coming back here.}
-{105}{}{Greetings, brother in arms. How was the patrol?}
+{104}{}{You're risking much by coming back here.}
+{105}{}{Welcome, brother-in-arms. How did your patrol go?}
 
-#The first dialog
-{200}{}{Wait. Name the purpose of your visit.}
-{201}{}{It doesn't matter, I'm already leaving.}
-{202}{}{I'm traveling along the coast, and here you are. It became interesting, what would it be for?}
-{203}{}{You don't want to know. Go your own way.}
-{204}{}{You don't seem friendly.}
-{205}{}{Wait... What the hell are you staring at? We don't need drug addicts here. Get out of here and don't come back. Come on, move...}
-{206}{}{Uh... uh...}
-{207}{}{Closed? How is that? I don't know.}
-{208}{}{So. We've got a little crazy here. Not enough convolutions, eh? You should have our clerks put tests on you. But I don't want to get dirty. (menacingly) Get out of here.}
-{209}{}{Oh, go. I understand that. Yes.}
+#First dialogue
+{200}{}{Stop. State the purpose of your visit.}
+{201}{}{Nevermind, I'm already on my way.}
+{202}{}{I'm traveling along the coast, minding my own business, then I see you fellas. And I became curious, what are you doing here?}
+{203}{}{For you, it's better not to know. Go on the path you were traversing.}
+{204}{}{Not particularly welcoming.}
+{205}{}{Stop... What the hell are you looking at? We don't need junkies here. Get outta here and don't come back...}
+{206}{}{Ugh... Uhh...}
+{207}{}{Closed? How? I don't see how.}
+{208}{}{Well, well, well. We've got a somewhat slow one. It's in the brains, right? Not enough of them. The scribes should be running tests on you. But you'd just make a mess. (threatening) Go to some different place.}
+{209}{}{Oh, go to other place. I understand. Yes.}
 
-#Repeat dialog
-{210}{}{You can pass.}
+#Repeated dialogue
+{210}{}{You can go inside.}
 {211}{}{Thank you.}
-{212}{}{Greetings, brother in arms.}
-{1212}{}{Greetings, sister in arms.}
-{213}{}{See you later, brother.}
-{214}{}{(mockingly evaluates your armor) Come on in. The galley just lacks a lid for the pan.}
-{215}{}{Can I come on board?}
-{216}{}{Are you still asking? Of course, come in, brother.}
-{1216}{}{Are you still asking? Of course, come in, Sister.}
+{212}{}{Welcome, brother-in-arms.}
+{1212}{}{Welcome, sister-in-arms.}
+{213}{}{See you, brother.}
+{214}{}{(examines your armor, chuckling) You can go in. We just lost a saucepan lid.}
+{215}{}{Can I get inside of the vessel?}
+{216}{}{You're still asking? Of course, go right in, brother.}
+{1216}{}{You're still asking? Of course, go right in, sister.}
 {217}{}{Thank you, brother.}
 
 {220}{}{Can I ask you a few questions?}
-{221}{}{I am forbidden to have idle conversations, especially about our Brotherhood.}
-{222}{}{Clearly. Well, you can't trample on the charter. Goodbye.}
-{223}{}{What are you doing here?}
-{224}{}{Guarding the ramp. Outsiders are not allowed to board without permission. And you don't have it.}
-{225}{}{What are you doing here?}
-{226}{}{What is this place?}
-{227}{}{This is our fort. If these are all questions, then you'd better leave. Nothing to distract the sentries on duty.}
-{228}{}{OK, I'm leaving.}
+{221}{}{I'm forbidden from having idle conversation, especially about our Brotherhood.}
+{222}{}{Welp, rules are rules. Goodbye.}
+{223}{}{What is it you do here?}
+{224}{}{Guarding the ladder, obviously. Outsiders cannot get inside of the vessel without permission. Which you don't have.}
+{225}{}{What's your job here?}
+{226}{}{What is this place anyway?}
+{227}{}{It's our fort. If you're done with your questions, you better go. You shouldn't distract guards.}
+{228}{}{Alright, I'm going.}
 {229}{}{Then tell me, what is this place?}
-{230}{}{You guys are cool. I want to join you.}
+{230}{}{You look like cool fellas. I wanna join you.}
 {231}{}{Don't count on it.}
-{232}{}{Ugh, he said how he cut it off.}
-{233}{}{Maybe you have a job for me?}
-{234}{}{I don't think so. But talk to the head of the patrol service, maybe he has a task for you.}
-{235}{}{Okay, thanks.}
+{232}{}{Damn.}
+{233}{}{Maybe you have some job I can do?}
+{234}{}{I don't think so. But talk to the patrol chief, maybe he'll find you an assignment.}
+{235}{}{Got it, thanks.}
 {236}{}{Wait. Can I ask you a few questions?}
 
-{240}{}{I need to meet with your command.}
-{241}{}{On what issue?}
-{242}{}{It's, uh, personal. Can I pass?}
+{240}{}{I need to see your leader.}
+{241}{}{For what reason?}
+{242}{}{It's, uhh, personal. Can I go in?}
 {243}{}{No.}
-{244}{}{Very sorry.}
-{245}{}{I'll find a way anyway, you'll see.}
-{246}{}{OK, you can pass.}
+{244}{}{How unfortunate.}
+{245}{}{I'll find a way, you just wait.}
+{246}{}{Good, you can come onboard.}
 {247}{}{Thank you.}
-{248}{}{While you're inside, keep your gun holstered, and don't do anything stupid. The general's office is on the middle deck, the warehouse is to the left of the entrance. It is strictly forbidden to enter the other compartments. Is that clear?}
-{249}{}{I see.}
+{248}{}{While you are inside, keep your weapon holstered and don't do anything stupid. The general's office is on the middle deck, the warehouse is to the left of the entrance. Entering other compartments is strictly forbidden. Understood?}
+{249}{}{Understood.}
 
-{250}{}{I was sent by Master Hard from Two-Sun. Here is his recommendation.}
-{251}{}{A report from Ulysses Grant. Personally for General Dixon.}
-{252}{}{Paladin Latham permitted me to meet the general.}
-{253}{}{General Dixon is waiting for me. This concerns the fort in Hermosillo.}
-{254}{}{It's probably a problem to get some raw materials in this fort. And my caravan is idle.}
-{255}{}{I have a lot of great products for sale. Interested?}
-{256}{}{No, we don't deal with solitary pilgrims.}
-{257}{}{Very sorry.}
-{258}{}{It's clear to me. But you should clean your armor. You look like a rusty bucket.}
-{259}{}{Paladin Latham permitted me to meet with the quartermaster.}
+{250}{}{I was told to go here by Master Khard of Two Sun. Here is his letter of recommendation.}
+{251}{}{A report from Ulysses Grant. For general Dickson himself.}
+{252}{}{Paladin Latam has given me permission to meet the general.}
+{253}{}{General Dickson is waiting for me. This is about the Hermosillo fort.}
+{254}{}{Your fort must have problems getting some materials. And my caravan is just sitting there doing nothing.}
+{255}{}{I have many fine goods I am willing to sell. Interested?}
+{256}{}{No, we do not deal with lone pilgrims.}
+{257}{}{How unfortunate.}
+{258}{}{Oh, I know. And you should clean your armor. You look like a rusty bucket.}
+{259}{}{Paladin Latam has given me permission to see the quartermaster.}

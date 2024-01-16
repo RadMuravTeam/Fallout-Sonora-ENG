@@ -1,54 +1,54 @@
 {100}{}{You see a peasant.}
-{101}{}{You see a villager of quite ordinary appearance. It's strange to see him among all this crowd.}
-{102}{}{Thanks for the help. We will not forget this and will tell everyone about your feat.}
+{101}{}{You see a fairly regular peasant. They stick out, considering their surroundings.}
+{102}{}{Thanks for the help. We won't forget it. We'll spread the word of what you've done.}
 
-{200}{}{Hey, you're not from around here, right? You can see them right away. Let me give you a free tip - don't mess with these dealers. They don't put outsiders in anything.}
-{201}{}{And you...}
-{202}{}{Another victim of their bad faith, if you want to know. The tinkerers refuse to sell power cells for the generator to my settlement. And do you know why? Because they called us unworthy of old technologies!}
-{203}{}{Tell us more about this problem.}
-{204}{}{It's none of my business. Goodbye.}
+{200}{}{Hey, you're not a local, right? I can tell - you don't have that look. Let me give you some free advice - don't associate with these hucksters. They have no regard for outsiders.}
+{201}{}{And you are?}
+{202}{}{And I'm another victim of their dishonesty, if you'd like to know. The tinsmiths are refusing to sell my settlement power cells for our generators. And why? Because they say we aren't "worthy" of old technologies!}
+{203}{}{Tell me more.}
+{204}{}{Well that's your problem, not mine. Bye.}
 
 {210}{}{What do you want to know?}
-{211}{}{Nothing else. Bye.}
+{211}{}{No more. Bye.}
 {212}{}{I have to go.}
 {213}{}{Tell me more.}
 
 {220}{}{Tell me about your settlement.}
-{221}{}{Just a small rural community. Recently, our generator ran out - and this is the only source of electricity in the entire valley. I had to turn to the tinsmiths for help, but they consider us small and underdeveloped.}
-{222}{}{Is the generator so important to you?}
-{223}{}{Our whole community was supported by him! Water pump, lighting, radio communication - without all this, our valley will once again turn into a desert and become uninhabitable.}
+{221}{}{We're just a simple peasant community. Recently, our generator powered down - that was the only source of electricity for our entire valley. We had to go to the tinsmiths for help, but they think us small and undeveloped.}
+{222}{}{Is the generator that important to you?}
+{223}{}{Our entire community depended on it! The lighting, the water pump, the radio - without those things, our valley will once again turn into a desert, and will become unfit for life.}
 
-{230}{}{Nowhere else to get power cells?}
-{231}{}{Tinsmiths *are the only ones* who produce them nowadays. And pre-war cells became difficult to find. After all, the nearest neighborhoods have long been ruined by these techno fanatics.}
-{232}{}{Have you tried searching in Phoenix?}
-{233}{}{Are you kidding? We are settled people, it will be a great challenge to overcome such a distance. In addition, the Big City also buys batteries from tinsmiths. And the prices there are much more expensive.}
+{230}{}{Isn't there any other source of those power cells?}
+{231}{}{The tinsmiths are the ONLY ones who produce them in our time. And Pre-War cells have become rather hard to find lately. Those technofetishists had plundered everything nearby long ago.}
+{232}{}{Have you tried looking for them in Phoenix?}
+{233}{}{You kidding? We're settled, crossing that kind of distance would be an enormous challenge. And even then, the Big City's also buying their batteries from the tinsmiths. And their prices are much higher.}
 
 {240}{}{Why don't the tinsmiths want to trade with you?}
-{241}{}{They consider us unworthy of their technology. They think that we will waste their valuable resource. But this is complete nonsense - we need cells for survival, what could be more important?!}
+{241}{}{They consider us unworthy of their technology. They think we'd just waste their valuable resources. But that's nonsense - we need those cells to survive, what could be more important than that?!}
 
-{250}{}{What are you going to do now?}
-{251}{}{We urgently need power cells... Look, you're a peasant like us, right? I can see that. How not to hide behind all these clothes and armor, and your eyes and hands give away what you are doing. We have to stick together, amigo. Help us, and we will help you.}
-{1251}{}{We urgently need power cells... Look, you're a peasant like us, right? I can see that. How not to hide behind all these clothes and armor, and your eyes and hands give away what you are doing. We have to stick together, amigo. Help us, and we will help you.}
-{252}{}{Why should I help you?}
-{253}{}{I have a lot of friends among the caravaneers, I can arrange with them about the escort, and I will raise your reputation. And yet, this is pre-war money. They don't seem to be used anymore, but maybe you'll find a use for them.}
-{254}{}{I'll think about your offer.}
-{255}{}{Who can I talk to about these energy cells?}
-{256}{}{They are in the warehouse in that big hangar, and the quartermaster is in charge of the warehouse. But I doubt that he will change his attitude.}
+{250}{}{So what are you going to do now?}
+{251}{}{We need those power cells right away... Hey, listen, you're a peasant too, like us, right? I can see it. For all the clothing and armor you can hide behind, your eyes and hands will always give it away. We have to stick together, amigo. Help us, and we'll help you in return.}
+{1251}{}{We need those power cells right away... Hey, listen, you're a peasant too, like us, right? I can see it. For all the clothing and armor you can hide behind, your eyes and hands will always give it away. We have to stick together, amigo. Help us, and we'll help you in return.}
+{252}{}{Why would I help you?}
+{253}{}{I have many friends among the caravaneers. I could ask them to let you travel with them. That, and I'll increase your reputation. Even further, I'll give you some Pre-War money. It doesn't look like people really use it anymore, but maybe some places still do.}
+{254}{}{I'll think about it.}
+{255}{}{Who can I talk to about these power cells?}
+{256}{}{They should be in the storage room, in that big hangar. They have a quartermaster there guarding it. I doubt he'll change his mind.}
 {257}{}{We'll see about that.}
-{258}{}{In other words, do you propose to rob the tinsmiths?}
-{259}{}{Just like they robbed many. But you will save an entire settlement and earn friends among honest people. So what do you think, amigo?}
+{258}{}{So in other words, you're asking me to steal from the tinsmiths?}
+{259}{}{Well, they've stolen from many others as well. You'd save a whole settlement and make some friends. Some honest friends, unlike those tinsmiths. So, what do you say, amigo?}
 
-{260}{}{I didn't think there was anyone else here!}
-{261}{}{What are you doing here?}
-{262}{}{I need power cells for the generator. They are in the warehouse in the hangar, but I can't go there unnoticed. You seem to have just come from there, and the robots don't seem to touch you. Can you get it?}
+{260}{}{I didn't think anyone was still here!}
+{261}{}{What are you doing?}
+{262}{}{I need power cells for a generator. They're in the storage room in the hangar, but I can't get in there without getting spotted. You seem like you just went from out of there. The robots don't seem to be touching you. Can you get them?}
 {263}{}{I'll see what I can do.}
-{264}{}{Deal with your problem yourself. I've already decided on mine.}
-{265}{}{Consider me no longer here.}
+{264}{}{Deal with your problems yourself. My business there is done.}
+{265}{}{I'm already gone.}
 
-{300}{}{Here is the power cell for the generator.}
-{301}{}{Unbelievable! How did you manage it? However, I don't want to know. It's time for me to get out of here while the exit is free. Thank you, amigo, without you our community would have collapsed.}
-{302}{}{Hey, did you forget anything?}
-{303}{}{I'm sorry, but I deceived you - I don't have any friends among the caravaneers. But I'll tell everyone I know about your feat anyway. If you want, we'll go to Casa Grande together, it's safer that way. Decide now, I won't wait.}
-{304}{}{Then let's go.}
-{305}{}{No, our paths diverge here. Happily.}
-{306}{}{So, are you with us? The way to Casa Grande is difficult, it will be safer for you to travel with us.}
+{300}{}{Here's a power cell.}
+{301}{}{Incredible! How did you get it? Though, nevermind, I don't really want to know. I gotta get outta here while the exit's still availaible. Thanks, amigo. Without you, our community would die.}
+{302}{}{Hey! Aren't you forgetting something?}
+{303}{}{Oh. Sorry. I lied to you - I don't have any friends among the caravaneers. But I'll still tell everyone I know of what you've done. If you'd like, we could head to Casa Grande together. Safer that way. Decide now, I can't wait around.}
+{304}{}{Let's go.}
+{305}{}{No thanks. This is where our paths diverge. Goodbye.}
+{306}{}{So - you with us? It's tough traveling to Casa Grande alone. You'd be safer traveling with us.}

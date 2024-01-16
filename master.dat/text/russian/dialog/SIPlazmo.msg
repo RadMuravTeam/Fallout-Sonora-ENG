@@ -1,4 +1,4 @@
-{110}{}{This is a plasma rifle in non-working condition.}
-{111}{}{This is a plasma rifle in working condition.}
-{112}{}{You have successfully repaired this plasma rifle.}
-{113}{}{ now in your backpack.}
+{110}{}{This plasma rifle is not operational.}
+{111}{}{This plasma rifle is fully operational плазменная винтовка в рабочем состоянии.}
+{112}{}{You have successfully repaired the plasma rifle.}
+{113}{}{ is now in your backpack.}

@@ -1,39 +1,39 @@
-{100}{}{This is the owner of the hotel.}
-{101}{}{You see the owner of the hotel. He lazily scratches his belly, sitting heavily in the old pilot's seat.}
-{102}{}{Close the door quickly! These robots are everywhere!}
+{100}{}{You see the owner of the hotel.}
+{101}{}{You see the owner of the hotel. He's lazily scratching his belly as he sits heavily in the ancient pilot seat.}
+{102}{}{Close the door now! The robots are everywhere!}
 
-#The first dialog
-{200}{}{(reluctantly turns in your direction) All rooms are occupied.}
-{201}{}{But half of the keys are hanging on the counter...}
-{202}{}{A big race is planned. These numbers are not for sale. If you need to spend the night, I advise you to knock on residential buildings.}
-{203}{}{I don't think I'll be welcome there.}
-{204}{}{It's none of my business.}
-{205}{}{Uh, okay...}
+#First dialogue
+{200}{}{(reluctantly turns towards you) All rooms are occupied.}
+{201}{}{But there are so many keys hanging on the counter...}
+{202}{}{They're reserved. Not for sale. If you need a place to sleep, then I suggest asking people in other buildings.}
+{203}{}{I doubt they'll let me in.}
+{204}{}{That's your problem. Not mine.}
+{205}{}{Uhh, okay...}
 
-{210}{}{I told you - the rooms are occupied.}
-{211}{}{I think you're just avoiding strangers.}
-{212}{}{I remember.}
+{210}{}{I told you - all rooms are occupied.}
+{211}{}{I think you just want to avoid outsiders.}
+{212}{}{I know.}
 
-{213}{}{And I think that some people allow themselves too much.}
-{214}{}{Grm...}
+{213}{}{And I think somebody here is sticking their nose into things that are none of their business.}
+{214}{}{Hmm...}
 
-{215}{}{(leaning towards you) Tinkerers are afraid of espionage and do not want their plans to be public, so I have to be careful with strangers.}
-{216}{}{It's good that we found a common language.}
-{217}{}{As a Follower of Fire, I am outraged by your service!}
-{218}{}{I think the Brotherhood of Steel will not approve of such an attitude towards its subordinates.}
-{219}{}{Come on, why so much distrust?}
-{220}{}{You're out of town.}
-{221}{}{Well, yes, of course...}
+{215}{}{(leans towards you) The tinsmiths are afraid of espionage. They don't want anybody to know of their plans. I have to be careful with outsiders.}
+{216}{}{It's good that we've come to an agreement.}
+{217}{}{As a Follower of the Holy Fire, I am enraged by the quality of your service!}
+{218}{}{I don't think the Brotherhood of Steel will appreciate its members being treated like this.}
+{219}{}{Come on! What's with the distrust?}
+{220}{}{Think twice about where you are.}
+{221}{}{Yes, of course...}
 
-#Repeat dialog
-{250}{}{What can I do for you?}
-{251}{}{Thanks, I'll figure it out somehow.}
+#Repeat dialogue
+{250}{}{How can I help you?}
+{251}{}{You can't, but thanks for asking. I'll figure things out.}
 {252}{}{Goodbye.}
 
-{260}{}{Tell me what's going on here?}
-{261}{}{Tinsmiths are trying to open the burial ground of military equipment. There are no results yet, but it's only a matter of time.}
-{262}{}{Tinsmiths have opened the burial ground of military equipment. It looks like we have a lot of work ahead of us.}
-{263}{}{Do you know anything about slaves from the Villa?}
-{264}{}{No. I don't know. Ask in the hangar, they keep slaves there.}
-{265}{}{How did you manage to get along in this place?}
-{266}{}{I came here a few years ago when the tinsmiths opened a trade route with Phoenix. They needed a hotel to work with caravanners, and I organized it for them. If it wasn't for the tinsmiths, I wouldn't have lasted to my age. Surely he would be lying somewhere in the wastelands right now, warming his bones in the sun.}
+{260}{}{What's going on here?}
+{261}{}{The tinsmiths are trying to get access to a big cache of old war machines. No results yet, but it's just a matter of time.}
+{262}{}{The tinsmiths recently got access to a big treasure trove of old military technology. We all have a lot of work ahead of us, it seems.}
+{263}{}{Know anything about slaves from Villa?}
+{264}{}{No, I don't. Ask people in the hangar, that's where they keep the slaves.}
+{265}{}{How did you manage to settle in here?}
+{266}{}{I arrived here a couple of years ago, when the tinsmiths established a trade route with Phoenix. They needed a hotel to work with the caravaneers, and I made them one. If not for the tinsmiths, I wouldn't have made it to such an age. I'd probably be lying somewhere in the Wastes, my bones scraped clean by the desolate wind.}

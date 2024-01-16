@@ -1,90 +1,90 @@
-{100}{}{You see the gatekeeper.}
+{100}{}{You see a gatekeeper.}
 {101}{}{You see a tinsmith guarding the entrance to the settlement.}
-{102}{}{You can pass. But we'll be watching you.}
-{103}{}{No entry without permission!}
-{104}{}{(hides food and looks around) You can pass, but don't do anything stupid.}
+{102}{}{Access granted. But we'll be watching you.}
+{103}{}{Access is forbidden without permission!}
+{104}{}{(hides food and looks around) You can go in, but don't do anything stupid.}
 
-#Cut-the scene at the gate
-{110}{}{Something seems to be happening at the main gate.}
-{111}{}{Let me in immediately! Hard just has to listen to me!}
-{112}{}{Your little tribe thinks too much of itself. Get out.}
-{113}{}{How dare you! You've been dependent on our supplies for years and you can't just drive us away!}
-{114}{}{Now the Forbidden Zone gives us everything. You are no longer needed. Leave before I use force.}
-{115}{}{Damn you!}
+#Gate cutscene
+{110}{}{Looks like something is happening at the main gates.}
+{111}{}{Let me in! Khard has got to listen to me!}
+{112}{}{Your pathetic tribe thinks too highly of itself. Leave.}
+{113}{}{How dare you! You've been dependant on our shipments for years! You can't just force us to leave like this!}
+{114}{}{The Forbidden Zone gives us everything we need now. You are no longer useful. Leave before I employ force.}
+{115}{}{Damn you all to hell!}
 {116}{}{}
 {117}{}{}
 {118}{}{}
 {119}{}{   }
 
-#Primary dialog
-{200}{}{Wait. This is a closed area. Name the purpose of the visit.}
-{201}{}{Don't, I'm already leaving.}
-{202}{}{I see.}
+#First dialogue
+{200}{}{Halt. This is restricted territory. State purpose of visit.}
+{201}{}{No need, I am already leaving.}
+{202}{}{Alright.}
 
-{210}{}{We are not interested in this. Go away.}
-{211}{}{Let me in right now, you fucking cyborg!}
-{212}{}{Okay, I'll leave peacefully. But maybe I'll be back.}
-{213}{}{Go away. Otherwise, the power of Progress will level you to the ground.}
+{210}{}{We are not interested in this. Go.}
+{211}{}{Let me in, you damn cyborg!}
+{212}{}{Fine, I'll leave. But one day I might come back.}
+{213}{}{Leave, before the might of Progress utterly destroys you.}
 {214}{}{We'll see about that...}
-{215}{}{You can go through. While you're inside, hide your weapons and don't run into trouble. Don't talk to slaves. Do not enter the Restricted Area without permission. Go straight to the hangar and talk to Master Hard, our leader. That's it.}
-{216}{}{Quite a harsh set of rules. I will try not to create problems.}
-{217}{}{There was no need to say. And so everything is clear. Now move out of the way.}
-{218}{}{My bike needs maintenance.}
+{215}{}{You can come in. But while you're inside - keep your weapons holstered and do not cause issues. Go directly to the hangar. Do not talk to the slaves, do not enter the Forbidden Zone without permission. Upon arrival, speak with Master Khard, our leader. That is all.}
+{216}{}{Strict rules you have here. I'll try not to cause trouble.}
+{217}{}{Thanks, Captain Obvious. Now move out of the way.}
+{218}{}{My bike requires maintenance.}
 
 {220}{}{I'm looking for my relatives.}
-{221}{}{Maybe they're here. Or maybe not. We are gathering people to work from all over the wasteland, we need workers. If you want to find relatives, you need to go to the workshop.}
+{221}{}{Maybe they're here. Maybe they're not. We collect workers from all across the Wasteland. We need all the manpower we can get. If you wish to find your relatives, you will need to enter the hangar.}
 {222}{}{I see.}
 
 {223}{}{I'm here to trade.}
-{224}{}{We need some goods. The Hard Master will be interested in profitable trading.}
-{225}{}{Great, I'll be glad of a good deal.}
+{224}{}{We require certain goods. Master Khard will be interested in mutually-beneficial trade.}
+{225}{}{Great. I'll be happy to make a good deal.}
 
-{226}{}{I'm looking for technological enlightenment.}
-{227}{}{For a hundred years we have been connected by one power cable. Who are you to seek enlightenment from us? However, times have changed. Perhaps Master Hard will talk to you.}
+{226}{}{I'm on a quest to achieve technological enlightenment.}
+{227}{}{We have been connected by one single power cable for a hundred years. And you, an outsider, seek enlightenment from us? Though... times have changed. Master Khard may will be willing to talk to you.}
 {228}{}{This is encouraging.}
 
-{229}{}{I need maintenance. Here are two hundred caps to start with.}
-{230}{}{We love work. And we love technology. Your problem will become our problem if you can pay.}
-{231}{}{I think I will find the right amount of caps.}
+{229}{}{I need something maintained. Here's 200 caps for a start.}
+{230}{}{We love work. And we love technology. Your problem will become our problem. If you can afford the price.}
+{231}{}{I think I'll find the amount of caps you need.}
 
-{232}{}{I am only a peaceful preacher of the Sacred Fire. Let me in for the night, generous tinker!}
-{1232}{}{I am only a peaceful preacher of the Sacred Fire. Let us in for the night, generous tinker!}
-{233}{}{The Church of the Sacred Fire has been our reliable partner for several years. We welcome you to Two-Sun, minister.}
-{1233}{}{Sacred Fire Church has been our reliable partner for several years. We welcome you to Two-Sun, servant.}
-{234}{}{I'm glad to hear that.}
+{232}{}{I'm but a peaceful missionary of the Holy Fire. Let me rest here, noble tinsmith!}
+{1232}{}{I'm but a peaceful missionary of the Holy Fire. Let me rest here, noble tinsmith!}
+{233}{}{The church of the Holy Fire has been a reliable partner for several years. We welcome you to Two Sun, acolyte.}
+{1233}{}{The church of the Holy Fire has been a reliable partner for several years. We welcome you to Two Sun, acolyte.}
+{234}{}{Glad to hear it.}
 
 {235}{}{I'm from the Brotherhood of Steel.}
-{236}{}{We bow before the greatness of the Brotherhood. Your technology is excellent.}
-{237}{}{It's true.}
+{236}{}{We bow down before the greatness of the Brotherhood. Your technologies are excellent.}
+{237}{}{That's certainly true.}
 
-{238}{}{See this robe? I am a Follower of Fire, we have good relations with your people.}
-{239}{}{After the fall of your citadel, you risk just your appearance. Go away and don't cause us any problems.}
-{240}{}{Damn...}
+{238}{}{See these robes? I'm a Follower of the Holy Fire. We have good relations with your people.}
+{239}{}{After the fall of your citadel, you take a risk merely approaching our territory. Leave and do not cause us issues.}
+{240}{}{Shit...}
 
-{241}{}{I'm going from the Cathedral of Fire to the Steel Port. I was told I'd find a place to sleep on the way here.}
-{242}{}{We appreciate what the Sacred Fire Church does. You can pass.}
+{241}{}{I've been sent to Steel Port from the Cathedral of the Holy Fire. I was told I'd find a place to rest here.}
+{242}{}{We value what the church of the Holy Fire is doing. Access granted.}
 {243}{}{Thank you.}
-{244}{}{I'm here to trade. This atomic clock is not the only thing available to me.}
+{244}{}{I'm here to trade. This atomic clock is not the only thing I have.}
 
-#Repeat dialog
-{250}{}{You can pass. But we'll be watching you.}
-{251}{}{Of course, uh, no problem.}
-{252}{}{Hard assigned to investigate the attack on the caravan.}
-{253}{}{It is very strange that Master Hard trusted strangers. But I can only obey.}
-{254}{}{Give me some time before I hit the road.}
-{255}{}{Who do you think would attack the caravan?}
-{256}{}{Previously, no one dared to meddle in our lands, except for highway workers and rare robbers from the north. When Two-Sun opened up to the world, we had a lot of external connections, it could attract even more bandits. Consider it the costs of Progress.}
-{257}{}{What do the caravaneers themselves say?}
-{258}{}{The attack was sudden - the bandits had been waiting for the caravan for several days, hiding in an old building near the highway. They were only interested in the cargo, they allowed the caravaneers to leave.}
-{259}{}{Is there something unusual about this?}
-{260}{}{Some of the bandits used energy weapons. We believe it was mined in a Restricted Area.}
-{261}{}{Show me the place of the attack.}
-{262}{}{It's an old cafe on the interstate a few miles from here.}
-{263}{}{[Go to the place of the attack]}
-{264}{}{And sheathe your weapons, otherwise you'll have problems.}
-{265}{}{OK.}
+#Repeated dialogue
+{250}{}{Access granted. But we'll be watching you.}
+{251}{}{Of course, uhh, no problem.}
+{252}{}{Khard has ordered me to investigate the attack on the caravan.}
+{253}{}{It is very peculiar that Master Khard trusts an outsider. But I can only obey.}
+{254}{}{I need some time before I leave.}
+{255}{}{Who do you think could have attacked the caravan?}
+{256}{}{In the past, no one dared to enter our territory except for the highwaymen and the rare northern bandits. But when Two Sun opened itself to the world, the connections that became availaible to us could have attracted more bandits. Consider it the cost of Progress.}
+{257}{}{What did the caravaneers themselves say?}
+{258}{}{The attack was an ambush - the bandits were waiting for the caravan for several days, hiding in an old building near the highway. They were interested only in the cargo. They let the caravaneers go.}
+{259}{}{Was there anything out of the ordinary about the attack?}
+{260}{}{Some of the bandits utilized energy-based weaponry. We think they acquired it in the Forbidden Zone.}
+{261}{}{Show me the site of the attack.}
+{262}{}{The old cafe on the federal highway. It is a few miles away from here.}
+{263}{}{[Head to the site of the attack]}
+{264}{}{And holster your weapons. Or there will be trouble.}
+{265}{}{Okay.}
 
-{270}{}{Why did you hang this man on a pole?}
-{271}{}{The followers of Fire turned out to be stupid and unworthy of our technologies. The body of this despicable one will serve as an example to the rest.}
-{272}{}{I approve. It is high time for these sectarians to disappear from our world.}
-{273}{}{Don't you find it too cruel? However, it's up to you.}
+{270}{}{Why did you hang this man?}
+{271}{}{It appeared that we had overestimated the intelligence of the Followers of the Holy Fire. They were not deserving of our technology. The body of one of their members will serve as a warning to the rest.}
+{272}{}{I approve of this message. These cultists should have been wiped off the face of the Earth a long time ago.}
+{273}{}{Don't you think that's a little inhumane? Though, I suppose it's not really any of my business.}

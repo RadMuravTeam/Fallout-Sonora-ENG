@@ -1,44 +1,44 @@
-{100}{}{You see the surgeon.}
-{101}{}{You see a surgeon in a blood-stained robe.}
-{102}{}{If I don't hurry up, then no medicine will help me...}
+{100}{}{You see a surgeon.}
+{101}{}{You see a surgeon in a blood-stained lab coat.}
+{102}{}{If I don't hurry, no kind of medicine will help me here...}
 
-#The first dialog
+#First dialogue
 {200}{}{What's the problem?}
-{201}{}{Are you always so cavalier with patients?}
-{202}{}{(folds gloves and rubs hands) I am alone, but there are many patients. Are you something special?}
-{1202}{}{(folds gloves and rubs his hands) I am alone, but there are many patients. Are you something special?}
-{203}{}{I don't know... What will make me special?}
-{1203}{}{I don't know... What will make me special?}
-{204}{}{A special title of a Follower of Fire... Or a large amount of caps. So do you need something?}
-{205}{}{Perhaps.}
-{206}{}{No, nothing. I was just curious.}
+{201}{}{Do you always have such a cavalier attitude to patients?}
+{202}{}{(folds his gloves and rubs his hands) I am one, and my patients are many. Are you somehow special?}
+{1202}{}{(folds his gloves and rubs his hands) I am one, and my patients are many. Are you somehow special?}
+{203}{}{I don't know... What makes one special?}
+{1203}{}{I don't know... What makes one special?}
+{204}{}{Being a Follower of the Holy Fire... Or posessing a large amount of caps. So, do you need anything?}
+{205}{}{I suppose.}
+{206}{}{No, I don't. I was just curious.}
 
-#Repeat dialog
+#Repeated dialogue
 {210}{}{What's the problem?}
-{211}{}{Nothing.}
+{211}{}{There isn't any.}
 
-#Treatment
-{220}{}{I need treatment.}
-{221}{}{Well, let's see. What will we treat?}
+#Healing
+{220}{}{I require healing.}
+{221}{}{Well, let's see. What will we be healing?}
 {222}{}{Injury.}
-{223}{}{Injury.}
+{223}{}{Physical trauma.}
 {224}{}{Irradiation.}
 {225}{}{Poisoning.}
-{226}{}{Come on, it'll pass by itself.}
-{227}{}{The usual case. We will cure it. But since you are not a Follower, you will have to make a donation - }
+{226}{}{Forget it, it will heal by itself.}
+{227}{}{Regular case. Will deal with. But seeing as you're not a Follower, you will have to make a donation - }
 {228}{}{ caps.}
-{229}{}{Here are the bottlecaps.}
-{230}{}{The usual case. We will cure it.}
-{231}{}{Very sorry. In that case, I can't do anything to help.}
-{232}{}{How so...}
-{233}{}{No need, it will heal itself.}
-{234}{}{Praise the Sacred Fire. Now get out of the office, I have other patients on the waiting list.}
+{229}{}{Here they are.}
+{230}{}{Regular case. Will deal with.}
+{231}{}{Very sad. In that case, I can't help you.}
+{232}{}{How can this be...}
+{233}{}{Forget it, it will heal by itself.}
+{234}{}{Praise the Holy Fire. Now, get out, I have other patients to take care of.}
 {235}{}{That's not all, doc.}
-{236}{}{Do it, doc.}
+{236}{}{Make it so, doc.}
 {237}{}{With pleasure.}
 
-{240}{}{Have you come across any peasants from the Villa?}
-{241}{}{Hmm, one of the slaves mentioned the Villa during the survey.}
+{240}{}{Did you happen to see peasants from Villa?}
+{241}{}{Hm, one of the slaves mentioned Villa during examination.}
 {242}{}{What happened to him?}
-{243}{}{I don't know. Reports on the supply of slaves are kept in the Cathedral. My job is only to conduct a medical examination.}
-{244}{}{I see.}
+{243}{}{I have no idea. The reports about slave transfers are made in the Cathedral. My job is to medically examine them.}
+{244}{}{Alright.}

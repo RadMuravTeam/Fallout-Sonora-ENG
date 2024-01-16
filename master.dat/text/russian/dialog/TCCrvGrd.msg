@@ -1,15 +1,15 @@
-{100}{}{You see the guard.}
-{101}{}{In front of you is a caravan guard. He is resting after a tiring journey.}
+{100}{}{You see a guard.}
+{101}{}{You see a caravan guard. They're resting after a long and exhausting trip.}
 
-{110}{}{Great.}
+{110}{}{Howdy.}
 {111}{}{Let me rest.}
-{112}{}{Do you want to travel with us?}
-{113}{}{There is a restless road between Phoenix and Fog.}
-{114}{}{Dust storms are sometimes more dangerous than raiders.}
-{115}{}{We have a dangerous job.}
-{116}{}{Talk to the boss, I'm just guarding the cargo.}
-{117}{}{I'd stay away from tinsmiths if I were you.}
-{118}{}{Need some advice? Don't go to the local doctor.}
-{119}{}{I'd rather go back to Phoenix.}
-{120}{}{Tinsmiths don't like strangers and try to avoid unnecessary conversations.}
-{121}{}{I'm scared of these tinsmiths - they're like robots.}
+{112}{}{Want to travel with us?}
+{113}{}{The Phoenix-Two Sun route isn't very safe.}
+{114}{}{Dust storms are often more dangerous than raiders.}
+{115}{}{Our profession is a difficult one.}
+{116}{}{Talk to the boss, I just guard the goods.}
+{117}{}{If I were you, I'd stay away from those tinsmiths.}
+{118}{}{Want a tip? Don't visit the local doctor.}
+{119}{}{I miss Phoenix.}
+{120}{}{The tinsmiths don't like outsiders and try to avoid any more conversation than is strictly necessary.}
+{121}{}{I don't like those tinsmiths - they're almost like robots.}

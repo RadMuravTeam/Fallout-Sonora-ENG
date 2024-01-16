@@ -1,4 +1,4 @@
-{100}{}{You see Nathan I.}
-{101}{}{You see a hefty pig-rat. His eyes are glowing red with rage.}
-{102}{}{Die, you damned thing!}
-{103}{}{Such animals have no place near people.}
+{100}{}{You see Nataani.}
+{101}{}{You see a gigantic pigrat. It's eyes are red from rage.}
+{102}{}{Die you damn beast!}
+{103}{}{These things have no place among humans.}

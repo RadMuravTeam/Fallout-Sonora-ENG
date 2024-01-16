@@ -1,2 +1,2 @@
-{100}{}{you get }
-{101}{}{ experience for finding Vault 25.}
+{100}{}{You receive }
+{101}{}{ experience points for finding Vault 25.}

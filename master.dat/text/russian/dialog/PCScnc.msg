@@ -1,45 +1,45 @@
-{100}{}{This is Arthur Carrington.}
-{101}{}{You see the same archaeologist from Vault 27.}
-{102}{}{Thanks for everything! Meet me in Casa Nueva.}
-{103}{}{Thanks for everything! I'll meet you at the Villa.}
+{100}{}{You see Arthur Carrington.}
+{101}{}{You see the archeologist from Vault 27.}
+{102}{}{Thank you for everything! We'll meet in Casa Nueva.}
+{103}{}{Thank you for everything! We'll meet in Villa.}
 
-#The first dialog
-{200}{}{And here is my savior. Good to see you.}
-{201}{}{What are you doing here? It seemed to me that after the Vault you would go to the Temple of Fire and plunge into science.}
-{202}{}{That's what I did. But the Temple of Fire was destroyed. I don't know what happened there, but the fire worshippers are now in exile, and no one needs a scientist like me anymore.}
-{203}{}{Are you sure?}
-{204}{}{There is one clue. In the Temple, I came across scant reports about a cult with a scientific bias called Followers of the Apocalypse. Their base is somewhere in the south, but there is too little information. If you meet these guys, let me know. Okay?}
-{205}{}{I promise nothing. And thanks for the tip.}
+#First dialogue
+{200}{}{Ah, it's my savior. Happy to see you.}
+{201}{}{What are you doing here? I thought after the whole Vault ordeal, you were going to head to the Temple of Fire and dive deep into doing science.}
+{202}{}{I would have. But the temple of Fire was destroyed by the time I arrived. I don't know what happened there, but the Fire-worshippers are now being persecuted, and no one needs a scientist like me around anymore.}
+{203}{}{You sure?}
+{204}{}{There's one thing I found that is interesting. A while ago, I saw reports in the Temple about a cult revering science, called the "Followers of the Apocalypse". Their base is somewhere to the south, but the files had rather little information. If you meet those guys, let me know, okay?}
+{205}{}{Can't promise you anything. Thanks for the information, though.}
 
-{210}{}{So what now?}
+{210}{}{So, what now?}
 {211}{}{Nothing. Bye.}
-{212}{}{Later.}
+{212}{}{Bye.}
 
-{220}{}{Why do you think the Temple of Fire fell?}
-{221}{}{I know that a nuclear bomb was made in the Vault under the temple. But a spontaneous explosion is almost impossible. It looks very much like a diversion. The fire worshippers had many enemies, the only wonder is that they were able to penetrate so deeply. Hmm, obviously it was someone they trusted...}
+{220}{}{Why do you think the temple of Fire fell?}
+{221}{}{I know they were making a nuclear bomb in the Vault underneath the building. But it spontaneously exploding is effectively impossible. There's only one thing it could be - sabotage. The Fire-worshippers had many enemies, but it's surprising that whoever did this managed to get so deep inside. Hm, it was obviously someone they trusted...}
 {222}{}{It was me.}
 {1222}{}{It was me.}
-{223}{}{Don't say such things. I won't take your word for it anyway, and you don't need any extra rumors in the city, believe me.}
-{224}{}{And why do they need a bomb?}
-{225}{}{All I know is that it was made to order.}
+{223}{}{... I don't know what to say. Frankly, I think you might be lying. Regardless, don't say that to anybody. It won't do you any good, believe me.}
+{224}{}{Why did they need a bomb, anyways?}
+{225}{}{I know only that they were building it for someone else.}
 {226}{}{What are you going to do?}
-{227}{}{I will look for a place where scientists like me are needed. Apart from the dubious rumors about the Followers of the Apocalypse, I have no other ideas.}
-{228}{}{Move to the Villa. We need workers to recover from the raid. And fresh brains that won't be limited by our foundations.}
-{229}{}{The villa you were talking about in the Vault, right? I made inquiries and found out that this is a closed rural community. The Cult of Fire has managed to collect quite a lot of information about you. Well, I think this is a great place for research and the introduction of new technologies.}
-{1229}{}{The villa you were talking about in the Vault, right? I made inquiries and found out that this is a closed rural community. The Cult of Fire has managed to collect quite a lot of information about you. Well, I think this is a great place for research and the introduction of new technologies.}
-{230}{}{Agreed. When you get there, tell me you're from me. See you at the Villa.}
-{231}{}{Take your time, I'll still try to find out about the Followers of the Apocalypse.}
-{232}{}{I managed to find Followers in Casa Nueva. They will gladly accept a fellow scientist. So hit the road.}
-{233}{}{For a farm dweller, you have an amazing amount of connections. Thank you, you're a real hero.}
+{227}{}{I'll look for a place where scientists like me are needed. Aside from those questionable rumours about the Followers of the Apocalypse, I have no other ideas.}
+{228}{}{Why don't you come to Villa? More people will make restoring the place after that raid easier. And we could definitely use fresh brains that aren't restricted by our traditions.}
+{229}{}{The Villa you were talking about in the Vault, right? I read various reports and figured out it's a closed commune of peasants. The Cult of the Fire has detailed files on you. As for your offer, well, I think it should be a great place to test and introduce new technologies.}
+{1229}{}{The Villa you were talking about in the Vault, right? I read various reports and figured out it's a closed commune of peasants. The Cult of the Fire has detailed files on you. As for your offer, well, I think it should be a great place to test and introduce new technologies.}
+{230}{}{Deal. Tell them I sent you when you get there. See you in Villa.}
+{231}{}{Don't rush it. I'll still try to learn about the Followers of the Apocalypse.}
+{232}{}{I managed to find the Followers in Casa Nueva. They'll be glad to accept a fellow man of science.}
+{233}{}{You sure have a lot of connections for a farmer. Thank you.}
 {234}{}{See you in Casa Nueva.}
 
-{240}{}{I will look for a place where scientists like me are needed. So far, I only know about the scientific base in Casa Nueva. But my reputation... doesn't quite answer this place. Do you know other places?}
-{241}{}{Move to the Villa. We need workers to recover from the raid. And fresh brains that will not be limited by our foundations.}
-{242}{}{The villa you were talking about in the Vault, right? I made inquiries and found out that this is a closed rural community. The Cult of Fire has managed to collect quite a lot of information about you. Well, I think this is a great place for research and the introduction of new technologies.}
-{1242}{}{The villa you were talking about in the Vault, right? I made inquiries and found out that this is a closed rural community. The Cult of Fire has managed to collect quite a lot of information about you. Well, I think this is a great place for research and the introduction of new technologies.}
-{243}{}{Agreed. When you get there, tell me you're from me. See you at the Villa.}
-{244}{}{You know, it's a bad idea. They won't accept you there, they generally have a bad attitude towards scientists there. You'd better go to Casa Nueva. Or wherever you were going.}
-{245}{}{Surely Casa Nueva will be happy to welcome a fellow scientist. Maybe I'll look there someday.}
-{246}{}{That's for sure. Although the way through the desert is not easy. Maybe I'll see you again.}
+{240}{}{I'll look for a place where scientists like me are needed. But so far, I only know of the Casa Nueva science base. But my reputation... doesn't quite match that place. Maybe you know of other places?}
+{241}{}{Why don't you come to Villa? More people will make restoring the place after that raid easier. And we could definitely use fresh brains that aren't restricted by our traditions.}
+{242}{}{The Villa you were talking about in the Vault, right? I read various reports and figured out it's a closed commune of peasants. The Cult of the Fire has detailed files on you. As for your offer, well, I think it should be a great place to test and introduce new technologies.}
+{1242}{}{The Villa you were talking about in the Vault, right? I read various reports and figured out it's a closed commune of peasants. The Cult of the Fire has detailed files on you. As for your offer, well, I think it should be a great place to test and introduce new technologies.}
+{243}{}{Deal. Tell them I sent you when you get there. See you in Villa.}
+{244}{}{You know, now that I think about it, that's a terrible idea. They won't accept you there, they have a problem with scientists in general. You better go to Casa Nueva. Or wherever you were thinking of going.}
+{245}{}{I'm sure the Followers will be glad to accept a fellow man of science. Maybe I'll head to Casa Nueva one day and we'll see each other again.}
+{246}{}{That's right. Though the passage through the desert won't be easy. Maybe we'll see each other again sometime.}
 {247}{}{Exactly. See you in Casa Nueva.}
-{248}{}{It's unlikely. Goodbye, Arthur.}
+{248}{}{That's probably not going to happen. Farewell, Arthur.}

@@ -1,28 +1,31 @@
-{100}{}{This is Cadet Burke.}
-{101}{}{You see a skinny and very inexperienced cadet. It is not surprising that he was placed on this post.}
+#---------------------------------------------------------
+#  Translated by Georg; revised by garwert.
+#---------------------------------------------------------
+{100}{}{You see Cadet Birk.}
+{101}{}{You see a quite inexperienced scrawny-looking cadet. No wonder he was assigned here.}
 
-{200}{}{ (in front of you is a young man with a thin neck; looking at you, he cannot cross eyes in any way and every minute makes a short strained grin) I wish you good health! What can I do for you?}
+{200}{}{(you see a young man with a thin neck; looking at you, he can't look away, often making a short stretched smirk) Greetings! How may I help you?}
 {201}{}{What is this place?}
-{202}{}{This is an information center... more precisely, this is the reception room, more precisely... (straightens up) Here we discuss business with strangers, sir!}
-{1202}{}{This is an information center... more precisely, this is the reception room, more precisely... (straightens up) Here we discuss business with strangers, ma'am!}
+{202}{}{This is the information center... well, actually a reception room, or more of a... (straightens his back) Here we discuss business with outsiders, sir!}
+{1202}{}{This is the information center... well, actually a reception room, or more of a... (straightens his back) Here we discuss business with outsiders, ma'am!}
 
-{203}{}{Who is "we"?}
-{204}{}{( makes a confused face) Rangers... That is... (straightens up) Cadet Burke at your service! If you need a senior ranger, you'll have to make an appointment.}
-{205}{}{And who is behind this door?}
+{203}{}{Who are "we"?}
+{204}{}{(makes a confused face) The rangers... That is... (straightens up) Cadet Birk at your service! If you need a ranger of a senior rank, you'll have to make an appointment.}
+{205}{}{Who's behind that door?}
 {206}{}{Field Commander Helford... But you haven't made an appointment yet, so I can't...}
 {207}{}{Great, maybe he can help me.}
 {208}{}{Hey, wait!}
 {209}{}{[Leave]}
 
-{210}{}{I need your main one.}
-{211}{}{The General? Oh no, you can't go to the general in any way.}
-{212}{}{And who can I go to?}
-{213}{}{Field Commander Helford is behind this door... But you have to make an appointment, I can't let in...}
+{210}{}{I need to see your leader.}
+{211}{}{The general? Oh. No, I'm afraid you can't visit the general.}
+{212}{}{Who *can* I visit then?}
+{213}{}{Field Commander Helford is behind that door... But you must make an appointment, I can't le...}
 {214}{}{Great, maybe he can help me.}
 {215}{}{Hey, wait!}
 {216}{}{[Leave]}
 
-{220}{}{Just don't cause me any problems.}
+{220}{}{Just don't create any trouble for me.}
 {221}{}{I won't.}
-{222}{}{Hi, uh, congratulations on the promotion. And I still have to serve for years to the rank of ranger.}
-{223}{}{Bye.}
+{222}{}{Hi, uhh, congratulations with the promotion. And I still have years of service ahead before I can receive the title of a ranger.}
+{223}{}{Goodbye.}

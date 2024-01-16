@@ -1,5 +1,5 @@
 {100}{}{You see a radio operator.}
-{101}{}{You see a woman with a prim look.}
+{101}{}{You see a woman with a stiff look.}
 
 {200}{}{Hi.}
 {201}{}{Bye.}
@@ -8,10 +8,10 @@
 {211}{}{Bye.}
 
 {220}{}{Tell me about yourself.}
-{221}{}{Jane's communications officer.}
-{222}{}{How did you become a ranger?}
-{223}{}{So it happened.}
-{224}{}{Uh, a lot has become clear.}
+{221}{}{Liaison officer Jain.}
+{222}{}{How did you become a Ranger?}
+{223}{}{I became one.}
+{224}{}{Uhh, this cleared a lot up.}
 {225}{}{Any more stupid questions?}
 {226}{}{Yes.}
 {227}{}{No.}
@@ -19,72 +19,72 @@
 {229}{}{Let's change the subject.}
 
 {230}{}{What is this place?}
-{231}{}{This is a radio station. Ra-di-o-station. Don't confuse it with radiation... Damn, it looks like you're going to have to explain this for a long time. In short, we use this equipment to communicate remotely with our patrols.}
-{232}{}{It's amazing that all this technology still works.}
-{233}{}{Yes. Works. And it keeps "afloat" only thanks to external relations. We get spare parts from trade caravans and energy from the local dam.}
-{234}{}{In the wastelands, few have the technology of the Old World.}
-{235}{}{That's for sure. Technology is a necessity, not a luxury. Many are even afraid of such places. But in our case, knowledge about this technology has been passed down for generations and recorded on holodisks. For us, this is also a relic in some way.}
-{236}{}{And where are all the staff? There's almost no one here.}
-{237}{}{I have enough chatter on the radio. And even more so, I'm not going to tolerate outsiders here.}
-{238}{}{Do you want to go somewhere to relax?}
-{239}{}{For example? I don't mind shooting coyotes, but I don't care about your company.}
-{240}{}{You seem to be mad at people?}
-{241}{}{Maybe so. There are only fools around. When another cadet causes problems or another sergeant goes against the commander, you involuntarily get disappointed in people.}
-{242}{}{What is this field with crosses near the station?}
-{243}{}{Cemetery. Rangers and their loved ones are buried there. I hope you're not going to desecrate the graves, otherwise it will be the last mistake in your short life.}
-{244}{}{Can I ask another question about this one... a radio station?}
+{231}{}{It's a radio station. Raid-io-station. Don't mix it up with radiation... Dammit, looks like it'll take a while to explain it to you. In short, we use this equipment to communicate with our patrols from a distance.}
+{232}{}{It's a wonder how all this technology still works.}
+{233}{}{Yes. It works. And it is kept so only with external connections. We get spare parts from trade caravans, and the energy from the local dam.}
+{234}{}{Few in the wastes have Old World technology.}
+{235}{}{Bingo. Technologies are a necessity, not a luxury. Many even fear places such as these. But in our case, knowledge about this technology has been passed down from previous generations and was recorded on holotapes. It is also a relic to us, in a way.}
+{236}{}{Where's all the personnel? There's almost noone here.}
+{237}{}{I have enough chatter on the radio. And I'm especially not going to tolerate outsiders here.}
+{238}{}{Don't you want to go somewhere and relax?}
+{239}{}{Like? I'm not against shooting some coyotes, but I have no business with your society.}
+{240}{}{Angry at people?}
+{241}{}{Maybe so. There only seem to be idiots around. When another cadet creates problems or another sergeant goes against commander's orders, you unwillingly get dissapointed in people.}
+{242}{}{What's that field with crosses near the station?}
+{243}{}{A cemetary. Rangers and their loved ones are buried there. I hope you're not going to defile the graves. Otherwise, that would be the last mistake you would make in your short life.}
+{244}{}{Can I ask another question about that... rad-station?}
 
-{250}{}{I need radio codes.}
-{251}{}{This is official information, that ordinary peasants are not supposed to know.}
-{252}{}{I'm a rookie.}
-{253}{}{Okay, forget it.}
-{254}{}{Then shove your codes deeper.}
-{255}{}{Then I'm sorry. Here are the codes and the cipher of the main negotiation frequencies. Don't you dare show it to anyone except other rangers.}
-{256}{}{Thank you, Officer.}
-{257}{}{I know without you.}
+{250}{}{I need the radio codes.}
+{251}{}{That is official information not meant to be known by simple peasants.}
+{252}{}{I'm a new recruit.}
+{253}{}{Fine, forget it.}
+{254}{}{Then push your codes deeper up you-know-where.}
+{255}{}{Sorry then. Here are the codes and the cipher for the main communication frequencies. Don't even think of showing it to anyone other than other Rangers.}
+{256}{}{Thank you, officer.}
+{257}{}{I know that already.}
 
 {260}{}{The dam is destroyed. Why are you still here?}
-{261}{}{In this difficult time, my work is especially important. The management is looking for a new place to base, and without remote communication, they will be blind in their search.}
-{262}{}{[Next]}
-{263}{}{In any case, it will not last long, because the resource of backup generators is limited. When they run out or break down, the radio station will become useless. However, from the top, there is a good view of the valley.}
-{264}{}{I see.}
+{261}{}{In these hard times my job is even more important. The leadership is searching for a new place to call a base, and without remote communication they'll be blind in their search.}
+{262}{}{[Continue]}
+{263}{}{In any case, this won't last long, since the energy in the standby generators is limited. When the energy ends or they break this radio station will become useless. Still, there's a good view of the valley from the top.}
+{264}{}{Understood.}
 
-{270}{}{They say it was thanks to you that the spy who was hiding with the farmers was discovered? Good job.}
-{271}{}{Glad to try.}
-{1271}{}{Glad to try.}
-{272}{}{It's nothing.}
-{273}{}{So it was thanks to you that Jason got out of the clutches of the Jackals? Well done. We thought we'd lost everyone from that patrol.}
-{274}{}{Glad to try.}
-{1274}{}{Glad to try.}
+{270}{}{They say that spy hiding near the farmers was caught thanks to you. Good job.}
+{271}{}{Happy to help.}
+{1271}{}{Happy to help.}
+{272}{}{Oh, it's nothing.}
+{273}{}{So it was thanks to you that Jason got out of the Jackals' paws? Great. We were thinking that we lost everyone from that patrol.}
+{274}{}{Happy to help.}
+{1274}{}{Happy to help.}
 {275}{}{You're welcome.}
 
-#Story quest
+#—южетный квест
 {278}{}{Really?}
-{279}{}{The fact is that half of the signal amplifiers have long been out of order. We need to fix them or find a replacement for them. Then the connection will be enough to control the territory up to Phoenix... Well, or at least to San Brahmin.}
-{280}{}{Commander Helford sent me.}
-{281}{}{Great. The station is in need of repair, and Helford is sending peasants for this! Do you have any idea how a radio station works?}
-{282}{}{I'll figure it out. What needs to be done?}
-{283}{}{Now our guys have a lot of work on the eastern and southeastern front. But radio communication does not reach some outposts. Although I could.}
-{284}{}{Where is the broken equipment located?}
-{285}{}{Go down to the utility room under the antenna. I'm afraid there won't be enough cans and forks to fix it. Perhaps the scavengers will have useful parts in Garage City, but they don't like rangers. Can you help us with this problem?}
-{286}{}{I'm going to see what it is...}
-{287}{}{Wait a minute. You're probably going to the Garage for the parts, right? Then there is one more request. We lost patrolmen in that area. Try to find out what happened to them. Our communication does not reach far, but near the radios will be able to detect each other's signals. If you manage, the Rangers will be grateful to you.}
-{288}{}{I will find them.}
-{289}{}{I can't promise anything.}
-{290}{}{The radio transmitter has been restored.}
-{291}{}{The echo source has been destroyed. It was a spy relay.}
-{292}{}{Remind me what I needed to do.}
-{293}{}{Still, it's difficult for your mind, isn't it? Find the source that creates the "echo" in our broadcasts. To do this, go to the wasteland to the east of our base. You will need to monitor the signal on the walkie-talkie to determine the location of the source.}
-{294}{}{Great. Let's see what came of it...}
-{295}{}{[Next]}
-{296}{}{Amazing! Now we will be able to expand control over the territory... Wait a minute. Do you hear that?}
-{297}{}{Echo? Is something duplicating your signal?}
-{298}{}{It looks like it... The signal is very low, coming in an easterly direction. We couldn't detect it before. It may be a mistake with the new equipment, but... look, we need to know exactly what it is. This hindrance should not be ignored.}
-{299}{}{[Next]}
-{300}{}{Go to the signal bearing and find out what causes the radio echo. I'll give you a walkie-talkie to find him.}
-{301}{}{Eh, and it already seemed to me that the task was completed ...}
+{279}{}{The thing is that half of the signal amplifiers went offline a long time ago. They need to be repaired or replaced. Then the connection will be gooe enough to control territory up to Phoenix... Or at least up to San-Brahmin.}
+{280}{}{I was sent here by commander Helford.}
+{281}{}{Great, just great. The station nees repairs and Helford sends peasants to do it! Do you even begin to imagine how a radio station works?}
+{282}{}{I'll figure it out. What do I need to do?}
+{283}{}{Right now, our guys have a lot of work to do in the eastern and south-eastern fronts. But the radio communications don't reach some of the outposts. Even though it could.}
+{284}{}{Where is the broken equipment?}
+{285}{}{Head down to the backroom under the antenna. I'm afraid tin cans and forks won't be enough for repairs. Maybe you'll find useful components in Garage-City, from the Scavengers, but they don't like the Rangers. Can you help us with this problem?}
+{286}{}{I'll go see what's going on there...}
+{287}{}{Wait just a minute. You are going to Garage to get components, right? Then I have another request. We lost a patrol in that region. Try to learn what happened to them. This station isn't strong enough to reach that region, but closeby, radios can detect signals from one another. If you manage to do it the Rangers will be very grateful.}
+{288}{}{I'll definitely find that patrol.}
+{289}{}{I can't promise you anything.}
+{290}{}{The radio transmitter is restored.}
+{291}{}{The source of the "echo" is destroyed. It was a spy repeater.}
+{292}{}{Remind me what I need to do.}
+{293}{}{So it *is* too complicated for your mind, yes? Find the source that is creating "echoes" in our broadcasts. To do that, head to the wastes east from our base. You'll need to track the signal with a radio to pinpoint the location of the source.}
+{294}{}{Great. Let's see what this ended up in...}
+{295}{}{[Continue]}
+{296}{}{Amazing! Now we will be able to increase our control over the territories near... Wait. Are you hearing this?}
+{297}{}{An echo? Something is repeating your signal?}
+{298}{}{Looks like it... The signal is very weak, it's from the east. We couldn't detect this before. It might be a mistake in the new equipment, but... Listen, we have to know what it is for sure. We musn't ignore this noise.}
+{299}{}{[Continue]}
+{300}{}{Head to the signal bearing and find out what is causing the echo. I'll give you a radio to search for it.}
+{301}{}{Eh, and here I thought this assignment was complete...}
 
-{302}{}{What a surprise! It seemed to me that only we possess the technology of such powerful radio broadcasts. Tell Captain Helford about the results of the operation immediately.}
-{303}{}{[Next]}
-{304}{}{And you have the makings. Tell Commander Helford about the results of the operation.}
-{305}{}{Yes!}
+{302}{}{This is unexpected! I thought we were the only ones with the technologies for such powerful  radio broadcasts. Report to captain Helford immediately to tell him about the results of this operation.}
+{303}{}{[Continue]}
+{304}{}{You have something in you... Tell commander Helford about the results of the operation.}
+{305}{}{Aye-aye!}

@@ -1,125 +1,125 @@
-{100}{}{You see Professor Zimmer.}
-{101}{}{You see the leader of the scientific group. He looks weird.}
-{102}{}{Now is not the time for scientific controversy...}
+{100}{}{You see professor Zimmer.}
+{101}{}{You see the leader of the science team. He looks strange.}
+{102}{}{Now is not the time for heated scientific discussions...}
 
-#The first dialog
-{200}{}{(in front of you is a scientist in a lab coat with a crazy look and tousled hair; he speaks without looking up from his tablet) I'm busy, get out.}
-{201}{}{I'm new here, can I have a couple of questions?}
+#First dialogue
+{200}{}{(you see a scientist in a lab coat, with a crazy-looking gaze and tousled hair; he speaks without looking away from his tablet) I'm busy, go away.}
+{201}{}{I haven't been here for too long, could I ask you a couple of questions?}
 {202}{}{How dare you talk to me like that?!}
-{203}{}{Then I'm sorry to bother you.}
+{203}{}{Sorry for disturbing you.}
 
-{207}{}{That's what I'm trying to explain - I'm new here and...}
-{208}{}{Security! We have an outsider!}
+{207}{}{I'm trying to tell you just that - I'm new here and...}
+{208}{}{Security! Intruder!}
 {209}{}{You shouldn't have done that...}
 
-{210}{}{(irritated) I told you, I don't have time for everyone... Stop. And who are YOU?}
-{1210}{}{(irritated) I told you, I don't have time for everyone... Stop. And who are YOU?}
+{210}{}{(irritated) I told you, I don't have time for... Wait. Who are YOU?}
+{1210}{}{(irritated) I told you, I don't have time for... Wait. Who are YOU?}
 
-{211}{}{I'm a Follower.}
-{212}{}{That's it. (gradually raises his voice) And now you think you can break into the lab and distract ME from my business?! (raises his voice again) Understand, you piece of social decay, that the work of this laboratory is above all your mouse fuss in the Cathedral! And no matter how high a title you hold in your "sect", it doesn't matter here! Do you understand that? Now get lost.}
-{1212}{}{That's it. (gradually raises his voice) And now you think you can break into the lab and distract ME from my business?! (raises his voice again) Understand, you piece of social decay, that the work of this laboratory is above all your mouse fuss in the Cathedral! And no matter how high a title you hold in your "sect", it doesn't matter here! Do you understand that? Now disappear.}
-{213}{}{I see.}
-{214}{}{Yeah.}
+{211}{}{I'm from the Followers.}
+{212}{}{Oh, I see. (slowly starts raising voice) And now you think that you can waltz into my lab and distract ME from my projects?! (raises voice again) Learn this once and for all, you nobody, that the work conducted here is higher than the pathetic things you do in your Cathedral! And whatever rank you achieved in your "organization", here it means nothing! Got all that? Good. Now begone from my sight.}
+{1212}{}{Oh, I see. (slowly starts raising voice) And now you think that you can waltz into my lab and distract ME from my projects?! (raises voice again) Learn this once and for all, you nobody, that the work conducted here is higher than the pathetic things you do in your Cathedral! And whatever rank you achieved in your "organization", here it means nothing! Got all that? Good. Now begone from my sight.}
+{213}{}{Alright.}
+{214}{}{Uh-uh.}
 
-{215}{}{I was allowed to look around.}
-{216}{}{In this case, you can not count on the tour. Get out before I call security!}
-{217}{}{No problems.}
+{215}{}{I was given permission to familiarize myself with this place.}
+{216}{}{In that case, don't count on a tour. Get out before I call security!}
+{217}{}{No problem.}
 
 {219}{}{I was sent to fix something.}
-{220}{}{So go and fix it, idiot!}
-{1220}{}{So go and fix it, idiot!}
-{221}{}{Yes, uh, of course.}
+{220}{}{Then go and fix it, you idiot!}
+{1220}{}{Then go and fix it, you idiot!}
+{221}{}{Yes, uhh, of course.}
 
-{223}{}{I am also a scientist, and I was referred to you.}
-{224}{}{Really? (puts down the tablet) Very curious... quite... But no one has reported to me about a new laboratory assistant. Bring the order, then we'll talk.}
-{225}{}{OK.}
+{223}{}{You know, I'm something of a scientist myself. They told me to go meet you.}
+{224}{}{Oh really? (puts tablet aside) Very interesting... very... But nobody told me about a new assistant. Bring me the written order, and then we'll talk.}
+{225}{}{Okay.}
 
-{227}{}{I was allowed to look around.}
+{227}{}{I was given permission to look around.}
 
-#Repeat dialog
-{300}{}{Good. And now - what do you need?}
+#Repeated questions
+{300}{}{Good. Now - what do you want?}
 {301}{}{Nothing else.}
 {302}{}{Goodbye.}
-{303}{}{Can we change the subject?}
-{304}{}{Let me ask you another question.}
-{305}{}{With all due respect, colleague, here *I* am in charge. And I have the right to kick anyone out of the lab, even Aaron himself. Get out!}
-{306}{}{Okay, okay...}
+{303}{}{Maybe we could change the subject?}
+{304}{}{Let me ask one more question.}
+{305}{}{With all due respect, colleague, *I'm* in charge here. I have the right to make anyone get out of this lab, even Aaron himself, if he came down here. Now leave!}
+{306}{}{Fine, fine...}
 
-#Questions about yourself
-{310}{}{I'm sorry, but who are you?}
-{311}{}{ (waves his hand in frustration) That's what it means to be in the shadows... My name is Zach Zimmer. Professor Zach Zimmer. And I'm in charge of this research department. Practically, I am the third person in the whole church, after Aaron and the Counselor. You don't have to bend the knee.}
+#Personal questions
+{310}{}{Excuse me, but who are you?}
+{311}{}{(waves his hand in dissapointment) So that's what it means to "be in the shadow"... My name is Zack Zimmer. Professor Zack Zimmer. I'm in charge of the science team here. I'm basically the third most important person in the entire church, after Aaron and the Advisor. You don't have to bend your knee.}
 
-{312}{}{A scientist in our time is unusual.}
-{313}{}{That's why I'm sitting in a Vault under the protection of the largest organization. Scientists without patrons can not survive in our time.}
-{314}{}{And the Professor is the name?}
-{315}{}{(sighs) Stupider question I have not heard.}
-{316}{}{Professor is a title. And it is issued collectively.}
-{317}{}{What an insight! I'll tell you a secret - at one time I took courses in a little-known organization in these parts. That's where I was awarded this title.}
-{318}{}{And how did you end up here, Professor?}
-{319}{}{You must have a very interesting story.}
-{320}{}{It's a long story, and it's not for your ears. Let's just say there wasn't enough room for my ambitions in the West.}
-{321}{}{In the west of California. I don't think you could have crossed the desert that separates us.}
-{322}{}{Ahem. You ask too many questions.}
-{323}{}{I'm a member of the Brotherhood of Steel. Surely, there is a detailed dossier on you at the base.}
-{324}{}{It changes a lot. Yes, I came here with the Brotherhood of Steel. And he received the title from the Followers of the Apocalypse in the Burial Ground. But my colleagues and I disagreed, and I had to leave for Arizona.}
-{325}{}{What were the contradictions?}
-{326}{}{Let's put it this way... The followers of the Apocalypse are too soft. They oppose experiments on living people. And this slowed down many medical projects.}
-{327}{}{And what kind of Burial Ground?}
-{328}{}{Ruins to the west, beyond the Sonoran Desert. It's very far away, you can't get there.}
+{312}{}{Scientists are rather rare in our time.}
+{313}{}{That's why I'm sitting in this Vault, under the protection of the most powerful organization in the region. Scientists can't survive without overlords in this age.}
+{314}{}{Is Professor a name?}
+{315}{}{(sighs) And they used to say there were no stupid questions.}
+{316}{}{Professor is a title. It's issued by other people.}
+{317}{}{How perceptive! I'll reveal a secret - in my time, I passed courses from one small organization few know about in this region. They gave me the title.}
+{318}{}{How did you end up here, professor?}
+{319}{}{You must have had an interesting life.}
+{320}{}{It's a long story, and it's not for your ears. Let's just say there was no place for my ambitions in the west.}
+{321}{}{California is to the west. I don't think you would have managed to traverse the desert that separates that region from this one that easily.}
+{322}{}{Ahem. You're asking too many questions.}
+{323}{}{I'm a member of the Brotherhood of Steel. I'm sure there is a detailed dossier about you on the base.}
+{324}{}{This changes much. Yes, I came here with the Brotherhood. I received the title from the Followers of the Apocalypse in the Boneyard. But I and my colleagues disagreed on things, and I had to go to Arizona.}
+{325}{}{What did you disagree with them about?}
+{326}{}{Let's just say the Followers of the Apocalypse were too... weak. They were against experiments on living human subjects. This ethical inflexibility inhibited the progress of many medical projects.}
+{327}{}{What Boneyard?}
+{328}{}{Ruins to the west, beyond Sonora. They are too far away. You can't get there.}
 
-{330}{}{So you're also a Follower of Fire?}
-{331}{}{What nonsense is this? I'm a scientist, not a preacher! Besides, many things in the teaching seem to me just ridiculous.}
-{332}{}{Can you tell me about Aaron?}
-{333}{}{Discussing leaders has always been dangerous. Even among cult members.}
-{334}{}{I'm not a cult member.}
-{335}{}{Then we have nothing more to talk about.}
-{336}{}{I am a member of the Brotherhood of Steel.}
-{337}{}{Oh... It changes a lot... Well, then you'd better talk to the Counselor, not me.}
+{330}{}{So you're a Follower of the Holy Fire as well?}
+{331}{}{What nonsense are you talking about? I'm a *scientist*, not a priest. I completely reject many things they believe.}
+{332}{}{What can you tell me about Aaron?}
+{333}{}{Discussing leaders was dangerous in all times. Even among members of the cult.}
+{334}{}{I'm not a member of the cult.}
+{335}{}{Then we have nothing more to talk about on that topic.}
+{336}{}{I'm a member of the Brotherhood of Steel.}
+{337}{}{Oh... Well, this changes a lot... I think you should talk to the Advisor instead of me.}
 {338}{}{This will remain between us.}
-{339}{}{Aaron would have been nothing if he hadn't been put in charge of the city and the church. He still feels like a puppet, sometimes it pisses him off... However, I'm talking too much today.}
-{340}{}{You can't trust anyone here.}
-{341}{}{For example?}
-{342}{}{I'm already tired of explaining simple things to all these monks. Better read the scientific literature.}
-{343}{}{For example, the deification of elementary particles?}
-{344}{}{Precisely! What kind of ridiculous fiction is this, that a certain deity punished people with a Fiery Flood for their sins? It was a nuclear war! That is, an ordinary war with very powerful bombs.}
+{339}{}{Aaron would be no one if he wasn't placed in charge of the city and the church. He knows he's nothing but a fraud, a puppet, and at times it drives him mad... Though I'm already saying too much.}
+{340}{}{No one can be trusted here.}
+{341}{}{Like?}
+{342}{}{I'm tired of explaining elementary things to these monks. Go read scientific literature.}
+{343}{}{Like saying elementary particles are divine?}
+{344}{}{Exactly! What is this nonsense that some kind of divine entity punished humans for their sins with a flood of fire? It was a nuclear war! A regular war, with the only difference of really powerful bombs!}
 {345}{}{Don't they know that?}
-{346}{}{I'm afraid too much time has passed. The events of a bygone era are overgrown with myths and legends. On the other hand, the faith of Followers is useful for society... so far, it is not going against progress.}
+{346}{}{I'm afraid too much time has passed. The events of the previous age have turned to myth and legend. On the other hand, the faith of the Followers is beneficial to society... until it goes against progress.}
 
-{350}{}{Why are you snapping at subordinates?}
-{351}{}{Because I'm tired of idiots and ignorant monkeys.}
-{352}{}{And that's it?}
-{353}{}{I'm not going to discuss it.}
-{354}{}{I think this is a projection of unfulfilled hopes. Aren't you being given proper freedom?}
+{350}{}{Why are you screaming at your subordinates?}
+{351}{}{Because I'm tired of being surrounded by idiots and ignorant primates.}
+{352}{}{Is that all?}
+{353}{}{I have no intention of discussing this with you.}
+{354}{}{I think it's just a result of your unrealized hopes. They keep you on a leash, don't they?}
 
-{355}{}{(adjusts glasses in perplexity) Well, wow! Look, the first psychologist of a post-nuclear civilization! Leave these sweet consoling speeches to those who are sitting at the top. If they paid more RESPECT to my cause, I wouldn't have to raise my voice to everyone I met.}
+{355}{}{(adjusts glasses in disbelief) Would you look at that! The first psychologist in a post-nuclear civilization! Leave these comforting, reassuring speeches to those above. If they had more RESPECT for what I do, I wouldn't have to scream at every person who passes me by.}
 {356}{}{Of course, whatever you say.}
-{357}{}{What is a "monkey"?}
-{358}{}{( sighs) It's you.}
-{359}{}{[Science 20] They say that labor has made people out of monkeys.}
-{360}{}{Nonsense! I managed to find old texts where it is clearly stated that these are two different branches of evolution with the same ancestors. However... it is much more important that I hear it from the mouth of a commoner.}
+{357}{}{What's a "primate"?}
+{358}{}{(sighs) It's you.}
+{359}{}{[Science 20] They say labor turned primates into man.}
+{360}{}{Nonsense! I managed to find old texts - they clearly say these are two different lines of evolution with common ancestors. Though... to hear something like this from the lips of a commoner...}
 
-#Questions about the bomb
-{378}{}{And you designed all this yourself?}
-{379}{}{Of course. Many years of painstaking work of a handful of scientists.}
-{380}{}{Is that a nuclear bomb you have? Impressive.}
-{381}{}{Perhaps this is the most difficult thing we have managed. No one, up to California and Texas, could have done it. And we are on the verge of completion! It remains only to wait for some details from Two-Sun.}
-{382}{}{California and... Texas?}
-{383}{}{(disappointed) Texas! These are parts of a bygone country, dumbass. Maybe they are called differently now, but before the War they were called that way.}
-{384}{}{But you wouldn't be able to construct it without instructions.}
-{385}{}{Hmm, you catch on the fly! Without instructions, we wouldn't have been able to get anything but cancer and leukemia. And the instructions were brought by order from an old military base, it's very far from here.}
-{386}{}{And where do you get nuclear material?}
-{387}{}{From Flagstaff, there is an operating uranium mine and a processing plant. The quality is low and the production is slow, but we have no other sources.}
+#Questions about a bomb
+{378}{}{Did you make all of this yourself?}
+{379}{}{Of course. Many decades of labor from a small group of scientists.}
+{380}{}{You have an atomic bomb? Impressive.}
+{381}{}{It is perhaps the most complex project we have succeeded at. Nobody from California to Texas would manage to do this. And we're on the brink of finishing it! We just have to wait until a few components from Two Sun arrive.}
+{382}{}{California and... Teehas?}
+{383}{}{(sighs) Texas! Part of the country that's now gone, you imbecile. They may call the states differently now, but before the War, they were called exactly that.}
+{384}{}{But you couldn't have built it without instructions, right?}
+{385}{}{Hm, you're learning as we go! Without instructions, we would have got ourselves nothing more than leukemia. The instructions came from an old military base, one very far away.}
+{386}{}{Where are you getting your nuclear material from?}
+{387}{}{From Flagstaff. They have a functioning uranium mine and an enrichment plant. Quality's low, production slow, but there's no other source.}
 {388}{}{Why do you need such a powerful weapon?}
-{389}{}{Good question. Let's just say there are many reasons. And all of them are known only to one person in all of Phoenix - the Adviser himself.}
+{389}{}{Good question. Let's just say there are many reasons. They are known to only one man in Phoenix - the Advisor himself.}
 
-#Research questions
-{400}{}{What kind of research does the laboratory do?}
-{401}{}{Different, obviously. (goes into his thoughts) Our mission is... in order to first provide the Followers of Fire with everything they need... yes. And then take up the reconstruction of the city and its industrial facilities. After all, we need workers... And this is only the first part of the plan. The most important thing now is to eliminate the shortage of food and clean water in Phoenix.}
-{402}{}{And how are you doing?}
-{403}{}{There is progress, but it is too slow. The city is badly destroyed, old equipment is destroyed or worn out, and the production base of this Vault will only be enough to provide for the Cathedral. Add to this squabbles between individual clans in the city, illiteracy and a whole list of other problems. And if you don't have any more stupid questions, then I'll go back to finding solutions.}
-{404}{}{It seemed to me that the Followers were not so generous as to distribute food.}
-{405}{}{What are you talking about? No one is going to feed this rabble on the streets! Food and water are unconditional power over the whole city. In exchange for food, the locals are ready to do any job, and we need cheap workers.}
-{406}{}{Power? What a banality.}
-{407}{}{What narrowness of views! Power is just a mechanism. When we created the cult of Fire, there was no power in this city. And there were pathetic primates feuding among themselves over a dead rat. And look at the city now. With our submission, electricity and currency returned here, industry and education were born, even gambling appeared! And all this thanks to the heavy hand of the cult, which put the local monkeys straight.}
-{408}{}{[Science 100] How confident are you that society is ready for such innovations?}
-{409}{}{I've been thinking about it a lot......}
+#Questions about studies
+{400}{}{What is the laboratory studying?}
+{401}{}{Many things, obviously. (retreats into his thoughts) Our goal is to... our goal is to, at first, supply the Followers with all they need... Yes. And then focus on reconstructing the city and it's industry. We do need workers... And that's only Phase One of our plan. Right now, the most important thing is to solve the scarcity of food and clean water in Phoenix.}
+{402}{}{And are you successful at this?}
+{403}{}{There is progress being made, but it's far too slow. The city is very devastated, old technology is destroyed or worn out, and the productivity of one Vault will only be enough to supply the Cathedral. Add the pathetic squabbles between the various clans of the city, lack of literacy and a whole other list of problems. If you don't have any more stupid questions, I'll go back to solving them all.}
+{404}{}{I didn't think the Followers were generous enough to hand out food.}
+{405}{}{What are you talking about? Nobody is going to give out food to that rabble in the streets! If the Followers gain control over food and water, they gain complete control over the entire city. In exchange for supplying their basic needs, the population will be ready to do anything, and we need cheap workers.}
+{406}{}{Control? How trivial.}
+{407}{}{What narrow-mindedness! Control is but a mechanism. When we were creating the cult of Fire, there was no organization that had any meaningful kind of control over the city. There were pathetic primates, fighting each over over dead rats. Look at the city now. Our work has allowed electricity and currency to come back, industry and education to be recreated, even for gambling to exist! All of that thanks to the strong hand of the cult, that set the animals on the right path.}
+{408}{}{[Science 100] Are you sure that society is ready for such changes?}
+{409}{}{I thought a lot about it......}

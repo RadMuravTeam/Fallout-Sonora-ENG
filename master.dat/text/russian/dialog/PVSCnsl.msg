@@ -1,14 +1,14 @@
-{100}{}{You can see the console.}
-{101}{}{In front of you is the console of the prison block. Force fields can be controlled through it.}
-{102}{}{The force fields of the prison block are disabled.}
-{103}{}{The security clearance level is not high enough.}
+{100}{}{You see a console.}
+{101}{}{You see a prison block console. It can be used to control the force fields.}
+{102}{}{Prison block force fields disabled.}
+{103}{}{Insuffiently high clearance level.}
 
 {200}{}{Enter command.}
-{201}{}{Disable the force field of camera 1.}
-{202}{}{Activate the force field of camera 1.}
-{203}{}{Disable the force field of camera 2.}
-{204}{}{Activate the force field of camera 2.}
-{205}{}{Disable the camera's force field 3.}
-{206}{}{Activate the camera's force field 3.}
+{201}{}{Disable force field in chamber 1.}
+{202}{}{Activate force field in chamber 1.}
+{203}{}{Disable force field in chamber 2.}
+{204}{}{Activate force field in chamber 2.}
+{205}{}{Disable force field in chamber 3.}
+{206}{}{Activate force field in chamber 3.}
 {207}{}{Back.}
-{208}{}{End session.}
+{208}{}{Complete session.}
