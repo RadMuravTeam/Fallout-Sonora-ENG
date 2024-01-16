@@ -1,4 +1,4 @@
-{101}{}{Here is a homemade workbench.}
+{101}{}{You see a homemade workbench.}
 {102}{}{You have made 20 signal cartridges from old festive pyrotechnics.}
 {110}{}{This workbench contains components for assembling nuclear batteries.}
 {111}{}{All components are used up. There's nothing else to do here.}

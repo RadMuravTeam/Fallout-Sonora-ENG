@@ -1,4 +1,4 @@
-{100}{}{Here is a buyer.}
+{100}{}{You see a buyer.}
 {101}{}{You see the merchant. He looks like he's been on the road for several days.}
 
 {110}{}{Where's your boss? Let him hurry up. We're not going to linger in this hole.}

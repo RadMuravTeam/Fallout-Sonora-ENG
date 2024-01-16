@@ -1,4 +1,4 @@
-{100}{}{Here is the mutant Edmond.}
+{100}{}{You see the mutant Edmond.}
 {101}{}{You see a terribly disfigured person.}
 {102}{}{A mutant suddenly appears from the shadows.}
 

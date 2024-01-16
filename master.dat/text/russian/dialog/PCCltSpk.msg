@@ -1,5 +1,5 @@
 {100}{}{You see the preacher.}
-{101}{}{Here is one of the Followers of Fire. He diligently serves his next mass.}
+{101}{}{You see one of the Followers of Fire. He diligently serves his next mass.}
 {102}{}{The preacher is too busy with mass to be distracted by you.}
 
 {110}{}{This is the test of the Great Atom. Everyone stay calm.}
