@@ -233,7 +233,7 @@
 {11700}{}{Advertising poster}
 {11701}{}{Petro-Chico is one of the ancient organizations that sold some kind of "gasoline".}
 {11800}{}{Advertising poster}
-{11801}{}{Advertising of home robots of the "Mr. Assistant" series. You can only dream about this now.}
+{11801}{}{Advertising of home robots of the "Mr. Handy" series. You can only dream about this now.}
 {11900}{}{Advertising poster}
 {11901}{}{An advertisement for some big event in Los Angeles, 2077.}
 {12000}{}{Advertising poster}
@@ -247,7 +247,7 @@
 {12400}{}{Advertising poster}
 {12401}{}{The poster says: "Visit the City of the Future - a family amusement park"}
 {12500}{}{Advertising poster}
-{12501}{}{Advertising "teleuzhina". It's hard to guess what it is right off the bat.}
+{12501}{}{Advertising "television dinner". It's hard to guess what it is right off the bat.}
 {12600}{}{Advertising poster}
 {12601}{}{Advertising of the famous drink. As boring as in other places.}
 {12700}{}{Advertising poster}
@@ -329,11 +329,11 @@
 {16500}{}{Advertising poster}
 {16501}{}{Petro-Chico is one of the ancient organizations that sold some kind of "gasoline".}
 {16600}{}{Advertising poster}
-{16601}{}{Advertising of home robots of the "Mr. Assistant" series. You can only dream about this.}
+{16601}{}{Advertising of home robots of the "Mr. Handy" series. You can only dream about this.}
 {16700}{}{Advertising poster}
-{16701}{}{Advertising of home robots of the "Mr. Assistant" series. You can only dream about this.}
+{16701}{}{Advertising of home robots of the "Mr. Handy" series. You can only dream about this.}
 {16800}{}{Advertising poster}
-{16801}{}{Advertising of home robots of the "Mr. Assistant" series. You can only dream about this.}
+{16801}{}{Advertising of home robots of the "Mr. Handy" series. You can only dream about this.}
 {16900}{}{Advertising poster}
 {16901}{}{An advertisement for some big event in Los Angeles, 2077.}
 {17000}{}{Advertising poster}
@@ -371,11 +371,11 @@
 {18600}{}{Advertising poster}
 {18601}{}{The poster says: "Visit the City of the Future - a family amusement park"}
 {18700}{}{Advertising poster}
-{18701}{}{Advertising "teleuzhina". It's hard to guess what it is right off the bat.}
+{18701}{}{Advertising "television dinner". It's hard to guess what it is right off the bat.}
 {18800}{}{Advertising poster}
-{18801}{}{Advertising "teleuzhina". It's hard to guess what it is right off the bat.}
+{18801}{}{Advertising "television dinner". It's hard to guess what it is right off the bat.}
 {18900}{}{Advertising poster}
-{18901}{}{Advertising "teleuzhina". It's hard to guess what it is right off the bat.}
+{18901}{}{Advertising "television dinner". It's hard to guess what it is right off the bat.}
 {19000}{}{Advertising poster}
 {19001}{}{Advertising of the famous drink. As boring as in other places.}
 {19100}{}{Advertising poster}
@@ -775,25 +775,25 @@
 {40501}{}{There is a bolt in this gate that goes down and up.}
 {40600}{}{Gates}
 {40601}{}{There is a bolt in this gate that goes down and up.}
-{40700}{}{The cart}
+{40700}{}{Cart}
 {40701}{}{A caravan wagon, converted from the broken body of an ancient car.}
-{40800}{}{The cart}
+{40800}{}{Cart}
 {40801}{}{A caravan wagon converted from the broken body of an ancient car.}
-{40900}{}{The cart}
+{40900}{}{Cart}
 {40901}{}{A caravan wagon converted from the broken body of an ancient car.}
-{41000}{}{The cart}
+{41000}{}{Cart}
 {41001}{}{A caravan wagon converted from the broken body of an ancient car.}
-{41100}{}{The cart}
+{41100}{}{Cart}
 {41101}{}{A caravan wagon, converted from the broken body of an ancient car.}
-{41200}{}{The cart}
+{41200}{}{Cart}
 {41201}{}{A caravan wagon, converted from the broken body of an ancient car.}
-{41300}{}{The cart}
+{41300}{}{Cart}
 {41301}{}{The transportation vehicle of the ancients, driven by human efforts.}
-{41400}{}{The cart}
+{41400}{}{Cart}
 {41401}{}{The transportation vehicle of the ancients, driven by human efforts.}
-{41500}{}{The cart}
+{41500}{}{Cart}
 {41501}{}{The transportation vehicle of the ancients, driven by human efforts.}
-{41600}{}{The cart}
+{41600}{}{Cart}
 {41601}{}{The transportation vehicle of the ancients, driven by human efforts.}
 {41700}{}{Rails}
 {41701}{}{Just rails.}
@@ -919,17 +919,17 @@
 {48701}{}{This computer controls the big door of the Vault. To enable it, you need to enter a specific code.}
 {48800}{}{Vault door}
 {48801}{}{This big door is the link between this Vault and the outside world.}
-{48900}{}{The door of the Vault}
+{48900}{}{Vault door}
 {48901}{}{This big door is the link between this Vault and the outside world.}
 {49000}{}{Remote control}
 {49001}{}{This computer controls the big door of the Vault. To enable it, you need to enter a specific code.}
-{49100}{}{The door of the Vault}
+{49100}{}{Vault door}
 {49101}{}{This big door is the link between this Vault and the outside world.}
 {49200}{}{Vault door}
 {49201}{}{This big door is the link between this Vault and the outside world.}
 {49300}{}{Remote control}
 {49301}{}{This computer controls the big door of the Vault. To enable it, you need to enter a specific code.}
-{49400}{}{The door of the Vault}
+{49400}{}{Vault door}
 {49401}{}{This big door is the link between this Vault and the outside world.}
 {49500}{}{Vault door}
 {49501}{}{This big door is the link between this Vault and the outside world.}
@@ -941,21 +941,21 @@
 {49801}{}{This door provides reliable protection from the dangers of the outside world.}
 {49900}{}{Armored door}
 {49901}{}{This door could provide reliable protection from the dangers of the outside world, but lately it has been of little use.}
-{50000}{}{The door}
+{50000}{}{Door}
 {50001}{}{Standard automated Vault door.}
-{50100}{}{The door}
+{50100}{}{Door}
 {50101}{}{Standard automated Vault door.}
-{50200}{}{The broken door}
+{50200}{}{Broken door}
 {50201}{}{After the explosion, a large hole was left in this door.}
-{50300}{}{The broken door}
+{50300}{}{Broken door}
 {50301}{}{After the explosion, a large hole was left in this door.}
-{50400}{}{The door}
+{50400}{}{Door door}
 {50401}{}{Standard automated Vault door.}
-{50500}{}{The door}
+{50500}{}{Door}
 {50501}{}{Standard automated Vault door.}
-{50600}{}{The broken door}
+{50600}{}{Broken door}
 {50601}{}{After the explosion, a large hole was left in this door.}
-{50700}{}{The broken door}
+{50700}{}{Broken door}
 {50701}{}{After the explosion, a large hole was left in this door.}
 {50800}{}{Glass}
 {50900}{}{Glass}
@@ -1514,7 +1514,7 @@
 {79401}{}{This staircase leads to the floor above, but the passage along it is blocked. You hardly need to go there at all.}
 {79500}{}{Stairs}
 {79501}{}{This staircase leads to the floor below.}
-{79600}{}{The altar}
+{79600}{}{Altar}
 {79601}{}{It seems like an ordinary altar. Except for the dull sound of kicking.}
 {79700}{}{Stairs}
 {79701}{}{This spiral staircase leads to the floor above.}
@@ -1536,15 +1536,15 @@
 {80501}{}{A strong rope descends deep into this hole.}
 {80600}{}{Manhole}
 {80601}{}{This narrow staircase leads down into the darkness.}
-{80700}{}{The hatch}
+{80700}{}{Hatch}
 {80701}{}{It looks like a homemade hatch.}
 {80800}{}{The hatch}
 {80801}{}{It looks like the entrance to the sewer system.}
 {80900}{}{Manhole cover}
 {80901}{}{Heavy lid covering the manhole.}
-{81000}{}{The hole}
+{81000}{}{Hole}
 {81001}{}{Descent to the lower level, from which a rusty ladder sticks out.}
-{81100}{}{The hole}
+{81100}{}{Hole}
 {81101}{}{At this point, the ground collapsed, resulting in a descent to the lower level.}
 {81200}{}{Stop sign}
 {81201}{}{A red sign that says "STOP" in large block letters. You have no idea what that means.}
@@ -1665,7 +1665,7 @@
 {87000}{}{Web}
 {87100}{}{Web}
 {87200}{}{Web}
-{87300}{}{The door}
+{87300}{}{Door}
 {87301}{}{Close inspection shows that the door remains a door.}
 {87400}{}{Grid}
 {87401}{}{Steel bars protecting the window from outside intrusion.}
@@ -1685,37 +1685,37 @@
 {88101}{}{This window is completely boarded up.}
 {88200}{}{Boarded up window}
 {88201}{}{This window is completely boarded up.}
-{88300}{}{The door}
+{88300}{}{Door}
 {88301}{}{Artfully made wooden door in excellent condition.}
-{88400}{}{The door}
+{88400}{}{Door}
 {88401}{}{Artfully made wooden door in excellent condition.}
-{88500}{}{The door}
+{88500}{}{Door}
 {88501}{}{Artfully made wooden door in excellent condition.}
-{88600}{}{The door}
+{88600}{}{Door}
 {88601}{}{Artfully made wooden door in excellent condition.}
-{88700}{}{The door}
+{88700}{}{Door}
 {88701}{}{Artfully made wooden door in excellent condition.}
-{88800}{}{The door}
+{88800}{}{Door}
 {88801}{}{An unremarkable door.}
-{88900}{}{The door}
+{88900}{}{Door}
 {88901}{}{An unremarkable door.}
-{89000}{}{The door}
+{89000}{}{Door}
 {89001}{}{An unremarkable door.}
-{89100}{}{The door}
+{89100}{}{Door}
 {89101}{}{An unremarkable door.}
-{89200}{}{The door}
+{89200}{}{Door}
 {89201}{}{Close inspection shows that the door remains a door.}
-{89300}{}{The door}
+{89300}{}{Door}
 {89301}{}{Close inspection shows that the door remains a door.}
-{89400}{}{The door}
+{89400}{}{Door}
 {89401}{}{Close inspection shows that the door remains a door.}
-{89500}{}{The door}
+{89500}{}{Door}
 {89501}{}{Close inspection shows that the door remains a door.}
-{89600}{}{The door}
+{89600}{}{Door}
 {89601}{}{A door with a glass window. The glass is covered with dirt so much that nothing can be seen through it.}
-{89700}{}{The door}
+{89700}{}{Door}
 {89701}{}{A door with a glass window. The glass is covered with dirt so much that nothing can be seen through it.}
-{89800}{}{The door}
+{89800}{}{Door}
 {89801}{}{This door is reinforced with metal patterns. Quite in the rural spirit.}
 {89900}{}{Grid}
 {89901}{}{This powerful grid looks like it's quite in its place.}
@@ -1723,21 +1723,21 @@
 {90001}{}{This powerful grid looks like it's quite in its place.}
 {90100}{}{Armored door}
 {90101}{}{Very strong door. It will resist even an explosion.}
-{90200}{}{The gate}
+{90200}{}{Gate}
 {90201}{}{A gate remains a gate, no matter how much you look at it.}
-{90300}{}{The gate}
+{90300}{}{Gate}
 {90301}{}{A gate remains a gate, no matter how much you look at it.}
-{90400}{}{The door}
+{90400}{}{Door}
 {90401}{}{An old wooden door. Perhaps this is all that can be said about her.}
-{90500}{}{The door}
+{90500}{}{Door}
 {90501}{}{An old wooden door. Perhaps this is all that can be said about her.}
-{90600}{}{The door}
+{90600}{}{Door}
 {90601}{}{This door (here's a surprise) provides entrance and exit from this building.}
-{90700}{}{The door}
+{90700}{}{Door}
 {90701}{}{Wooden door. In relatively good condition.}
-{90800}{}{The door}
+{90800}{}{Door}
 {90801}{}{This door (here's a surprise) provides entrance and exit from this building.}
-{90900}{}{The door}
+{90900}{}{Door}
 {90901}{}{Wooden door. In relatively good condition.}
 {91000}{}{Wall lamp}
 {91001}{}{It looks like this lamp is still in working order.}
@@ -1895,21 +1895,21 @@
 {98601}{}{Very uncomfortable, judging by the appearance, a device for sitting, known as a "sofa".}
 {98700}{}{Sofa}
 {98701}{}{Very uncomfortable, judging by the appearance, a device for sitting, known as a "sofa".}
-{98800}{}{Plate}
+{98800}{}{Stove}
 {98801}{}{Functioning wood-fired stove.}
-{98900}{}{Plate}
+{98900}{}{Stove}
 {98901}{}{Functioning wood-fired stove.}
-{99000}{}{Plate}
+{99000}{}{Stove}
 {99001}{}{A functioning wood-fired stove.}
-{99100}{}{Plate}
+{99100}{}{Stove}
 {99101}{}{Functioning wood-fired stove.}
-{99200}{}{Plate}
+{99200}{}{Stove}
 {99201}{}{Functioning wood-fired stove.}
-{99300}{}{Plate}
+{99300}{}{Stove}
 {99301}{}{Functioning wood-fired stove.}
-{99400}{}{Plate}
+{99400}{}{Stove}
 {99401}{}{Functioning wood-fired stove.}
-{99500}{}{Plate}
+{99500}{}{Stove}
 {99501}{}{Functioning wood-fired stove.}
 {99600}{}{Bath}
 {99601}{}{This tub is broken and covered with cracks.}
@@ -2035,19 +2035,19 @@
 {105601}{}{Old wooden pallets crumbling at a touch.}
 {105700}{}{Box on a pallet}
 {105701}{}{An old wooden pallet with a metal box. Inside the box is something like slag.}
-{105800}{}{The machine}
+{105800}{}{Machine}
 {105801}{}{This is some kind of production machine. You don't know anything more about him.}
-{105900}{}{The machine}
+{105900}{}{Machine}
 {105901}{}{This is some kind of production machine. You don't know anything more about him.}
-{106000}{}{The machine}
+{106000}{}{Machine}
 {106001}{}{This is some kind of production machine. You don't know anything more about him.}
-{106100}{}{The machine}
+{106100}{}{Machine}
 {106101}{}{This is some kind of production machine. You don't know anything more about him.}
-{106200}{}{The machine}
+{106200}{}{Machine}
 {106201}{}{This is some kind of production machine. You don't know anything more about him.}
-{106300}{}{The machine}
+{106300}{}{Machine}
 {106301}{}{A conveyor confidently moving from the machine to its final goal.}
-{106400}{}{The machine}
+{106400}{}{Machine}
 {106401}{}{A conveyor confidently moving from the machine to its final goal.}
 {106500}{}{parts}
 {106501}{}{Some production parts.}
@@ -2251,14 +2251,14 @@
 {116401}{}{An ordinary wooden staircase. From dampness a little covered with mold.}
 {116500}{}{Broken ladder}
 {116501}{}{This wooden staircase is completely dilapidated. It is impossible to climb up it.}
-{116600}{}{Stairs}
-{116601}{}{This staircase leads to the town hall, but at the moment it is destroyed and littered with debris. You can't make them out.}
-{116700}{}{Stairs}
-{116701}{}{This staircase leads to the upper floor of the town hall.}
-{116800}{}{Stairs}
-{116801}{}{This staircase leads to the first floor of the town hall.}
+{116600}{}{Ladders}
+{116601}{}{These ladders leads to the town hall, but at the moment it is destroyed and littered with debris. You can't make them out.}
+{116700}{}{Ladders}
+{116701}{}{These ladders leads to the upper floor of the town hall.}
+{116800}{}{Ladders}
+{116801}{}{These ladders leads to the first floor of the town hall.}
 {116900}{}{Computer}
-{116901}{}{To your surprise, this is a computer. And it looks like it hasn't been working for a long time.}
+{116901}{}{To your surprise, you see a computer. And it looks like it hasn't been working for a long time.}
 {117000}{}{Damaged weather station}
 {117001}{}{This is a weather station for weather forecasting. It was intentionally damaged.}
 {117100}{}{Weather station}
@@ -2295,7 +2295,7 @@
 {118601}{}{Just rails.}
 {118700}{}{Poster}
 {118701}{}{Some old poster. A cursory inspection gives nothing.}
-{118800}{}{The cart}
+{118800}{}{Cart}
 {118801}{}{A caravan wagon prepared for the shipment of refined uranium ore.}
 {118900}{}{Radio equipment}
 {118901}{}{This radio equipment is damaged and cannot be repaired.}
@@ -2353,13 +2353,13 @@
 {121501}{}{This antenna is equipped with radio broadcasting equipment.}
 {121600}{}{End of the road}
 {121601}{}{Barrier for the movement of trolleys on rails. A very necessary object.}
-{121700}{}{The Gallows}
+{121700}{}{Gallows}
 {121701}{}{A cruel reckoning awaited this criminal.}
-{121800}{}{The Gallows}
+{121800}{}{Gallows}
 {121801}{}{A cruel reckoning awaited this criminal.}
-{121900}{}{The Gallows}
+{121900}{}{Gallows}
 {121901}{}{This construction is designed for hanging criminals. And she is waiting for the next victim.}
-{122000}{}{The Gallows}
+{122000}{}{Gallows}
 {122001}{}{A cruel reckoning awaited this criminal.}
 {122100}{}{Book collection}
 {122101}{}{A small collection of old books, a storehouse of pre-war knowledge.}
@@ -2430,22 +2430,22 @@
 {125400}{}{Oil lamp}
 {125401}{}{This lamp contains a little oil. It can be set on fire to illuminate the space around.}
 {125500}{}{Oil lamp}
-{125501}{}{This lamp dimly illuminates the space around.}
+{125501}{}{The lamp dimly illuminates the space around.}
 {125600}{}{Oil lamp}
-{125601}{}{This lamp contains a little oil. It can be set on fire to illuminate the space around.}
+{125601}{}{The lamp contains a little oil. It can be set on fire to illuminate the space around.}
 {125700}{}{Oil lamp}
-{125701}{}{This lamp dimly illuminates the space around.}
-{125800}{}{The broken jug}
-{125801}{}{This beautiful jug was broken. Probably with malicious intent.}
+{125701}{}{The lamp dimly illuminates the space around.}
+{125800}{}{Broken pot}
+{125801}{}{This beautiful pot was broken. Probably with malicious intent.}
 {125900}{}{Midwife's chair}
 {125901}{}{An old and repeatedly used birthing chair.}
-{126000}{}{The door}
-{126001}{}{Homemade wooden door. Made for ages.}
-{126100}{}{The door}
-{126101}{}{Homemade wooden door. Made for ages.}
-{126200}{}{The broken door}
+{126000}{}{Door}
+{126001}{}{Homemade wooden door. Made to last for ages.}
+{126100}{}{Door}
+{126101}{}{Homemade wooden door. Made to last for ages.}
+{126200}{}{Broken door}
 {126201}{}{This door was knocked out with some kind of weapon.}
-{126300}{}{The broken door}
+{126300}{}{Broken door}
 {126301}{}{This door was knocked out with some kind of weapon.}
 {126400}{}{Barrel}
 {126401}{}{Uranium material is stored in this barrel.}
@@ -2553,19 +2553,19 @@
 {131501}{}{Rusty metal poles supporting the advertising structure.}
 {131600}{}{The body of the bandit}
 {131601}{}{The stiffened body of one of the bandits. We'll have to examine it more closely.}
-{131700}{}{Mailbox}
+{131700}{}{Crate}
 {131701}{}{An overturned crate. They were obviously looking for something in it.}
-{131800}{}{Mailbox}
+{131800}{}{Crate}
 {131801}{}{An overturned crate. They were obviously looking for something in it.}
-{131900}{}{Mailbox}
+{131900}{}{Crate}
 {131901}{}{An overturned crate. They were obviously looking for something in it.}
-{132000}{}{Mailbox}
+{132000}{}{Crate}
 {132001}{}{An overturned crate. They were obviously looking for something in it.}
-{132100}{}{The cart}
+{132100}{}{Cart}
 {132101}{}{This caravan wagon was looted. There is nothing of value left here.}
-{132200}{}{The cart}
+{132200}{}{Cart}
 {132201}{}{This caravan wagon was looted. There is nothing of value left here.}
-{132300}{}{Mailbox}
+{132300}{}{Crate}
 {132301}{}{An overturned crate. They were obviously looking for something in it.}
 {132400}{}{Bed}
 {132401}{}{Makeshift barrack-type bed.}
@@ -2695,29 +2695,29 @@
 {138601}{}{A durable container for storing and transporting various parts.}
 {138700}{}{Container}
 {138701}{}{A durable container for storing and transporting various parts.}
-{138800}{}{The fighter}
+{138800}{}{Fighter Aircraft}
 {138801}{}{Remains of a military aircraft.}
-{138900}{}{The fighter}
+{138900}{}{Fighter Aircraft}
 {138901}{}{Remains of a military aircraft.}
-{139000}{}{The fighter}
+{139000}{}{Fighter Aircraft}
 {139001}{}{Remains of a military aircraft.}
-{139100}{}{The fighter}
+{139100}{}{Fighter Aircraft}
 {139101}{}{Remains of a military aircraft.}
-{139200}{}{The fighter}
+{139200}{}{Fighter Aircraft}
 {139201}{}{Remains of a military aircraft.}
-{139300}{}{The fighter}
+{139300}{}{Fighter Aircraft}
 {139301}{}{Remains of a military aircraft.}
-{139400}{}{The fighter}
+{139400}{}{Fighter Aircraft}
 {139401}{}{Remains of a military aircraft.}
-{139500}{}{The fighter}
+{139500}{}{Fighter Aircraft}
 {139501}{}{Remains of a military aircraft.}
-{139600}{}{The fighter}
+{139600}{}{Fighter Aircraft}
 {139601}{}{Remains of a military aircraft.}
-{139700}{}{The fighter}
+{139700}{}{Fighter Aircraft}
 {139701}{}{Remains of a military aircraft.}
-{139800}{}{The fighter}
+{139800}{}{Fighter Aircraft}
 {139801}{}{Remains of a military aircraft.}
-{139900}{}{The fighter}
+{139900}{}{Fighter Aircraft}
 {139901}{}{Remains of a military aircraft.}
 {140000}{}{A broken shovel}
 {140001}{}{Someone broke this old shovel.}
@@ -2749,7 +2749,7 @@
 {141301}{}{Homemade water storage tank. Simultaneously performs the role of a water tower.}
 {141400}{}{Road sign}
 {141401}{}{A very old pointer. However, it may still contain up-to-date information.}
-{141500}{}{The well}
+{141500}{}{Well}
 {141501}{}{A homemade well. The bottom is not visible.}
 {141600}{}{Cactus}
 {141601}{}{You don't see anything remarkable in this cactus except its gigantic size.}
@@ -2841,11 +2841,11 @@
 {145901}{}{These bricks are stacked for transportation. But it seems that no one needs them now.}
 {146000}{}{Bricklaying}
 {146001}{}{These bricks are stacked for transportation. But it seems that no one needs them now.}
-{146100}{}{The banner of the cult}
+{146100}{}{Cult Banner}
 {146101}{}{This canvas depicts a religious symbol.}
-{146200}{}{The banner of the cult}
+{146200}{}{Cult Banner}
 {146201}{}{This canvas depicts a religious symbol.}
-{146300}{}{The banner of the cult}
+{146300}{}{Cult Banner}
 {146301}{}{This canvas depicts a religious symbol.}
 {146400}{}{Signboard}
 {146401}{}{This is the sign of the Sonora Express postal service.}
@@ -3065,7 +3065,7 @@
 {157800}{}{Wall}
 {157801}{}{The wall of the surviving building.}
 {157900}{}{Ventilation}
-{158000}{}{The machine}
+{158000}{}{Machine}
 {158001}{}{This huge machine includes many functions and tools.}
 {158100}{}{The machine}
 {158101}{}{This huge machine includes many functions and tools.}
@@ -3104,15 +3104,15 @@
 {160001}{}{Old books of a bygone era.}
 {160100}{}{Books}
 {160101}{}{Old books of a bygone era.}
-{160200}{}{The altar}
+{160200}{}{Altar}
 {160201}{}{An ancient altar. Numerous wires stretch from it.}
-{160300}{}{The altar}
+{160300}{}{Altar}
 {160301}{}{An ancient altar. Numerous wires run from it.}
-{160400}{}{The altar}
+{160400}{}{Altar}
 {160401}{}{An ancient altar. Numerous wires stretch from it.}
-{160500}{}{The altar}
+{160500}{}{Altar}
 {160501}{}{An ancient altar. Numerous wires stretch from it.}
-{160600}{}{The altar}
+{160600}{}{Altar}
 {160601}{}{An ancient altar. Numerous wires stretch from it.}
 {160700}{}{Table}
 {160701}{}{Elegant antique table for people with high requirements. A luxurious armchair is attached.}
@@ -3258,9 +3258,9 @@
 {168601}{}{A semi-trailer from a truck for transporting liquids.}
 {168700}{}{Advertising sign}
 {168701}{}{This is an advertising sign of an old cafe.}
-{168800}{}{The banner of the cult}
+{168800}{}{Cult Banner}
 {168801}{}{This canvas depicts a religious symbol.}
-{168900}{}{The banner of the cult}
+{168900}{}{Cult Banner}
 {168901}{}{This canvas depicts a religious symbol.}
 {169000}{}{Crater}
 {169001}{}{This is a very deep hole in the ground. Dusty hot air rises from the bottom.}
@@ -3283,9 +3283,9 @@
 {170000}{}{Aqueduct Canal}
 {170100}{}{Aqueduct Canal}
 {170200}{}{The door}
-{170201}{}{An old door with a metal grille.}
+{170201}{}{Old door with a metal grille.}
 {170300}{}{The door}
-{170301}{}{An old door with a metal grille.}
+{170301}{}{Old door with a metal grille.}
 {170400}{}{Collapse}
 {170401}{}{These blockages were formed by an earthquake after an explosion in the Cathedral.}
 {170500}{}{Collapse}
@@ -3383,7 +3383,7 @@
 {175201}{}{It seems that until recently this machine was working.}
 {175300}{}{Stolen cargo}
 {175301}{}{The robbers stole this box from the caravaneers.}
-{175400}{}{The criminal's head}
+{175400}{}{A criminal's head}
 {175401}{}{The head of the criminal on the pole and the description under it eloquently demonstrate the power of the local government. Not a word has been said about you.}
 {175500}{}{Signboard}
 {175501}{}{This is the sign of the bathhouse.}
@@ -3607,18 +3607,18 @@
 {187901}{}{This is the side of the ship.}
 {188000}{}{Ship's side}
 {188001}{}{This is the side of the ship.}
-{188100}{}{Stairs}
+{188100}{}{Ladder}
 {188101}{}{This metal ladder leads to the deck above.}
-{188200}{}{Stairs}
+{188200}{}{Ladder}
 {188201}{}{This metal ladder leads to the deck below.}
-{188300}{}{Stairs}
+{188300}{}{Ladder}
 {188301}{}{This metal ladder leads to the deck above.}
-{188400}{}{Stairs}
+{188400}{}{Ladder}
 {188401}{}{This metal ladder leads to the deck below.}
 {188500}{}{Ladder}
-{188501}{}{This staircase leads to the upper deck of the ship.}
+{188501}{}{This ladder leads to the upper deck of the ship.}
 {188600}{}{Ladder}
-{188601}{}{This staircase leads down, away from the ship.}
+{188601}{}{This ladder leads down, away from the ship.}
 {188700}{}{Navigation panel}
 {188701}{}{Cartographic information is stored here.}
 {188800}{}{Map of the USA}
@@ -3699,17 +3699,17 @@
 {193201}{}{The D2G nuclear reactor from Watts Electronics.}
 {193300}{}{Ship reactor}
 {193301}{}{The D2G nuclear reactor from Watts Electronics.}
-{193400}{}{The door}
+{193400}{}{Door}
 {193401}{}{An old flimsy door with a window.}
-{193500}{}{The door}
+{193500}{}{Door}
 {193501}{}{An old flimsy door with a window.}
-{193600}{}{The door}
+{193600}{}{Door}
 {193601}{}{An old flimsy door with a window.}
-{193700}{}{The door}
+{193700}{}{Door}
 {193701}{}{An old flimsy door with a window.}
-{193800}{}{The door}
+{193800}{}{Door}
 {193801}{}{The front door of the hotel.}
-{193900}{}{The door}
+{193900}{}{Door}
 {193901}{}{The front door of the hotel.}
 {194000}{}{Road sign}
 {194001}{}{Old road sign.}
@@ -3839,7 +3839,7 @@
 {200201}{}{This support holds the roof.}
 {200300}{}{Advertising index}
 {200301}{}{This sign says: Space Age Restaurant.}
-{200400}{}{The cart}
+{200400}{}{Cart}
 {200401}{}{This wagon has been standing here quite recently. Everything of value has already been pulled out of it.}
 {200500}{}{Advertising index}
 {200501}{}{This sign says "Bates Motel."}
@@ -3927,7 +3927,7 @@
 {204601}{}{This man was frozen alive.}
 {204700}{}{Icy figure}
 {204701}{}{This man was frozen alive.}
-{204800}{}{The cart}
+{204800}{}{Cart}
 {204801}{}{A wagon with the baggage of nomads.}
 {204900}{}{Cactus}
 {204901}{}{An ordinary cactus.}
@@ -4013,23 +4013,23 @@
 {208901}{}{A large hovercraft.}
 {209000}{}{Ship's side}
 {209001}{}{Obviously, this is the side of the ship.}
-{209100}{}{A wall made of scrap metal}
+{209100}{}{Scrap metal wall}
 {209101}{}{Various scrap metal forms a protective wall of the city.}
-{209200}{}{A wall made of scrap metal}
+{209200}{}{Scrap metal wall}
 {209201}{}{Various scrap metal forms a protective wall of the city.}
-{209300}{}{A wall made of scrap metal}
+{209300}{}{Scrap metal wall}
 {209301}{}{Various scrap metal forms a protective wall of the city.}
-{209400}{}{A wall made of scrap metal}
+{209400}{}{Scrap metal wall}
 {209401}{}{Various scrap metal forms a protective wall of the city.}
-{209500}{}{A wall made of scrap metal}
+{209500}{}{Scrap metal wall}
 {209501}{}{Various scrap metal forms a protective wall of the city.}
-{209600}{}{A wall made of scrap metal}
+{209600}{}{Scrap metal wall}
 {209601}{}{Various scrap metal forms a protective wall of the city.}
-{209700}{}{A wall made of scrap metal}
+{209700}{}{Scrap metal wall}
 {209701}{}{Various scrap metal forms a protective wall of the city.}
-{209800}{}{A wall made of scrap metal}
+{209800}{}{Scrap metal wall}
 {209801}{}{Various scrap metal forms a protective wall of the city.}
-{209900}{}{A wall made of scrap metal}
+{209900}{}{Scrap metal wall}
 {209901}{}{Various scrap metal forms a protective wall of the city.}
 {210000}{}{Shadow}
 {210001}{}{You are viewing a large reactor room from the operating room window.}
@@ -4045,8 +4045,8 @@
 {210600}{}{Bricks}
 {210700}{}{Bricks}
 {210800}{}{Bricks}
-{210900}{}{The door}
-{210901}{}{This door leads inside the lighthouse. Obviously, isn't it?}
+{210900}{}{Door}
+{210901}{}{This door leads into the lighthouse. Or does it?}
 {211000}{}{Shadow}
 {211100}{}{Shadow}
 {211200}{}{Shadow}

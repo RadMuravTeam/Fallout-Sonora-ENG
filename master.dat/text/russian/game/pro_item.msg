@@ -443,9 +443,9 @@
 {21701}{}{}
 {21800}{}{Bones}
 {21801}{}{A few human bones.}
-{21900}{}{The cart}
+{21900}{}{Cart}
 {21901}{}{A caravan wagon converted from the body of an ancient car.}
-{22000}{}{The cart}
+{22000}{}{Cart}
 {22001}{}{A caravan wagon converted from the body of an ancient car.}
 {22100}{}{Pot}
 {22101}{}{A large pot for storing crops or water.}

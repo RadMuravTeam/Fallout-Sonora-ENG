@@ -62,7 +62,7 @@
 {3101}{}{A terrifying monster, the worst nightmare you could imagine.}
 {3200}{}{El Diablo}
 {3201}{}{A terrifying monster, the worst nightmare you could imagine.}
-{3300}{}{Mr. Assistant}
+{3300}{}{Mr. Handy}
 {3301}{}{An old robot with many functions.}
 {3400}{}{Robobrain}
 {3401}{}{An old robot with a brain as a processor.}
