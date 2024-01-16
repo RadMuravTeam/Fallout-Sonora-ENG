@@ -2,8 +2,8 @@
 {101}{}{One-two, check #2.}
 {102}{}{One-two, check #3.}
 
-{110}{}{This granary was completely looted.}
-{111}{}{The Town Hall has been vandalized and looted. There are signs of a struggle everywhere.}
+{110}{}{The granary was looted completely.}
+{111}{}{The Town Hall has been vandalized and looted. Signs of struggle are everywhere.}
 {112}{}{This is the only surviving building — a silent witness of ancient times. And it looks like someone has been here recently.}
 {113}{}{The checkpoint building was completely looted by slaves.}
 {114}{}{Judging by the numerous tracks, the bandits spent several days here waiting for the caravan.}
@@ -11,8 +11,8 @@
 {116}{}{This shack seems to have been abandoned for a long time.}
 {117}{}{A long-abandoned and looted drinking establishment. Someone has arranged an overnight stay here.}
 {118}{}{An old dilapidated house. It is impossible to live here.}
-{119}{}{The building is filled with numerous traces. Apparently, the residents spent a lot of time here.}
-{120}{}{The hut of the community leader. The owner kept order even in the midst of all this devastation.}
+{119}{}{The building is filled with numerous traces. The residents spent a lot of time here.}
+{120}{}{The hut of the community leader. The owner kept order even amid all this devastation.}
 {121}{}{By entering the club, you attract a lot of attention to yourself. Visitors evaluate you incredulously and soon return to their business.}
 {122}{}{This stuffy barrack is saturated with the smells of rust and rubber.}
 {123}{}{Peace and quiet reigns in this library.}

@@ -16,7 +16,7 @@
 {202}{}{This ancient technology does not function, as it has rusted through from dampness.}
 {203}{}{Does not work. And it won't work.}
 {204}{}{This computer is so ancient that its parts are completely rusty. It hasn't been used for at least forty years. This is not surprising for the Villa.}
-{205}{}{The padre didn't tell me...}
+{205}{}{Padre didn't tell me...}
 {206}{}{You come to the conclusion that the symbol depicts a winged creature flying out of the fire. But this is not accurate.}
 {207}{}{This symbol was left by the raiders}
 {208}{}{One of the achievements of local engineering. You have not been allowed to go to him since childhood, since all the vacant places were occupied.}
@@ -77,7 +77,7 @@
 {259}{}{It's not worth looking at for a long time}
 
 #Rangers, Quartzsite
-{260}{}{This ancient sign indicates the distance to the dam. On top of the paint is an inscription: "Ranger Territory."}
+{260}{}{This ancient sign indicates the distance to the dam. On top of the painting is an inscription: "Ranger Territory."}
 {261}{}{Higher up the highway is Parker Dam — the citadel of the Rangers}
 {262}{}{You have carefully studied the Ranger maps. Now traveling around the neighborhood will become much easier.}
 {263}{}{Wow, the cartographer didn't waste time in vain}
