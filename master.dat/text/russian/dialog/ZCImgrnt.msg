@@ -1,15 +1,15 @@
-{100}{}{Here is a civilian.}
+{100}{}{You see a civilian.}
 {101}{}{You see a dirty, emaciated man.}
 
 {110}{}{Por favor, no nos ataquen!}
-{111}{}{YNo queremos problemas!}
+{111}{}{No queremos problemas!}
 {112}{}{Estamos buscando un nuevo hogar.}
-{113}{}{yUa hemos llegado?}
+{113}{}{Ya hemos llegado?}
 {114}{}{Quiero dormir.}
-{115}{}{tü eres aventurero, yNo?}
+{115}{}{Tu eres aventurero, No?}
 {116}{}{Ya estamos hartos de estos tiranos y guerrilleros.}
 {117}{}{Hay bandidos por todas partes.}
-{118}{}{YDêjanos en paz!}
+{118}{}{Dêjanos en paz!}
 {119}{}{No tenemos nada de valor.}
 
 {210}{}{You won't attack us, will you?}

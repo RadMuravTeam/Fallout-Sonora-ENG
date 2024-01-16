@@ -23,12 +23,12 @@
 {118}{}{}
 {119}{}{}
 {120}{}{}
-{121}{}{After a long journey, you return to your native village. But instead of greeting you, Villa greets you with sullen silence.}
+{121}{}{After a long journey, you return to your native village, instead of a warm welcome, you are greeted with sullen silence.}
 {122}{}{}
-{123}{}{You go down to the cellars. It smells damp and rat droppings.}
+{123}{}{You descend to the cellars. The air is thick with the scent of dampness and the odor of rat droppings}
 {124}{}{}
-{125}{}{You have come to Flagstaff Colony. It's unexpectedly crowded here.}
-{126}{}{Here is a garrison and a colony correctional facility. Behind bars you find your fellow tribesmen.}
+{125}{}{You have come to the Flagstaff Colony. It's unexpectedly crowded here.}
+{126}{}{You see a garrison and a colony correctional facility. Behind bars, you find your fellow tribesmen.}
 {127}{}{}
 {128}{}{Ruins of the old city. The depressing appearance of these ruins does not inspire confidence.}
 {129}{}{You are standing at the gates of Garage City. The smell of rust and rubber reeks from this settlement a mile away.}
@@ -51,7 +51,7 @@
 {146}{}{You have reached a huge city located among ancient ruins. Its gloomy streets greet you with heavy smog.}
 {147}{}{}
 {148}{}{These slums seem unsafe. You should always be on your guard here.}
-{149}{}{An ornate building towers over the city. A crowd of people wanders aimlessly in front of him.}
+{149}{}{An ornate building towers over the city. A crowd of people wander aimlessly in front of it.}
 {150}{}{}
 {151}{}{}
 {152}{}{}
@@ -79,18 +79,18 @@
 {174}{}{}
 {175}{}{}
 {176}{}{The echo of your footsteps breaks the silence of the cathedral.}
-{177}{}{Here is a graveyard of long-forgotten technologies.}
+{177}{}{You see a graveyard of long-forgotten technologies.}
 {178}{}{}
 {179}{}{You have come to the ancient ruins. No one has lived here for a very long time.}
 {180}{}{The shores of Colorado are overgrown with prickly vegetation, in which various game can hide.}
 {181}{}{}
-{182}{}{Time has not spared this place — dilapidated buildings collapsed, and sandstorms covered the ruins with a layer of sand.}
+{182}{}{Time has not spared this place â€” dilapidated buildings collapsed, and sandstorms covered the ruins with a layer of sand.}
 {183}{}{}
 {184}{}{}
 {185}{}{}
 {186}{}{}
 {187}{}{}
-{188}{}{You are almost desperate in search of human settlements, when suddenly a small ranch appears ahead.}
+{188}{}{You are almost desperate in search of human settlements when suddenly a small ranch appears ahead.}
 {189}{}{The desert smoothly turns into dilapidated one-story blocks. It looks like a military garrison has settled here.}
 {190}{}{After passing the old quarters, you climb to the fort on the hill of Cerro de la Campana.}
 {191}{}{Externally, this old school looks dilapidated and abandoned. Being inside, you should be careful.}
@@ -122,8 +122,8 @@
 {217}{}{}
 {218}{}{}
 {219}{}{}
-{220}{}{It seems that you accidentally got on someone's holiday.}
-{221}{}{Here is an ancient monument. It looks like it has been standing here for many decades and even more.}
+{220}{}{It seems that you accidentally stumbled upon a festival.}
+{221}{}{You come across an ancient monument that seems to have stood the test of time for many decades if not even more.}
 {222}{}{In front of you is an ancient cemetery. So ancient that it is completely overgrown with desert plants.}
 {223}{}{}
 {224}{}{}
@@ -155,7 +155,7 @@
 {250}{}{Before you are barren wastelands.}
 
 {500}{}{You get }
-{501}{}{ experience for survival in the cellars of the Villa.}
+{501}{}{ experience for surviving in the cellars of the Villa.}
 {502}{}{Prisoners escaped from the correctional institution!}
 {503}{}{You get }
 {504}{}{ experience for destroying the Cathedral of the Sacred Fire.}

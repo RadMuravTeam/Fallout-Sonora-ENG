@@ -1,4 +1,4 @@
-{100}{}{Here is a scavenger.}
+{100}{}{You see a scavenger.}
 {101}{}{You see a man in dirty clothes. He bends under the weight of a backpack full of various garbage.}
 {102}{}{Hey, why these threats? I'm not poking you with a stick, am I?}
 

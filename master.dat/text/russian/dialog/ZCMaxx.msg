@@ -1,4 +1,4 @@
-{100}{}{Here is a traveler.}
+{100}{}{You see a traveler.}
 {101}{}{You see an overgrown man in a dirty, worn jacket with a sawn-off belt. He looks warily in your direction.}
 
 {200}{}{Don't get too close. My dog is too jealous. Where are you from?}
@@ -17,7 +17,7 @@
 {222}{}{What's the news from California?}
 {223}{}{There has been unrest there in recent years. The army of super mutants is defeated, the ghouls of the Necropolis migrate to the south, and a new round of trade wars has begun in the Hub. More and more people are leaving in search of new places to live because the Los Angeles neighborhood is crowded.}
 {224}{}{Why do you need a dog?}
-{225}{}{I got stuck on the road. At first I thought to roast her on the fire. But then it turned out that the dog is a lot of use on the way.}
+{225}{}{I got stuck on the road. At first, I thought to roast her on the fire. But then it turned out that the dog is a lot of use on the way.}
 {226}{}{How about an exchange?}
 {227}{}{OK. Let me see what you have.}
 {228}{}{Do you know the nearest settlements?}

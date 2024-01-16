@@ -1,4 +1,4 @@
-{100}{}{Here is a junkie.}
+{100}{}{You see a junkie.}
 {101}{}{You see a crazed drug addict.}
 
 {110}{}{What happened?}

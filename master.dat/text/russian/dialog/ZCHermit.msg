@@ -1,4 +1,4 @@
-{100}{}{Here is a hermit.}
+{100}{}{You see a hermit.}
 {101}{}{You see an overgrown man in dirty rags. I wonder how many years he hasn't washed?}
 {102}{}{Threaten? Wah!}
 
