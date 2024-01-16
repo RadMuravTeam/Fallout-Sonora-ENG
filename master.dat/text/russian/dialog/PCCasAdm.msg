@@ -1,10 +1,10 @@
-{100}{}{Here is the manager of the casino.}
+{100}{}{You see the manager of the casino.}
 {101}{}{You see a well-dressed man. He's looking around the casino.}
 {102}{}{It is not necessary to walk in this within the casino.}
 
 #The first dialog
 {200}{}{Welcome to our casino. Note - *the only* operating casino in all of Arizona.}
-{201}{}{Not impressive. I thought there would be more... lively.}
+{201}{}{Not impressive. I thought it would be more... lively.}
 {202}{}{Your truth. The population of Phoenix is going through a bad time, it affects our business as well. In any case, there is no choice, is there?}
 {203}{}{You can't argue with that.}
 {204}{}{The casino is just super. It's amazing how soon you managed to restore it.}
@@ -42,10 +42,10 @@
 {251}{}{In a way. My name is Bill Gatsby. I am an administrator, but Don Diego owns this place.}
 {252}{}{Don Diego - who is this?}
 {253}{}{I see.}
-{254}{}{What, you've never heard of him? This is a man with a capital letter. One of the most respected people in the city. But usually he is reluctant to show himself to clients and manages things from his office.}
-{1254}{}{What, you've never heard of him? This is a man with a capital letter. One of the most respected people in the city. But usually he is reluctant to show himself to clients and manages things from his office.}
+{254}{}{What, you've never heard of him? This is a man with a capital letter. One of the most respected people in the city. But usually, he is reluctant to show himself to clients and manages things from his office.}
+{1254}{}{What, you've never heard of him? This is a man with a capital letter. One of the most respected people in the city. But usually, he is reluctant to show himself to clients and manages things from his office.}
 {255}{}{Why is he called Don?}
-{256}{}{It's probably a sign of respect. I don't know myself how and why they started calling him that.}
+{256}{}{It's probably a sign of respect. I don't know how and why they started calling him that.}
 {257}{}{Can I meet him?}
 {258}{}{Hardly. He accepts only on a particularly important matter.}
 {259}{}{In a way. My name is Bill Gatsby, I'm an administrator.}
@@ -60,7 +60,7 @@
 {277}{}{I see.}
 {278}{}{I hardly believe it.}
 
-{280}{}{They say that Followers were killed near the casino?}
+{280}{}{They say that Followers were killed near the casino.}
 {281}{}{Yes, a terrible story. Personally, I didn't see anything. And retelling rumors is an unpleasant business. Talk to those who were on the street that day.}
 {282}{}{Of course I will.}
 {283}{}{Or maybe you're protecting your casino? After all, the attack happened nearby for a reason.}
@@ -74,7 +74,7 @@
 {292}{}{Great, now I can tell you straight - you're a shitty administrator. Well, did you eat it?}
 {293}{}{You know, there is some truth in your hurtful words. But Don Diego did not find anyone better for this position. At least he and I have full confidence in the casino's work.}
 {294}{}{Well, yes, of course.}
-{295}{}{Come in, have a seat. Now you are your own person, and the family values its people and does not leave them in trouble. But keep in mind that he does not tolerate traitors. Don't upset Don Diego - and you will save not only your skin, but the whole family. I hope I won't have to repeat it twice.}
+{295}{}{Come in, have a seat. Now you are your own person, and the family values its people and does not leave them in trouble. But keep in mind that he does not tolerate traitors. Don't upset Don Diego - and you will save not only your skin but the whole family. I hope I won't have to repeat it twice.}
 {296}{}{Of course, Bill, I understand that.}
 {297}{}{I know you don't like me. But we have to work together.}
 {298}{}{As an administrator, I'm above that. If the boss trusts you, then I can close my eyes to personal prejudices against you.}
@@ -97,17 +97,17 @@
 {328}{}{Yeah. I understand. Someone here is quite arrogant.}
 {329}{}{No problems. I understand everything.}
 {330}{}{Two respected people in the city should listen to each other. Don't you find it?}
-{331}{}{Oh, of course, you are a well-known person in the city. Perhaps Don Diego will really be interested in talking to you.}
+{331}{}{Oh, of course, you are a well-known person in the city. Perhaps Don Diego will be interested in talking to you.}
 {332}{}{Great. When can I meet him?}
 {333}{}{Surely your boss will have a job for me. I'm the champion of the ring.}
-{334}{}{Hmm, sometimes we really don't have enough strong guys. Especially SO strong.}
+{334}{}{Hmm, sometimes we don't have enough strong guys. Especially SO strong.}
 {335}{}{Great. So can I meet your boss?}
 {336}{}{Don Diego sent me to work. What are your problems?}
 {337}{}{Ah, this is our new employee. How nice it is to get rid of the burden of responsibility, at least in small things.}
 {338}{}{Go on.}
 {339}{}{After Don Diego's death, we had a real hell. I really could use a smart employee.}
 
-{340}{}{I'll tell the guards to let you through. Don Diego's office is on the second floor. Behave politely with him, do not make sudden movements, keep your weapon in a holster. Is everything clear? Go.}
+{340}{}{I'll tell the guards to let you through. Don Diego's office is on the second floor. Behave politely with him, do not make sudden movements, and keep your weapon in a holster. Is everything clear? Go.}
 {341}{}{Yeah, you didn't have to explain the obvious things.}
 {342}{}{Oh, don't worry, I'll be the nicest.}
 
@@ -131,6 +131,6 @@
 {367}{}{Hey!}
 {368}{}{That's his duty, }
 {369}{}{ caps. Don't ask me how I did it.}
-{370}{}{That's how dutiful it is. Thank you for your cooperation. Great job. Here is your fee - one fifth of the amount owed.}
+{370}{}{That's how dutiful it is. Thank you for your cooperation. Great job. Here is your fee - one-fifth of the amount owed.}
 {371}{}{Have a nice day.}
 {372}{}{If my first assignment is so successful, then maybe your boss has another job for me?}

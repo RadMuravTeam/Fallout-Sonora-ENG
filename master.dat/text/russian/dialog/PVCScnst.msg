@@ -1,5 +1,5 @@
 {100}{}{You see Professor Zimmer.}
-{101}{}{Here is the leader of the scientific group. He looks weird.}
+{101}{}{You see the leader of the scientific group. He looks weird.}
 {102}{}{Now is not the time for scientific controversy...}
 
 #The first dialog

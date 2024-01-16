@@ -1,5 +1,5 @@
 {100}{}{You see Louis.}
-{101}{}{Here is a resident of the asylum 25.}
+{101}{}{You see a resident of the vault 25.}
 {102}{}{As you say...}
 {103}{}{Do it, I beg you!}
 {104}{}{As you wish, Mr....}
@@ -36,11 +36,11 @@
 {231}{}{No way, sir! Without Vault, I will perish. That's what the Lord says, but I know it myself.}
 {1231}{}{No way, madam! Without Vault, I will perish. That's what the Lord says, but I know it myself.}
 {232}{}{I see this question has scared you pretty much.}
-{233}{}{Excuse me, sir! I've been here all my life... I-don't know how to behave from-outside. I'm afraid, sir!}
-{1233}{}{Excuse me, madam! I've been here all my life... I-don't know how to behave from-outside. I'm afraid, mistress!}
+{233}{}{Excuse me, sir! I've been here all my life... I-don't know how to behave from outside. I'm afraid, sir!}
+{1233}{}{Excuse me, madam! I've been here all my life... I-don't know how to behave from outside. I'm afraid, mistress!}
 {234}{}{I see. But at least answer the questions?}
 {235}{}{What are you doing here?}
-{236}{}{I humbly serve the Lord of the Phoenix and his Advisor for the benefit of the Sacred Fire. I was assigned to set up the equipment, in this m is my sacred duty.}
+{236}{}{I humbly serve the Lord of the Phoenix and his Advisor for the benefit of the Sacred Fire. I was assigned to set up the equipment, as this is my sacred duty.}
 {237}{}{I see.}
 {238}{}{You don't think so, do you?}
 {239}{}{(He looks down, not knowing what to say; it looks like he was seriously beaten by fire worshippers.)}
@@ -59,7 +59,7 @@
 {251}{}{(smiling wryly) That's right, sir. I know, sir.}
 {1251}{}{(smiling crookedly) That's right, mistress. I know, madam.}
 {252}{}{Some doors are locked. Do you know how to open them?}
-{253}{}{N-need an access card. Everyone has their own level of access, the guards have the highest.}
+{253}{}{N-need an access card. Everyone has their level of access, the guards have the highest.}
 {254}{}{Were there other Vaults?}
 {255}{}{Yes, and a lot! Scientists in the laboratory know about them.}
 {256}{}{Tell us about the days when the Vault was free.}
@@ -98,7 +98,7 @@
 {293}{}{The professor has details in his office, it is impossible to detonate a bomb without them...}
 {294}{}{I'll need an access card to get into his office.}
 {295}{}{Yes... This card has a high level of access. I will pray that everything will work out for you...}
-{296}{}{Thank you, Louis, you have done a service not only to me, but to the whole Wasteland. And now I have to go.}
+{296}{}{Thank you, Louis, you have done a service not only to me but to the whole Wasteland. And now I have to go.}
 {297}{}{It's easy to ingratiate myself with you, Louis. And now I will tell the Adviser about it. Bye, dummy.}
 {298}{}{Why does the cult need a uranium bomb?}
-{299}{}{I don't know, but after the complete assembly it was going to be transported to the southwest, across the desert.}
+{299}{}{I don't know, but after the complete assembly, it was going to be transported to the southwest, across the desert.}

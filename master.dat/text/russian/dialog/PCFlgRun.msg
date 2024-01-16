@@ -1,5 +1,5 @@
 {100}{}{You see a refugee from Flagstaff.}
-{101}{}{Here is a man in dusty clothes. It looks like he traveled a long distance before he got here.}
+{101}{}{You see a man in dusty clothes. It looks like he traveled a long distance before he got here.}
 {102}{}{*Sobbing in response*}
 {103}{}{Thank you, you're saving me from starvation.}
 {104}{}{Don't you dare come near me, you pervert.}
@@ -27,9 +27,9 @@
 
 {210}{}{Listen, can I borrow ten caps? I'll give it back as soon as I earn it, honestly.}
 {211}{}{I also have problems with caps, sorry.}
-{212}{}{Yes, of course, everyone has their own problems. Nothing, I'll figure it out somehow.}
+{212}{}{Yes, of course, everyone has their problems. Nothing, I'll figure it out somehow.}
 {213}{}{Bye.}
-{214}{}{Looks like you really need the bottlecaps. Here, take it.}
+{214}{}{Looks like you need the bottlecaps. Here, take it.}
 {215}{}{Okay, here you go.}
 {216}{}{Really? (quickly hides the bottlecaps) Oh, thank you, kind man. What's your name?}
 {217}{}{It doesn't matter. This is how I try to atone for past sins. Goodbye.}
@@ -39,7 +39,7 @@
 {220}{}{I'll give you 35 caps, but on condition of a small favor. You see, I need a little "rest in bed".}
 {221}{}{(Dejectedly lowers his gaze under the ridicule of the observant manager)}
 {222}{}{What do you say?}
-{223}{}{Okay, forget it. Obviously, we won't have a relationship.}
+{223}{}{Okay, forget it. We won't have a relationship.}
 {224}{}{I still have some pride left. Don't even dare say that, you ugly thing!}
 {225}{}{Hey, take it easy.}
 {226}{}{Living in a colony, I would never have thought that I would have to earn this way.}

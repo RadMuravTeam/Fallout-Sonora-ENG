@@ -1,5 +1,5 @@
 {100}{}{You see a child.}
-{101}{}{Here is a local child. He smells of fish and mud.}
+{101}{}{You see a local child. He smells of fish and mud.}
 
 {110}{}{Garth Ranger. He kills people like you.}
 {111}{}{Don't touch me.}
@@ -24,7 +24,7 @@
 {129}{}{}
 
 {130}{}{It's called a motorcycle, right?}
-{131}{}{Wow, does this thing really know how to drive itself?}
+{131}{}{Wow, does this thing know how to drive itself?}
 {132}{}{So do you also command old technology, like old Rufus?}
 {133}{}{Can you ride this motorcycle?}
 {134}{}{Can this bike catch fish or predict the weather?}

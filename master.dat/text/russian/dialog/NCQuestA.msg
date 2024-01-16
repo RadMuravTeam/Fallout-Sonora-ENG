@@ -1,4 +1,4 @@
-{100}{}{Here is Rosalia.}
+{100}{}{You see Rosalia.}
 {101}{}{You see a woman in well-groomed peasant clothes.}
 {102}{}{Hello, stranger. What news from the wastelands?}
 {1102}{}{Hello, stranger. What news from the wastelands?}
@@ -25,12 +25,12 @@
 {215}{}{What about the others? Why don't you look for him with the whole village?}
 {216}{}{This place is not as beautiful as it seems. We are being silenced, but believe me - this is not the first case of people disappearing.}
 {217}{}{Forced? How so?}
-{218}{}{There are very strict rules here. From the outside, the city looks plausible, but in fact we pay for it with our freedom. Any dissenters will be punished or thrown out of the gate.}
+{218}{}{There are very strict rules here. From the outside, the city looks plausible, but in fact, we pay for it with our freedom. Any dissenters will be punished or thrown out of the gate.}
 {219}{}{Okay. I'll look for him. What does he look like?}
-{220}{}{Swarthy, short, wears a mustache... Oh, yes, he had a marriage pendant with him. These are issued by the mayor to everyone who marries in our city.}
+{220}{}{Swarthy, short, wears a mustache... Oh, yes, he had a marriage pendant with him. These are issued by the mayor to every one who marries in our city.}
 {221}{}{Don't worry, I'll try to find him.}
 {222}{}{I promise nothing.}
-{223}{}{The case is vague and looks dangerous. So I'll look, but for a fee.}
+{223}{}{The case is vague and looks dangerous. So I'll look but for a fee.}
 {224}{}{Sure. I'll get you some food and give you all my caps-I don't have anything else anyway.}
 {225}{}{Please find a husband! I have no one else to turn to!}
 {226}{}{Okay, calm down.}
@@ -46,8 +46,8 @@
 {243}{}{They say you fought with your husband?}
 {244}{}{Of course we had quarrels! After all, this is not a marriage for love. The mayor's office is interested in marriages and gives us some benefits. But in a few years, my husband and I have somehow got used to each other...}
 {245}{}{I see...}
-{246}{}{Wait a minute, who told you that? I hope you haven't discussed this with Mayor Alvaro? He can't be trusted! Do you hear? Don't talk to him about missing people.}
-{1246}{}{Wait a minute, who told you that? I hope you haven't discussed this with Mayor Alvaro? He can't be trusted! Do you hear? Don't talk to him about missing people.}
+{246}{}{Wait a minute, who told you that? I hope you haven't discussed this with Mayor Alvaro. He can't be trusted! Do you hear? Don't talk to him about missing people.}
+{1246}{}{Wait a minute, who told you that? I hope you haven't discussed this with Mayor Alvaro. He can't be trusted! Do you hear? Don't talk to him about missing people.}
 {247}{}{Okay, calm down...}
 
 {250}{}{Your husband is dead. I'm sorry.}
@@ -58,7 +58,7 @@
 {255}{}{So this is not the first case?}
 {256}{}{The Followers are to blame for everything. It was they who ruined him with their experiments! And not only him! Devils!}
 {257}{}{Followers of the Apocalypse? What kind of experiments?}
-{258}{}{They have a laboratory in the desert. But we are forbidden to even approach there... Ah, the damned scientists! They gave us the harvest, but took the souls.}
+{258}{}{They have a laboratory in the desert. But we are forbidden to even approach there... Ah, the damned scientists! They gave us the harvest but took the souls.}
 {259}{}{[Keep silent]}
 {260}{}{You have a good heart, señor. Go with God. And avoid these scientists.}
 {1260}{}{You have a good heart, señora. Go with God. And avoid these scientists.}

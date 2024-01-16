@@ -1,5 +1,5 @@
-{100}{}{Here is an Inquisitor.}
-{101}{}{You see a man in a cassock. He's obviously looking for someone among these ruins.}
+{100}{}{You see an Inquisitor.}
+{101}{}{You see a man in a cassock. He's looking for someone among these ruins.}
 {102}{}{You will die in the name of Fire.}
 {103}{}{Fear the Sacred Fire, scavenger.}
 {104}{}{Praise the Sacred Fire.}
@@ -13,7 +13,7 @@
 {205}{}{I'm, uh, looking for useful things.}
 {206}{}{Look elsewhere, scavenger. Your dirty work interferes with the bright affairs of the Atom.}
 {207}{}{Why so much ill will?}
-{208}{}{Get out. Otherwise you will know the wrath of the Atom from my spear.}
+{208}{}{Get out. Otherwise, you will know the wrath of the Atom from my spear.}
 {209}{}{Are you threatening me with a piece of rusty pipe? Get out of the way, mummers.}
 {210}{}{Okay, okay...}
 {211}{}{You again? In the name of the Sacred Fire, go away.}

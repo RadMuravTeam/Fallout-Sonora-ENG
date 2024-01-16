@@ -1,9 +1,9 @@
-{100}{}{Here is an atomist.}
+{100}{}{You see an atomist.}
 {101}{}{You see a man with burnt skin. He is wearing well-worn work clothes with a pre-war symbol.}
 {102}{}{Thanks, Doc. Thank you very much.}
 {103}{}{I have a problem here, you know. Don't you know a doctor?}
 
-{200}{}{Hey, thank you very much. I didn't think that there are still doctors in our time.}
+{200}{}{Hey, thank you very much. I didn't think that there were still doctors in our time.}
 {201}{}{How did you manage it?}
 {202}{}{It was when we were repairing the broken pipes that the pressure threw me onto the railing. It's good that at least he didn't fly to the lower level. He would have been dangling in the radioactive sludge, like a duck in an ice hole.}
 {203}{}{You're definitely lucky. Well, come on.}

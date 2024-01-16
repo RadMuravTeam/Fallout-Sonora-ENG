@@ -1,4 +1,4 @@
-{100}{}{Here is a Chip.}
+{100}{}{You see a Chip.}
 {101}{}{You see a local child.}
 {102}{}{Wow, is this a real weapon? Do you have a permit?}
 {103}{}{Wow, is that power armor? I thought it was Frank's invention.}
@@ -14,7 +14,7 @@
 {113}{}{No, Pinkie!}
 {114}{}{Don't scratch the floor!}
 {115}{}{Pinkie, stop gnawing on the furniture.}
-{116}{}{Oh, Dad will scold for this.}
+{116}{}{Oh, Dad will scold me for this.}
 {117}{}{Wait, I'll pour you some water.}
 {118}{}{Are you hungry?}
 {119}{}{Do you want yummy?}
@@ -61,7 +61,7 @@
 {232}{}{Why?}
 {233}{}{Well, they come up with all sorts of things. That he is dangerous, that he spreads the infection or harms the plantations. Some nonsense. Frank is most displeased with everyone. Shouts that he will kill Pinkie at any opportunity.}
 {234}{}{Pig rats can really be dangerous.}
-{235}{}{But Pinkie is not like that! He hasn't done anything wrong yet. Only scratching at night. And lately he's also been sick. While the others want him dead, he really needs help right now.}
+{235}{}{But Pinkie is not like that! He hasn't done anything wrong yet. Only scratching at night. And lately, he's also been sick. While the others want him dead, he needs help right now.}
 {236}{}{Maybe it's for the best. Later.}
 {237}{}{This is sad news. Hold on, man.}
 {238}{}{Let me see this beast. Maybe I can cure him.}
@@ -72,4 +72,4 @@
 {242}{}{What an injustice!}
 {243}{}{I'd like to take a walk with Pinkie.}
 {244}{}{If he wants to go with you, then I don't mind. Just don't take him far from home.}
-{245}{}{Thank you. I will walk with him in the nearest neighborhoods.}
+{245}{}{Thank you. I will walk with him to the nearest neighborhoods.}

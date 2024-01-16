@@ -1,4 +1,4 @@
-{100}{}{Here is the administrator.}
+{100}{}{You see the administrator.}
 {101}{}{You see a middle-aged woman. Judging by her clothes, she has a good level of prosperity.}
 {102}{}{*Looks at your armor with a frenzy that is replaced by fear*}
 {103}{}{We're closed. Come during business hours.}
@@ -27,8 +27,8 @@
 
 {220}{}{Can I, as a follower of Fire, count on special prices?}
 {1220}{}{Can I, as a follower of Fire, count on special prices?}
+{222}{}{That's good.}Y
 {221}{}{Yes, of course. We have special agreements with the temple.}
-{222}{}{That's good.}
 {223}{}{It's good that you stopped by. But don't count on a discount. I was given instructions from above, so don't even think about making claims against me.}
 {224}{}{I understand. No problem.}
 {225}{}{What the hell are you doing, bitch!}
@@ -38,7 +38,7 @@
 {231}{}{Excuse me, what is this place?}
 {232}{}{This is a courier delivery service. Does the sign outside mean anything to you?}
 {233}{}{Such a service is not much... unusual, considering the scorched desert around. What are you transporting?}
-{234}{}{We are ready to transfer anything, even a dead flea, if the right price is paid for it. Are you just curious or are you ready to place an order?}
+{234}{}{We are ready to transfer anything, even a dead flea if the right price is right. Are you just curious or are you ready to place an order?}
 {235}{}{Perhaps. I want to know more.}
 {236}{}{No, no, I was just attracted by the sign. Goodbye.}
 {237}{}{I think you're being rude to me. With such a service, I will not take another step here.}
@@ -78,7 +78,7 @@
 {309}{}{Robbers, slums... No, I won't take that risk for some caps.}
 {310}{}{Of course I understand. Have a nice day.}
 {311}{}{Yes, bye.}
-{312}{}{Remind me where the letters were stolen?}
+{312}{}{Remind me where the letters were stolen.}
 {313}{}{The area of the eastern slums where the poor live. There's also this inhuman arena where they fight to the death.}
 {314}{}{Thank you. One more question, please.}
 {315}{}{I see, goodbye.}
@@ -89,7 +89,7 @@
 {320}{}{Are these the letters in question? They were taken over by a man from the gang of Red Cardinals.}
 {321}{}{Ah, finally! You have no idea what kind of service you are providing us. Let me see... Yes, it's them.}
 {322}{}{And my caps?}
-{323}{}{Of course, here are 50 caps. You know what, I'll pay you another 25 caps for their delivery. More precisely, for the delivery of one of these letters. It is addressed to a certain Steve, who lives in those very dangerous slums. It looks like you manage to walk there safely, and we just need *guaranteed* delivery.}
+{323}{}{Of course, here are 50 caps. You know what, I'll pay you another 25 caps for their delivery. More precisely, for the delivery of one of these letters. It is addressed to a certain Steve, who lives in those very dangerous slums. It looks like you managed to walk there safely, and we just need *guaranteed* delivery.}
 {324}{}{Of course, more caps won't hurt me.}
 {325}{}{That's how it always is. If you help once, everyone will reach out to you. Okay, give it here.}
 {326}{}{Let's sign a short contract. So... Great. Now go to the slums and hand over the letter on receipt. Good luck.}
@@ -107,7 +107,7 @@
 {339}{}{Wh... how... Ur-rh.}
 {340}{}{Well, that's fair. There are no complaints.}
 {341}{}{[Leave the office with a sense of accomplishment]}
-{342}{}{Remind me where I had to take this letter?}
+{342}{}{Remind me where I had to take this letter.}
 {343}{}{(sighs in frustration) The letter is addressed to a certain Steve, who lives in a slum near the arena. I repeat: in the slums near the arena. Is that clear? Write it down so you don't forget.}
 {344}{}{I hear you, woman.}
 {345}{}{Thanks, I see now.}

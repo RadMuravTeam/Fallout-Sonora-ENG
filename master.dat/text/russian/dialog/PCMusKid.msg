@@ -1,4 +1,4 @@
-{100}{}{Here is a beggar.}
+{100}{}{You see a beggar.}
 {101}{}{You see a girl with two maracas. With their help, she is going to do something.}
 {102}{}{Thank you, mister.}
 {1102}{}{Thank you, miss.}

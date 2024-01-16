@@ -1,5 +1,5 @@
-{100}{}{This is a lab computer.}
-{101}{}{Here is a laboratory computer.}
+{100}{}{You see a lab computer.}
+{101}{}{You see a laboratory computer.}
 
 #Dialog
 {200}{}{Enter the request.}
@@ -11,10 +11,10 @@
 
 {220}{}{Information about the Vault 25.}
 {221}{}{The number of the Vault is 25. The start of construction is March 2064. Completion of construction - January 2068. Construction Contractor: Vault-Tec. The purpose is to protect civilians during a nuclear strike. The estimated number of inhabitants is 450. The duration of sealing is 15 years.}
-{222}{}{The history of the asylum 25.}
+{222}{}{The history of the vault 25.}
 {223}{}{During the Great War in 2077, the asylum was opened to ordinary citizens of Phoenix. However, the proximity and suddenness of the nuclear strikes forced the Vault workers to seal the armored door without waiting for the majority of the population. Thus, only 12% of the planned residents managed to get access inside.}
 {224}{}{Next.}
-{225}{}{The excess of resources and space allowed the survivors to live a happy and carefree life without ever coming to the surface. The discovery and colonization of the refuge was made by the expedition of Ulysses Grant in 2162.}
+{225}{}{The excess of resources and space allowed the survivors to live a happy and carefree life without ever coming to the surface. The discovery and colonization of the vault was made by the expedition of Ulysses Grant in 2162.}
 {226}{}{Characteristics of the inhabitants.}
 {227}{}{The population of the Vault had excellent physical health, but weak endurance. The population is not adapted for heavy physical labor. Mental health in general remained good, although many suffered from phobias about the outside world.}
 

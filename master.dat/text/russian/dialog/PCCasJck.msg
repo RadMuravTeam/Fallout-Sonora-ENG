@@ -1,14 +1,14 @@
-{100}{}{Here is a croupier.}
-{101}{}{You see a neat man in a suit. For a while you watch in fascination how deftly he shuffles the cards.}
+{100}{}{You see a croupier.}
+{101}{}{You see a neat man in a suit. For a while, you watch in fascination how deftly he shuffles the cards.}
 {102}{}{Uh, I'm afraid you won't be able to hold the cards in THIS...}
 {103}{}{Sorry, sir, I'm forbidden to serve you.}
 {1103}{}{Sorry, ma'am, But I'm not allowed to serve you.}
 
 #Acquaintance
-{200}{}{(There is a table in front of you for playing card games, and at the table a neat man with a serious look deftly shuffles a deck of cards.) Do you play blackjack?}
+{200}{}{(There is a table in front of you for playing card games, and at the table, a neat man with a serious look deftly shuffles a deck of cards.) Do you play blackjack?}
 {201}{}{Not today.}
 {202}{}{No, I don't know the rules.}
-{203}{}{The call is accepted. But first explain the rules.}
+{203}{}{The call is accepted. But first, explain the rules.}
 {204}{}{For the most part, this is a kind of blackjack. You need to collect the sum of 21 points with the minimum number of cards with nuclear bombs. Having collected the right number, you can "bomb" the deck. This game requires a little more intelligence than roulette or a slot machine. But the stakes are higher here, too. If, of course, you are willing to take the risk.}
 {205}{}{Undoubtedly.}
 {206}{}{Are you playing?}

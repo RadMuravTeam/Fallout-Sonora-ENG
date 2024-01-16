@@ -1,5 +1,5 @@
 {100}{}{You see the surgeon.}
-{101}{}{Here is a surgeon in a blood-stained robe.}
+{101}{}{You see a surgeon in a blood-stained robe.}
 {102}{}{If I don't hurry up, then no medicine will help me...}
 
 #The first dialog

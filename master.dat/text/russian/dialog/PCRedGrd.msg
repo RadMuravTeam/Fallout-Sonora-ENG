@@ -1,4 +1,4 @@
-{100}{}{Here is a cardinal.}
+{100}{}{You see a cardinal.}
 {101}{}{You see a bandit with a stylish hairstyle and a gang emblem on his back.}
 {102}{}{I wish I had armor like yours, the whole city is lying at my feet.}
 

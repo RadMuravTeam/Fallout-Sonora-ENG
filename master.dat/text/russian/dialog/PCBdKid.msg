@@ -1,4 +1,4 @@
-{100}{}{Here is a child of the slums.}
+{100}{}{You see a child of the slums.}
 {101}{}{You see a child from the local slums. Life has taught him a lot.}
 
 {110}{}{Hello.}

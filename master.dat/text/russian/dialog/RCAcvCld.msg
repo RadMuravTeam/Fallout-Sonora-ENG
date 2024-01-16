@@ -1,5 +1,5 @@
 {100}{}{You see a child.}
-{101}{}{Here is a local child. He smells of fish and mud.}
+{101}{}{You see a local child. He smells of fish and mud.}
 {102}{}{Thank you, mister! I'll need it.}
 {1102}{}{Thank you, miss! I'll need it.}
 {103}{}{Thank you, mister. But I already have a pair of sandals.}
@@ -28,5 +28,5 @@
 {221}{}{I believe you. Later.}
 
 {230}{}{Is that why you go barefoot?}
-{231}{}{Well yes. As soon as I saw these monsters, I immediately ran here. I ran so fast that I didn't notice how I tore my sandals. Now we'll have to find a replacement for them.}
+{231}{}{Well yes. As soon as I saw these monsters, I immediately ran there. I ran so fast that I didn't notice how I tore my sandals. Now we'll have to find a replacement for them.}
 {232}{}{So did you find anything interesting while walking by the aqueduct?}

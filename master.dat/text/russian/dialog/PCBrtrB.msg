@@ -1,4 +1,4 @@
-{100}{}{Here is a hoarder.}
+{100}{}{You see a hoarder.}
 {101}{}{You see a short man in ridiculous clothes. A helmet with a lot of devices was clumsily placed on his head.}
 
 #Floating replicas
@@ -9,7 +9,7 @@
 {114}{}{If the toaster is malfunctioning, bring it to me.}
 {115}{}{The hardest thing is to find whole light bulbs.}
 {116}{}{Although rusty, but it works.}
-{117}{}{There are instructions for Mr. Assistant.}
+{117}{}{There are instructions for a Mr. Handy.}
 {118}{}{Buy from me, so as not to rummage through the ruins.}
 {119}{}{It is worth turning away, as something disappears from the counter.}
 
@@ -18,7 +18,7 @@
 {1200}{}{Come on, señorita! Junk and junk - that's what you need. And all this you will find in my shop.}
 {201}{}{Wow, there's a whole carload of garbage here.}
 {202}{}{}
-{203}{}{Not garbage, no, no! Everything you need is here. Take a closer look. Maybe you need those rusty spoons? Or do you prefer to eat with dirty hands? Then you will surely be interested in this toaster. It has a bit of a button jam, but it definitely works. Or maybe you need...}
+{203}{}{Not garbage, no, no! Everything you need is here. Take a closer look. Maybe you need those rusty spoons? Or do you prefer to eat with dirty hands? Then you will surely be interested in this toaster. It has a bit of a button jam, but it works. Or maybe you need...}
 {204}{}{Hey, slow down, man. Let me figure it out on my own.}
 {205}{}{Shut up, you stupid mole rat. You're making too much noise.}
 {206}{}{Oh, by the way. I want to warn you that I raised the prices after all this hype in the Cathedral. The whole market has raised prices.}
@@ -38,12 +38,12 @@
 {223}{}{Okay, this question was superfluous.}
 
 {224}{}{Who needs this junk if it's full of ruins?}
-{225}{}{Do you want to rummage through the ruins and search on your own? You are welcome! Just don't forget about radiation, animals, bandits, landslides and a bunch of other problems that can leave you only a wet spot. And I not only sell, but also repair all these things so that they serve the new owners at least a little time.}
+{225}{}{Do you want to rummage through the ruins and search on your own? You are welcome! Just don't forget about radiation, animals, bandits, landslides, and a bunch of other problems that can leave you only a wet spot. I not only sell but also repair all these things so that they serve the new owners for at least a little time.}
 {226}{}{Don't tell me any more about it.}
 {227}{}{I think I should take a closer look at your product.}
 
 {228}{}{You're crazy. These things became obsolete 90 years ago.}
-{229}{}{Do you have better sources? I'd like to see it. However, caravans from the south have become more frequent lately. They bring really new things.}
+{229}{}{Do you have better sources? I'd like to see it. However, caravans from the south have become more frequent lately. They bring new things.}
 {230}{}{Then stop wasting my time with idle chatter.}
 {231}{}{Thanks, I'll keep that in mind.}
 
@@ -51,7 +51,7 @@
 {240}{}{Have you come across items from Vaults?}
 {241}{}{Vaults? What are you talking about... Ah, I see! Vault-Tec Vaults are a true legend. They say some of our ancestors lived there after the Great War. But so much time has passed that no one knows the location of these Vaults.}
 {242}{}{And who can know?}
-{243}{}{You need to go to the Followers of Fire. There is so much knowledge in their library that they themselves no longer know what to do with it. Maybe the coordinates of the Vaults are there. That's just they won't want to share without a good reason.}
+{243}{}{You need to go to the Followers of Fire. There is so much knowledge in their library that they no longer know what to do with it. Maybe the coordinates of the Vaults are there. That's just they won't want to share without a good reason.}
 {244}{}{But what about the scavengers?}
 {245}{}{Heh, do you think a normal scavenger would disclose the location of Vaults? After all, according to legend, there are a hell of a lot of relics stored there! But if you have a chatty tongue, then visit Bob in the slums. He's one of the oldest scavengers in Phoenix.}
 {246}{}{Clear.}
@@ -76,7 +76,7 @@
 {265}{}{[Snow globe]}
 {266}{}{Snow! I've never seen real snow, except for a few mountain peaks in the distance. Yes, any rich man will fork out for such a thing. You know, I can find a use for this trinket.}
 {267}{}{[Medal for Bravery]}
-{268}{}{Operation Anchorage... Somewhere in the old newspapers I read about this massacre. It seems that the USA was proud of its victory then. I don't even know who can be pleased with such a find now. Do you know the notorious patriots of "that country"? I'm not.}
+{268}{}{Operation Anchorage... Somewhere in the old newspapers, I read about this massacre. It seems that the USA was proud of its victory then. I don't even know who can be pleased with such a find now. Do you know the notorious patriots of "that country"? I'm not.}
 {269}{}{[Ranger Star]}
 {270}{}{It looks very old... The Arizona Ranger? I heard that the Ranger base is in the west. But I don't know where exactly.}
 {271}{}{[Holy Book]}
@@ -86,19 +86,19 @@
 {275}{}{[Tooth with crown]}
 {276}{}{It's just a tooth with a crown. Let me take a look under a magnifying glass... so... No, there's something here. We need a microscope... so... wow. Yes, it's not just a crown, it's some kind of chip. Or a magnetic key. Or maybe an information storage device. It's too complicated for me. Only tinkerers understand such high technologies.}
 {277}{}{[Arizona Flag]}
-{278}{}{One of the flags of the Old World. Most of these flags have decayed, but this one is surprisingly well preserved. They should be waving at the colonizers in the north at the right time. And there are few conservatives left in our city.}
+{278}{}{One of the flags of the Old World. Most of these flags have decayed, but this one is surprisingly well-preserved. They should be waving at the colonizers in the north at the right time. And there are few conservatives left in our city.}
 {279}{}{[Game disc]}
 {280}{}{It looks like an ordinary holodisk. But it seems that it does not contain information, but some kind of program. Try inserting it into some work computer. The power of your Pip-Boy may not be enough here.}
 {281}{}{[My Portable Pip-Boy]}
 {282}{}{Hmm, this is the first time I've seen such a compact computer... Wait, there should be an output section here... So, Pip-Boy, model 2000, serial number... wow, this thing is straight from 27! This is one of those Vault-Tec Vaults that are legendary. So it does exist after all.}
 {283}{}{[The surviving book]}
-{284}{}{A rare find. A valuable source of pre-war wisdom - that's what the Followers of Fire say about them. Basically, they buy them. After all, few people in Phoenix can read. And the knowledge in these books does not really help ordinary residents.}
+{284}{}{A rare find. A valuable source of pre-war wisdom - that's what the Followers of Fire say about them. Basically, they buy them. After all, few people in Phoenix can read. And the knowledge in these books does not help ordinary residents.}
 {285}{}{[Can of coffee]}
 {286}{}{You're very lucky. After all, these are coffee beans. They were used to make a popular drink in the Old World. And now coffee has become so rare that it is served only to rich aesthetes in the casino opposite.}
 
 {289}{}{The merchant lowered his prices by 5%.}
 {290}{}{You'll probably be interested in this. Look, if you shake it, it starts snowing inside...}
-{291}{}{Snow! I've never seen real snow, except for a few mountain peaks in the distance. Yes, any rich man will fork out for such a thing... Hey, listen, sell this trinket to me? You definitely won't need it.}
+{291}{}{Snow! I've never seen real snow, except for a few mountain peaks in the distance. Yes, any rich man will fork out for such a thing... Hey, listen, sell this trinket to me. You definitely won't need it.}
 {292}{}{Are you crazy? I just needed to know what it was. That's where we'll part ways. Bye.}
 {293}{}{Let me think. In the meantime, let's do other things...}
 {294}{}{Take it for free. I'm just glad to get rid of the extra stuff in my backpack.}

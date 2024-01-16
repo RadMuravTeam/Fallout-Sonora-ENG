@@ -1,5 +1,5 @@
 {100}{}{You see Brother Francis.}
-{101}{}{Here is one of the Followers. He's busy copying ancient blueprints.}
+{101}{}{You see one of the Followers. He's busy copying ancient blueprints.}
 {102}{}{How am I going to copy the blueprints in such darkness?}
 
 {200}{}{Greetings, stranger. Can I help you in your search?}
@@ -19,7 +19,7 @@
 
 #Questions
 {220}{}{Tell me about yourself.}
-{221}{}{My name is Francis, I am a book keeper.}
+{221}{}{My name is Francis, I am a bookkeeper.}
 {222}{}{How did you become a follower?}
 {223}{}{I've been a follower since I was a teenager. Then the church was little known and did not participate in the fate of the city.}
 {224}{}{And you blindly believe in the dogmas of your church?}
@@ -27,12 +27,12 @@
 {226}{}{And what exactly are you doing, bookkeeper?}
 {227}{}{I restore old books, copy old writings, make lists. For example, I am currently busy with this magnificent drawing.}
 {228}{}{Why copy old writing?}
-{229}{}{We must preserve for posterity the knowledge of our infinitely wise ancestors. But the paper of the old writings has almost decayed, such texts will not live long, especially in the fresh air. Therefore, we restore, copy and then preserve the old scriptures.}
+{229}{}{We must preserve for posterity the knowledge of our infinitely wise ancestors. But the paper of the old writings has almost decayed, such texts will not live long, especially in the fresh air. Therefore, we restore, copy, and then preserve the old scriptures.}
 {230}{}{But if they are preserved, they will become inaccessible, right?}
 {231}{}{Right. And that's why we make copies that are stored in our library. True, they are often inferior in quality to the original, but this is a difficult question.}
 
 {240}{}{What is this place?}
-{241}{}{This is a library. A place where paper sources of knowledge are stored... mostly pre-war. I understand that this looks a little strange, because there is not a single library left in the world anymore. But our work is all the more valuable.}
+{241}{}{This is a library. A place where paper sources of knowledge are stored... mostly pre-war. I understand that this looks a little strange because there is not a single library left in the world anymore. But our work is all the more valuable.}
 {242}{}{Where did all these books come from?}
 {243}{}{From everywhere. We buy up all pre-war books and manuscripts. Part of this collection came to us from our predecessors, who buried them in the desert.}
 {244}{}{But why do we need old books?}
@@ -43,7 +43,7 @@
 {249}{}{After the Great War, scientists were treated with great disrespect. They were considered the culprits of the Apocalypse, and scientific books were burned at the stake. At least, that's what the chronicles say. Then our predecessors hid the books in barrels and buried them in the desert. We still haven't found many of them.}
 
 {250}{}{About the drawing. Tell me, what does "transformer unit 6-B" mean?}
-{251}{}{This is... well... the name of the document, obviously.}
+{251}{}{This is... well... the name of the document.}
 {252}{}{I understand that. But WHAT does it mean?}
 {253}{}{This is the *name* of the drawing you're looking at. And what does your name mean?}
 {254}{}{I think nothing.}
@@ -54,23 +54,23 @@
 {259}{}{It's all clear, Brother Francis. It's all clear to me now.}
 
 #Study books
-{260}{}{You really have a huge collection. Can I study these books?}
+{260}{}{You have a huge collection. Can I study these books?}
 {261}{}{I'm sorry, but we are very careful about admitting to our library. These books are too valuable, and their knowledge can be dangerous for ordinary people.}
 {262}{}{Okay, forget it.}
 {263}{}{I think you're just idiots. Bye.}
-{264}{}{Will you really refuse me, a brother in faith?}
-{1264}{}{Will you really refuse me, a sister in faith?}
+{264}{}{Will you refuse me, a brother in faith?}
+{1264}{}{Will you refuse me, a sister in faith?}
 {265}{}{Oh, I didn't know that you were ordained a novice. Of course, take any books, but be careful, they are very fragile.}
 {266}{}{Thank you, Brother Francis. I will be extremely careful.}
 {1266}{}{Thank you, Brother Francis. I will be extremely careful.}
 {267}{}{I can't promise anything.}
-{268}{}{I can make a donation to the library in the amount of 300 caps.}
+{268}{}{I can donate 300 caps to the library.}
 {269}{}{Well, that changes things. You can study our books, but be careful, they are very fragile.}
 {270}{}{}
 {271}{}{Well, that changes things.}
 {272}{}{I don't have that many bottlecaps right now. I'll come back later.}
 {273}{}{Even after help, I can't count on trust?}
-{274}{}{Oh, of course it's true. Study the books, but be careful, they are very fragile.}
+{274}{}{Oh, of course, it's true. Study the books, but be careful, they are very fragile.}
 
 #Aaron's Quest
 {280}{}{Brother Francis, do you keep the novices' mission schedule?}

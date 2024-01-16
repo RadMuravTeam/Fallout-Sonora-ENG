@@ -1,5 +1,5 @@
 {100}{}{You see the player.}
-{101}{}{Here is a casino visitor. He portrays in every possible way dissatisfaction with the service and at the same time with the whole world.}
+{101}{}{You see a casino visitor. He portrays in every possible way dissatisfaction with the service and at the same time with the whole world.}
 {102}{}{Leave me alone, I want to get drunk and blow up the whole city.}
 
 {110}{}{How dare you throw me out on the street?}
@@ -21,6 +21,6 @@
 {210}{}{Fuck you! (he waves it away and walks away)}
 {1210}{}{Fuck you! (he waves it away and walks away)}
 {211}{}{Er...}
-{212}{}{It's your own fault that you got involved with these dubious types.}
+{212}{}{It's your fault that you got involved with these dubious types.}
 {213}{}{Tinsmiths? Yes, they supplied the whole city with energy... Eh, you wouldn't understand. (he waves it away and walks away, muttering something under his breath)}
 {214}{}{Uh, whatever you say, man.}

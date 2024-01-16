@@ -1,4 +1,4 @@
-{100}{}{Here is Diego's man.}
+{100}{}{You see Diego's man.}
 {101}{}{You see one of Don Diego's men.}
 
 {110}{}{My respects. How is Don Diego?}

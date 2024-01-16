@@ -1,6 +1,6 @@
-{100}{}{Here is a citizen.}
-{101}{}{Here is a Phoenician.}
-{102}{}{Here is a Phoenician woman.}
+{100}{}{You see a citizen.}
+{101}{}{You see a Phoenician.}
+{102}{}{You see a Phoenician woman.}
 {103}{}{ }
 
 {110}{}{You see an ordinary resident of Phoenix. Nothing outstanding.}

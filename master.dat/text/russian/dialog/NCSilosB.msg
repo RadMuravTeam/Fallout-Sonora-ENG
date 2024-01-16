@@ -1,4 +1,4 @@
-{100}{}{Here is a worker.}
+{100}{}{You see a worker.}
 {101}{}{You see a man in work clothes. He looks exhausted.}
 
 {110}{}{So it's because of you that I'm being forced to work here?}

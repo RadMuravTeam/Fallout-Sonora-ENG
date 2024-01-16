@@ -1,5 +1,5 @@
 {100}{}{You see the bartender.}
-{101}{}{Here is the bartender. You are not at all surprised to see him here.}
+{101}{}{You see the bartender. You are not at all surprised to see him here.}
 {102}{}{No, no, in this "suit" you will break all the dishes...}
 {103}{}{This is a service area. Please sit at the counter.}
 {104}{}{I need to get back to the bar.}
@@ -30,7 +30,7 @@
 {210}{}{Would you like something to drink?}
 {211}{}{I'll abstain for now.}
 
-{212}{}{Hey, look, it's the new arena champion! This is a surprise. Oh, wait, I know it's not really according to the rules, but I personally want to put a bottle of beer on. Because it's cool. (about myself) I will tell everyone now...}
+{212}{}{Hey, look, it's the new arena champion! This is a surprise. Oh, wait, I know it's not really according to the rules, but I want to put a bottle of beer on. Because it's cool. (about myself) I will tell everyone now...}
 {213}{}{Thanks, man. That's very kind of you.}
 {214}{}{This swill is urine. But I like your attitude.}
 
@@ -40,7 +40,7 @@
 {218}{}{I suggest you try tequila of our production. The best of what you can find today. (leans over and lowers his voice) By the way, there are special prices for their own in the casino.}
 {219}{}{Half discount? That's cool.}
 
-{220}{}{What's the story with the shooting on the street?}
+{220}{}{What's the story of the shooting on the street?}
 {221}{}{A dark matter. Someone attacked the monks walking peacefully. I didn't see anything myself, but I heard a lot of versions. Do not trust all these rumors.}
 {222}{}{And if I pay well?}
 {223}{}{Listen, we don't like to talk about this topic. Let's end this conversation.}
@@ -55,7 +55,7 @@
 {235}{}{Don Diego owns all this property. It was he who gathered people and restored the casino. Why do you ask?}
 {236}{}{Simple curiosity. Nevermind.}
 {237}{}{I want to meet him.}
-{238}{}{It won't be easy. Talk to the administrator. He decides who to let in to the boss.}
+{238}{}{It won't be easy. Talk to the administrator. He decides who to let see the boss.}
 {239}{}{OK.}
 
 {240}{}{Have you seen George Crook?}
@@ -76,7 +76,7 @@
 {259}{}{I don't understand, is this some kind of prank? You have a great reputation in the city. I can't believe you really need a heroic legend.}
 {260}{}{But you're right... Okay, forget it.}
 {261}{}{Well, I'm going to spend the caps on something more meaningful.}
-{262}{}{Ah, I understand, you need a good reputation to start a career? Yes, something can be thought of.}
+{262}{}{Ah, I understand, you need a good reputation to start a career. Yes, something can be thought of.}
 {263}{}{Don't be in a hurry. We will return to this topic later.}
 {264}{}{I'll have to go get the cash. See you later.}
 {265}{}{I'll pay 100 caps. I just need good rumors.}
@@ -93,14 +93,14 @@
 {275}{}{Uh, we need to recalculate...}
 
 {280}{}{Do you only have alcoholic beverages?}
-{281}{}{Basically, yes. I can also offer clean water, if you like. But few are willing to afford this luxury.}
+{281}{}{Basically, yes. I can also offer clean water if you like. But few are willing to afford this luxury.}
 {282}{}{Where do you get your drinks from?}
 {283}{}{We have many sources. Beer is produced by a couple of moonshiners. Sometimes something special, like pre-war whiskey, can be found in old ruins. But we produce tequila ourselves.}
 {284}{}{Ourselves? Are you kidding?}
 {285}{}{This is our pride. We order raw materials from southern plantations. Already here we are preparing drinks and medical alcohol from it. As far as I know, we are the only ones in this case.}
 {286}{}{Real production nowadays? That's impressive.}
 {287}{}{Hmm, homemade alcohol? This always worries me.}
-{288}{}{Water, beer, whiskey and, of course, tequila of our own production.}
+{288}{}{Water, beer, whiskey, and, of course, tequila of our production.}
 {289}{}{Well, yes, of course.}
 {290}{}{Where is your famous tequila? I wanted to order a couple of bottles, but the shelves are empty.}
 {291}{}{I apologize. A small force majeure in production. We are solving the problem, but it will take some time.}

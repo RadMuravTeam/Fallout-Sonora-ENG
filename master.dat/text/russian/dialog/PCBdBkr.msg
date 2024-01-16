@@ -1,4 +1,4 @@
-{100}{}{Here is a bandit.}
+{100}{}{You see a bandit.}
 {101}{}{You see a young man with a defiant behavior.}
 {102}{}{Is this your motorcycle? Oh, I'm sorry. I thought he was nobody's. Of course, uh, take it, we don't mind.}
 {103}{}{Fuck off}

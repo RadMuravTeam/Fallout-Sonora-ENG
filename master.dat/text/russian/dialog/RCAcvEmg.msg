@@ -1,5 +1,5 @@
 {100}{}{You see a stranger.}
-{101}{}{Here is a boy in worn-out clothes.}
+{101}{}{You see a boy in worn-out clothes.}
 {102}{}{Good luck. I'm leaving the Aqueduct soon. I'll try to find a place to live upstream of Colorado.}
 {103}{}{What happened... in that water...}
 {104}{}{Ah-x...}

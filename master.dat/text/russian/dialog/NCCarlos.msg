@@ -1,5 +1,5 @@
 {100}{}{You see Carlos.}
-{101}{}{Here is one of the peasants of the Villa. However, he became somehow... other.}
+{101}{}{You see one of the peasants of the Villa. However, he became somehow... other.}
 {102}{}{Hi. Good to see you.}
 {103}{}{Don't talk to me. The whole city is looking for you.}
 

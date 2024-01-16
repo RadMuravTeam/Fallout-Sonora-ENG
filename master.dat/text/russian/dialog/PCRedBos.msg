@@ -1,4 +1,4 @@
-{100}{}{Here is Orris.}
+{100}{}{You see Orris.}
 {101}{}{You see the leader of the Red Cardinals.}
 {102}{}{I need this armor. Give it back.}
 {103}{}{...Phew, this stuff fries like hell...}
@@ -8,13 +8,13 @@
 {200}{}{[Murphy] Op-pa, we've got a rat here. Do you know where you are, asshole? Hey, Orris, let me hang out with him...}
 {1200}{}{[Murphy] Op-pa, we've got a rat here. Do you know where you are, you fool? Hey, Orris, let me have some fun with her...}
 {201}{}{[Next]}
-{202}{}{[Orris] Wait, Murphy. Don't be so bloodthirsty when it comes to our guestas. You. What do you need?}
+{202}{}{[Orris] Wait, Murphy. Don't be so bloodthirsty when it comes to our guests. You. What do you need?}
 {203}{}{All I need is for scum like you to disappear from the face of the earth.}
 {204}{}{If you're looking for problems, you're in the right place.}
 {205}{}{Great. Who is the first?}
 {206}{}{They say you are a force to be reckoned with by the local authorities. I want to be with you.}
-{207}{}{[Murphy] We have enough of our own people over our throats. Do you think we need you? Get out, asshole.}
-{1207}{}{[Murphy] We have enough of our own people over our throats. Do you think we need you? Run, you fool, while you can.}
+{207}{}{[Murphy] We have enough of our people over our throats. Do you think we need you? Get out, asshole.}
+{1207}{}{[Murphy] We have enough of our people over our throats. Do you think we need you? Run, you fool, while you can.}
 {208}{}{[Next]}
 {209}{}{Murphy, my friend, calm down. I need a contact. Forgot? So, you. Come here.}
 {210}{}{Well, no. I have nothing to do with bandits.}
@@ -25,9 +25,9 @@
 {214}{}{You were raped and kicked out into the street, and your pockets were turned inside out.}
 {215}{}{Let's see what you can do. Who's the first?}
 {216}{}{What do you want from me?}
-{217}{}{To be honesta, I'm here by accident. Let me go. Please.}
+{217}{}{To be honest, I'm here by accident. Let me go. Please.}
 {218}{}{[Murphy] I'm telling you - another half-wit from the street. Let's empty our pockets and be done with it.}
-{1218}{}{[Murphy] I'm telling you - the woman is not all right with her head. Turn out the pockets, polish and be done with it.}
+{1218}{}{[Murphy] I'm telling you - the woman is not all right with her head. Turn out the pockets, polish, and be done with it.}
 {219}{}{[Next]}
 {220}{}{No, Murphy. I need a contact. Forgot? So. You. Come here.}
 {221}{}{What do you want from me?}
@@ -68,9 +68,9 @@
 {252}{}{Your friend and contact were attacked by Bruce's mercenaries.}
 {253}{}{What the... Hey, Murphy, did you hear that? It's bad. He knew too much. If they put pressure on him, they will find out all our plans. We need to act quickly.}
 {254}{}{What happened?}
-{255}{}{Look, you're not from around here, are you? I'll tell you something. In this city, the strongesta survives. It can't be any other way. And we are still alive only because we do not allow any trash to sharpen knives against us. If you want to gain a foothold in Phoenix, stay close to the right people.}
+{255}{}{Look, you're not from around here, are you? I'll tell you something. In this city, the strongest survive. It can't be any other way. And we are still alive only because we do not allow any trash to sharpen knives against us. If you want to gain a foothold in Phoenix, stay close to the right people.}
 {256}{}{So... to you.}
-{257}{}{And I want to offer you a contract. I don't care how, but I need to get my man out of jail or shut him up for good. You see what I'm getting at? It's risky for us to show up at the center, but not for you. Think about how to do it, and then I'll pay 200 caps.}
+{257}{}{And I want to offer you a contract. I don't care how, but I need to get my man out of jail or shut him up for good. Do you see what I'm getting at? It's risky for us to show up at the center, but not for you. Think about how to do it, and then I'll pay 200 caps.}
 {258}{}{I'll see what I can do.}
 {259}{}{This is too difficult a task. I can't do it.}
 
@@ -87,12 +87,12 @@
 {269}{}{Okay, I'll be back later.}
 
 {270}{}{It seems your people have been framed. What are you going to do now?}
-{271}{}{This could only be done by sectarians from the Temple of Fire. It looks like they decided to get rid of us after they used us for their own purposes. But after the explosion of the Cathedral, they are not up to us.}
+{271}{}{This could only be done by sectarians from the Temple of Fire. It looks like they decided to get rid of us after they used us for their purposes. But after the explosion of the Cathedral, they are not up to us.}
 {272}{}{So you're free now?}
 {273}{}{It's time to occupy vacant areas before someone else does. By the way, I don't need you anymore. But I don't forget those who proved useful. Talk to the pusher in the slums. We have a special relationship with him.}
 {1273}{}{It's time to occupy vacant areas before someone else does. By the way, I don't need you anymore. But I don't forget those who proved useful. Talk to the pusher in the slums. We have a special relationship with him.}
 {274}{}{Great, I'll keep that in mind. Bye, Orris.}
-{275}{}{This could only be done by sectarians from the Temple of Fire. It looks like they decided to get rid of us after they used us for their own purposes. But I don't understand how they found out about our secret deal.}
+{275}{}{This could only be done by sectarians from the Temple of Fire. It looks like they decided to get rid of us after they used us for their purposes. But I don't understand how they found out about our secret deal.}
 {276}{}{Could someone have told them?}
 {277}{}{One of our own? It's hard to believe. We are just bandits for the sectarians...}
 {278}{}{[Next]}
@@ -102,16 +102,16 @@
 {282}{}{Did you find out who set us up?}
 {1282}{}{Did you find out who set us up?}
 {283}{}{It was Murphy. He's Aaron's agent.}
-{284}{}{Murphy? I couldn't even think, because he's the besta of the besta... However, if you think about it... He knew more about my plans than anyone else.}
+{284}{}{Murphy? I couldn't even think, because he's the best of the best... However, if you think about it... He knew more about my plans than anyone else.}
 {285}{}{It's definitely Murphy. I managed to listen to his dialogue on the radio with the Cathedral's signalman. Aaron wanted to control your gang by putting his own man in charge.}
-{286}{}{Aaron's plans won't come true anymore. I'll get rid of Murphy. And you should be rewarded for your efforts. I don't want to lose such a useful agent. Here are the bottlecaps. Also talk to the pusher in the slums, I have a special agreement with him.}
+{286}{}{Aaron's plans won't come true anymore. I'll get rid of Murphy. And you should be rewarded for your efforts. I don't want to lose such a useful agent. Here are the bottlecaps. Also, talk to the pusher in the slums, I have a special agreement with him.}
 {287}{}{Bye, Orris.}
 {288}{}{Murphy won't compete with you anymore. Bye, Orris.}
 {289}{}{I think your people were framed by sectarians. But after the explosion of the cathedral, we will not know the truth.}
 {290}{}{What's the story with the fire worshippers?}
 {291}{}{These sectarians consider us bandits and do not recognize our authority over the slums. But when necessary, they are ready to negotiate.}
 {292}{}{You said you were running an errand for them.}
-{293}{}{They paid for sabotage at the nuclear plant. We blew up the cooling system of the station, but after that we were not needed by the sectarians. They threw us.}
+{293}{}{They paid for sabotage at the nuclear plant. We blew up the cooling system of the station, but after that, we were not needed by the sectarians. They threw us.}
 {294}{}{Clear.}
 {295}{}{But how do I do it?}
 {296}{}{I don't know myself. But the monks probably have everything written down in some dossiers.}
@@ -127,15 +127,15 @@
 {312}{}{I will do so. Bye.}
 {313}{}{I'll find the culprit, don't doubt it.}
 
-{320}{}{They say you killed my guys in the slums. And after that you dare to come to me. I will only give you one attempt to persuade me to let you live.}
-{1320}{}{They say you killed my guys in the slums. And after that you dare to come to me. I will give you only one attempt to persuade me to let you live.}
-{321}{}{It's their own fault.}
+{320}{}{They say you killed my guys in the slums. And after that, you dare to come to me. I will only give you one attempt to persuade me to let you live.}
+{1320}{}{They say you killed my guys in the slums. And after that, you dare to come to me. I will give you only one attempt to persuade me to let you live.}
+{321}{}{It's their fault.}
 {322}{}{My neighborhood is my rules. People need to see that my strength has to be reckoned with. Guys, deal with this garbage...}
 {1322}{}{My neighborhood is my rules. People need to see that my strength has to be reckoned with. Guys, deal with this stuff...}
 {323}{}{Oh, not in the face...}
 {324}{}{Go to hell with your whole gang.}
-{325}{}{It's their own fault. Consider this our personal showdown with them.}
-{326}{}{Yes. Your. Personal. And don't you dare tell anyone the opposite. People should see that my strength must be reckoned with.}
+{325}{}{It's their fault. Consider this our showdown with them.}
+{326}{}{Yes. Your. Personal. And don't you dare tell anyone the opposite? People should see that my strength must be reckoned with.}
 {327}{}{You have nothing to do with it.}
 {328}{}{You've confused me with someone else. It's not me.}
 {1328}{}{You've confused me with someone else. It wasn't me.}
@@ -197,7 +197,7 @@
 {387}{}{After our common affairs, you can trust me. Are you involved in this?}
 {388}{}{We're just surviving. Caps are never superfluous. Especially so light.}
 {389}{}{What do you mean? Did they help you?}
-{390}{}{Sectarians, fuck them. They had connections with someone at the station. With someone who was interested in sabotage. My guys just went into the open basement and blew up the pipes. What could be simpler? But keep in mind - I didn't tell you that.}
+{390}{}{Sectarians, fuck them. They had connections with someone at the station. With someone interested in sabotage. My guys just went into the open basement and blew up the pipes. What could be simpler? But keep in mind - I didn't tell you that.}
 {391}{}{Okay, Orris. No problem.}
 {392}{}{You've already said it all. Now say goodbye to life, you fool.}
 {393}{}{You're too talkative today. Be glad I'm not your enemy.}

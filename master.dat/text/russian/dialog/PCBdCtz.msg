@@ -1,4 +1,4 @@
-{100}{}{Here is a slum dweller.}
+{100}{}{You see a slum dweller.}
 {101}{}{You see a slum dweller. A pitiful sight.}
 {102}{}{You see a slum dweller. He picks at his ear.}
 {103}{}{You see a slum dweller. He combs the dirt out of his hair.}

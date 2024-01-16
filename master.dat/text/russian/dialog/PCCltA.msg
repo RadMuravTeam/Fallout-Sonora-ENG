@@ -1,5 +1,5 @@
 {100}{}{You see a Follower of Fire.}
-{101}{}{Here is one of the Followers. He whispers to himself either a prayer or some kind of nonsense.}
+{101}{}{You see one of the Followers. He whispers to himself either a prayer or some kind of nonsense.}
 {102}{}{His Majesty Aaron is waiting for you.}
 {103}{}{The Lord of the Phoenix is waiting for you.}
 

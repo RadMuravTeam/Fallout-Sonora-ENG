@@ -1,4 +1,4 @@
-{100}{}{Here is Teresa.}
+{100}{}{You see Teresa.}
 {101}{}{You see a short-haired woman in a hoodie. She has a very strict facial expression.}
 {102}{}{I apologize. But I need to get some sleep before class.}
 {103}{}{How dare you scare children with your terrible armor?}
@@ -37,7 +37,7 @@
 {233}{}{Look at this picture. It was made a hundred years ago in Inferno.}
 {234}{}{What is it... Oh my God, unbelievable! If the date is correct, then we have a real piece of ancient history in front of us!}
 {235}{}{I see you are very pleased with this thing.}
-{236}{}{We have not yet seen a single document from the time of the Great War. You see, they say the War passed in just a couple of hours. Thousands of nuclear bombs exploded all over the planet in this short period of time. Besides, a lot of time has passed since then, many documents have simply not been preserved. Needless to say, even if books have become very rare.}
+{236}{}{We have not yet seen a single document from the time of the Great War. You see, they say the War passed in just a couple of hours. Thousands of nuclear bombs exploded all over the planet in this short period. Besides, a lot of time has passed since then, and many documents have simply not been preserved. Needless to say, even if books have become very rare.}
 {237}{}{Go on.}
 {238}{}{Here we have direct evidence of what the nuclear explosion in Mexicali looked like... Well, that's what this city was called before the War.}
 {239}{}{Now it is called Inferno. Do you want to buy this thing?}
@@ -47,7 +47,7 @@
 {243}{}{Not so fast. It cost me a lot of effort to get this thing and bring it here.}
 {244}{}{OK. I'm going to talk to the other Followers now. We will try to collect a set of medicines for you. This is the most valuable thing in our city.}
 {245}{}{Here. Another thing.}
-{246}{}{I will give this thing away, but in return I want to listen to lectures about that era.}
+{246}{}{I will give this thing away, but in return, I want to listen to lectures about that era.}
 {247}{}{Oh, what an honor.}
 {248}{}{Since then, many people have joined us. And some, like me, go to remote lands for missionary purposes to establish a new temple of science there.}
 {249}{}{The temple of science? So are you still a religious organization?}
@@ -57,9 +57,9 @@
 {260}{}{Where did these old books come from?}
 {261}{}{Mostly they are brought by caravans. What has been preserved in the surrounding ruins, we have collected for a long time.}
 {262}{}{I see.}
-{263}{}{Alas, these four small cabinets are a pitiful trifle compared to what is in the Los Angeles library. And most of these books are of little use for teaching or science.}
+{263}{}{Alas, these four small cabinets are a pitiful trifle compared to what is in the Los Angeles library. Most of these books are of little use for teaching or science.}
 {264}{}{I can bring books that I find when traveling.}
-{265}{}{Oh, that would be great. We have to appreciate any find. Of course we will pay for the work.}
+{265}{}{Oh, that would be great. We have to appreciate any find. Of course, we will pay for the work.}
 {266}{}{I'll keep that in mind. Goodbye.}
 {267}{}{I have an old book for your library.}
 {268}{}{Just fine. Where is she?}

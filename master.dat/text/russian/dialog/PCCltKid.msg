@@ -1,5 +1,5 @@
 {100}{}{You see a child.}
-{101}{}{Here is an ordinary city child in rags.}
+{101}{}{You see an ordinary city child in rags.}
 {102}{}{Uh, I have to go.}
 
 {200}{}{Excuse me, sir!}

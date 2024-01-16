@@ -1,9 +1,9 @@
-{100}{}{Here is a dress merchant.}
+{100}{}{You see a dress merchant.}
 {101}{}{You see a woman with a mohawk wearing a leather jacket. She knows a lot about modern fashion.}
 
 #Floating replicas
 {110}{}{Throw away your rags, I have normal clothes.}
-{111}{}{You definitely need to change your image.}
+{111}{}{You need to change your image.}
 {112}{}{I can sew torn pockets.}
 {113}{}{This jacket is bursting at the seams.}
 {114}{}{Do you need shoes made of car tires?}
@@ -39,7 +39,7 @@
 {232}{}{Look, I need something special to impress people.}
 {233}{}{I'll think about it.}
 {234}{}{Seriously? Nowadays people have little taste in clothes. But you're lucky. I have sunglasses in excellent condition. Such are rarely found now.}
-{235}{}{It definitely won't hurt you. Try to cover your burns with these sunglasses. So at least from a distance you won't scare people.}
+{235}{}{It definitely won't hurt you. Try to cover your burns with these sunglasses. So at least from a distance, you won't scare people.}
 {236}{}{Yes, it definitely won't hurt you. I have great stylish glasses. It's good to hide your eyes in them so that no one will guess about your uncertainty.}
 {237}{}{Put it aside for now, I'll think about it.}
 {238}{}{So, let's see what I can offer in return...}
@@ -47,7 +47,7 @@
 
 #Metal armor
 {240}{}{What about the armor?}
-{241}{}{This is a bit not my profile. Ordinary citizens don't need armor, and few can afford it. If anyone needs it, I make an order with prepayment.}
+{241}{}{This is a bit, not my profile. Ordinary citizens don't need armor, and few can afford it. If anyone needs it, I make an order with prepayment.}
 {242}{}{I will pay 50 caps for the work.}
 {243}{}{Come on, you probably have something in a secret drawer for special clients.}
 {244}{}{Listen, why do you need armor? Better take an armored jacket, you're not going to war.}
@@ -77,7 +77,7 @@
 {281}{}{Found.}
 {1281}{}{Found it.}
 {282}{}{Inherited from the ancestors.}
-{283}{}{That's lucky. And you certainly don't know where to get more, right? Just know that these jumpsuits are a real find. If you find more, bring it to me, I'll buy it for real caps at an increased price.}
+{283}{}{That's lucky. And you certainly don't know where to get more, right? Just know that these jumpsuits are a real find. If you find more, bring it to me, and I'll buy it for real caps at an increased price.}
 {284}{}{OK. But before that, I want to look at your products.}
 {285}{}{I'm going on a search right now.}
 {286}{}{Here's the overall from the Vault you wanted.}
@@ -89,7 +89,7 @@
 {292}{}{[Next]}
 {293}{}{Besides, my parents had such a jumpsuit. This is a special memory for me. Unfortunately, that jumpsuit has long since decayed.}
 {294}{}{A curious story.}
-{295}{}{I have a overall from the Vault for you.}
+{295}{}{I have an overall from the Vault for you.}
 {296}{}{More? Wow, and you know how to get good things. Here are the bottlecaps.}
 {297}{}{You're welcome.}
 {298}{}{Great. But I need something else.}
@@ -103,9 +103,9 @@
 {305}{}{I'm sorry about the shop - of course, I'm not going to carry it.}
 {306}{}{I'll believe you. This time.}
 {307}{}{Relax, you can trust me.}
-{308}{}{I have no doubt. But I really don't know anything about the attack. Leave me alone.}
+{308}{}{I have no doubt. But I don't know anything about the attack. Leave me alone.}
 {309}{}{I promise you won't be in any danger.}
-{310}{}{As if not so. Here either you will not please the Followers, or the enemies who pursue them.}
+{310}{}{As if not so. Here either you will not please the Followers or the enemies who pursue them.}
 {311}{}{This is something interesting. Tell me how it was.}
 {312}{}{Well, masked people ran out of the alleys and started shooting at the monks. Then they also quickly disappeared. They didn't touch anyone else. That's all I know!}
 {313}{}{Hmm, a curious story. Thank you.}

@@ -5,7 +5,7 @@
 {200}{}{(In front of you is a smiling man with a gorgeous mustache. His tanned skin and cowboy hat indicate a propensity to travel, and a sober look indicates an acute lack of alcohol in the blood.)}
 {201}{}{[Sit next to the counter]}
 {202}{}{(turns around with a sly grin) Hey, buddy, can you buy me a drink? This one-armed bandit took all my cash from me.}
-{1202}{}{(turns around with a sly grin) Hey, girlfriend, can you buy me a drink? This one-armed bandit took all my cash from me.}
+{1202}{}{(turns around with a sly grin) Hey, miss, can you buy me a drink? This one-armed bandit took all my cash from me.}
 {203}{}{Give someone a drink for free? I'm not completely out of my mind yet.}
 {1203}{}{Asking a lady for a drink? Aren't you ashamed?}
 {204}{}{Whatever you say, buddy. But if you sit down with someone in a bar, be prepared to be asked for a drink.}

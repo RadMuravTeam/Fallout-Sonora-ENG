@@ -1,5 +1,5 @@
 {100}{}{You see a settler.}
-{101}{}{Here is an ordinary resident of the Aqueduct.}
+{101}{}{You see an ordinary resident of the Aqueduct.}
 
 {110}{}{I need to rest.}
 {111}{}{I need to check the networks tomorrow morning.}
@@ -40,7 +40,7 @@
 {143}{}{Better leave me alone.}
 {144}{}{Today was a hard day, we'll talk later.}
 {145}{}{I have to go through the nets all day.}
-{146}{}{Smell? It's from fish and from water. We are already used to it.}
+{146}{}{Smell? It's from fish and water. We are already used to it.}
 {147}{}{Somewhere at the bottom of Colorado lives an Arizona Monster.}
 {148}{}{Don't swim too far, there's an Arizona Monster in the water.}
 {149}{}{There was no catch today.}

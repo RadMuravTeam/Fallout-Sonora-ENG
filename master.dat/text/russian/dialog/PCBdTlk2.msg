@@ -1,4 +1,4 @@
-{100}{}{Here is a slum dweller.}
+{100}{}{You see a slum dweller.}
 {101}{}{You see a woman with a confused look. She is clearly uncomfortable here.}
 {102}{}{Some bastard killed him!}
 {103}{}{Eh? What? Well... Do you have food?}

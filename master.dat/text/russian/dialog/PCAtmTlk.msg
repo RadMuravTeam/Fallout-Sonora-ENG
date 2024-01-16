@@ -1,15 +1,15 @@
-{100}{}{Here is Ralph.}
+{100}{}{You see Ralph.}
 {101}{}{You see a man with burnt skin. He is wearing well-worn work clothes with a pre-war symbol.}
 {102}{}{I have nothing to do with traitors.}
 {103}{}{Thanks for the help. She was very helpful.}
 
-{200}{}{Wait, strangers can't go any further. What do you need?}
+{200}{}{Wait, strangers, can't go any further. What do you need?}
 {201}{}{I thought this place had been abandoned for a long time. What are you doing here?}
 {202}{}{We have been living here for many years. But the whole city knows about it. So I don't advise you to lie anymore.}
 {203}{}{But I'm not a local. I'm from a village northeast of here.}
 {1203}{}{But I'm not local. I'm from a village northeast of here.}
-{204}{}{Oh, that's a surprise. You really don't look like an ordinary citizen - your skin is tanned, your accent is unusual. Curious...}
-{1204}{}{Oh, this is a surprise. You really don't look like an ordinary citizen - your skin is tanned, your accent is unusual. Curious...}
+{204}{}{Oh, that's a surprise. You don't look like an ordinary citizen - your skin is tanned, and your accent is unusual. Curious...}
+{1204}{}{Oh, this is a surprise. You don't look like an ordinary citizen - your skin is tanned, and your accent is unusual. Curious...}
 {205}{}{Hmm. Let me just leave.}
 {206}{}{Why is that?}
 {207}{}{Okay, listen, we have an emergency here. Maybe you can help. Go to the manager, and then - as you agree.}
@@ -36,10 +36,10 @@
 {235}{}{It would be better to feed the people than to force slaves to work ore.}
 {236}{}{How did you all end up here?}
 {237}{}{We came from the west, from California. But this is a separate story. Coincidentally, we were offered to restore the station. After all, you, the modern generation, don't know a damn thing about the old technology.}
-{238}{}{Wait a minute, do you really mean to say that you have lived for a hundred years?}
+{238}{}{Wait a minute, do you mean to say that you have lived for a hundred years?}
 {239}{}{Well preserved, aren't they? Our favorite joke. They say that the cause of our mutation was some kind of virus that accidentally got into the air during the bombing of the old laboratory. But these are just rumors.}
 {240}{}{Tell me, what was the world like before the war?}
-{241}{}{Hmm... A hundred years have passed, much is in a fog. I remember cars, skyscrapers and military checkpoints. I remember the war when the bombs fell on the city. But is it possible to explain all this to a person like you? It's just a story for you.}
+{241}{}{Hmm... A hundred years have passed, and much is in a fog. I remember cars, skyscrapers, and military checkpoints. I remember the war when the bombs fell on the city. But is it possible to explain all this to a person like you? It's just a story for you.}
 {242}{}{I see it's hard for you to remember this. Let's change the subject.}
 {243}{}{Are you trying to humiliate me now? Not another word, Mr. Pockmarked Skin.}
 {244}{}{Your boss says the pipeline was blown up. What do you think about it?}
@@ -76,7 +76,7 @@
 {274}{}{I have a lot of connections. But what are you trying to achieve? Do you want to take your boss's place?}
 {275}{}{What narrow-minded motives. Don't forget that I'm a hundred years old. If we were in the Old World, I would crave a career promotion. But what do we have now? The devastation, the lack of transport and roads, even street lighting, people saw only thanks to us and the Church of Fire.}
 {276}{}{Isn't the church sponsoring you with uranium?}
-{277}{}{That's not enough. Theodore doesn't let them go to the station's affairs, and without them, business is moving too slowly. At first it seemed like a purely technical matter - they took uranium and got energy from it. Now comes the time of the economy, business and taxes. Theodore does not understand anything about this and believes that it is enough just to sell energy left and right.}
+{277}{}{That's not enough. Theodore doesn't let them go to the station's affairs, and without them, business is moving too slowly. At first, it seemed like a purely technical matter - they took uranium and got energy from it. Now comes the time of the economy, business, and taxes. Theodore does not understand anything about this and believes that it is enough just to sell energy left and right.}
 {278}{}{So you want to renegotiate the contract. What about Theodore?}
 {279}{}{The problem is that the old man is out of his mind, but there are workers behind him. I need to be at the helm of the station for something to change. Help me. Get rid of Theodore, and you will receive a reward and respect. Moreover, you will do a useful thing for the whole city.}
 {280}{}{I'll think about it.}

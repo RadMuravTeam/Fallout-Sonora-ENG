@@ -1,4 +1,4 @@
-{100}{}{Here is a woman Diego.}
+{100}{}{You see a Diego's woman.}
 {101}{}{You see one of Don Diego's wives.}
 
 {110}{}{What do you allow yourself?}

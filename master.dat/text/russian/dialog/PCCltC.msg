@@ -1,5 +1,5 @@
 {100}{}{You see a Follower of Fire.}
-{101}{}{Here is one of the Followers. He whispers to himself either a prayer or some kind of nonsense.}
+{101}{}{You see one of the Followers. He whispers to himself either a prayer or some kind of nonsense.}
 
 {200}{}{Greetings, stranger.}
 {1200}{}{Greetings, stranger.}
@@ -10,9 +10,9 @@
 {204}{}{Eh, yes, of course.}
 
 {210}{}{How did you become a Follower?}
-{211}{}{I was as worthless a creature as the people of the wasteland-I cared only about survival and had no idea about the Sacred Fire. Having sunk to the bottom and being persecuted, I was looking for solace and one day came across this temple. I was Vaulted here and given a purpose in life.}
+{211}{}{I was as worthless a creature as the people of the wasteland  I cared only about survival and had no idea about the Sacred Fire. Having sunk to the bottom and being persecuted, I was looking for solace and one day came across this temple. I was vaulted here and given a purpose in life.}
 {212}{}{What did faith give you?}
-{213}{}{The church cares about its followers. We get medical care, education and, of course, protection from enemies.}
+{213}{}{The church cares about its followers. We get medical care, education, and, of course, protection from enemies.}
 {214}{}{And others? Those who do not enter the church?}
 {215}{}{We don't have that many resources to provide for outsiders. Therefore, you have to be selective and careful in choosing friends.}
 {216}{}{What do you do in the cathedral?}

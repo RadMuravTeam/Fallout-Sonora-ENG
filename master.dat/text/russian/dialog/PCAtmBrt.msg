@@ -1,10 +1,10 @@
-{100}{}{Here is an atomist.}
+{100}{}{You see an atomist.}
 {101}{}{You see a man with burnt skin. He is wearing well-worn work clothes with a pre-war symbol.}
 
 {200}{}{Holy Om! Don't scare me like that. You with your pale skin wander around the station like a ghost...}
-{201}{}{There are definitely people who look like dead people here. But it's not me.}
+{201}{}{There are people here who look like they're. But it's not me.}
 {202}{}{Sorry, I had no idea of scaring anyone.}
-{203}{}{Haha. Nevermind, we can only laugh at death... I'm Herbert, the warehouse manager.}
+{203}{}{Haha. Never mind, we can only laugh at death... I'm Herbert, the warehouse manager.}
 {204}{}{Warehouse? So, you probably have something useful.}
 
 {210}{}{What do you need, tramp?}

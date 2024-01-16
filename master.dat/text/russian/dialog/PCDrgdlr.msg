@@ -1,5 +1,5 @@
-{100}{}{Here is a pusher.}
-{101}{}{You see a drug dealer, or something like that.}
+{100}{}{You see a pusher.}
+{101}{}{You see a drug dealer or something like that.}
 {102}{}{Pusher raised the prices of his goods.}
 {103}{}{You have received a discount on pusher products.}
 {104}{}{Be careful with that, baby. You're looking for serious trouble.}
@@ -14,7 +14,7 @@
 {205}{}{Of course, of course, whatever you say, man. But trust me, you're giving up the last pleasure in this lousy world.}
 {206}{}{Pleasure? Come on, come on, that's where we should have started.}
 {207}{}{What are you trying to sell me?}
-{208}{}{I don't know what you're talking about. I have absolutely pure stimpacks and mentats. Who would want to call it a drug? The question is how well you will use it. But this is already (winks) none of my business.}
+{208}{}{I don't know what you're talking about. I have pure stimpacks and mentats. Who would want to call it a drug? The question is how well you will use it. But this is already (winks) none of my business.}
 {209}{}{Everything is clear with you.}
 
 #Repeat dialog
@@ -31,11 +31,11 @@
 {219}{}{We didn't see each other. Later.}
 
 #Rude response and going into battle
-{220}{}{Listen to me carefully, estupida. There are people behind me who *own* this area. And who are you to set your own rules here? Do you think they'll just let it go? Don't make any noise, otherwise there will be problems.}
+{220}{}{Listen to me carefully, estupida. There are people behind me who *own* this area. And who are you to set your own rules here? Do you think they'll just let it go? Don't make any noise, otherwise, there will be problems.}
 {221}{}{I don't care, you're going to die anyway.}
 {222}{}{Sorry, that was stupid. No problem, bro.}
-{223}{}{Dude, you're starting to get on my nerves. Calm down, otherwise I'll call my guys.}
-{1223}{}{Lady, you're getting on my nerves. Calm down, otherwise I will introduce you to my palm.}
+{223}{}{Dude, you're starting to get on my nerves. Calm down, otherwise, I'll call my guys.}
+{1223}{}{Lady, you're getting on my nerves. Calm down, otherwise, I will introduce you to my palm.}
 {224}{}{Come on, bitch! Come on!}
 {225}{}{Sorry, no need to call anyone. I'm already calming down.}
 {226}{}{You're crazy! Die, pendejo!}
@@ -45,7 +45,7 @@
 
 #Questions
 {230}{}{So what kind of medicines are you selling?}
-{231}{}{And what do you need? Tell me, I can get a stimpack, Radawaye or... (winks) something more serious. Do you understand?}
+{231}{}{And what do you need? Tell me, I can get a stimpack, Radawaye, or... (winks) something more serious. Do you understand?}
 {232}{}{I'll keep that in mind. See you later.}
 {233}{}{But where did you get all this chemistry from?}
 {234}{}{More serious? Like buffout and psycho?}
@@ -53,10 +53,10 @@
 {236}{}{But why did they need old army drugs?}
 {237}{}{They hide behind caring for the residents of the city... look, I really don't know why they do this, but I don't want to go against the rules. However... (goes into a whisper)}
 {238}{}{Yes?}
-{239}{}{I have a lot of connections. For a modest reward of 100 caps, I can become your personal dealer. But this has to stay between us. Do you understand?}
+{239}{}{I have a lot of connections. For a modest reward of 100 caps, I can become your dealer. But this has to stay between us. Do you understand?}
 {240}{}{I'll think about your offer.}
 {241}{}{Yes, you are a danger to society. You need to be eliminated urgently.}
-{242}{}{Not so fast. First tell me where you got all this chemistry from?}
+{242}{}{Not so fast. First, tell me where you got all this chemistry from.}
 {243}{}{Here are the bottlecaps. Now show everything you hide from ordinary customers.}
 {244}{}{We've been through this before. So do you need dope or not?}
 {245}{}{No, not today.}
@@ -74,7 +74,7 @@
 
 {260}{}{Damn, I have everything I need. Don't worry, you'll feel good now...}
 {261}{}{Ugh, my eyes are running away from the choice. Now I will know where to buy dope.}
-{262}{}{Another thing. But don't you dare talk. This will be our little secret.}
+{262}{}{Another thing. But don't you dare talk? This will be our little secret.}
 {263}{}{I don't see the point in that. I don't need third parties for sales.}
 {264}{}{I'll be back later.}
 {265}{}{You're just a fool. Bye.}
@@ -90,7 +90,7 @@
 {277}{}{Okay, okay, I'm leaving...}
 {278}{}{Just try to be rude to me again - you will be left without teeth.}
 {279}{}{I need *really* high-quality medicines. The lives of my patients depend on it.}
-{280}{}{So you're a doctor? That was the place to start. Doctors in our time can be counted on the fingers, I am glad of any such meeting. Don't worry, I'll give you the best. And also at a discount.}
+{280}{}{So you're a doctor? That was the place to start. Doctors in our time can be counted on our fingers, and I am glad of any such meeting. Don't worry, I'll give you the best. And also at a discount.}
 {281}{}{Thank you, colleague, this will help me.}
 {282}{}{Another thing.}
 {283}{}{It's still too doubtful. I'm leaving.}
@@ -114,7 +114,7 @@
 #Drug addict died at the hands of GG
 {300}{}{They say you killed Larry. Why the hell are you killing my clients?}
 {301}{}{I'm ridding the world of garbage. Any problems?}
-{302}{}{Then do it somewhere else! Larry, though he was trash, but he had periods of epiphany. At such moments, he managed to earn caps and then lowered them to a new batch of dope. I had a good income from this, do you understand? And what will I have with a cold corpse?}
+{302}{}{Then do it somewhere else! Larry, even though he was trash, but he had periods of epiphany. At such moments, he managed to earn caps and then lowered them to a new batch of dope. I had a good income from this, do you understand? And what will I have with a cold corpse?}
 {303}{}{Eh, what?}
 {304}{}{I don't care.}
 {305}{}{Um-M... Remember, it will cost you dearly. I will take my lost profit from our transactions.}
@@ -134,7 +134,7 @@
 {318}{}{Larry. Even though he was trash, he had periods of epiphany. At such moments, I managed to earn light caps on it. And what will I have now?}
 {319}{}{You wouldn't be able to make money on someone else's problem for a long time. Think about it.}
 
-{320}{}{With those guys who took your bike, you should be careful. They're from the Red Cardinals gang, and this gang practically owns this neighborhood. Make one of them angry, and you won't live. But of course it's yours.}
+{320}{}{With those guys who took your bike, you should be careful. They're from the Red Cardinals gang, and this gang practically owns this neighborhood. Make one of them angry, and you won't live. But of course, it's yours.}
 {321}{}{I'll take that into account.}
 {322}{}{I have a package for you from the Blue Shields.}
 {323}{}{Finally. Give it here. I've been waiting. Do you know how hard it is to get hydrocarbons?}

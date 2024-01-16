@@ -1,5 +1,5 @@
 {100}{}{You see a mercenary.}
-{101}{}{Here is a strong man dressed in heavy armor.}
+{101}{}{You see a strong man dressed in heavy armor.}
 {102}{}{You have lost your personal bodyguard.}
 {103}{}{Time is up, your bodyguard has returned to the caravan park.}
 

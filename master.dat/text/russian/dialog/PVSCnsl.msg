@@ -3,7 +3,7 @@
 {102}{}{The force fields of the prison block are disabled.}
 {103}{}{The security clearance level is not high enough.}
 
-{200}{}{Enter the command.}
+{200}{}{Enter command.}
 {201}{}{Disable the force field of camera 1.}
 {202}{}{Activate the force field of camera 1.}
 {203}{}{Disable the force field of camera 2.}

@@ -1,5 +1,5 @@
 {100}{}{You see a beggar.}
-{101}{}{Here is an ordinary street dweller.}
+{101}{}{You see an ordinary street dweller.}
 {102}{}{You have witnessed a crime.}
 {103}{}{What am I standing for? We need to remove the witnesses!}
 

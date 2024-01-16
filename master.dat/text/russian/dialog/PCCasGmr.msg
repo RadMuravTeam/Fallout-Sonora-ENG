@@ -1,10 +1,10 @@
-{100}{}{Here is a player.}
+{100}{}{You see a player.}
 
 {101}{}{It looks like this player is very lucky today.}
 {102}{}{You see a casino customer. He gets into a rage from a string of wins.}
 {103}{}{This player is bored. It looks like he's not winning, but he's not losing either.}
 {104}{}{You see a casino customer. He is angry from a string of losses.}
-{105}{}{This player panicked his head. Apparently, he lost his entire fortune.}
+{105}{}{This player panicked his head. He lost his entire fortune.}
 
 {109}{}{How did they let you through in such armor?}
 
@@ -35,7 +35,7 @@
 #- bad
 {150}{}{Terrible place, I can't win anything.}
 {151}{}{I'm doing the worst, aren't you?}
-{152}{}{I'm really unlucky today.}
+{152}{}{I'm unlucky today.}
 {153}{}{This is not a casino, but a den of one-armed robbers.}
 {154}{}{I will never win here.}
 {155}{}{I shouldn't be playing this game at all. It's hopeless.}
@@ -43,7 +43,7 @@
 {157}{}{If I win, I'll give everyone a drink.}
 {158}{}{I hope you have better luck than me.}
 {159}{}{This streak of bad luck will never end.}
-{160}{}{I really need to win.}
+{160}{}{I need to win.}
 {161}{}{Well, it's just a game.}
 {162}{}{The dice don't go.}
 {163}{}{They are clearly cheating.}

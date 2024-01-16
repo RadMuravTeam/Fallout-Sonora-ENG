@@ -1,8 +1,8 @@
 {100}{}{It's a computer.}
-{101}{}{Here is a computer with access to a shared network.}
+{101}{}{You see a computer with access to a shared network.}
 
 #Dialog
-{200}{}{Enter the command.}
+{200}{}{Enter command.}
 {201}{}{End session.}
 {202}{}{Back.}
 

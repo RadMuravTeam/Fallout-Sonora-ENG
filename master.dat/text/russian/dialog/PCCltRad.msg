@@ -1,5 +1,5 @@
 {100}{}{You see the signalman.}
-{101}{}{Here is one of the Followers.}
+{101}{}{You see one of the Followers.}
 {102}{}{What is it? Lost? The exit is over there, but outsiders are not allowed here.}
 {1102}{}{What is it? Lost? The exit is over there, but outsiders are not allowed here.}
 {103}{}{Greetings, brother. May the Sacred Fire light you up.}

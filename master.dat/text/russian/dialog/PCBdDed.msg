@@ -1,4 +1,4 @@
-{100}{}{Here is Bob.}
+{100}{}{You see Bob.}
 {101}{}{You see a dark-skinned man with a beard and in hiking clothes.}
 {102}{}{You see old Bob. As usual, he indulges in drunkenness.}
 
@@ -52,7 +52,7 @@
 {253}{}{Uh, nothing.}
 {254}{}{Yes, there was a golden time when scavengers rummaged through the ruins of Phoenix in droves. Now only really dangerous areas with high radiation remain untouched... And what?}
 {255}{}{Tell me about the scavengers.}
-{256}{}{You really don't know about us? Hmm, we are really quite inconspicuous.}
+{256}{}{You really don't know about us? Hmm, we are quite inconspicuous.}
 {257}{}{I've been to Garage City, where the scavengers live too.}
 {258}{}{Ah, old Kogan must have gone completely crazy, right? Eh, many went there to work when all this hype with the branch rose. I was afraid to go on such a long journey. And now it makes no sense to go - they say the branch is bent.}
 {259}{}{So what do you do?}
@@ -72,7 +72,7 @@
 {274}{}{Really? And where was it?}
 {275}{}{In the western ruins, on the edge of the crater. The Scavengers Guild once made an expedition there, but the Vault was so destroyed that we returned empty-handed.}
 {276}{}{Sorry to hear that. What about other Vaults?}
-{277}{}{So eager to find the real treasure, huh? Many tried, but found only brain cancer. Or a bandit bullet. If anyone knows about the Vaults, it's probably the fire worshippers. But they are reluctant to share information.}
+{277}{}{So eager to find the real treasure, huh? Many tried but found only brain cancer. Or a bandit bullet. If anyone knows about the Vaults, it's probably the fire worshippers. But they are reluctant to share information.}
 {278}{}{Thank you, maybe they will help me there.}
 {279}{}{You're no good, you old fart.}
 {280}{}{I see. Can we talk about something else?}
@@ -87,7 +87,7 @@
 {297}{}{I understand. I hope you will change your mind someday.}
 {298}{}{Likewise, Bob. I don't like you either.}
 {299}{}{I travel a lot. I could use your knowledge.}
-{300}{}{Of course. But I'm not the one to travel anymore. I can only tell you about various places around the city, if it helps you.}
+{300}{}{Of course. But I'm not the one to travel anymore. I can only tell you about various places around the city if it helps you.}
 {301}{}{Great. Let me expand the map...}
 {302}{}{The most difficult thing is to avoid unnecessary meetings.}
 {303}{}{Thanks, Bob. This will help me a lot.}
@@ -97,13 +97,13 @@
 {351}{}{(squinting) I don't remember getting along so well with you to tell local news.}
 {352}{}{Didn't you say you were a scavenger?}
 {353}{}{I understand, then let's stop there.}
-{354}{}{Everything is the same in our ghetto. Gangs, sectarians and poverty.}
+{354}{}{Everything is the same in our ghetto. Gangs, sectarians, and poverty.}
 {355}{}{I see. Let's not talk about the bad.}
 {356}{}{What kind of gangs are threatening you?}
 {357}{}{They don't threaten. Own. A gang of Red Cardinals is in control of the entire area. There are a few other small gangs, but they are afraid to come here.}
 {358}{}{What do fire worshippers care about your neighborhood?}
-{359}{}{And what does the fire worshippers care about your neighborhood?}
-{360}{}{They want to take over the whole city. Slums are just a source of cheap labor for them. All this is covered up by benevolent missions to collect alms to the needy, but we ourselves need more than anyone in the city.}
+{359}{}{And what do the fire worshippers care about your neighborhood?}
+{360}{}{They want to take over the whole city. Slums are just a source of cheap labor for them. All this is covered up by benevolent missions to collect alms for the needy, but we ourselves need more than anyone in the city.}
 {361}{}{Don't you believe them?}
 {362}{}{(looks around) Hush! It's better not to ask about sectarians if you don't want problems with them.}
 {363}{}{What did you say about gangs that threaten you?}
@@ -114,15 +114,15 @@
 {368}{}{Your truth.}
 {369}{}{Pathetic pussy.}
 {370}{}{I can stand up for myself. And for you, too. Tell me, what's wrong with these guys?}
-{371}{}{Fire worshippers are not what they seem. In the world, they look like good-natured simpletons and talk about the benefits of literacy. But behind the walls of the Cathedral they become silent recluses. What happens at their secret meetings, only they know.}
+{371}{}{Fire worshippers are not what they seem. In the world, they look like good-natured simpletons and talk about the benefits of literacy. But behind the walls of the Cathedral, they become silent recluses. What happens at their secret meetings, only they know.}
 {372}{}{Go on.}
 {373}{}{I know that they collect pre-war knowledge and technology. They say that this is how they try to revive the world. But all this is inaccessible to mere mortals. And if we consider that Aaron came to power through revolutions under the banners of the Sacred Fire, it is not difficult to draw some conclusions about their real interests.}
 {374}{}{Seize control of the city?}
 {375}{}{It was once said that war does not change its goals. It's the same here. Nobody cares about ordinary people. Those who tried to go against the church ended up in hard labor or on a punitive bonfire. And if you join the ranks of Followers, then you can only get out of there feet first.}
 {376}{}{Sounds ominous.}
-{377}{}{And by the way, some have noticed that more people enter the Cathedral than come out. I don't know what this is related to. But there are rumors that the building is actually bigger than it looks, and has a connection to underground utilities. That's how it is. But keep your mouth shut. Some particularly talkative ones went missing.}
+{377}{}{And by the way, some have noticed that more people enter the Cathedral than come out. I don't know what this is related to. But there are rumors that the building is bigger than it looks, and has a connection to underground utilities. That's how it is. But keep your mouth shut. Some particularly talkative ones went missing.}
 {378}{}{In that case, we won't bring up this topic anymore.}
 {379}{}{I don't believe in your stories, garbage man Bob. Bye.}
-{380}{}{They lied that the cathedral was used exclusively for peaceful purposes. But there was a whole bunker with nuclear weapons under the building. And after the explosion, many residents became emboldened and began to talk about how the sectarians intimidated them. Of course, I don't believe them. Nobody believes them now.}
+{380}{}{They lied that the cathedral was used exclusively for peaceful purposes. But there was a whole bunker with nuclear weapons under the building. After the explosion, many residents became emboldened and began to talk about how the sectarians intimidated them. Of course, I don't believe them. Nobody believes them now.}
 {381}{}{I see. How about a couple more questions?}
 {382}{}{It's a pity you don't know the whole story. Bye, Scavenger Bob.}

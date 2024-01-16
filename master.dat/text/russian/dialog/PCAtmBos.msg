@@ -1,4 +1,4 @@
-{100}{}{Here is Theodore.}
+{100}{}{You see Theodore.}
 {101}{}{You see a man with burnt skin. He is wearing well-worn work clothes with a pre-war symbol.}
 {102}{}{Security! An outsider!}
 {103}{}{We'll talk when Ralph is overtaken by Electromagnetic Retaliation.}
@@ -13,7 +13,7 @@
 {115}{}{No, Chief, he's locked himself in and won't let anyone in there. We have to do something!}
 
 {200}{}{Well, well. And here is the first messenger of evil. Or not? I'm getting confused about the days of the week, I need to wind up the clock.}
-{201}{}{Um, I don't understand what you're talking about? I'm in town recently, looking for my family.}
+{201}{}{Um, I don't understand what you're talking about. I've been in town recently, looking for my family.}
 {202}{}{Hmm, really? Well, yes, I've seen a lot in a hundred years. Sorry for the skepticism, but it's very important to be careful right now.}
 {203}{}{Did something happen?}
 {204}{}{The pipeline from the reactor cooling system exploded. Burst like a nasty worm. We've cut off the liquid supply, but there won't be enough reserves for a long time. The reactor will overheat from month to month and sooner or later it will have to be turned off.}
@@ -54,11 +54,11 @@
 {250}{}{I know who blew up the cooler.}
 {251}{}{Wow, how curious. Like in a real detective story... And who is it?}
 {252}{}{I don't know. I'm just desperate. I'd better go get a drink.}
-{253}{}{The explosion was carried out by the Red Cardinals on the order of the fire worshippers. And your devoted assistant, Ralph, helped them in this.}
+{253}{}{The explosion was carried out by the Red Cardinals on the order of the fire worshippers. And your devoted assistant, Ralph, helped them with this.}
 {254}{}{Close my contacts! Why would he interfere in this?}
 {255}{}{I have no idea, but it's a fact.}
 {256}{}{The Church tried to persuade you to an unprofitable contract. And Ralph... He thinks it's time for him to take up the post of stationmaster.}
-{257}{}{Hey, security! Bring Ralph to me. And do not take your eyes off him, so that there are no discounts for him... He's crazy. Like an overripe cherry. Do you know how much work it cost to launch this station?}
+{257}{}{Hey, security! Bring Ralph to me. And do not take your eyes off him, so that there are no discounts for him... He's crazy. Like an overripe cherry. Do you know how much work it costs to launch this station?}
 {258}{}{I don't care...}
 {259}{}{Must be pretty damn hard?}
 {260}{}{Oh yeah. All worries. Ralph thinks the cultists will do better if they take command here. But as a former officer, I know that people with convictions should not be allowed to come to power. Oh, I love to write out fines for crossing in the wrong place. You feel like that... big.}
@@ -74,6 +74,6 @@
 {281}{}{Glad to try.}
 {1281}{}{Glad to try.}
 {282}{}{After all I've seen, I don't understand how you even exist with such insanity. Yes, and you control the station.}
-{283}{}{What are you saying? Miasma? Yeah, that's a problem. I tried to wash, but the smell only intensifies. You're it, you better worry about yourself.}
+{283}{}{What are you saying? Miasma? Yeah, that's a problem. I tried to wash, but the smell only intensified. You're it, you better worry about yourself.}
 {284}{}{Goodbye, old man.}
 {285}{}{I hope we never cross paths again.}

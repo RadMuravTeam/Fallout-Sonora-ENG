@@ -1,4 +1,4 @@
-{100}{}{Here is bellboy.}
+{100}{}{You see a bellboy.}
 {101}{}{You see a very helpful young man with an ingratiating look.}
 {102}{}{Q-you're not going to check into the room in this one... in this...}
 {103}{}{Sorry, buddy, but I was forbidden to serve an ass like you.}
@@ -59,7 +59,7 @@
 {262}{}{Yeah. The service is terrible when there are no competitors.}
 
 #Skill Enhancement
-{300}{}{Tell me, is the game in this casino really fair?}
+{300}{}{Tell me, is the game in this casino fair?}
 {301}{}{Honest... Yes, perhaps.}
 {302}{}{Why did you hesitate?}
 {303}{}{Well, it depends a lot on probabilities. And they are generally slightly higher at the casino than at the player. But that doesn't mean you can't win and get rich.}
@@ -78,7 +78,7 @@
 {322}{}{Wait a little longer. I'll have to go get the caps.}
 {323}{}{Thank you. (looking around hides the bottlecaps) Let's start with the general rules...}
 {324}{}{[Continue]}
-{325}{}{...And never split on fives, then the sum will be equal to ten.}
+{325}{}{...And never split into fives, then the sum will be equal to ten.}
 {326}{}{Wow, it's not easy. Now I know exactly what NOT to do.}
 {327}{}{That's all I know. Ultimately, these five percent of luck will decide your fate in the game. Okay, I'll go before the boss suspects anything.}
 {328}{}{Thanks for the tips, man.}

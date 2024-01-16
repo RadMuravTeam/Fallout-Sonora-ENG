@@ -1,12 +1,12 @@
-{100}{}{Here is a croupier.}
+{100}{}{You see a croupier.}
 {101}{}{You see a man with a sharp look and businesslike habits.}
-{102}{}{Because, in-you can't sit at roulette in THIS...}
+{102}{}{Because in-you can't sit at roulette in THIS...}
 {103}{}{If you don't leave, I'll call security.}
 
 {200}{}{(Here is a roulette in nuclear coloring. The betting table is divided into black and red cells, and two cells labeled "0" and "00" are highlighted with a nuclear explosion pattern. The dealer takes a bright yellow ball, which for some reason is called a "bomb" here. With a habitual movement of his hand, he launches it along the wheel under the intense gazes of the players.)}
 {201}{}{Ugh, I don't know how to play this.}
 {202}{}{It's probably worth a try.}
-{203}{}{I'm just looking, nevermind.}
+{203}{}{I'm just looking, never mind.}
 {204}{}{Of course, sir. Join us.}
 {1204}{}{Of course, ma'am. Join us.}
 {205}{}{So, what do we have here...}

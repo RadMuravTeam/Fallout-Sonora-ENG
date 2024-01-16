@@ -1,4 +1,4 @@
-{100}{}{Here is a small trader.}
+{100}{}{You see a small trader.}
 {101}{}{You see a local merchant. He prepares drinks for the arena audience.}
 
 {110}{}{Well, that's it, the end of my business.}

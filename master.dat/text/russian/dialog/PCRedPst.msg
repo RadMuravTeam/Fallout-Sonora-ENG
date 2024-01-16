@@ -1,4 +1,4 @@
-{100}{}{Here is a cardinal.}
+{100}{}{You see a cardinal.}
 {101}{}{You see a bandit with a stylish hairstyle and a gang emblem on his back.}
 
 {200}{}{Hey, what are you doing here? Don't you know whose neighborhood this is?}
@@ -53,7 +53,7 @@
 {247}{}{Argh. I should have started with that right away. I don't want any problems with your sect. You've already taken over the whole city. Here, take these damn letters.}
 {248}{}{May the Sacred Fire have mercy on you, O victim of Radiation and Devastation.}
 {249}{}{You crossed one of Don Diego's men. Don't piss off my boss.}
-{250}{}{(replaying) Ah, I'm sorry, señor. I should have started with that right away. Who would have thought that such a famous person would visit our hole. (gives letters) Give a salute to your boss. Adyo-os.}
+{250}{}{(replaying) Ah, I'm sorry, señor. I should have started with that right away. Who would have thought that such a famous person would visit our hole? (gives letters) Give a salute to your boss. Adyo-os.}
 {1250}{}{(replaying) Ah, I'm sorry, señora. I should have started with that right away. Who would have thought that such a famous person would visit our hole. (gives letters) Give a salute to your boss. Adyo-os.}
 {251}{}{Know your place, Cardinal. There are more serious forces in the city than your gang.}
 {252}{}{Orris warned me about your obstinacy. Do you want to get out of the gang? I'll arrange it.}

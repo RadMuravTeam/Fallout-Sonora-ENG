@@ -1,4 +1,4 @@
-{100}{}{Here is Ranger Agatha.}
+{100}{}{You see Ranger Agatha.}
 {101}{}{You see a veteran ranger in combat armor.}
 {102}{}{Great armor. I'm almost jealous.}
 
@@ -8,7 +8,7 @@
 {202}{}{At ease, Ranger. It's nice to see you in our citadel. Feel free to ask questions.}
 {203}{}{Thank you, Captain.}
 {204}{}{Attention, Ranger! Address me according to the regulations or go to all four sides. I don't have time for an ass like you.}
-{205}{}{Looks like my reputation pisses you off. Let's talk?}
+{205}{}{Looks like my reputation pisses you off. Let's talk.}
 {206}{}{(In front of you is a strong woman in combat armor. Her strict army look is emphasized by a short standing haircut and a rough voice)}
 {207}{}{May I apply?}
 
@@ -88,7 +88,7 @@
 {281}{}{At first I was confused. And then I got angry and promised that I would avenge my family.}
 {282}{}{Did you succeed?}
 {283}{}{Revenge on the whole gang? You don't have to have brains to decide on such a thing.}
-{284}{}{I went to the wastelands and honed my skills, searched for weapons and supplies, studied the terrain and eventually killed all the bandits one by one in their lair. It took a long time.}
+{284}{}{I went to the wastelands and honed my skills, searched for weapons and supplies, studied the terrain, and eventually killed all the bandits one by one in their lair. It took a long time.}
 {285}{}{Destroying a gang with traps and tricks alone is something incredible.}
 {286}{}{Pf, traps for weaklings. However, you were a teenager...}
 {287}{}{But after all this suffering, I realized that murder remains murder. The Wastelands don't need a man with a rifle, but law and order. And only the Rangers shared the same views. After the story with the bandits, I was accepted into the cadets without further ado.}
@@ -97,7 +97,7 @@
 
 #Cadet Presley
 {300}{}{Why aren't you letting Cadet Presley on a mission?}
-{301}{}{Even if he is ready to hold a rifle in his hands, he needs to be knocked down a little arrogance. This applies to many cadets.}
+{301}{}{Even if he is ready to hold a rifle in his hands, he needs to be knocked down with a little arrogance. This applies to many cadets.}
 {302}{}{So he's too wayward?}
 {303}{}{Rather ambitious and impatient. Such rangers don't live long and usually end up pretty badly.}
 {304}{}{Maybe you're just pushing him?}
@@ -112,12 +112,12 @@
 {313}{}{Where is Cadet Presley? You're the last person he was seen with.}
 {1313}{}{Where is Cadet Presley? You're the last person he was seen with.}
 {314}{}{He died in the line of duty.}
-{315}{}{Damn it! Why did I trust such an idiot! Get out, otherwise I can't vouch for myself!}
-{1315}{}{Damn it! Why did I trust such an idiot! Get out, otherwise I can't vouch for myself!}
+{315}{}{Damn it! Why did I trust such an idiot? Get out, otherwise I can't vouch for myself!}
+{1315}{}{Damn it! Why did I trust such an idiot? Get out, otherwise I can't vouch for myself!}
 {316}{}{Er...}
 
 {320}{}{Do you know that the quartermaster has lost a weapon from the warehouse?}
-{321}{}{Yes. And of course you're trying to figure this shit out, right? But you know what, it's time for this junk keeper to clean up his dark, dusty storerooms. Because I don't believe my cadets could have stolen anything.}
+{321}{}{Yes. And of course, you're trying to figure this shit out, right? But you know what, it's time for this junk keeper to clean up his dark, dusty storerooms. Because I don't believe my cadets could have stolen anything.}
 {322}{}{[Next]}
 {323}{}{And I won't let anyone blame them. Do you understand that? And now I need to continue training.}
 {324}{}{Of course, no problem.}

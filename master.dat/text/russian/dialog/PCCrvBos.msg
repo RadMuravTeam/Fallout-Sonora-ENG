@@ -1,4 +1,4 @@
-{100}{}{Here is merchant Marko.}
+{100}{}{You see the merchant Marko.}
 {101}{}{You see the caravan manager. His dark skin speaks of countless miles traveled.}
 {102}{}{Have a good trip.}
 {103}{}{This settlement is called Two-Sun. The locals are distrustful of outsiders, so watch yourself.}
@@ -19,7 +19,7 @@
 {222}{}{Have you been doing caravan driving for a long time?}
 {223}{}{Six years or so. I have a flair for the "uranium vein", do you understand? At that time, no one believed that a contract with tinsmiths would become a regular thing. I was lucky to take the vacant seat.}
 {224}{}{What are you transporting?}
-{225}{}{Tinsmiths are primarily interested in uranium ore, provisions and medicines. They exchange them for technology items that they assemble or repair in their workshops.}
+{225}{}{Tinsmiths are primarily interested in uranium ore, provisions, and medicines. They exchange them for technology items that they assemble or repair in their workshops.}
 {226}{}{And slaves?}
 {227}{}{Not my profile, slaves are too troublesome. For such a case, they usually organize a special convoy in the mercenary guild or recruit people from the population.}
 {228}{}{Who are these tinsmiths?}
@@ -82,9 +82,9 @@
 {326}{}{I see. Later.}
 
 #Other locations
-{400}{}{This is a great place to relax on the way to Two-Sun. We'll replenish our water supplies, spend the night and go on. If you are late for the shipment, we will not wait for you.}
+{400}{}{This is a great place to relax on the way to Two-Sun. We'll replenish our water supplies, spend the night, and go on. If you are late for the shipment, we will not wait for you.}
 {401}{}{What can you tell us about this settlement?}
-{402}{}{Casa Grande is a small town. Usually they stop here on the way between Two-Sun and Phoenix. Its main attraction is the water pump up the street. It is not so common to find such a source of fresh clean water in the wastelands.}
+{402}{}{Casa Grande is a small town. Usually, they stop here on the way between Two-Sun and Phoenix. Its main attraction is the water pump up the street. It is not so common to find such a source of fresh clean water in the wastelands.}
 {403}{}{See you later.}
 {404}{}{[Wait for the caravan to be sent to Two-Sun]}
 {405}{}{Leave without me, I'll be late.}

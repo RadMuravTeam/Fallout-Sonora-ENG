@@ -1,5 +1,5 @@
-{100}{}{Here is Diego's man.}
-{101}{}{This is Miguel.}
+{100}{}{You see one of Diego's men.}
+{101}{}{You see Miguel.}
 {102}{}{You see a charming man with a mustache. He reminds you of someone.}
 {103}{}{You see Miguel, your uncle, who once escaped from the Villa.}
 
@@ -66,10 +66,10 @@
 {234}{}{Oh yes. And I have something to tell you. About the Villa, about the padre, about the robbers...}
 {235}{}{Wait, to be honest, I knew about you and your mission. I even wanted to come out of the shadows and help you while you were in Phoenix. But something was missing for me. It seemed to me that the Villa had become the past for me, and now I regret that I was so careless.}
 {236}{}{Yes, the Villa is not the same as before.}
-{237}{}{I'm glad. And I am amazed at how you managed to save the Villa in such difficult conditions. You know, it seemed to me that these mouldy old men would sooner or later lead the Villa to extinction. And they almost succeeded if it wasn't for you. I don't know how much more they will last.}
-{238}{}{I'm glad. But it seems that you didn't manage to convince these mouldy old people of the need for change, right? Yes, I can see it in your eyes. Villa needs people like you and me.}
+{237}{}{I'm glad. And I am amazed at how you managed to save the Villa in such difficult conditions. You know, it seemed to me that these moldy old men would sooner or later lead the Villa to extinction. And they almost succeeded if it wasn't for you. I don't know how much more they will last.}
+{238}{}{I'm glad. But it seems that you didn't manage to convince these moldy old people of the need for change, right? Yes, I can see it in your eyes. Villa needs people like you and me.}
 {239}{}{Does it feel like you don't believe in the future of the Villa?}
-{240}{}{That's why I left my homeland. He became a man without a home, severed all ties with the past. While you're busy with the eternal mouse fuss, you don't think about it. You need to get out of your box and see the world around you to understand this. And you succeeded. You're doing great.}
+{240}{}{That's why I left my homeland. He became a man without a home and severed all ties with the past. While you're busy with the eternal mouse fuss, you don't think about it. You need to get out of your box and see the world around you to understand this. And you succeeded. You're doing great.}
 {241}{}{Thank you, Uncle Miguel.}
 {242}{}{No problem. But it's time for you to save the world. I don't want anyone in the casino to find out about our past.}
 {243}{}{Goodbye.}
@@ -85,23 +85,23 @@
 {311}{}{The news reached me out of the corner of my ear.}
 {312}{}{Do you know where our people are being held?}
 {313}{}{I don't know for sure. The Followers of the Fire in the Cathedral may have this information.}
-{314}{}{And what does the Followers have to do with it?}
+{314}{}{And what do the Followers have to do with it?}
 {315}{}{Slaves are used by mercenaries, and mercenaries perform the tasks of Followers. They are in some way customers or patrons of the slave trade, although not everyone understands this. A colony in Flagstaff, built with the money of the Cathedral, or tinsmiths who signed many contracts with Followers - slaves are needed everywhere now.}
 {316}{}{Your relatives are being forced to work, and you're talking about it so calmly?}
 {317}{}{It's my brother's fault. If he had listened to me, this tragedy would not have happened at all.}
 {318}{}{Everything is clear with you, Uncle. Let's change the subject.}
 
-{320}{}{Tell me about your escape from the Villa?}
+{320}{}{Tell me about your escape from the Villa.}
 {321}{}{ESCAPE? Is that what my brother calls it? I knew that he was ready for any meanness to be forgotten about me... Know, dear nephew, that I didn't want to leave, I was KICKED out of there. Although I'm even glad of it.}
 {1321}{}{ESCAPE? Is that what my brother calls it? I knew that he was ready for any meanness to be forgotten about me... Know, dear niece, that I didn't want to leave, I was KICKED out of there. Although I'm even glad of it.}
 {322}{}{Why were you kicked out?}
 {323}{}{After the death of our padre, your grandfather, Andres, as an older brother, began to manage the Villa. He followed the traditions, but I tried to come up with new ideas. Even then I understood that the Villa had to change.}
 {324}{}{Why?}
-{325}{}{Even then, we were faced with scoundrels from the wasteland, rangers and caravans from the neighboring town. We knew there was life outside the valley, too. But Andres carefully hid it from the rest of the residents. Just like the other elders did before him.}
+{325}{}{Even then, we were faced with scoundrels from the wasteland, rangers, and caravans from the neighboring town. We knew there was life outside the valley, too. But Andres carefully hid it from the rest of the residents. Just like the other elders did before him.}
 {326}{}{And you argued about it?}
-{327}{}{We did not agree on the fate of the Villa. I offered to establish contacts with neighboring cities, use old equipment for cultivating the land, but he wouldn't let me open my mouth. He said it wasn't the time, that Diablo had possessed me... In the end, I said I would tell people the truth, but he just kicked me out of the settlement.}
+{327}{}{We did not agree on the fate of the Villa. I offered to establish contacts with neighboring cities and use old equipment for cultivating the land, but he wouldn't let me open my mouth. He said it wasn't the time, that Diablo had possessed me... In the end, I said I would tell people the truth, but he just kicked me out of the settlement.}
 {328}{}{What happened then?}
-{329}{}{I got to the next town. At that time, there was an active mine there, and I managed to make good money there. And at the same time I got acquainted with old technologies. Then the mine was crushed, and I went straight to Phoenix.}
+{329}{}{I got to the next town. At that time, there was an active mine there, and I managed to make good money there. And at the same time, I got acquainted with old technologies. Then the mine was crushed, and I went straight to Phoenix.}
 {330}{}{Go on.}
 {331}{}{Here I saw all the charm of civilization in its full grandeur! But even here, residents do not understand or appreciate old things well. I was lucky that Don Diego hired me. He needed experts in old technology to set up a casino. I've been here ever since.}
 {332}{}{So that's what you do here - drink and immerse yourself in women's pleasures?}
@@ -115,4 +115,4 @@
 {339}{}{Okay, let's change the subject.}
 {340}{}{Will this story ever end?}
 {341}{}{"Old technology" is not just slot machines, right?}
-{342}{}{Heh-heh, and you're smart, plemyash. I'll tell you this - Diego wants to be aware of everything that brings power, strength and power. I was an extremely important find for him.}
+{342}{}{Heh-heh, and you're smart, nephew. I'll tell you this - Diego wants to be aware of everything that brings power, strength, and power. I was an extremely important find for him.}

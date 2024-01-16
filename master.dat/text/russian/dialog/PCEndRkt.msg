@@ -1,4 +1,4 @@
-{100}{}{Here is a racketeer.}
+{100}{}{You see a racketeer.}
 {101}{}{You see an ordinary bandit. He is very determined.}
 {102}{}{All right! We're leaving! It's okay, don't get excited!}
 
@@ -11,7 +11,7 @@
 {116}{}{The Cardinals have been squabbling for a long time. Where do you see them?}
 {117}{}{No matter. I'm going to clean up here now. Out!}
 {118}{}{The cardinals still rule the area. Get out.}
-{119}{}{Ar-r-r! (grinning, waving his fists and backing away to the exit)}
+{119}{}{Ar-r-r! (grinning, waving his fists, and backing away to the exit)}
 {120}{}{Yes, right outside. And don't come back, morons...}
 {121}{}{Guys, here are 100 caps for you. Just don't touch us, okay?}
 {122}{}{You see. I just needed MOTIVATION. See you next month, morons.}

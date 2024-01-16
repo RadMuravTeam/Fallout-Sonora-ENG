@@ -1,5 +1,5 @@
-{100}{}{Here is the cashier.}
-{101}{}{You see a surprisingly diligent and executive cashier. It looks like she's been well trained to obey.}
+{100}{}{You see the cashier.}
+{101}{}{You see a surprisingly diligent and executive cashier. It looks like she's been well-trained to obey.}
 {102}{}{P-sorry, but you'll have to take it off... And-or I'll call security...}
 
 {105}{}{Security! There's a robber here!}
@@ -100,10 +100,10 @@
 {281}{}{Caps are a currency. Like pre-war money. They are used to exchange for goods. But unlike depreciated dollars, the rate of caps is set by Followers of Fire. This is one of those wise ideas that the Followers have bestowed on Phoenix.}
 {282}{}{So you accept pre-war money?}
 {283}{}{Yes, it's possible. Although the pre-war dollars have depreciated, they still bring some confusion to the exchange rate of the caps. Would you like to exchange?}
-{284}{}{No, thanks. But I will keep in mind.}
+{284}{}{No, thanks. But I will keep it in mind.}
 {285}{}{}
 {286}{}{ Yes, I'll need it.}
-{287}{}{It's possible. But note that dollars have halved in value. Previously, the course was controlled by the Followers of Fire, but due to the crisis they can no longer perform this function.}
+{287}{}{It's possible. But note that dollars have halved in value. Previously, the course was controlled by the Followers of Fire, but due to the crisis, they can no longer perform this function.}
 {288}{}{I see.}
 {289}{}{All the pre-war dollars I have.}
 

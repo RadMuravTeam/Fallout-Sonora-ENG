@@ -1,5 +1,5 @@
-{100}{}{Here is a Phoenician.}
-{101}{}{You see an ordinary citizen of Phoenix. He seems tense and is clearly waiting for someone.}
+{100}{}{You see a Phoenician.}
+{101}{}{You see an ordinary citizen of Phoenix. He seems tense and is waiting for someone.}
 {102}{}{Go your own way.}
 
 {200}{}{Where are you in a hurry, sectarian? Decided to get out of town? The right decision. We will help you.}
@@ -20,7 +20,7 @@
 {215}{}{In vain. These sectarians sponsored the slavers who kidnapped my relatives. The explosion was retribution.}
 {216}{}{Yeah... You're singing too sweetly. If that's true, then you're responsible for the destruction all over Phoenix. Do you think this should make us happy? Get out of town. You go back and you're dead. Is that clear to you?}
 {217}{}{No problems. You won't see me again.}
-{218}{}{But you don't need to threaten me. Otherwise I'll see a corpse in front of me.}
+{218}{}{But you don't need to threaten me. Otherwise, I'll see a corpse in front of me.}
 {219}{}{I don't care what you believe.}
 {220}{}{It looks like this little bitch doesn't understand human language. I'll have to explain with my fists...}
 {1220}{}{It looks like this bitch doesn't understand human language. We'll have to explain it by brute force...}
@@ -40,7 +40,7 @@
 {238}{}{ It's hard for a person with my face to hide. What do you have against fire worshippers?}
 {239}{}{We are eradicating all sectarians in the city. After the explosion in the cathedral, they have no place here. And you too.}
 {240}{}{Why so much rudeness? Didn't the fire worshippers teach patience and love?}
-{241}{}{In words, maybe. But they themselves were preparing a nuclear bomb in their dark dungeon. There is no faith for such anymore... In any case, you're not welcome here. Get out of town, atomic litter.}
+{241}{}{In words, maybe. But they were preparing a nuclear bomb in their dark dungeon. There is no faith in such anymore... In any case, you're not welcome here. Get out of town, atomic litter.}
 {242}{}{I can't argue with you. Good luck, guys.}
 {243}{}{For such words I will tear out your eyes and suck the brains out of your cooling skull.}
 {244}{}{It seems that this creature does not understand human language. Guys...}

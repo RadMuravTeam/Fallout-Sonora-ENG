@@ -1,4 +1,4 @@
-{100}{}{Here is a monk.}
+{100}{}{You see a monk.}
 {101}{}{You see a man in a cassock. He was clearly not here by chance.}
 {102}{}{Your place is in the desert, savage.}
 {1102}{}{Your place is in the desert, savage.}
@@ -17,7 +17,7 @@
 {251}{}{I don't like you.}
 {252}{}{Don't you like the idea of Rebirth? Or don't you like our church with its symbols? In either case, you're just an egoist. An atomic nonentity with an inflated conceit. The Church has given the world Knowledge. With their help, we turned on the lights in the houses and taught some people forgotten literacy. And you? What are you trying to achieve?}
 {253}{}{Because of your "rebirth" my house is empty. That's enough.}
-{254}{}{Oh, so we're dealing with animal revenge. In that case, we have nothing more to talk about. Animals do not understand speech, but only understand the whip. Get back to the desert and lead your wild life like a savage. There is no place for people like you in the New World.}
+{254}{}{Oh, so we're dealing with animal revenge. In that case, we have nothing more to talk about. Animals do not understand speech but only understand the whip. Get back to the desert and lead your wildlife like a savage. There is no place for people like you in the New World.}
 {255}{}{Not before I beat the shit out of you, holy man.}
 {256}{}{With pleasure. I don't want to see this whole bastion of sin.}
 {257}{}{Ralph paid less.}

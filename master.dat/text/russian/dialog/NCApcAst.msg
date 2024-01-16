@@ -1,4 +1,4 @@
-{100}{}{Here is Alexandra.}
+{100}{}{You see Alexandra.}
 {101}{}{You see a smiling girl. It seems as if she doesn't quite understand where she got to yet.}
 {102}{}{Sorry, you can't bring weapons here.}
 {103}{}{Sorry, you can't come here in armor.}
@@ -18,7 +18,7 @@
 {220}{}{Can I help you with something?}
 {221}{}{I don't need any help right now. See you later.}
 {222}{}{What's going on? Why are there so many people in the square?}
-{223}{}{Residents are excited about the explosion in Puerto. It is unclear how we will survive now without the Brotherhood of Steel. I really hope that they will not start a revolution and will calm down soon.}
+{223}{}{Residents are excited about the explosion in Puerto. It is unclear how we will survive now without the Brotherhood of Steel. I hope that they will not start a revolution and will calm down soon.}
 {224}{}{That's how it is...}
 {225}{}{I need medical supplies.}
 
@@ -48,8 +48,8 @@
 {252}{}{No, forget it.}
 {253}{}{Well, you know, pre-war medicine was clearly better than the current one.}
 {254}{}{Yes, I think so too. But we are forbidden to sell some old medicines and chemicals like buffout and psycho. They are considered unsafe.}
-{255}{}{Then it's not even worth discussing. Let's change the subject?}
-{256}{}{Yes, that's exactly what I'm looking for. Is there really no way to get at least a pinch? For scientific purposes?}
+{255}{}{Then it's not even worth discussing. Let's change the subject.}
+{256}{}{Yes, that's exactly what I'm looking for. Is there no way to get at least a pinch? For scientific purposes?}
 {257}{}{I don't know what your scientific goals are there, but I have clear instructions. Talk to Nestor if you don't like it.}
 {258}{}{Okay. There doesn't seem to be any point in continuing. Later.}
 {259}{}{Come on - it's a mountain of caps!}
@@ -57,14 +57,14 @@
 {261}{}{Don't even think about blabbing!}
 {262}{}{Okay, I don't want any problems. I'm leaving.}
 {263}{}{Think about it, what good is your clinic from a damaged product that is not bought and not used?}
-{264}{}{Yes... of course... Hmm, maybe Nestor will make an exception for you. We really don't have enough caps.}
+{264}{}{Yes... of course... Hmm, maybe Nestor will make an exception for you. We don't have enough caps.}
 {265}{}{Thank you.}
 {266}{}{Please make an exception for me. I won't tell anyone.}
 {267}{}{Nestor will allow it. You could say I'm already a member of your team.}
 {268}{}{I need a dose for... what's their name... for experiments, yes.}
 {269}{}{I have a purely scientific interest, colleague. We both understand how important it is for scientists to support each other.}
-{270}{}{You'd be surprised, but it really became a problem in Phoenix. I personally know the story of a drug addict from the slums.}
+{270}{}{You'd be surprised, but it became a problem in Phoenix. I personally know the story of a drug addict from the slums.}
 {271}{}{Poor devils. That's how science suffers because of someone's stupidity. Is drug addiction the fault of medicine?}
-{272}{}{So is there really no way to purchase at least a pinch of the drug? For scientific purposes?}
-{273}{}{It's not worth discussing any more. Let's change the subject?}
+{272}{}{So is there no way to purchase at least a pinch of the drug? For scientific purposes?}
+{273}{}{It's not worth discussing anymore. Let's change the subject.}
 {274}{}{Diana knows I won't do anything stupid.}

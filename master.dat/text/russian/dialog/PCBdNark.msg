@@ -1,4 +1,4 @@
-{100}{}{Here is a junkie.}
+{100}{}{You see a junkie.}
 {101}{}{You see a disheveled guy. Judging by his appearance, things are going badly for him.}
 {102}{}{Ah... I'm... suffocating...}
 
@@ -57,9 +57,9 @@
 {240}{}{So are you cursed by all the locals?}
 {241}{}{Go to hell! It's my business what kind of dope and when to take it.}
 {242}{}{What kind of drugs do you take?}
-{243}{}{A mixture of psycho, painkillers and mentats. Killer dope, you start seeing leprechauns and flying cars. Yes, not simple leprechauns. Small ones. Tiny ones like that... At least some joy in these fucking slums.}
+{243}{}{A mixture of psycho, painkillers, and mentats. Killer dope, you start seeing leprechauns and flying cars. Yes, not simple leprechauns. Small ones. Tiny ones like that... At least some joy in these fucking slums.}
 {244}{}{Why did you even take up this stuff?}
-{245}{}{Well, you know, initially it was a cure for fever. And it really cured me, but then I realized that I couldn't stop. It's not so easy to quit.}
+{245}{}{Well, you know, initially it was a cure for fever. And it cured me, but then I realized that I couldn't stop. It's not so easy to quit.}
 {246}{}{And who supplies you?}
 {247}{}{All the chemistry in the slums is from Gonzalez and the scavengers.}
 {248}{}{Hmm. I'm gonna go talk to this Gonzalez guy.}

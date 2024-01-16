@@ -1,5 +1,5 @@
 {100}{}{You see Keel.}
-{101}{}{Here is a guy in a leather jacket. He defiantly plays with his spear.}
+{101}{}{You see a guy in a leather jacket. He defiantly plays with his spear.}
 {102}{}{Everyone will be better off if you leave.}
 {103}{}{Uh... I think I've had too much...}
 

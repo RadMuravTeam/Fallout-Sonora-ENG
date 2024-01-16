@@ -1,6 +1,6 @@
 {100}{}{There is a passerby in front of you.}
-{101}{}{Here is a robber.}
-{102}{}{You see a passerby in secretive clothes. Apparently, he does not want to attract attention to himself ahead of time.}
+{101}{}{You see a robber.}
+{102}{}{You see a passerby in secretive clothes. He does not want to attract attention to himself ahead of time.}
 {103}{}{You see a street robber. He better not get in the way.}
 {104}{}{Are you following me?}
 {105}{}{The robber cowardly escaped.}
@@ -28,7 +28,7 @@
 
 {220}{}{I don't have caps. True.}
 {221}{}{Don't piss me off, bitch, and GIVE ME THE bottlecaps!}
-{222}{}{I really don't have caps. Check your pockets.}
+{222}{}{I don't have caps. Check your pockets.}
 {223}{}{Damn... (looks around in difficulty) So... Walk along the street and don't turn around.}
 {224}{}{Stay back or I'll shoot!}
 {225}{}{Whoa, take it easy.}

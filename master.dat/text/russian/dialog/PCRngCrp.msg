@@ -1,4 +1,4 @@
-{100}{}{Here is a fighter.}
+{100}{}{You see a fighter.}
 {101}{}{You see an arena fighter. It looks like he overdid it in training.}
 {102}{}{You see an arena fighter. He looks cheerful.}
 {103}{}{Thanks, Doc, that's much better}
@@ -30,7 +30,7 @@
 {172}{}{Who taught you first aid?}
 {173}{}{What luck that you're around.}
 {174}{}{Many of my friends could have survived if you were around.}
-{175}{}{I hope you're not going to go to the ring?}
+{175}{}{I hope you're not going to go to the ring.}
 {176}{}{You're going to patch me up after the next fight, aren't you?}
 {177}{}{Another fight? Why not!}
 {178}{}{Your help came in very handy.}

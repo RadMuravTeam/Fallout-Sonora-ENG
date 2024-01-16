@@ -1,4 +1,4 @@
-{100}{}{Here is an atomist.}
+{100}{}{You see an atomist.}
 {101}{}{You see a man with burnt skin. He is wearing well-worn work clothes with a pre-war symbol.}
 {102}{}{Well, well, and here is our main pest. Get out of here while your legs are intact.}
 

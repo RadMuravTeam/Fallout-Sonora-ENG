@@ -1,4 +1,4 @@
-{100}{}{Here is a resident of Casa Nueva.}
+{100}{}{You see a resident of Casa Nueva.}
 {101}{}{You see a local. Compared to the inhabitants of other settlements, he looks quite well-fed and healthy.}
 
 {110}{}{Hi. Where are you from?}

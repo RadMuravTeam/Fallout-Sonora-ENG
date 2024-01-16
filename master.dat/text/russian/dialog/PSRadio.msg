@@ -1,8 +1,8 @@
-{110}{}{The equipment fails.}
+{110}{}{The equipment failed.}
 {111}{}{You managed to disable the radio transmitter. The fire worshippers were left without radio communication.}
 
 #Dialog
-{200}{}{Enter the command.}
+{200}{}{Enter command.}
 {201}{}{End session.}
 {202}{}{Back.}
 {203}{}{The radio transmitter is not responding.}
@@ -10,7 +10,7 @@
 
 {210}{}{Copy the frequencies and the cipher. This way I can eavesdrop on the fire worshippers' radio conversations.}
 {211}{}{Radio frequencies copied.}
-{212}{}{Examine the request history. I wonder if anyone could have shared information to organize attacks on the monks?}
+{212}{}{Examine the requesta history. I wonder if anyone could have shared information to organize attacks on the monks?}
 {213}{}{You find the remains of an encrypted transmission. The access code to the terminal belonged to Prior Mathias.}
 {214}{}{Got you, holy man?}
 

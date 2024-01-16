@@ -1,12 +1,12 @@
-{100}{}{Here is Nestor.}
+{100}{}{You see Nestor.}
 {101}{}{You see a tall blond man in a clean cassock. He delicately adjusts his glasses on his nose.}
 {102}{}{Please put the gun away. You won't need it here.}
 {103}{}{Please leave your armor somewhere outside the clinic. We have cleanliness and order here.}
 
 #First meeting
-{200}{}{Welcome, traveler. Hmm. I suppose you have a lot of questaions and requestas. Let me explain right away: this is a clinic, people are treated here. And I'm her manager, Nestor. Are you sick? Or do you want to know something?}
-{1200}{}{Welcome, traveler. Hmm. I suppose you have a lot of questaions and requestas. Let me explain right away: this is a clinic, people are treated here. And I'm her manager, Nestor. Are you sick? Or do you want to know something?}
-{201}{}{First of all, I have questaions.}
+{200}{}{Welcome, traveler. Hmm. I suppose you have a lot of questions and requests. Let me explain right away: this is a clinic, and people are treated here. And I'm her manager, Nestor. Are you sick? Or do you want to know something?}
+{1200}{}{Welcome, traveler. Hmm. I suppose you have a lot of questions and requests. Let me explain right away: this is a clinic, and people are treated here. And I'm her manager, Nestor. Are you sick? Or do you want to know something?}
+{201}{}{First of all, I have questions.}
 
 #Repeat meeting
 {210}{}{Okay. I'm listening.}
@@ -17,7 +17,7 @@
 
 #Medicine
 {220}{}{I need treatment.}
-{221}{}{Strange. I don't see how I can help you. Many will envy your health.}
+{221}{}{Strange. I don't see how I can help you. Many would envy your health.}
 {222}{}{What a joy, Doctor! I feel better somehow.}
 {223}{}{Oh, I'm sorry... I can cure you. But the drugs are too expensive. We will spend on your treatment }
 {224}{}{ caps. What can you offer for compensation?}
@@ -27,7 +27,7 @@
 {230}{}{Wait a minute, are you okay? You don't look well.}
 {231}{}{Doctor, I'm tired. I want to get rid of this addiction!}
 {1231}{}{Doctor, I'm tired. I want to get rid of this addiction!}
-{232}{}{My heart shrinks when I see your torment. If you really WANT to stop, then I will do my besta to help you.}
+{232}{}{My heart shrinks when I see your torment. If you really WANT to stop, then I will do my best to help you.}
 {233}{}{Yes! What is needed for this?}
 {234}{}{Rehabilitation is an expensive and lengthy process. I'm afraid the clinic won't be able to fully cover these costs yet.}
 {235}{}{Your clinic is just a way of removing the bottlecaps. I'm leaving here!}
@@ -37,13 +37,13 @@
 {239}{}{Hmm. It's not much, but there's nothing you can do - after all, you need to be saved.}
 {240}{}{Before we start, I need to leave. I'll be back a little later.}
 {241}{}{Here are the bottlecaps. When do we start?}
-{242}{}{The sooner the better. First you should take a bath...}
+{242}{}{The sooner the better. First, you should take a bath...}
 {243}{}{A whole bath? Wow!}
 {244}{}{The ability "Rehabilitation" was obtained.}
 {245}{}{After a week of treatment and training, you got rid of your addiction and got stronger for a possible relapse.}
 
 {250}{}{Did you talk about pre-war medicine and some experiments?}
-{251}{}{Oh, yeah. We have vaccinations against various diseases, a pre-war system for health promotion and Vault-Tec equipment for special training in bomb Vaults. But none of us seriously conducted these experiments.}
+{251}{}{Oh, yeah. We have vaccinations against various diseases, a pre-war system for health promotion, and Vault-Tec equipment for special training in bomb Vaults. But none of us seriously conducted these experiments.}
 {252}{}{Sounds promising.}
 {253}{}{The problem is also high costs. Such procedures are not essential and take a lot of resources and time. Therefore, the clinic cannot provide such a service at its own expense.}
 {254}{}{How much does it cost?}
@@ -59,13 +59,13 @@
 {264}{}{It's possible. But the effect will no longer be so noticeable. This time you will have to spend more time and effort to achieve the same results.}
 {265}{}{How much does it cost?}
 {266}{}{}
-{267}{}{ bottlecaps and will take two weeks of time.}
+{267}{}{ bottlecaps and will take two weeks.}
 {268}{}{Oh, no, it would be too wasteful now.}
 {269}{}{Here's the fee. When do we start?}
 
 {300}{}{I need to talk to you about my friend Carlos.}
 {301}{}{Of course. What happened to him?}
-{302}{}{He is interestaed in old technologies. Do you have a vacancy for him?}
+{302}{}{He is interested in old technologies. Do you have a vacancy for him?}
 {303}{}{An intriguing suggestaion. But where is he?}
 {304}{}{He is currently staying in Two-Sun and is waiting for your answer.}
 {305}{}{What a surprise. So he is... tinker?}
@@ -73,7 +73,7 @@
 {307}{}{However, I am not sure that it is worth discussing with anyone. Sorry to bother you.}
 {308}{}{Oh, curious. I'm relying on your reputation. If you believe in the cleanliness of his thoughts, then that's enough for me. Tell him that we are ready to welcome your friend with all the hospitality.}
 {309}{}{Thank you!}
-{310}{}{Oh, curious. But at the same time, it is very doubtful. I'm afraid we can't take risks with untestaed assistants right now.}
+{310}{}{Oh, curious. But at the same time, it is very doubtful. I'm afraid we can't take risks with untested assistants right now.}
 {311}{}{I understand. It's a pity my reputation doesn't convince you.}
 
 #A questa to clean up plantations
@@ -94,19 +94,19 @@
 {334}{}{Hmm. I don't know if I believe you.}
 {335}{}{Are you going to correct your mistake?}
 {336}{}{Of course. We spend all our free time calculating and experimenting. But so far we are missing some data.}
-{337}{}{I hope you will sort out this problem. Otherwise it will be bad for everyone.}
+{337}{}{I hope you will sort out this problem. Otherwise, it will be bad for everyone.}
 {338}{}{Wait. You're not going to create a panic, are you? Now we need help, not new problems. Moreover, we will pay generously for the service.}
 {339}{}{And what do you want from me?}
 {340}{}{Is there anything I can help you with?}
 {341}{}{We need help now more than ever. Moreover, we will pay generously for the service.}
 {342}{}{What can I do for you?}
 {343}{}{Our laboratory outside the city has become a hotbed of infection. There is also all the laboratory documentation that we did not have time to take out before quarantine. And some chemical reagents needed for experiments.}
-{344}{}{Are you suggestaing I go there?}
+{344}{}{Are you suggesting I go there?}
 {345}{}{Now the laboratory is closed under quarantine, and residents are forbidden to even approach there. God knows what this place has turned into now, but it is overgrown with vegetation. There are a lot of insects there and perhaps some infected are still alive.}
 {346}{}{But then I risk getting infected, don't I?}
-{347}{}{Yes. And this is the main problem. We'll give you an antidote for insect bites. But against spores in the air, you will have to look for a gas mask. We offered the tinsmiths to make gas masks, but apparently they have higher priority orders.}
+{347}{}{Yes. And this is the main problem. We'll give you an antidote for insect bites. But against spores in the air, you will have to look for a gas mask. We offered the tinsmiths to make gas masks, but apparently, they have higher priority orders.}
 {348}{}{Okay. I will help you.}
-{349}{}{Thank you. When you're ready, come to me. I'll take you to the lab so that the resta of the residents won't notice you.}
+{349}{}{Thank you. When you're ready, come to me. I'll take you to the lab so that the rest of the residents won't notice you.}
 {350}{}{See you later.}
 {351}{}{You are as crazy a scientist as those who created a nuclear bomb before the War. I refuse to cooperate with you.}
 {352}{}{I understand. You don't trust us and you don't want to take any chances. But now it does not matter who is to blame for what happened, it is more important to solve the problem. Think about what a heroic service you will render to the city. You will be remembered for generations. If you change your mind, come back.}
@@ -126,11 +126,11 @@
 {366}{}{Here are the laboratory data and reagents.}
 {367}{}{Finally! Now we are one step away from victory. I need time to study and check the materials...}
 {368}{}{Please.}
-{369}{}{...So that's what our colleague suggestaed? How could I not have guessed right away! Yes, different specialization affects. I am not strong in insects, so I could not take into account such a symbiosis with fungal spores... Oh, Wang Chong, how his boring maxims are missing now.}
+{369}{}{...So that's what our colleague suggested? How could I not have guessed right away! Yes, different specialization effects. I am not strong in insects, so I could not take into account such a symbiosis with fungal spores... Oh, Wang Chong, how his boring maxims are missing now.}
 {370}{}{What are you going to do?}
-{371}{}{First of all, I will make an insecticide to stop the spread of the infection. I think it won't take much time, because the reagents from the laboratory are well preserved. Please wait in the corridor for a couple of hours.}
+{371}{}{First of all, I will make an insecticide to stop the spread of the infection. I think it won't take much time because the reagents from the laboratory are well-preserved. Please wait in the corridor for a couple of hours.}
 {372}{}{Okay...}
-{373}{}{Ready! It is a mixture of a fungicide against fungal spores and an insecticide against parasite carriers. It must be sprayed on plantations. Do it while we do the resta of the work.}
+{373}{}{Ready! It is a mixture of a fungicide against fungal spores and an insecticide against parasite carriers. It must be sprayed on plantations. Do it while we do the rest of the work.}
 {374}{}{Okay.}
 {375}{}{I sprayed poisons on the plantation. The effect did not take long to wait.}
 {1375}{}{I sprayed poisons on the plantation. The effect did not take long to wait.}
@@ -165,7 +165,7 @@
 
 #Questions
 {400}{}{Tell us about the Followers.}
-{401}{}{There are only three of us, if you count my assistant. I run a clinic and a chemical laboratory. Teresa is engaged in teaching and mathematical calculations.}
+{401}{}{There are only three of us if you count my assistant. I run a clinic and a chemical laboratory. Teresa is engaged in teaching and mathematical calculations.}
 {402}{}{ And recently Diana joined us.}
 {403}{}{I have no more questions.}
 {404}{}{Who is the main one among you?}
@@ -176,9 +176,9 @@
 {409}{}{Unfortunately, she still does not understand that in Casa Nueva it is important to follow the rules and not go against the authorities. And yes, I know that Diana survived because of you. Thank you.}
 {410}{}{I see. Remind me who's who here?}
 {411}{}{Why is Theresa so obstinate?}
-{412}{}{Excuse her. After all, working with children is a difficult matter, and almost no one has such experience nowadays. All she can do is read old books on child psychology and figure it out on the go. And this despite the fact that she still has to do science.}
+{412}{}{Excuse her. After all, working with children is a difficult matter, and almost no one has such experience nowadays. All she can do is read old books on child psychology and figure it out on the go. And this is despite the fact that she still has to do science.}
 {413}{}{Why do you need an assistant?}
-{414}{}{I'm not coping. I got a clinic and a chemical laboratory, although I am not a specialist in chemistry. Alexandra relieves me of this burden.}
+{414}{}{I'm not coping. I have a clinic and a chemical laboratory, although I am not a specialist in chemistry. Alexandra relieves me of this burden.}
 {415}{}{But which of you was engaged in plantations?}
 {416}{}{This person is not with us. He sacrificed himself to science. Please don't ask about him, so as not to hurt someone's feelings.}
 {417}{}{But there was another Follower, right?}
@@ -219,6 +219,6 @@
 {456}{}{Not surprising. I heard about the Great Exodus of ghouls to the south, to the Glow. It looks like they found a suitable place for themselves. Well, let this radioactive earth be lenient with them.}
 {457}{}{Yes, something like that. Can we talk about something else?}
 {458}{}{I have a piece of this Vault. Look, this is a copy of the diaries of the local caretaker.}
-{459}{}{Really? Let me see... It turns out that the founders were forced by the situation? How corny. The legend sounded more beautiful, but... But now I see that they were just as simple people as everyone else. Thank you for this text. I'll save it for our history.}
+{459}{}{Really? Let me see... It turns out that the founders were forced by the situation. How corny. The legend sounded more beautiful, but... But now I see that they were just as simple people as everyone else. Thank you for this text. I'll save it for our history.}
 {460}{}{You are welcome. Can we talk about something else?}
 {461}{}{Can we talk about something else?}

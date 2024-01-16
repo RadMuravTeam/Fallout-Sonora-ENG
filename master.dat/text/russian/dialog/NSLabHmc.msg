@@ -1,5 +1,5 @@
 {100}{}{You can see the lab.}
-{101}{}{Here is a chemical laboratory.}
+{101}{}{This is a chemical laboratory.}
 {102}{}{This is a chemical laboratory. Scientific methods are required to work with it.}
 {103}{}{The component is prepared for the chemical process and loaded into a special vessel.}
 {104}{}{Components are needed to complete the chemical process.}

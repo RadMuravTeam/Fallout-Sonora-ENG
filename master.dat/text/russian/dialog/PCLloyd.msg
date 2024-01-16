@@ -80,7 +80,7 @@
 {274}{}{There is a recruitment agency nearby. Anyone will be found there for the bottlecaps, even El Diablo himself will be taken out of the ground.}
 {275}{}{Thank you, friend, you helped me a lot.}
 {276}{}{And for this you begged for five caps? Well, you're an extortionist.}
-{277}{}{I personally know a dozen Migels. One of them is a woman at all. But if your relative came from far away, then he could change his name. I'm afraid it won't be easy to find him. Try asking the mercenary guild. They are also engaged in the search for people there.}
+{277}{}{I know a dozen Migels. One of them is a woman at all. But if your relative came from far away, then he could change his name. I'm afraid it won't be easy to find him. Try asking the mercenary guild. They are also engaged in the search for people there.}
 
 {280}{}{What do you know about the attack on the monks?}
 {281}{}{Such information is not cheap. It will cost you 20 caps.}
@@ -93,7 +93,7 @@
 #Tips and rumors
 {300}{}{For several years now, a cap currency has been operating in the city. It's like dollars before the Great War, and the Cathedral of Fire acts as its guarantor. However, many still do not trust such an idea.}
 {301}{}{Speaking of caps. Here's another one. What about pre-war dollars?}
-{302}{}{There are problems with this. Usually no one uses them, but for some reason the casino buys up all the old currency. If you find a bill, bring it to the cashier, maybe you'll get a couple of caps from it.}
+{302}{}{There are problems with this. Usually, no one uses them, but for some reason, the casino buys up all the old currency. If you find a bill, bring it to the cashier, maybe you'll get a couple of caps from it.}
 {303}{}{Have you ever been to the Atomic Fever Casino? It's worth taking a look and spending a couple of caps to assess your chances. But don't let luck fool you. After all, no matter how hard you try, the casino will still win.}
 {304}{}{Even without luck, I can give you a cover. By the way, who runs everything there? Maybe I can make some extra money there.}
 {305}{}{I doubt the casino will accept a man from the street. They have a kind of family there. And the head of this family, Don Diego, is very selective about the choice of employees. If you want to work for him, you'll have to ingratiate yourself with one of his henchmen first. Or have a good reputation in the city.}
@@ -102,20 +102,20 @@
 {308}{}{Orris has assembled a gang of Red Cardinals and with its help sets the rules in the slums. But he's not a bad guy like his guys. If you find yourself in his sights, try to negotiate.}
 {309}{}{The atomic scientists raised prices again and gave an ultimatum to Aaron. I don't know who will win this battle, but the city will have a hard time anyway.}
 {310}{}{I'll give you another cap if you tell me about that area.}
-{311}{}{Well, there's a toxic waste moat around the station, traps and barbed wire. I also know that the subway leads directly to the station. Most likely, it is also stuffed with traps against uninvited guests.}
+{311}{}{Well, there's a toxic waste moat around the station, traps, and barbed wire. I also know that the subway leads directly to the station. Most likely, it is also stuffed with traps against uninvited guests.}
 {312}{}{Something is happening in the Cathedral of Fire. Caravans are going there more and more often, and Aaron is becoming more assertive and putting pressure on the residents of the city.}
 {313}{}{Here's another cap. What do you know about this Aaron?}
 {314}{}{Not much. They talk about him in different ways, but it is clear that the man is overbearing and obsessed with his ideas. And they also say that he is on some kind of pills, without which he cannot live.}
 {315}{}{Recently, corpses of people have been found more and more often in the subway. Nobody used to go there except squatters. But they have been harmless so far.}
 {316}{}{Here's another cap. Tell me about these squatters.}
-{317}{}{Strange guys living in sewers. They dislike the outside world and only occasionally come to the surface to exchange rat carcasses. If you happen to communicate with them, my advice is just give them something you need, it will immediately loosen their tongue.}
-{318}{}{One alien type told legends about some kind of Vault, where there is plenty of food and operating technologies. Those who fell for his stories and went in search of this refuge have gone missing.}
+{317}{}{Strange guys living in sewers. They dislike the outside world and only occasionally come to the surface to exchange rat carcasses. If you happen to communicate with them, my advice is just to give them something you need, it will immediately loosen their tongue.}
+{318}{}{One alien type told legends about some kind of Vault, where there is plenty of food and operating technologies. Those who fell for his stories and went in search of this vault have gone missing.}
 {319}{}{Here's another cap if you tell me how to find this guy.}
 {320}{}{He just disappeared. If you're interested in the Phoenix neighborhood, then talk to Bob the garbage man in the eastern slums. He has a wealth of experience picking at local ruins.}
 {321}{}{The stagecoach regularly goes to Flagstaff. This new colony is growing rapidly thanks to the patronage of the Cathedral of Fire.}
 {322}{}{They say there was a brawl in San Brahmin. They also say that fire worshippers are somehow connected with this. Nobody knows exactly what's going on there.}
 {323}{}{The rumors from Casa Grande do not lie - the city is torn apart by a constant struggle for power. One mayor replaces another as soon as the sun rises. When you're in those parts, be prepared that you may be deceived or involved in trouble.}
-{324}{}{There are a lot of rumors about tinsmiths living in the south. Caravans go there, but few of them can trade with this mysterious people.}
+{324}{}{There are a lot of rumors about tinsmiths living in the south. Caravans go there, but few of them can trade with these mysterious people.}
 {325}{}{When the caravans began to go south, bandits immediately lined up along the highways. Highway workers, as they are called, rob and kill travelers.}
 {326}{}{Here's another cap. How can I protect myself on the way?}
 {327}{}{If you don't want to meet with the magistrates, then there are two options. The first is to go around through the hot desert. The second is to join one of the well-protected caravans.}

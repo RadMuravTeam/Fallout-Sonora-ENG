@@ -1,4 +1,4 @@
-{100}{}{Here is a squatter.}
+{100}{}{You see a squatter.}
 {101}{}{You see a dirty man in rags. He smells like it.}
 
 #Floating replicas

@@ -1,4 +1,4 @@
-{100}{}{Here is a fan.}
+{100}{}{You see a fan.}
 {101}{}{You see a man waiting listlessly for a new fight.}
 {102}{}{You see a wild-looking man. He shouts furiously at the top of his voice.}
 
@@ -32,7 +32,7 @@
 {164}{}{Why don't you fight anymore?}
 {165}{}{Just try to hit me.}
 {166}{}{Aren't your biceps tight?}
-{167}{}{My bet went down because of you. Well, save-for.}
+{167}{}{My bet went down because of you. Well, save for.}
 {168}{}{}
 {169}{}{}
 
@@ -53,7 +53,7 @@
 {181}{}{Go ahead!}
 {182}{}{Finish him off!}
 {183}{}{I adore you!}
-{184}{}{On the right! Right come in!}
+{184}{}{On the right! Right, come in!}
 {185}{}{Defend yourself!}
 {186}{}{You won't see a more boring fight.}
 {187}{}{I will never forget this fight.}

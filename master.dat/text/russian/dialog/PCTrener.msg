@@ -1,4 +1,4 @@
-{100}{}{Here is Iron Mike.}
+{100}{}{You see Iron Mike.}
 {101}{}{You see a still strong, but already senile fighter.}
 {102}{}{Which... I don't talk to cowards who hide in power armor from a defenseless person.}
 {103}{}{Someone killed Angelo. I'll find that son of a bitch and personally break his neck.}
@@ -22,17 +22,17 @@
 {210}{}{I'm sorry I yelled. Sometimes I can't help myself, especially after the second bottle of tequila.}
 {211}{}{I understand.}
 {212}{}{Next time I can respond in kind.}
-{213}{}{My name is Mike. They are also sometimes called Iron, because no one managed to beat me in the ring. But you know what? To hell with them! I'm tired of these fights. People fight only for the caps, and I fought for the right to be the besta. It's not the same thing.}
+{213}{}{My name is Mike. They are also sometimes called Iron because no one managed to beat me in the ring. But you know what? To hell with them! I'm tired of these fights. People fight only for the caps, and I fought for the right to be the best. It's not the same thing.}
 {214}{}{If you don't fight anymore, then what do you do?}
-{215}{}{(sips the leftovers from the bottle and sighs) I'm drinking! And I remember the old days. Seriously, it won't be difficult for me to earn extra money on "power actions". But I don't want. The city is mired in sin... Are you listening?}
+{215}{}{(sips the leftovers from the bottle and sighs) I'm drinking! And I remember the old days. Seriously, it won't be difficult for me to earn extra money on "power actions". But I don't want to. The city is mired in sin... Are you listening?}
 {216}{}{Yes, uh, in sin. What do you mean?}
 {217}{}{Hey, leave me at least a couple drops.}
-{218}{}{I used to teach young fighters the basics of street fighting. But after that, they went into the shadow business, became bandits or auxiliary criminal bosses. I don't teach anyone else. I drink - and it makes everyone feel good.}
+{218}{}{I used to teach young fighters the basics of street fighting. But after that, they went into the shadow business and became bandits or auxiliary criminal bosses. I don't teach anyone else. I drink - and it makes everyone feel good.}
 {219}{}{It doesn't sound like fun.}
 {220}{}{Yes, you're a complete loser.}
-{221}{}{All these revolutionaries, sectarians, bandits, black market dealers - nobody cares about you and the city. Everyone cares about their own benefit... By the way, what are you doing here?}
+{221}{}{All these revolutionaries, sectarians, bandits, black market dealers - nobody cares about you and the city. Everyone cares about their benefit... By the way, what are you doing here?}
 {222}{}{Just looking for new acquaintances. I'm new in town.}
-{223}{}{ (scratches his stubble and makes an indifferent grimace) You're not in the besta place for this, baby. But a fight in the ring may attract some attention to you.}
+{223}{}{ (scratches his stubble and makes an indifferent grimace) You're not in the best place for this, baby. But a fight in the ring may attract some attention to you.}
 {224}{}{That's how? Great, I'm just thinking of going there.}
 {225}{}{In fact, I'm here in search of my family. They were abducted by slavers.}
 {226}{}{I'm sorry, I don't get involved in such things. But I know that the fire worshippers are somehow connected with the slavers. Be careful with this - it's a risky business.}
@@ -42,7 +42,7 @@
 {230}{}{Sorry to hear that.}
 
 {240}{}{Tell me about the arena.}
-{241}{}{Angelo Rossitto runs everything there. He's a nice guy, knows how to keep a business acumen. Although because of the nature, sometimes you want to pack it into a toilet bowl push and press the flush pedal.}
+{241}{}{Angelo Rossitto runs everything there. He's a nice guy and knows how to keep a business acumen. However because of nature, sometimes you want to pack it into a toilet bowl push and press the flush pedal.}
 {242}{}{Tell us about your victories in the ring.}
 {243}{}{I have won all my battles. The street taught me how to fight, and constant training allowed me to consolidate my skills. I looked at some technologies in old books and movies.}
 {244}{}{Movies?}
@@ -56,28 +56,28 @@
 {255}{}{Ah, this is the new champion. (looks appraisingly from head to toe with the air of a connoisseur) I don't understand why you're fighting at all. But I am glad that there is at least one normal guy among the fighters. (picks up the beer bottle) Your health.}
 {256}{}{Bye.}
 
-{260}{}{Angelo told me about your tragedy. Let's talk about it?}
+{260}{}{Angelo told me about your tragedy. Let's talk about it.}
 {261}{}{I'm not like that, Mike. I will not cause harm without a reason.}
 {1261}{}{I'm not like that, Mike. I will not cause harm without a reason.}
 {262}{}{The temptation is great. You won't understand it until you're at a crossroads. I learned this lesson well.}
 {263}{}{Did something happen?}
 {264}{}{You say that as if the irreparable has already happened. Will you tell me?}
 {265}{}{I'll pay, Mike. How much will you charge for one lesson?}
-{266}{}{bottlecaps. Sure. Now everything is solved by these rattles, which a few years ago were worthless. But I'm not selling the right to violence anymore, if you know what I mean.}
-{267}{}{Shall I tell you? (sigh) Then listen. I used to prepare everyone indiscriminately for the fight. I didn't care, as long as they paid properly. And I knew that some of my students went into street gangs or engaged in robbery, but I turned a blind eye to it... Until the tragedy happened.}
+{266}{}{bottlecaps. Sure. Now everything is solved by these rattles, which a few years ago were worthless. But I'm not selling the right to violence anymore if you know what I mean.}
+{267}{}{Shall I tell you? (sigh) Then listen. I used to prepare everyone indiscriminately for the fight. I didn't care, as long as they paid properly. I knew that some of my students went into street gangs or engaged in robbery, but I turned a blind eye to it... Until the tragedy happened.}
 {268}{}{Go on.}
 {269}{}{Well, yes, as usual, they think about the consequences only at the last moment.}
 {270}{}{Late one night I was seeing off my girlfriend, Sabrina. We were attacked by robbers. I was able to fight them off, but I didn't have time to save Sabrina. During the fight, I recognized my students among the attackers.}
 {271}{}{What happened to them?}
-{272}{}{I hope you smeared them all on the asphalt?}
-{273}{}{After the attack, they lay low and enlisted the support of gangs. I couldn't get close to them. But bandits don't live long. Now there is only one of the attackers left. He works as a security guard at a casino. If I touch him, the whole Don Diego dynasty will rise up against me. All I can do is forget myself with a bottle of tequila, which is prepared in the same casino.}
+{272}{}{I hope you smeared them all on the asphalt.}
+{273}{}{After the attack, they lay low and enlisted the support of gangs. I couldn't get close to them. But bandits don't live long. Now there is only one of the attackers left. He works as a security guard at a casino. If I touch him, the whole Don Diego dynasty will rise against me. All I can do is forget myself with a bottle of tequila, which is prepared in the same casino.}
 {274}{}{A sad story. Now I see why you don't want to teach me. Goodbye, Mike.}
 {275}{}{I'll avenge you, Mike. I will get justice.}
 {276}{}{Do you think this will be a consolation for me? No. I just want to look that bastard in the eye alone.}
 {277}{}{That is, they have become an instrument of robbery?}
 {278}{}{And what were you thinking, teaching these fools?}
 {279}{}{I think I know what you're talking about. Is it because of the story with your girlfriend?}
-{280}{}{Let's talk about that attack?}
+{280}{}{Let's talk about that attack.}
 {281}{}{I don't want to talk about it. Only one of the attackers is still alive. He works at a casino.}
 {282}{}{Okay, forget it.}
 {283}{}{I think you should know that he had an "accident". Are you satisfied?}
@@ -88,9 +88,9 @@
 {288}{}{Okay. I'll prove to you that you can trust me.}
 {289}{}{I doubt that I will be able to change this city for the better even a little. Goodbye, Mike.}
 {290}{}{Are you still against my training?}
-{291}{}{I've heard about how much good you do to the residents of these slums. But why? What do you care about these poor people?}
+{291}{}{I've heard about how much good you do for the residents of these slums. But why? What do you care about these poor people?}
 {292}{}{I just can't stand injustice.}
-{293}{}{I've heard about how much good you do to the people of this fallen city. But why? Why do you need this?}
+{293}{}{I've heard about how much good you do for the people of this fallen city. But why? Why do you need this?}
 {294}{}{They say you're a real hero, even if not in this city. You're helping the people of the wasteland. But why? Why do you need this?}
 {1294}{}{They say you are the savior of the poor and oppressed, even if not in this city. You're helping the people of the wasteland. But why? Why do you need this?}
 {295}{}{You know, I like you. I don't know why, but your presence makes me happier. I don't want the same thing to happen to you that happened to Sabrina or something.}
@@ -122,10 +122,10 @@
 {325}{}{Hmm... I don't know... Give me time to think. And bring more drinks.}
 {326}{}{Okay.}
 {327}{}{So what have you decided? Will you train me?}
-{328}{}{Maybe I've been wrong all these years... Good. But for each workout I will take 500 caps. As soon as you save up, come.}
+{328}{}{Maybe I've been wrong all these years... Good. But for each workout, I will take 500 caps. As soon as you save up, come.}
 {329}{}{See you later, Mike.}
 {330}{}{Maybe I've been wrong all these years... Good. Get ready for training and come back tomorrow morning.}
-{331}{}{I'll definitely come, Mike.}
+{331}{}{I'll come, Mike.}
 
 {332}{}{(contemptuously) I knew I couldn't trust you. You swore an oath that you would use your skills for good. Now I don't believe a word you say. Go away and don't come back.}
 {333}{}{E...}
@@ -146,7 +146,7 @@
 {1348}{}{I've heard rumors that you're involved in the murder of children. I don't know if it's true, but I don't want to check either. I don't want to see you from now on. Get out.}
 {349}{}{...}
 
-{350}{}{Let's start with the basics. Correct stance, breathing and concentration.}
+{350}{}{Let's start with the basics. Correct stance, breathing, and concentration.}
 {351}{}{It's time to move on to action. Let's work out the main blows and capture.}
 {352}{}{I think you've learned a lot. Starting from this day, the hardest workouts will begin. We will work on endurance and fight against an armed enemy.}
 {1352}{}{I think you've learned a lot. Starting from this day, the hardest workouts will begin. We will work on endurance and fight against an armed enemy.}
