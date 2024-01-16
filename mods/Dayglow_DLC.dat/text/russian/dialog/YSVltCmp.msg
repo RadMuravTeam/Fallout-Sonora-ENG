@@ -1,9 +1,9 @@
-{100}{}{This is a service computer.}
-{101}{}{This computer is linked to the asylum database.}
-{102}{}{Learning about the history of the asylum has enhanced your experience.}
+{100}{}{You see a service computer.}
+{101}{}{This computer is linked to the vault's database.}
+{102}{}{Learning about the history of the vault has enhanced your experience.}
 
 #Dialog
-{200}{}{Access has been obtained. Enter the command.}
+{200}{}{Access has been obtained. Enter command.}
 {201}{}{End session.}
 {202}{}{Back.}
 {203}{}{Next.}

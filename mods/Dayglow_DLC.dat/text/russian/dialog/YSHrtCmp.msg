@@ -1,9 +1,9 @@
-{100}{}{This is a publishing computer.}
+{100}{}{You see a publishing computer.}
 {101}{}{This computer is connected to a printing press.}
 {102}{}{Reading the articles of the last century gave you a new experience.}
 
 #Dialog
-{200}{}{Access has been obtained. Enter the command.}
+{200}{}{Access has been obtained. Enter command.}
 {201}{}{End session.}
 {202}{}{Back.}
 {203}{}{Next.}
@@ -13,7 +13,7 @@
 {210}{}{Read the headlines of recent articles.}
 {211}{}{Articles for print.}
 {212}{}{Business News.}
-{213}{}{"Mexico has received a new batch of robots of the Mr. Assistant series. Recall that these robots have provided invaluable assistance after the last big earthquakes."}
+{213}{}{"Mexico has received a new batch of robots of the Mr. Handy series. Recall that these robots have provided invaluable assistance after the last big earthquakes."}
 {214}{}{Economic news.}
 {215}{}{"The third economic miracle in Mexico. After the annexation, a huge number of American industries were located in Mexico. The ecology has deteriorated, but the country has started to get richer rapidly."}
 {216}{}{Industry news.}

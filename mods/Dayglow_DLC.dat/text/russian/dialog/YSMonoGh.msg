@@ -16,7 +16,7 @@
 {210}{}{What do I need to run?}
 {211}{}{First of all, we don't have any energy yet. And it seems that it can only be taken at the Bonita hydroelectric station, and it has been well guarded since the War. And it is necessary not only to start the station, but also to send it to the monorail substation.}
 {212}{}{And secondly?}
-{213}{}{Secondly, the monorail line needs to be repaired. Mr. Assistants will do it for us when we start the power. To do this, they will disassemble some of the old lines. But the automation of the tram depot will have to be repaired by ourselves. And here I cannot do without an experienced electronics specialist. This thing is in the control room. Maybe a technician in San Ysidro will fix it, but it's damn heavy. Will you help me?}
+{213}{}{Secondly, the monorail line needs to be repaired. Mr. Handys will do it for us when we start the power. To do this, they will disassemble some of the old lines. But the automation of the tram depot will have to be repaired by ourselves. And here I cannot do without an experienced electronics specialist. This thing is in the control room. Maybe a technician in San Ysidro will fix it, but it's damn heavy. Will you help me?}
 {214}{}{Sure. After all, then I will be able to use the monorail.}
 {215}{}{I'll do anything to make life easier for you guys.}
 {216}{}{Wonderful! Help me, and I will share part of the fee that the city administration promised me.}
