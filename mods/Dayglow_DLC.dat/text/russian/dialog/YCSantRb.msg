@@ -1,6 +1,6 @@
-{100}{}{Here is a robot.}
+{100}{}{You see a robot.}
 {101}{}{You see the robot of the Mr. Handy series.}
-{102}{}{Here is a robot administrator.}
+{102}{}{You see a robot administrator.}
 {103}{}{You upload a new program to the robot.}
 
 {110}{}{Waiting for instructions, senor.}

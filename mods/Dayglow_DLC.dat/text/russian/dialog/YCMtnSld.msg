@@ -1,5 +1,5 @@
 {100}{}{You see a super mutant shadow.}
-{101}{}{Here is a super mutant in combat gear.}
+{101}{}{You see a super mutant in combat gear.}
 {102}{}{We, the shadows, will remain faithful to the Creator and his ideas. Even if the normies leave us alone.}
 
 {200}{}{Hey, man, hold your gun. We won't touch you until you attack.}
@@ -23,7 +23,7 @@
 {217}{}{It's a trap, you stupid man! The Brotherhood soldiers want to catch us all. The captain himself said when he left: there is no need to save him.}
 {218}{}{Well, you are stupid! If I were you, I'd do anything to get the captain out. Let's go, a bunch, from these losers.}
 {1218}{}{Well, you are stupid! If I were you, I would do anything to get the captain out. Let's go, a bunch, from these losers.}
-{219}{}{I understand. An order is an order. Come on, Bunch, we need to talk face to face.}
+{219}{}{I understand. An order is an order. Come on, Bunch, we need to talk face-to-face.}
 {220}{}{Well, you are stupid! If I were you, I'd do anything to get the captain out. Bye, losers.}
 {1220}{}{Well, you are stupid! If I were you, I would do anything to get the captain out. Bye, losers.}
 {221}{}{I understand. An order is an order.}
@@ -34,7 +34,7 @@
 {226}{}{Your captain is saved. Don't mention it.}
 {227}{}{Even though you weren't asked, you're still helping the shadows. Do you really think this is how you can reconcile humans and mutants? It's impossible. But we are grateful to you anyway. I would like to show you to the Creator.}
 {228}{}{What are you going to do now?}
-{229}{}{Do you have any further plan? Or will you be stuck in the middle of a burnt park?}
+{229}{}{Do you have any further plans? Or will you be stuck in the middle of a burnt park?}
 {230}{}{We want to go east. To a place where they don't know about us yet. Away from the Brotherhood and other haters of California.}
 {231}{}{What prevents you from doing this now that the captain is with you?}
 {232}{}{What prevents you from doing this now that the captain no longer holds you?}

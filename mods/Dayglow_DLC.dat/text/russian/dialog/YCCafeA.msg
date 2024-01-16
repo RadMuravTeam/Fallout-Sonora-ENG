@@ -1,5 +1,5 @@
 {100}{}{You see Edward.}
-{101}{}{Here is the owner of a local drinking establishment. He is wearing a once white apron and a cap.}
+{101}{}{You see the owner of a local drinking establishment. He is wearing a once-white apron and a cap.}
 {102}{}{Not interested.}
 
 {200}{}{Hello... Oh, man!}
@@ -16,11 +16,11 @@
 {210}{}{Here is the menu, and here are the takeaway items.}
 {211}{}{Thank you.}
 {212}{}{What do you want, friend?}
-{1212}{}{What do you want, girlfriend?}
+{1212}{}{What do you want, miss?}
 {213}{}{What do you want, smooth face?}
 {214}{}{Perhaps nothing more.}
 {215}{}{Show me the menu.}
-{216}{}{Come in, don't be shy. Everyone has their own here! Here we do not tolerate normics here and we double the prices. And the doors are always open to mutants.}
+{216}{}{Come in, don't be shy. Everyone has their own here! Here we do not tolerate normies here and we double the prices. And the doors are always open to mutants.}
 {217}{}{Thank you for the warm welcome. I }
 {218}{}{. What's your name?}
 {219}{}{I haven't agreed to join our club yet. Who are you anyway?}
@@ -47,19 +47,19 @@
 {237}{}{Well, I'm sorry... Or maybe we will conclude? I'll pay triple the price for each bottle.}
 
 {240}{}{Thanks for the electricity, }
-{241}{}{! It must have been a very dangerous task? Here, take the drugs for radiation sickness. I think this is the best way I can thank you.}
-{242}{}{Thanks, Ed. I'll definitely need this.}
+{241}{}{! It must have been a very dangerous task. Here, take the drugs for radiation sickness. I think this is the best way I can thank you.}
+{242}{}{Thanks, Ed. I'll need this.}
 {243}{}{That's all? Okay, let's at least do this for what it is.}
 {244}{}{Oh, yes, you can also count on a discount. I set other prices for ordinary smooth-skinned people.}
 {245}{}{I just wanted to order something. Show me the menu.}
 {246}{}{It is wonderful. But right now I need more information than nutrition.}
 {247}{}{Thanks for the electricity, }
-{248}{}{! It must have been a very dangerous task? Here, have a drink and lunch on me. And next time I'll give you a discount.}
+{248}{}{! It must have been a very dangerous task. Here, have a drink and lunch on me. And next time I'll give you a discount.}
 {249}{}{}
 {250}{}{Senor Gustavo said you owe me medicine.}
 {251}{}{I'll give you Radawaye, rad-x, an antidote and a stimulant. But free cheese is only in a mousetrap. You will have to pay dearly for crossing the ruins of San Diego. I hope you can handle it. Good luck, friend.}
-{1251}{}{I'll give you Radawaye, rad-x, an antidote and a stimulant. But free cheese is only in a mousetrap. You will have to pay dearly for crossing the ruins of San Diego. I hope you can handle it. Good luck, girlfriend.}
-{252}{}{I need more. Show me what you have for sale?}
+{1251}{}{I'll give you Radawaye, rad-x, an antidote and a stimulant. But free cheese is only in a mousetrap. You will have to pay dearly for crossing the ruins of San Diego. I hope you can handle it. Good luck, miss.}
+{252}{}{I need more. Show me what you have for sale.}
 {253}{}{Thanks, Ed. I'll see you later.}
 
 {260}{}{I need to exchange old money for caps.}
@@ -85,7 +85,7 @@
 {281}{}{I can't offer anything serious. But you can take the groceries to the workers at the dam.}
 {282}{}{No need. I don't want to do such a small thing.}
 {283}{}{Good. Give me the package.}
-{284}{}{There are five boxes of TV dinner with food for five people. Give it to each of them. And you need to make it in one day. It will definitely be faster for you than for ghouls. Yes, and don't eat it on the way. Otherwise the ghouls on the dam will be VERY unhappy.}
+{284}{}{There are five boxes of TV dinner with food for five people. Give it to each of them. And you need to make it in one day. It will be faster for you than for ghouls. Yes, and don't eat it on the way. Otherwise, the ghouls on the dam will be VERY unhappy.}
 {285}{}{Okay.}
 {286}{}{All the customers at the dam have received their orders.}
 {287}{}{Thank you very much. Here's your salary.}
@@ -107,4 +107,4 @@
 {301}{}{Yes, here it is.}
 {302}{}{Oh, you're saving us! Hey, guys, look, this smooth-skinned guy did a great job for us. Thank him!}
 {303}{}{Glad to help. Maybe, Ed.}
-{304}{}{Damn, but De-Santi would give me more... Oh, I'm talking about something else, nevermind. Uh, bye.}
+{304}{}{Damn, but De-Santi would give me more... Oh, I'm talking about something else, never mind. Uh, bye.}

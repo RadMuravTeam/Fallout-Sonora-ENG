@@ -1,5 +1,5 @@
 {100}{}{You see a black scavenger.}
-{101}{}{Here is a man dressed in special clothes for exploring the ruins.}
+{101}{}{You see a man dressed in special clothes for exploring the ruins.}
 {102}{}{A competitor? Then choose the areas we're not going to. Just a warning.}
 {103}{}{A fight! Who is not with us, let him get out! Fight!}
 {104}{}{Okay, okay, we overreacted. We apologize.}

@@ -1,4 +1,4 @@
-{200}{}{Enter the command.}
+{200}{}{Enter command.}
 {201}{}{End session.}
 {202}{}{Back.}
 {203}{}{Next.}

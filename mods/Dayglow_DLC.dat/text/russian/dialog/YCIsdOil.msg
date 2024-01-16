@@ -1,7 +1,7 @@
 {100}{}{You see a looter ghoul.}
 {101}{}{There's a ghoul in front of you. He carefully examines the area.}
 {102}{}{Hey, buddy, do you have a light? There's a lot of junk around, but here's the fire...}
-{1102}{}{Hey, girlfriend, is there a light? There's a lot of junk around, but here's the fire...}
+{1102}{}{Hey, miss, is there a light? There's a lot of junk around, but here's the fire...}
 {103}{}{Fire! Wow-oh-oh!}
 {104}{}{Perhaps one lighter will be enough for you.}
 

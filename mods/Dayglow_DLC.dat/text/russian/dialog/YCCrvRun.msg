@@ -1,5 +1,5 @@
 {100}{}{You see a wandering ghoul.}
-{101}{}{Here is one of the ghouls. There is a sly look in his distorted face.}
+{101}{}{You see one of the ghouls. There is a sly look on his distorted face.}
 {102}{}{Hey, can you give me a lift to the Hub?}
 {103}{}{Hi there.}
 
@@ -14,7 +14,7 @@
 {207}{}{I don't have that much.}
 {208}{}{Then there will be no deal. Goodbye.}
 {209}{}{[Leave]}
-{210}{}{Hey, wait, I actually have 1000 caps. Now bring the goods.}
+{210}{}{Hey, wait, actually I have 1000 caps. Now bring the goods.}
 {211}{}{That's what I understand — business people! Well, all the best, partner.}
 {212}{}{Goodbye.}
 {213}{}{And now give the caps back, you idiot.}
@@ -35,4 +35,4 @@
 {228}{}{Yes. Here are 800 caps.}
 {229}{}{Yes. Here are 1000 caps.}
 {230}{}{Morgan still wants to sell the controller for 1000 hubbucks. Well, is it a deal?}
-{231}{}{The conditions have not changed: 800 caps, and the controller is yours. So are you going to buy it?}
+{231}{}{The conditions have not changed: 800 caps and the controller is yours. So are you going to buy it?}

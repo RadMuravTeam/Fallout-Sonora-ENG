@@ -1,5 +1,5 @@
 {100}{}{You see Cabot, the ghoul trader.}
-{101}{}{Here is a local merchant.}
+{101}{}{You see a local merchant.}
 {102}{}{I don't serve traitors. Get out of my store.}
 {103}{}{Listen, if you don't like our city, then get back to your dense wastelands, you blockhead.}
 
@@ -7,7 +7,7 @@
 {201}{}{Hello, Cabot. What are you selling?}
 {202}{}{Finds from all over the Shining are flocking to me. However, some of them are immediately taken away by caravans to the north.}
 {203}{}{Why?}
-{204}{}{Here in the Old City, we believe that we must help people restore civilization with the help of old things and knowledge... Well, that's what Butler says. Personally, I'm just looking for a benefit. I'm a merchant. Always has been.}
+{204}{}{Here in the Old City, we believe that we must help people restore civilization with the help of old things and knowledge... Well, that's what the Butler says. Personally, I'm just looking to benefit. I'm a merchant. Always have been.}
 {205}{}{Let's see what kind of junk they brought you this time...}
 {206}{}{I wanted to take a look at all these pre-war relics. Show your product...}
 {207}{}{Sorry, man, but you can't count on discounts. The prices for you will be the same as for the rest of the smooth-skinned.}
@@ -19,7 +19,7 @@
 {213}{}{Can I ask you a few questions?}
 
 {220}{}{What are you looking for, friend?}
-{1220}{}{What are you looking for, girlfriend?}
+{1220}{}{What are you looking for, miss?}
 {221}{}{What do you need, baby?}
 {222}{}{What is it this time?}
 {223}{}{Goodbye.}
@@ -44,7 +44,7 @@
 {250}{}{Well, I told you about the recreation area at the La Pension Hotel. I haven't seen him since.}
 {251}{}{Is that the one in the Italian district? I see, thank you.}
 
-{260}{}{Do you know where I can get programs for Mr. Assistant?}
+{260}{}{Do you know where I can get programs for Mr. Handy?}
 {261}{}{Ask Phil about it in the library. He's got a big brain, maybe he'll come up with something.}
 {262}{}{Thank you.}
 

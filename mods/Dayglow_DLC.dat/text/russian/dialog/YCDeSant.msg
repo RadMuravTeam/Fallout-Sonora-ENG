@@ -1,11 +1,11 @@
 {100}{}{You see Mr. De-Santi.}
-{101}{}{Here is a ghoul in a pre-war suit and a felt hat. A long scar runs through his face.}
+{101}{}{You see a ghoul in a pre-war suit and a felt hat. A long scar runs through his face.}
 {102}{}{This is Albert De Santi.}
 
 {200}{}{You've come to the right place, kid. I'm Albert De Santi. And this is my establishment — the hotel and sanatorium "La Pension".}
 {1200}{}{You're in the right place, baby. I'm Albert De Santi. And this is my establishment — the hotel and sanatorium "La Pension".}
 {201}{}{[Next]}
-{202}{}{Here you can forget about the harsh reality. Massage, retro cinema, sterile baths, radiation tan, delicious rat dishes, individual order for any whim — just tell me what you want?}
+{202}{}{Here you can forget about the harsh reality. Massage, retro cinema, sterile baths, radiation tan, delicious rat dishes, individual order for any whim — just tell me what you want.}
 {203}{}{Seriously? Did you open a sanatorium in the middle of the scorched ruins? Yes, who will reach here?}
 {204}{}{Relax, baby. It is in such a place that it is safest... Well, except for those lunatics across the street. They still treat the ghouls calmly, but it's a matter of time.}
 {1204}{}{Relax, baby. It is in such a place that it is safest... Well, except for those lunatics across the street. They still treat the ghouls calmly, but it's a matter of time.}
@@ -16,14 +16,14 @@
 {211}{}{Nothing. See you later.}
 {212}{}{See you later, Mr. De-Santi.}
 {213}{}{See you again, Mr. De-Santi.}
-{214}{}{Vs-s-s, a-ah! I love the smell of caps before going to bed. Okay, baby, you really deserve half.}
-{215}{}{(shakes the bag with the caps) Ah! I like to listen to the clink of caps during lunch. Okay, baby, you really deserve half.}
+{214}{}{Vs-s-s, a-ah! I love the smell of caps before going to bed. Okay, baby, you deserve half.}
+{215}{}{(shakes the bag with the caps) Ah! I like to listen to the clink of caps during lunch. Okay, baby, you deserve half.}
 
 #Quests
 {220}{}{Have you tried to get rid of the distraught in the next building?}
 {221}{}{I'll pay 100 hubbucks for each one. Do it and the money is yours.}
 {222}{}{Don't you feel sorry for them? They're your brothers.}
-{223}{}{Remember, kid, in this business you need to know only one thing: shoot first, shoot yourself, always shoot. And you won't be lost.}
+{223}{}{Remember, kid, in this business you need to know only one thing: shoot first, shoot yourself, and always shoot. And you won't be lost.}
 {1223}{}{Baby, in this business you only need to know one thing: shoot first, shoot yourself, always shoot. And you won't be lost.}
 {224}{}{Agreed. I'm just looking for a way to make money. Consider it done.}
 {225}{}{No. I won't do it.}
@@ -34,7 +34,7 @@
 {229}{}{There is another problematic person. Do you know Derrick? He's bartering right at the entrance, taking part of the sales proceeds from me. It doesn't suit me! Do something with it.}
 {230}{}{OK.}
 {231}{}{Derrick won't bother you anymore. He swallowed lead.}
-{232}{}{What a pity! Of course you don't know who did it, right? (winks and hands you 100 caps) I'll have to clean up a little shit at the entrance.}
+{232}{}{What a pity! Of course, you don't know who did it, right? (winks and hands you 100 caps) I'll have to clean up a little shit at the entrance.}
 {233}{}{[Leave]}
 {234}{}{Derrick decided to reconsider his plans for the future. He is ready to work for you.}
 {235}{}{Great job, kid. It's worth the increased fee. (winks and hands you 150 caps)}
@@ -51,11 +51,11 @@
 {245}{}{His name is Kurt. He owes me 300 caps. Shake them out of him and half is yours.}
 {246}{}{Okay.}
 {247}{}{Here are the caps that Kurt owed — exactly 300 pieces.}
-{248}{}{Vs-s-s, a-ah! I love the smell of caps in the morning. Okay, baby, you really deserve half.}
+{248}{}{Vs-s-s, a-ah! I love the smell of caps in the morning. Okay, baby, you deserve half.}
 {249}{}{Well, of course.}
 
 {250}{}{It seems like everything is falling apart here. Do you need an employee?}
-{251}{}{There is such a thing. It's hard to cope alone. I really need an au pair.}
+{251}{}{There is such a thing. It's hard to cope alone. I need an au pair.}
 {252}{}{I can work for a reasonable fee.}
 {253}{}{Sorry, but I can't help you with this.}
 {254}{}{There is a better applicant. At least he doesn't have to pay. It is located in the storeroom opposite. His name is Mr. Handy. All you need to do is put him on his feet and appoint an administrator program. I'll pay 300 hubbucks for this non-dusty job.}
@@ -105,8 +105,8 @@
 {289}{}{Hey, baby, did you get anything wrong? I was told that you gave the part to San Ysidro. What the hell does that mean?}
 {1289}{}{Hey, baby, did you get anything wrong? I was told that you gave the part to San Ysidro. What the hell does that mean?}
 {290}{}{It's not your thing, mister.}
-{291}{}{If you think about it, it is. But what does it matter to you? You work FOR ME. Damn, you really upset me, baby. I don't want to see you. P'shel out!}
-{1291}{}{If you think about it, it is. But what does it matter to you? You work FOR ME. Damn, you really upset me, baby. I don't want to see you. Get lost!}
+{291}{}{If you think about it, it is. But what does it matter to you? You work FOR ME. Damn, you upset me, baby. I don't want to see you. P'shel out!}
+{1291}{}{If you think about it, it is. But what does it matter to you? You work FOR ME. Damn, you upset me, baby. I don't want to see you. Get lost!}
 {292}{}{[Leave]}
 {293}{}{And now let's move on to really serious matters. A camp of black scavengers has settled nearby. They're combing through MY ruins, and they're not going to pay the tax. They have to work for me, and if they don't want to, then let them get off my land! Go deal with them.}
 {294}{}{It will be done.}
@@ -123,8 +123,8 @@
 {302}{}{Very sorry.}
 {303}{}{Don't fit at all? But my caps are begging to be spent.}
 {304}{}{Admit it, you just hate smooth-skinned people, right?}
-{305}{}{It's just business, kid. It's not in my interest for the client to be hard boiled. But since you're so sensitive, I can tell my ghoul friends that you're a good smooth-skinned one. It will cost you in }
-{1305}{}{It's just business, baby. It's not in my interest for the client to be hard boiled. But since you're so sensitive, I can tell my ghoul friends that you're a good smooth-skinned one. It will cost you in }
+{305}{}{It's just business, kid. It's not in my interest for the client to be hard-boiled. But since you're so sensitive, I can tell my ghoul friends that you're a good smooth-skinned one. It will cost you in }
+{1305}{}{It's just business, baby. It's not in my interest for the client to be hard-boiled. But since you're so sensitive, I can tell my ghoul friends that you're a good smooth-skinned one. It will cost you in }
 {306}{}{No need. I achieve a good reputation by honest means.}
 {307}{}{It's a deal.}
 {308}{}{Waiting for the lid, baby. Reputation is expensive.}
@@ -135,7 +135,7 @@
 {312}{}{Just let's not cheat. I don't like it.}
 {313}{}{ hubbucks. Is it a deal?}
 
-{320}{}{To begin with, I advise you to take healing baths with my charming bath attendant. And if there is nowhere to put time and money, then I can offer a full rest at the hotel with watching movies, music and medical procedures. A service specifically for mutants and ghouls!}
+{320}{}{To begin with, I advise you to take healing baths with my charming bath attendant. And if there is nowhere to put time and money, then I can offer a full rest at the hotel while watching movies, music, and medical procedures. A service specifically for mutants and ghouls!}
 {321}{}{I think I'll do with a simple ablution for now. How much does it cost?}
 {322}{}{ caps.}
 {323}{}{Good. Here are the caps.}

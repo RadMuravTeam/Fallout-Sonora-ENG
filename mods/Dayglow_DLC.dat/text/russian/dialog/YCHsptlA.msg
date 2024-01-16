@@ -1,4 +1,4 @@
-{100}{}{Here is a black scavenger.}
+{100}{}{You see a black scavenger.}
 {101}{}{You see one of the local scavengers. Although he looks more like a bandit.}
 {102}{}{Another disgusting ghoul. How did you get me!}
 {103}{}{Who do we have here? A favorite of ghouls or a free scavenger? In any case, you will not leave here...}
@@ -26,7 +26,7 @@
 {133}{}{Look at your ugly face, dead guy.}
 {134}{}{Don't argue with me, freak.}
 {135}{}{Tell me, you disgusting mug, where do you keep all the most valuable things?}
-{136}{}{I ask for the last time: wHere are the caps?}
+{136}{}{I ask for the last time: Where are the caps?}
 {137}{}{}
 {138}{}{}
 {139}{}{}

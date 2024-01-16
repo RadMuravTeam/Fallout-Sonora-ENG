@@ -1,5 +1,5 @@
 {100}{}{There is a ghoul in front of you.}
-{101}{}{Here is an ordinary ghoul.}
+{101}{}{You see an ordinary ghoul.}
 
 {200}{}{Hey, son, do you want me to tell you a fucking story?}
 {1200}{}{Oh, lady, do you want me to tell you an inspiring story?}

@@ -1,4 +1,4 @@
-{100}{}{Here is the Pec.}
+{100}{}{You see Pec.}
 {101}{}{You see a ghoul with a twisted spine. His head was thickly overgrown with small glowing mushrooms.}
 {102}{}{No problem, sir. As soon as I'm done cleaning up, I'm out of here.}
 
@@ -39,7 +39,7 @@
 {224}{}{I need more of these glowing mushrooms.}
 
 {230}{}{How do I get out of here?}
-{231}{}{The nearest bridge is destroyed, bro. That's bad luck, right? Go up to the mall, from there turn onto federal highways. And now you're free!}
+{231}{}{The nearest bridge is destroyed, bro. That's bad luck, right? Go up to the mall, and from there turn onto federal highways. And now you're free!}
 {232}{}{Okay, I'll go. Have a good stay.}
 {233}{}{I'll pay 300 caps if you take me to San Ysidro.}
 {234}{}{I know what you mean. I understand. Peck knows all the local trails and dangerous places. You will not pass the valley without me.}

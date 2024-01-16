@@ -1,5 +1,5 @@
-{100}{}{This is a ghoul bandit.}
-{101}{}{Here is an ordinary ghoul.}
+{100}{}{You see a ghoul bandit.}
+{101}{}{You see an ordinary ghoul.}
 
 {110}{}{Hello.}
 {111}{}{I don't like you.}

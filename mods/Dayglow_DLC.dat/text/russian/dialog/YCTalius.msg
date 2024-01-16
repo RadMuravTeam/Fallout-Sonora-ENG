@@ -80,7 +80,7 @@
 {279}{}{Can we talk about something else?}
 {280}{}{Good luck, Father Talius.}
 
-#Asylum 24
+#Vault 24
 {290}{}{I remembered a conversation about Vaults. Are they in the Glow?}
 {291}{}{Perhaps. Why do you ask?}
 {292}{}{Just logical reasoning. Nevermind.}

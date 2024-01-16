@@ -1,10 +1,10 @@
-{100}{}{Here is Ralph.}
+{100}{}{You see Ralph.}
 {101}{}{You see a ghoul you already know. He is still wearing well-worn work clothes with a pre-war symbol.}
 {102}{}{I wonder how the guys at the power plant are doing?}
 
 {200}{}{What a meeting! The angel of the Electromagnetic Pulse must be bringing us together again.}
 {201}{}{Ralph? What are you doing here? You were going to Texas, weren't you?}
-{202}{}{I didn't want to leave Phoenix for a while. Because there are rather fat rats in the local sewers. But then a gloomy ghoul came to the city and told about the Dayglow. It dawned on me that it was better to be closer to my own people than to perish in the sands all alone. But what are you doing here?}
+{202}{}{I didn't want to leave Phoenix for a while. Because there are rather fat rats in the local sewers. But then a gloomy ghoul came to the city and told about the Dayglow. It dawned on me that it was better to be closer to my people than to perish in the sands all alone. But what are you doing here?}
 {203}{}{Looking for new adventures... probably.}
 {204}{}{Hmm? I don't even know what to say. You're a strange man. Maybe you're not all right at home? But it will be difficult for you to get along here — radiation and traces of the Old World are all around. }
 {205}{}{I know.}

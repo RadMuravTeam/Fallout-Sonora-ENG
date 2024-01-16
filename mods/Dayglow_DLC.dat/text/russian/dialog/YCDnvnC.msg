@@ -1,5 +1,5 @@
 {100}{}{This is Donovan.}
-{101}{}{Here is a robot inside which Donovan's brain functions.}
+{101}{}{You see a robot inside which Donovan's brain functions.}
 
 {110}{}{I'm a robot now. It's so unusual. And so great!}
 {111}{}{I feel much better in this body!}

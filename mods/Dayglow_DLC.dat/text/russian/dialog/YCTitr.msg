@@ -1,18 +1,18 @@
 {100}{}{You see a stranger.}
-{101}{}{Here is a man in a blue jumpsuit.}
+{101}{}{You see a man in a blue jumpsuit.}
 
 #Cut scenes
 {110}{}{   }
 {111}{}{Who are you guys?}
 {112}{}{It's none of your business. You will ask questions to Butler. And now — get out of here.}
 {113}{}{Mercenaries, then. Of course, Butler won't back down that easily.}
-{114}{}{But it's too late. Coronado belongs to the gulyams of San Isidro. And you don't belong here.}
-{115}{}{Ugh! Only in vain we grab radiation with this rags. Throw them off the pier, guys!}
+{114}{}{But it's too late. Coronado belongs to the ghouls of San Isidro. And you don't belong here.}
+{115}{}{Ugh! Only in vain do we grab radiation with these rags. Throw them off the pier, guys!}
 
 {122}{}{It's none of your business. We won't let anyone sail to the island without our permission.}
 {123}{}{Ah, black scavengers? Of course, everyone wants to get the Coronado treasure.}
 {124}{}{But Coronado belongs to ALL ghouls! San Isidro also has a right to it!}
-{125}{}{Ugh! Only in vain we grab radiation with this rags. Drive them out of here!}
+{125}{}{Ugh! Only in vain do we grab radiation with these rags. Drive them out of here!}
 {126}{}{Only Coronado belongs to the GHOULS! Get off our land, smooth-faced!}
 
 #Final dialogue
@@ -52,7 +52,7 @@
 
 {250}{}{Of course, there will be great strife among the ghouls over the rights to the fragments of the Old World.}
 {251}{}{Without their leaders, they will need a lot of time to find a compromise of forces and interests. It will be a period of chaos and confusion. Including in the north, in human settlements.}
-{252}{}{Some of the pre—war stuff will fall into good hands, some into bad hands. Ghouls will get the least. But they are not used to it. The Dayglow will be the same as the Necropolis was before the ghouls left there. Apparently, this is their fate.}
+{252}{}{Some of the pre—war stuff will fall into good hands, some into bad hands. Ghouls will get the least. But they are not used to it. The Dayglow will be the same as the Necropolis was before the ghouls left there. This is their fate.}
 
 {260}{}{Well. My business here is over. Yours probably are, too. It was good to see you. Adios, amigo.}
 {261}{}{Goodbye, stranger.}

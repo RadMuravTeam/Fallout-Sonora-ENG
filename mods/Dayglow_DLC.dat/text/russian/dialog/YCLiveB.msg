@@ -1,5 +1,5 @@
 {100}{}{You see Rupert.}
-{101}{}{Here is a ghoul in a pre-war suit.}
+{101}{}{You see a ghoul in a pre-war suit.}
 {102}{}{You see a ghoul.}
 {103}{}{If it wasn't for De-Santi, we would have been reunited a long time ago.}
 {104}{}{Hey, hello. You look pretty good for a dead guy.}
@@ -11,10 +11,10 @@
 {201}{}{I'm not dead.}
 {202}{}{Well, then you're lucky. I'm lucky too. More points every time!}
 {203}{}{Well, that's...}
-{204}{}{Oh, if only I had always been so fortified! I thought that my old age would be quite sad, but in this hotel I feel young like never before! And it's so much fun!}
+{204}{}{Oh, if only I had always been so fortified! I thought that my old age would be quite sad, but in this hotel, I feel young like never before! And it's so much fun!}
 {205}{}{I actually...}
 {206}{}{Glad that...}
-{207}{}{And now I'm sorry, Daddy needs a pair of brand new shoes. Eh, there was no such thing! I bet on red!}
+{207}{}{And now I'm sorry, Daddy needs a pair of brand-new shoes. Eh, there was no such thing! I bet on red!}
 {208}{}{I won't interfere.}
 {209}{}{Look, old man, don't lose your soul.}
 
@@ -32,7 +32,7 @@
 {231}{}{What do you want in the end? Who sent you?}
 {232}{}{Miss Judy. She's looking for her missing husband. And it looks like he's burning his entire fortune in secret from her.}
 {233}{}{(sigh) Listen, buddy. Do you think I would hang out here if I wanted to reunite with Judy?}
-{234}{}{I don't really care.}
+{234}{}{I don't care.}
 {235}{}{Then what is the reason for this behavior?}
 {236}{}{You're a man, you have to understand what it's like when your wife nags you for 80 years in a row!}
 {1236}{}{You're a woman, you don't understand what it's like when your wife nags you for 80 years in a row!}

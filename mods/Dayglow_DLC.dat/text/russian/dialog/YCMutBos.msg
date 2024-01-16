@@ -1,5 +1,5 @@
 {100}{}{You see the paladin.}
-{101}{}{Here is a paladin of the Brotherhood of Steel.}
+{101}{}{You see a paladin of the Brotherhood of Steel.}
 {102}{}{Greetings, brother.}
 {1102}{}{Greetings, Sister.}
 
@@ -33,7 +33,7 @@
 {208}{}{Glad to meet you, brother. You can stay here, under our protection.}
 {1208}{}{Glad to meet you, Sister. You can stay here, under our protection.}
 {209}{}{May I know what you are doing here?}
-{210}{}{We have a small mission. We have captured the captain of the super Mutants and are interrogating him now. And when we're done, we'll kill you. Nothing to worry about, he's well guarded.}
+{210}{}{We have a small mission. We have captured the captain of the super Mutants and are interrogating him now. And when we're done, we'll kill you. Nothing to worry about, he's well-guarded.}
 {211}{}{Oh, that's great. Congratulations.}
 {212}{}{Wait! I'll explain again — you can't come here. Go away. Immediately.}
 {213}{}{Don't make us angry. This will be the last warning. to you. here. YOU CAN'T.}

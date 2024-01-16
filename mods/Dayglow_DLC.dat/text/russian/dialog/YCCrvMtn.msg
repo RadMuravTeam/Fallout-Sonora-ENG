@@ -1,4 +1,4 @@
-{200}{}{Hey, that's Private Heap! And is normie with him?}
+{200}{}{Hey, that's Private Heap! And is the normie with him?}
 {201}{}{Heap is my subordinate. And you should listen to me too.}
 {202}{}{Geer! A bunch of traitors! Death is normal!}
 {203}{}{Wait...}

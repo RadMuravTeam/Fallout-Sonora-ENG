@@ -1,5 +1,5 @@
-{100}{}{This is a black scavenger.}
-{101}{}{Here is a black scavenger.}
+{100}{}{You see a black scavenger.}
+{101}{}{You see a black scavenger.}
 {102}{}{This is our neighborhood. Get out of here.}
 {103}{}{We work with De-Santis. If you need anything, talk to him.}
 

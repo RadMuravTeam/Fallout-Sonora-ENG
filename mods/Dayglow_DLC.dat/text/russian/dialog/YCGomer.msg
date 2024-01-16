@@ -95,7 +95,7 @@
 {271}{}{How did you get into the Shining?}
 {272}{}{Together with the squad. We walked for a long time in the desert. We were being chased by a squad of the Brotherhood of Steel. Ooh, I hate Brotherhood! They killed many brothers in arms and drove us into the wasteland. There was no point in going back. We decided to leave.}
 {273}{}{[Next]}
-{274}{}{On the way we came across ghouls, they told us about the Dayglow. They also fled from the Normies. Normies hate everyone.}
+{274}{}{On the way we came across ghouls, they told us about the Dayglow. They also fled from the normies. Normies hate everyone.}
 {275}{}{Why aren't you with your squad?}
 {276}{}{It was a hungry time. The pile was so hungry that it ate all the provisions. Shamefully. For this, he was expelled from the squad. And he didn't see the squad anymore.}
 {277}{}{Do you know where your squad is now?}

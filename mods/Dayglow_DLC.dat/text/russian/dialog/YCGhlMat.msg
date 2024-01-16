@@ -26,7 +26,7 @@
 {220}{}{Who are you?}
 {221}{}{I'm Phil. Kind of like a scientist, if I may say so. The brain of this city, if you will.}
 {222}{}{Really?}
-{223}{}{Well, I helped with everything that requires pre—war knowledge - from old reference books to programs for Mr. Assistants.}
+{223}{}{Well, I helped with everything that requires pre—war knowledge - from old reference books to programs for Mr. Handys.}
 {224}{}{I see.}
 {225}{}{I'm also a world chess champion. No one, not even the cunning commies, could beat me. But these were life-and-death parties!}
 {226}{}{Curious.}
@@ -78,7 +78,7 @@
 {273}{}{Right now I'm reading a set of rules for flying on an airship. Are you laughing? Well, someday someone will fly them into the sky again. Trust me.}
 {274}{}{Right now I'm reading a story about how the Communists took over the United States and built a totalitarian state here. It looks pretty good so far.}
 
-{280}{}{I need a program for Mr. Assistant.}
+{280}{}{I need a program for Mr. Handy.}
 {281}{}{It's not difficult. But I'm so busy with this beautiful book. I can't tear myself away!}
 {282}{}{And if I bring you more books?}
 {283}{}{More books?! Yes! Bring me the five surviving books, and I'll make this program. Easy.}

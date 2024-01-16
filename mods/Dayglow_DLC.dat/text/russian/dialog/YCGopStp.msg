@@ -1,5 +1,5 @@
 {100}{}{You see a ghoul.}
-{101}{}{Here is a nasty-looking ghoul with one eye. His teeth froze in an eternal grin.}
+{101}{}{You see a nasty-looking ghoul with one eye. His teeth froze in an eternal grin.}
 {102}{}{Hello stranger.}
 {1102}{}{Hello, stranger.}
 {103}{}{Come closer, don't be afraid. I just want to "touch" your soft smooth skin...}
@@ -43,8 +43,8 @@
 {234}{}{Why would I give you caps?}
 {235}{}{This is the price for having to put up with your nasty smooth face in my beautiful city. Give me the caps, now.}
 
-{250}{}{Senor, my respects! For the first time in the city? I would show you all the sights. For just 10 caps.}
-{1250}{}{Senora, my respects! For the first time in the city? I would show you all the sights. For just 10 caps.}
+{250}{}{Senor, my respects! For the first time in the city? I will show you all the sights. For just 10 caps.}
+{1250}{}{Senora, my respects! For the first time in the city? I will show you all the sights. For just 10 caps.}
 {251}{}{Okay, here are 10 caps.}
 {252}{}{Sorry, amigo, I'm broke. Maybe another time.}
 {253}{}{Mucho gracia... Oh, yes, there's the monorail, and there's the Mexican border. There is another ghoul camp in the north. That is all. Be...}

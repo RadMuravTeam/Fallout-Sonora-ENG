@@ -1,5 +1,5 @@
 {100}{}{You see the bartender.}
-{101}{}{Here is an ordinary bartender... would you like to say that if he wasn't a ghoul.}
+{101}{}{You see an ordinary bartender... would you like to say that if he wasn't a ghoul.}
 {102}{}{Again, these drunken showdowns! Stop them! They'll blow up my bar!}
 
 {210}{}{What do you want, a bag of bones?}
@@ -29,7 +29,7 @@
 {240}{}{I have a bottle of pre-war whiskey for your bar.}
 
 {241}{}{A bunch of us are looking for his squad. Maybe you've heard of him?}
-{242}{}{I heard that super mutants have set up a camp in Balboa Park. They are not aggressive, rather the opposite. Maybe this is the squad you're looking for.}
+{242}{}{I heard that super mutants have set up a camp in Balboa Park. They are not aggressive, but rather the opposite. Maybe this is the squad you're looking for.}
 {243}{}{Clear. Thank you.}
 
 {260}{}{I want to exchange dollars for caps.}
@@ -64,6 +64,6 @@
 {291}{}{It's a shame.}
 {292}{}{If we had free rooms, I'd rather give them to super mutants than to you.}
 {293}{}{I'll remember that, green.}
-{294}{}{I didn't really want to. Forget about it.}
-{295}{}{You don't have enough hubbucks for our service. Go earn something to start with.}
+{294}{}{I didn't want to. Forget about it.}
+{295}{}{You don't have enough hub bucks for our service. Go earn something to start with.}
 {296}{}{Okay.}

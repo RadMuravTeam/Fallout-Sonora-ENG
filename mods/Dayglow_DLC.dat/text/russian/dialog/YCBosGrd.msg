@@ -1,4 +1,4 @@
-{100}{}{Here is the mayor's bodyguard.}
+{100}{}{You see the mayor's bodyguard.}
 {101}{}{You see one of the ghouls. He is wearing combat armor, and in his hands is a machine gun.}
 
 {110}{}{Don't be rude and keep your hands in plain sight.}

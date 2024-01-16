@@ -1,5 +1,5 @@
 {100}{}{You see a ghoul.}
-{101}{}{Here is one of the ghouls. He looks particularly battered.}
+{101}{}{You see one of the ghouls. He looks particularly battered.}
 
 {102}{}{Hi. Where did you come from so handsome?}
 {1102}{}{Hi. Where did you come from so beautiful?}
@@ -8,7 +8,7 @@
 {104}{}{Save me from these stupid mutants!}
 {105}{}{The last time I was pressed like that was before the war. Bandits then, mutants now — not much has changed.}
 {106}{}{Ugh, I thought I was screwed. Here, take a stimulant and words of gratitude as a reward. Thank you, friend.}
-{1106}{}{Ugh, I thought I was screwed. Here, take a stimulant and words of gratitude as a reward. Thanks, girlfriend.}
+{1106}{}{Ugh, I thought I was screwed. Here, take a stimulant and words of gratitude as a reward. Thanks, miss.}
 
 {110}{}{Don't touch me, we're the same blood!}
 {111}{}{I won't tell anyone I saw you. Honestly.}

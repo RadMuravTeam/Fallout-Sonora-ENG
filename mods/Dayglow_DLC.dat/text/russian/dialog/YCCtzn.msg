@@ -1,4 +1,4 @@
-{100}{}{In front of you is a ghoul.}
+{100}{}{You see a ghoul.}
 {101}{}{You see an ordinary ghoul.}
 
 {102}{}{Oh, thank you, you're just in time.}
@@ -18,7 +18,7 @@
 
 {115}{}{This normie can be trusted.}
 {116}{}{The Man in the Glow? Madman!}
-{117}{}{The Normies made a mistake. They need time to figure it out.}
+{117}{}{The normies made a mistake. They need time to figure it out.}
 {118}{}{Perhaps not all smooth-faces are bad.}
 {119}{}{We just want to live separately from the smooth-faced.}
 

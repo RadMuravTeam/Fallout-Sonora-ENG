@@ -1,7 +1,7 @@
-{100}{}{This is Senor Gustavo.}
-{101}{}{This is Senor Gustavo, the manager of San Isidro.}
+{100}{}{You see Senor Gustavo.}
+{101}{}{You see Senor Gustavo, the manager of San Isidro.}
 {102}{}{Here I am the law!}
-{103}{}{Do ghouls need radio communication? We will help them — and then they will respect a lot.}
+{103}{}{Do ghouls need radio communication? We will help them — and then they will respect us a lot.}
 {104}{}{Meet me at the pier.}
 
 #First meeting
@@ -10,14 +10,14 @@
 #Gustavo Obanel Vallejo at your service. I'm the manager of San Isidro. Now, to hell with the niceties. I want to know the reason why you're disturbing our posthumous peace. We don't tolerate smooth-skinned racists here. Our family has suffered enough from you. So explain clearly and without lying — why should we tolerate your presence?
 {201}{}{To hell with ghouls. I'm here for profit. I was told you can make good money here.}
 {202}{}{Honest answer. With people like you, you can negotiate. I'm starting to like you.}
-{203}{}{It all depends on the terms of the contract, partner.}
-{204}{}{I'm actually looking for a better place to live. Now everything is very bad in my homeland.}
+{203}{}{It all depends on the terms of the contract and partner.}
+{204}{}{I'm looking for a better place to live. Now everything is very bad in my homeland.}
 {205}{}{Running away from problems, aren't you? Not impressed, slimy-skinned. But if you want, you can benefit from it.}
 {1205}{}{Running away from problems, aren't you? Not impressed, slippery skin. But if you want, you can benefit from it.}
 {206}{}{Okay. And what kind of work is there here?}
 {207}{}{I am not a racist. I love ghouls and would like to live among them.}
 {1207}{}{I'm not a racist. I adore you, ghouls, and would like to live with you.}
-{208}{}{You have such a slippery skin that you will be with us for sweets, normie. I won't tolerate any more lies. But I'll give you one chance. You will cope - and you will have hugs with ghouls for the rest of your days.}
+{208}{}{You have such slippery skin that you will be with us for sweets, normie. I won't tolerate any more lies. But I'll give you one chance. You will cope - and you will have hugs with ghouls for the rest of your days.}
 {209}{}{Hey, I'm just trying to be friendly!}
 {1209}{}{Hey, I'm just trying to be friendly!}
 {210}{}{Gustavo Obanel Vallejo at your service. I'm the manager of San Isidro. Glad to see you in our camp, brother. Here you will find eternal rest.}
@@ -49,7 +49,7 @@
 {233}{}{Certainly not me. So you run everything here?}
 {234}{}{To live here, you have to work. Even a mutant like you should understand that. We have enough freeloaders without you.}
 {235}{}{I understand...}
-{236}{}{Any ideas how to fix a radio station?}
+{236}{}{Any ideas on how to fix a radio station?}
 
 #Repeat dialog
 {250}{}{Speak, smooth-skinned.}
@@ -63,14 +63,14 @@
 {256}{}{Have a seat, amigo. Tell me. Maybe I can help you.}
 {257}{}{Have a seat. I think it's high time we talked.}
 
-{260}{}{Remind me what you wanted from me?}
+{260}{}{Remind me what you wanted from me.}
 {261}{}{Do I speak Russian? (tired sigh) }
 {262}{}{The power plant is working.}
 {263}{}{The Glow is shining again! Electricity has returned to San Isidro and the Old Town. You've done a great job, amigo. Let me hug you and thank you. There are 1000 caps here.}
 {1263}{}{The Glow is shining again! Electricity has returned to San Isidro and the Old Town. You've done a great job. Let me hug you and thank you. There are 1000 caps here.}
 {264}{}{Thank you.}
 {265}{}{Not bad.}
-{266}{}{I also owe you an apology. I gave this assignment in the expectation that robots or radiation would kill you. And there will be one less smooth-skinned in the Glow. But I was wrong. You can stay in our city as long as you want.}
+{266}{}{I also owe you an apology. I gave this assignment with the expectation that robots or radiation would kill you. And there will be one less smooth-skinned in the Glow. But I was wrong. You can stay in our city as long as you want.}
 {267}{}{I understand you and I don't blame you.}
 {268}{}{Don't expect me to shake your hand after this.}
 {1268}{}{Don't expect me to hug you after that.}
@@ -80,14 +80,14 @@
 {272}{}{OK. I'll try.}
 {273}{}{If I'm in the mood, then I'll try. In the meantime, I don't want to do this. Bye.}
 {274}{}{The radio station is working. More precisely, I had to replace it with a new one from the border guards office.}
-{275}{}{Here's another great news in this scorched world! And I like you more and more, smooth-skinned. You're just like me when I was young.}
-{1275}{}{Here's another great news in this scorched world! And I like you more and more, smooth-skinned. You're just like me when I was young.}
+{275}{}{Here's another great news in this scorched world! And I like you more and more, smooth-skinned. You were just like me when I was young.}
+{1275}{}{Here's another great news in this scorched world! And I like you more and more, smooth-skinned. You were just like me when I was young.}
 {276}{}{Here's another great news in this scorched world!}
 {277}{}{Not the most pleasant comparison, you know.}
 {278}{}{Let's just not hug, okay?}
 {279}{}{Let's not waste time. Here are 500 caps for the job. And now I'm asking you to take this holodisk to Mayor Butler in the Old Town. This is very important.}
 {280}{}{And that's all? After my past cases, this will turn out to be an easy walk.}
-{281}{}{Ahead of you are waiting for the gloomy ruins of San Diego. There are many dangers lurking in them. Be careful. And ask Edward for supplies for the journey.}
+{281}{}{Ahead of you are waiting for the gloomy ruins of San Diego. Many dangers are lurking in them. Be careful. And ask Edward for supplies for the journey.}
 {282}{}{Okay, see you later.}
 {283}{}{Give me a gun if you want me to survive on the way to the Old Town.}
 {284}{}{Hmm, that's reasonable. What weapons do you own best?}
@@ -104,7 +104,7 @@
 
 
 {296}{}{How to get to the power plant?}
-{297}{}{There are two ways. You can go directly along federal Highway 805, and then turn east from the sign. But the highway is patrolled by military robots. A less dangerous path lies through the toxic swamps of Chula Vista.}
+{297}{}{There are two ways. You can go directly along Federal Highway 805, and then turn east from the sign. But the highway is patrolled by military robots. A less dangerous path lies through the toxic swamps of Chula Vista.}
 {298}{}{Okay, I'll try to find it.}
 
 #Questions
@@ -112,7 +112,7 @@
 {301}{}{Amigo, I'm always happy to listen to you and answer your questions. But there are more important things to do now. You know what to do.}
 {302}{}{It's better if you get busy. You know what I mean.}
 {303}{}{No talking. I'm not sure it's worth talking to you at all.}
-{304}{}{I understand. We'll talk some time later.}
+{304}{}{I understand. We'll talk sometime later.}
 {305}{}{I would say that you just don't want to see me. Bye.}
 {306}{}{Amigo, I'm always happy to listen to you and answer your questions. }
 {307}{}{Okay, see you later.}
@@ -137,9 +137,9 @@
 
 {350}{}{I gave the holodisk to Butler. Your message didn't convince him.}
 {1350}{}{I gave the holodisk to Butler. Your message didn't convince him.}
-{351}{}{Not surprising. John and I are arguing about the Dayglow. About how the city of ghouls should be. He pays too much attention to the normies and completely forgot that we are people of the Old World. We can revive the city, rebuild it anew! Yes, the ghouls are weak, but we have remnants of old cars and energy. With the help of technology, we can create for ourselves all the necessary conditions for life, even in the midst of scorched ruins.}
+{351}{}{Not surprising. John and I are arguing about the Dayglow. About how the city of ghouls should be. He pays too much attention to the normies and completely forgot that we are people of the Old World. We can revive the city, and rebuild it anew! Yes, the ghouls are weak, but we have remnants of old cars and energy. With the help of technology, we can create for ourselves all the necessary conditions for life, even amid these scorched ruins.}
 {352}{}{By the way, after reading the holodisk, he asked me to help him in the production of chips at the aircraft factory.}
-{353}{}{What a fool! This plant will still serve us, the gulyams. Don't give the chips to the Old Town, give them to me. Our technician uses them to repair robots, and with their help we will restore the city. This will give us more advantages in the future than a stupid exchange for food from the caravaneers.}
+{353}{}{What a fool! This plant will still serve us, the ghouls. Don't give the chips to the Old Town, give them to me. Our technician uses them to repair robots, and with their help, we will restore the city. This will give us more advantages in the future than a stupid exchange for food from the caravaneers.}
 {354}{}{I'll think about it.}
 {355}{}{OK. I will do so.}
 {356}{}{I knew you'd say that, so I took these chips with me in advance. Here they are.}

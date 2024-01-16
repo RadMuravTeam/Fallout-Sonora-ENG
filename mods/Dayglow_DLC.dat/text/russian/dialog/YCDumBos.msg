@@ -1,5 +1,5 @@
 {100}{}{You see Isaac.}
-{101}{}{Here is a ghoul in worn-out work clothes.}
+{101}{}{You see a ghoul in worn-out work clothes.}
 {102}{}{I'll have to do everything myself again...}
 {1102}{}{I'll have to do everything myself again...}
 {103}{}{Great job... for a smooth-skinned person.}
@@ -17,9 +17,9 @@
 {207}{}{Good. But first I'll try to do it myself.}
 {208}{}{Then come with me. I know how to bypass robots.}
 {209}{}{First tell me, what is this place?}
-{210}{}{This is the Bonita Dam. It was created to store water. The power plant was built here already in times of crisis, when there was a shortage of liquid fuel. Its power is barely enough for the needs of Glow. But there is no other surviving station in the city.}
+{210}{}{This is the Bonita Dam. It was created to store water. The power plant was built here already in times of crisis when there was a shortage of liquid fuel. Its power is barely enough for the needs of Glow. But there is no other surviving station in the city.}
 {211}{}{I need to get to the control center. It seems we are on the right track.}
-{212}{}{This is the control center. It seems that there has not been a cleaning done for a long time. Nothing, we are not used to... And this, apparently, is the control panel? Wait a minute... so... Done. Hmm. The station is mothballed. I'll have to work with the handles.}
+{212}{}{This is the control center. It seems that there has not been a cleaning done for a long time. Nothing, we are not used to... And this is the control panel? Wait a minute... so... Done. Hmm. The station is mothballed. I'll have to work with the handles.}
 {213}{}{What should I do?}
 {214}{}{We need to start the second turbine in the engine room. It may take a lot of effort there.}
 {215}{}{Clear.}

@@ -1,4 +1,4 @@
-{100}{}{This is Jeffrey.}
+{100}{}{You see Jeffrey.}
 {101}{}{You see a ghoul in old pajamas. He calmly sips a cocktail.}
 {102}{}{I can't forbid you to be here. But I forbid you to climb up to me.}
 {103}{}{Smooth—skinned are big xenophobes. Am I not right?}
@@ -6,7 +6,7 @@
 
 {200}{}{Hey, welcome, dead body. Where are you from?}
 {201}{}{Thanks for the drink, buddy. Where are you from?}
-{1201}{}{Thanks for the drink, girlfriend. Where are you from?}
+{1201}{}{Thanks for the drink, miss. Where are you from?}
 {202}{}{Welcome, my friend. Where are you from?}
 {1202}{}{Welcome, lady. Where are you from?}
 {203}{}{I'm from Arizona.}
@@ -14,7 +14,7 @@
 {205}{}{Us?}
 {206}{}{Arizona! I didn't think there were people there either. Although it's a bit strange to say "too" about us.}
 {207}{}{Us?}
-{208}{}{Necropolis undead. We waited out the nuclear attack in a local Vault, but as a result turned into ghouls. They died and went to heaven. This is my favorite joke.}
+{208}{}{Necropolis undead. We waited out the nuclear attack in a local Vault, but as a result, turned into ghouls. They died and went to heaven. This is my favorite joke.}
 {209}{}{Then why are you here and not in the Necropolis?}
 {210}{}{Don't you know this story? Oh, it happened a few years ago. In short, because of one fucking mutant who bred other mutants, normal people turned against ALL mutants. This forced us to migrate far away. And now we're here. And it wasn't so bad.}
 {211}{}{In other words, you just ran away from problems?}
@@ -23,7 +23,7 @@
 {214}{}{Thanks for the kind words, my friend.}
 {1214}{}{Thank you for your kind words, friend.}
 {215}{}{Does it look like you like it here?}
-{216}{}{In the Necropolis we would have to dig our own graves. And here we live a normal life. Now I'm sipping white Russian at the bar — what could be better?}
+{216}{}{In the Necropolis we would have to dig our graves. And here we live a normal life. Now I'm sipping white Russian at the bar — what could be better?}
 {217}{}{[Listen]}
 {218}{}{By the way, I lived here before the War. Pleasant memories. A century has passed since then. I'm here again, and there's nothing left of the house. Most of all I feel sorry for the carpet. He set the tone for the whole room.}
 {219}{}{You should switch to "black Russian". It will cheer up the remnants of your brains, which, apparently, are already completely rotten.}

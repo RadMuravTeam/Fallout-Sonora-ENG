@@ -1,4 +1,4 @@
-{100}{}{Here is Raymond, an autistic ghoul.}
+{100}{}{You see Raymond, an autistic ghoul.}
 {101}{}{You see one of the ghouls. He continuously counts and shifts something.}
 {102}{}{The ghoul is happy to take your box and put it in his collection.}
 {103}{}{This is my box, Bern!}

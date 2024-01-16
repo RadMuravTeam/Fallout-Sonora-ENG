@@ -1,4 +1,4 @@
-{100}{}{In front of you is a ghoul.}
+{100}{}{You see a ghoul.}
 {101}{}{You see an ordinary ghoul.}
 {102}{}{Z-z-z...}
 
@@ -15,10 +15,10 @@
 {205}{}{Oh no! No! No...}
 {206}{}{See you in the next world. Maybe.}
 {207}{}{I'm kidding, man! Wait a bit, I'll cure you soon.}
-{208}{}{I really didn't expect that a person would help me, and even in the heart of radioactive ruins. Thank you, friend.}
+{208}{}I never expected anyone to help me, especially not in the heart of radioactive ruins. Thank you, friend..}
 {209}{}{You're welcome. By the way, what were you doing here?}
 {210}{}{Don't forget to tell the other ghouls about my feat. How did you end up here anyway?}
 {211}{}{Explored the ruins, obviously. But the floors here turned out to be quite flimsy. Tread carefully, friend. Oh, and that's not the main danger. I saw a creature from the window. Huge, scary, with claws like sabers. Don't fall into his clutches. And now — good luck. I'll try to hobble to the nearest camp.}
 {212}{}{Thanks for the warning. Bye.}
 {213}{}{I don't remember your face. We didn't cross paths in the Necropolis, did we? It's a strange thing. But in any case, thank you, friend. I couldn't even kick down the front door without you.}
-{1213}{}{I don't remember your face. We didn't cross paths in the Necropolis, did we? It's a strange thing. But in any case — thank you, girlfriend. I couldn't even kick down the front door without you.}
+{1213}{}{I don't remember your face. We didn't cross paths in the Necropolis, did we? It's a strange thing. But in any case — thank you, miss. I couldn't even kick down the front door without you.}

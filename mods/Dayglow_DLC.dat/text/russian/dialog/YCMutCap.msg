@@ -1,5 +1,5 @@
 {100}{}{You see the shadow commander.}
-{101}{}{Here is a super mutant shadow.}
+{101}{}{You see a super mutant shadow.}
 {102}{}{I won't thank you. But you deserve respect. See you again, strange creature.}
 {103}{}{Heap is so glad! So glad!}
 

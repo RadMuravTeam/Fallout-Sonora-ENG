@@ -1,5 +1,5 @@
 {100}{}{You see Rutger.}
-{101}{}{Here is the head of the Truckers squad.}
+{101}{}{You see the head of the Truckers squad.}
 
 {200}{}{We were very lucky that you were there. I don't have enough words to express my gratitude for saving our asses. Here, take a machine gun as a reward. How can I help you now?}
 {1200}{}{We were very lucky that you were there. I don't have enough words to express my gratitude for saving our asses. Here, take a machine gun as a reward. How can I help you now?}
@@ -25,7 +25,7 @@
 {220}{}{Where can I find a water chip?}
 {221}{}{This technology was used in the Vaults of the company "Vault-Tech". I know that there was one such Vault in the vicinity of San Diego. But I don't have the exact coordinates.}
 {222}{}{Where can I find a printed circuit board?}
-{223}{}{This technology can only be used in old printing houses. Residents of the Hub want to print their own money, and for this you need to launch a printing press. And just this detail they do not have.}
+{223}{}{This technology can only be used in old printing houses. Residents of the Hub want to print their own money, and for this, you need to launch a printing press. And just this detail they do not have.}
 {224}{}{Where can I find a diagnostic board?}
 {225}{}{This is a part from the autodoc. This technology was previously used in large hospitals.}
 {226}{}{Where can I find a fuel controller?}
@@ -56,7 +56,7 @@
 {250}{}{We are a trading company "Truckers" from the Hub. We transport goods from one settlement to another.}
 {251}{}{And what kind of Hub is this, can you tell me?}
 {252}{}{Must be hard work?}
-{253}{}{Very. For a while we suffered from the raids of super mutants and all sorts of trash. Many people and Brahmins were lost until one person stopped it. The Asylum-Seeker - that's what everyone called him.}
+{253}{}{Very. For a while, we suffered from the raids of super mutants and all sorts of trash. Many people and Brahmins were lost until one person stopped it. The Vault-Seeker - that's what everyone called him.}
 {254}{}{Where did the super mutants come from here?}
 {255}{}{These sons of bitches robbed caravans and kidnapped people to turn into freaks like them. No one even knew about them in the Hub. And then one person revealed their secret. Everyone was terrified.}
 {256}{}{Go on.}
@@ -64,10 +64,10 @@
 {258}{}{Then that mysterious man and the guys from the Brotherhood of Steel stirred up their nest. But part of the green army survived and scattered across the Wasteland.}
 {259}{}{Thanks for the story, Rutger. I didn't know all this.}
 {1259}{}{Thanks for the story, Rutger. I didn't know all this.}
-{260}{}{Thanks for the story, Rutger. Even in Inferno they didn't tell me about it.}
+{260}{}{Thanks for the story, Rutger. Even in Inferno, they didn't tell me about it.}
 {261}{}{Speaking of super mutants. Do you know where they came from?}
 {262}{}{Which office were you talking about?}
 {263}{}{Some settlements were unlucky enough to get in their way. Therefore, people have been fighting mutants in recent years. No wonder some of the green fuckers ended up here — away from human settlements.}
-{264}{}{What happened to this Asylum-Seeker?}
+{264}{}{What happened to this Vault-Seeker?}
 {265}{}{I don't know. He seemed to have evaporated. No one has heard from him since.}
 {266}{}{Butler promises big orders. Looks like he's hit a gold mine.}

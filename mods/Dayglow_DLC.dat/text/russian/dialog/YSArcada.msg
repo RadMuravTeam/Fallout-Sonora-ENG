@@ -1,4 +1,4 @@
-{100}{}{Here is an arcade machine.}
+{100}{}{You see an arcade machine.}
 {101}{}{You see an arcade-type slot machine. Ageless classics.}
 {102}{}{To start the game, you need to pay. Current Record: }
 {103}{}{ (Unknown).}
@@ -76,7 +76,7 @@
 {267}{}{Dexterity +1.}
 {268}{}{Luck +1.}
 {269}{}{Gambling +20.}
-{270}{}{"Victory! You have broken your own record. Would you like to continue?"}
+{270}{}{"Victory! You have broken your record. Would you like to continue?"}
 {271}{}{Yes.}
 {272}{}{No.}
 {273}{}{Enable survival mode.}

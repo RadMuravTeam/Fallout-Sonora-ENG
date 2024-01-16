@@ -1,5 +1,5 @@
 {100}{}{You see a mechanical ghoul.}
-{101}{}{Here is a ghoul in a dilapidated work uniform. Instead of one eye, he has something like a built-in lens.}
+{101}{}{You see a ghoul in a dilapidated work uniform. Instead of one eye, he has something like a built-in lens.}
 {102}{}{Excuse me. Only ghouls and friends of ghouls are served here.}
 {103}{}{I won't serve an ass like you. Go away.}
 {104}{}{It won't work on me. But it looks cool.}

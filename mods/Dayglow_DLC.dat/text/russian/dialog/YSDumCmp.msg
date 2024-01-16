@@ -1,9 +1,9 @@
-{100}{}{This is the substation computer.}
+{100}{}{You see the substation computer.}
 {101}{}{This is the control computer of the substation.}
 {102}{}{The computer does not turn on.}
 {103}{}{Probably, there is no energy coming here.}
 
-{200}{}{The system is operating normally. Enter the command.}
+{200}{}{The system is operating normally. Enter command.}
 {201}{}{Leave the computer alone.}
 {202}{}{The status of the power plant?}
 {203}{}{The power plant is not responding.}

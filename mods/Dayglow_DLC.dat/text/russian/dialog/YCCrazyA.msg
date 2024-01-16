@@ -1,4 +1,4 @@
-{100}{}{Here is a half-witted ghoul.}
+{100}{}{You see a half-witted ghoul.}
 {101}{}{You see one of the ghouls. He mumbles something indistinguishable.}
 
 {110}{}{I am a man without a heart. Without a heart! Do you know why? Do you know?}

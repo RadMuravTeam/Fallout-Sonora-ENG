@@ -1,5 +1,5 @@
 {100}{}{You see Roy.}
-{101}{}{Here is the leader of a gang of black scavengers.}
+{101}{}{You see the leader of of the black scavengers.}
 {102}{}{Adios.}
 
 {200}{}{Hey, stop! This is our mining area. And we don't need you here. Get out of here.}
@@ -30,7 +30,7 @@
 {222}{}{And now I want to know, what do you care about ghouls and our factory?}
 {223}{}{None. Can I just leave?}
 {224}{}{You have to let go of the ghouls.}
-{225}{}{Do you feel sorry for Gulichek? Their century has long passed. Let them bring at least some benefit. Or will you work instead of them, eh?}
+{225}{}{Do you feel sorry for Ghoulie? Their century has long passed. Let them bring at least some benefit. Or will you work instead of them, eh?}
 {226}{}{The hell with it. I'll just load the gun and shoot you all.}
 {227}{}{Uh, no, this job is not for me.}
 {228}{}{Then get out of our territory!}
@@ -58,7 +58,7 @@
 {253}{}{He had some kind of suggestion. But I forgot which one. And it doesn't matter — I was going to kill you all anyway!}
 {1253}{}{He had some kind of suggestion. But I forgot which one. And it doesn't matter — I was going to kill you all anyway!}
 {254}{}{He has a suggestion. He will give you the Seal of Set and open a collaboration. But you have to collect chips from this factory for him in a short time and release the forced ghouls.}
-{255}{}{So chips are important to gulichek, right? Ha, yes, we hit a gold mine! Okay, Seth's seal is an important thing, if you think about it. We won't have to carry tons of things far, we won't be oppressed and in general — we will now become important people in the city, right? There's just one "but".}
+{255}{}{So chips are important to ghoulies, right? Ha, yes, we hit a gold mine! Okay, Seth's seal is an important thing, if you think about it. We won't have to carry tons of things far, we won't be oppressed and in general — we will now become important people in the city, right? There's just one "but".}
 {256}{}{What is it?}
 {257}{}{This factory is one fucking mole—rat hole! There are a lot of dangers and high radiation in places. And I also don't know a damn thing about all this technology. That's why I make ghouls work — they don't care about radiation and they know well what's what. Therefore, if the "big boss" wants to fulfill the contract quickly, someone will have to work with pens in the danger zone.}
 {258}{}{Apparently, only I can speed up this process.}

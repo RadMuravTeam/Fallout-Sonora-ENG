@@ -1,5 +1,5 @@
 {100}{}{You see Jose Solis.}
-{101}{}{Here is a ghoul in a pre-war suit. He looks much neater and cleaner than other ghouls.}
+{101}{}{You see a ghoul in a pre-war suit. He looks much neater and cleaner than other ghouls.}
 {102}{}{You seem to be new here. Do you want to buy me a drink and tell me a little about yourself?}
 {103}{}{My dreams of Jose Solis' Mariachi are over.}
 {104}{}{"Jose Solis' Mariachi" back in business!}
@@ -13,7 +13,7 @@
 {205}{}{I }
 {206}{}{. Remember that name, ghoul.}
 {207}{}{Okay, okay, }
-{208}{}{. I see you don't really like it here. Or am I wrong?}
+{208}{}{. I see you don't like it here. Or am I wrong?}
 {209}{}{Normal. You can live.}
 {210}{}{It's strange to hear this from normie. It seems that you want to trick me around your finger. Okay. So what do you need here?}
 {211}{}{It's kind of boring.}
@@ -38,7 +38,7 @@
 {228}{}{Greetings, }
 {229}{}{. I hope you're smart enough not to cause problems here.}
 {230}{}{I think I should go.}
-{231}{}{Well, thanks for the conversation. Recently, the normies tried not to talk to us, but immediately fired from all barrels. Very not sociable guys.}
+{231}{}{Well, thanks for the conversation. Recently, the normies tried not to talk to us but immediately fired from all barrels. Very not sociable guys.}
 {232}{}{Goodbye.}
 
 {240}{}{Sure. Spit it out.}
@@ -53,8 +53,8 @@
 {253}{}{Are you kidding? These ruins are a hundred years old. There is no one to speak here.}
 {254}{}{Then smile, baby. This is Jose Solis! My ensemble was known throughout Baja California. It was a good time. We were just giving a concert in Bakersfield when the bombs fell on the city. I miraculously survived then. And just now I'm thinking of going back to the old craft.}
 {255}{}{And what's in the way?}
-{256}{}{Well, first of all I need new guitar strings. She's in my room right now. And it's not so easy to find them among these ruins.}
-{257}{}{I'll find you some strings. For me there is nothing that cannot be found in the old cities.}
+{256}{}{Well, first of all, I need new guitar strings. She's in my room right now. And it's not so easy to find them among these ruins.}
+{257}{}{I'll find you some strings. For me, there is nothing that cannot be found in the old cities.}
 {258}{}{Gracias, senor! Together we will remind the Glow of the old days.}
 {1258}{}{Gracias, senorita! Together we will remind the Shining of old times.}
 {259}{}{Goodbye.}
@@ -91,7 +91,7 @@
 {290}{}{Beatrice is already here. But Fernando died.}
 {291}{}{Poor Fernando! Finally, he has suffered in this life. Even a little envious...}
 {292}{}{Woe to me! A dream slips out of your hands like ashes between your fingers... listen, what about a hologram? I know, there is one preserved in the Chula Vista shopping center. Maybe she will replace the missing participants for me? Will you bring the holographic module? I will certainly be able to reconfigure it for my purposes.}
-{293}{}{Seriously? Okay, we'll have to look for this thing, otherwise you'll kill yourself like that.}
+{293}{}{Seriously? Okay, we'll have to look for this thing, otherwise, you'll kill yourself like that.}
 {294}{}{I have a holographic module. Here you go.}
 {295}{}{Fernando and Beatrice are dead.}
 {296}{}{Fernando and Beatrice died. I'm sorry.}

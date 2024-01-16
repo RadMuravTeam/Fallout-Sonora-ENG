@@ -1,5 +1,5 @@
 {100}{}{You see old Judy.}
-{101}{}{Here is a gulchikha in a pre-war dress.}
+{101}{}{You see a female ghoul in a pre-war dress.}
 {102}{}{Ah-h!}
 {103}{}{Now I know what Rupert has been doing all this time. But... I'll forgive him this time.}
 
@@ -12,7 +12,7 @@
 {205}{}{What are you doing here, Judy?}
 {206}{}{Every day I come to Gustavo to find out about the new arrivals or the dead. After all, this is a real city hall. If there's a place to look for people, it's here.}
 {207}{}{What do you think about Gustavo?}
-{208}{}{Oh, such a cute young gulichek! He cares about his wards more than about himself. We have always lacked such.}
+{208}{}{Oh, such a cute young ghoulie! He cares about his wards more than about himself. We have always lacked such.}
 {209}{}{Who are you looking for?}
 {210}{}{My husband Rupert and I missed each other while traveling. Now I can't find it. Although Cabot in the Old Town says he saw him.}
 {211}{}{Sorry to hear that. Bye.}

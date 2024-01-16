@@ -1,11 +1,11 @@
 {100}{}{You see a guardian ghoul.}
-{101}{}{Here is a ghoul dressed in combat armor.}
+{101}{}{You see a ghoul dressed in combat armor.}
 {102}{}{We do not tolerate competitors. Get out of here!}
 {103}{}{If you were actually a patrol officer, you wouldn't have the power here.}
 {104}{}{Were you allowed to be here?}
 {105}{}{Big changes are waiting for us.}
 
-{200}{}{Let's decide right away, an eccentric person, smooth people are not welcome here. But if you behave yourself, they won't touch you. Is that clear? Good. Come on, tell me what you need?}
+{200}{}{Let's decide right away, eccentrics and smoothies are not welcome here. But if you behave yourself, they won't touch you. Is that clear? Good. Come on, tell me what you need.}
 {201}{}{Welcome, brother. Were you well received in San Ysidro? Do you need anything?}
 {1201}{}{Welcome, Sister. Were you well received in San Ysidro? Do you need anything?}
 {202}{}{I just want to ask a few questions about the Dayglow.}
@@ -21,7 +21,7 @@
 {212}{}{What do you think of Gustavo?}
 {213}{}{He's a great fit for the role of mayor. And the ghouls respect him. At least not here in San Ysidro. Although not everyone in the Old City is as reasonable.}
 {214}{}{And who runs the Old City?}
-{215}{}{John Butler. Ex-military. Therefore, his head is full of bedlam. He gathered around him not only ghouls, but also super mutants and normies. Everyone needs something from him.}
+{215}{}{John Butler. Ex-military. Therefore, his head is full of bedlam. He gathered around him not only ghouls but also super mutants and normies. Everyone needs something from him.}
 {216}{}{And in what relationship are Gustavo and Butler?}
 {217}{}{They've had a lot of disagreements lately. But I'm sure it won't break their friendship.}
 {218}{}{}
@@ -42,5 +42,5 @@
 {233}{}{Super mutants? The army of the Creator was divided into many fragments and scattered through the ruins. There are many such groups in the vicinity. Some of them are aggressive, some cooperate with us, the rest are on their own. Lost lost souls.}
 
 {241}{}{A bunch of us are looking for his squad. Maybe you've heard of him?}
-{242}{}{I heard that super mutants have set up a camp in Balboa Park. They are not aggressive, rather the opposite. Maybe this is the squad you're looking for.}
+{242}{}{I heard that super mutants have set up a camp in Balboa Park. They are not aggressive, but rather the opposite. Maybe this is the squad you're looking for.}
 {243}{}{Clear. Thank you.}
