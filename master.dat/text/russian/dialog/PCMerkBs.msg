@@ -1,334 +1,334 @@
-{100}{}{This is Bruce.}
-{101}{}{You see a man in a business suit. His calm gaze expresses indifference to human life.}
-{102}{}{It's power armor, right? Impressive. But the dialogue will not work through it.}
-{103}{}{Well, well, another junkie from the street. Come back when you've cleaned yourself up.}
+{100}{}{You see Bruce.}
+{101}{}{You see a man in a business suit. His calm gaze shows indifference to human life.}
+{102}{}{Power armor, right? Impressive. But one doesn't talk to others while wearing it.}
+{103}{}{Well, well, well, another junkie from the streets. Come back when you get yourself in order.}
 
-#Introductory branches
-{200}{}{Welcome. I'm Bruce Turner, and this is an employment agency. Do you need strong guys for security or are you looking for someone among the fugitive criminals?}
+#Introductory dialogue trees
+{200}{}{Welcome. I'm Bruce Turner, and this is the recruiting agency. You need some tough people for security? Or are you looking for a fugitive?}
 {201}{}{Perhaps.}
 {202}{}{...}
 
-{210}{}{I'll be damned, what's wrong with your skin?}
-{211}{}{A little virus and radiation. It's okay.}
-{212}{}{Hmm. In your situation, I wouldn't be joking.}
-{213}{}{In my situation, you would already be dead.}
-{214}{}{It's a matter of habit, mister.}
-{215}{}{Are you laughing at me, smooth-skinned?}
-{216}{}{ (raises one eyebrow) No. No problem, green.}
-{217}{}{That's good.}
-{218}{}{Next time I may be seriously offended.}
+{210}{}{Well I'll be damned, what the hell is wrong with your skin?}
+{211}{}{A bit of a virus and radiation. Nothing too bad.}
+{212}{}{Hm. I wouldn't joke about it if I were you.}
+{213}{}{If you were me, you would already be dead.}
+{214}{}{I'm just used to it, mister.}
+{215}{}{You laughing at me, smoothskin?}
+{216}{}{(raises brow) No. No problem, greenie.}
+{217}{}{Good.}
+{218}{}{I could get really offended the next time.}
 
-{220}{}{Good afternoon, sir. I am glad to meet you. Is someone bothering you?}
-{1220}{}{Good afternoon, ma'am. I am glad to meet you. Is someone bothering you?}
-{221}{}{Why are you suddenly so nice?}
-{222}{}{Obviously, you deserve good treatment... sir.}
-{1222}{}{Obviously, you deserve good treatment... ma'am.}
-{223}{}{Well, well, here's our new star. You allow yourself too much in this city. Do you think you can get away with it?}
-{224}{}{The townspeople are so mean and mean. We peasants are much better.}
-{225}{}{You shouldn't have crawled out of your desert. I will return your body to the sands... a dead body.}
+{220}{}{Good day, sir. Happy to see you. Is anybody bothering you?}
+{1220}{}{Good day, ma'am. Happy to see you. Is anybody bothering you?}
+{221}{}{Why are you being so nice to me all of a sudden?}
+{222}{}{Obviously, you earned it... sir.}
+{1222}{}{Obviously, you earned it... ma'am.}
+{223}{}{Well, well, well, here comes our new celebrity. Your activity in this city has went too far. You think you'll get away with this?}
+{224}{}{The people here are so vile and dastardly. We, peasants live in a much better environment.}
+{225}{}{You shouldn't have crawled out of your desert. I'll return your body to the sands... your dead body.}
 {226}{}{What are you...}
-{227}{}{I will defend myself.}
-{228}{}{I survive as best I can. It's not for you to judge me.}
-{229}{}{Oh no. The city pays me to catch criminals. And you're one of them. Guys... (gives a sign)}
-{230}{}{Don't do this, Bruce...}
-{231}{}{I will defend myself.}
-{232}{}{I don't want a fight. Let's make a deal?}
-{233}{}{Everyone survives by available means. You're not exactly doing honest work here either. Isn't that right?}
-{234}{}{Hmm. Curious. I do not know who to trust. But what I know for sure is that if you don't leave the city, you'll be strung up on a lamppost. Is that clear?}
-{235}{}{I see.}
-{236}{}{Go to hell, Bruce. You and your whole sales agency.}
-{237}{}{That's nice to hear.}
-{238}{}{Flattery doesn't suit a mercenary boss. But I appreciate it.}
+{227}{}{I'll defend myself.}
+{228}{}{I'm surviving as best I can. It's not your place to judge me.}
+{229}{}{It's not just my place, the city pays me to find criminals. You are one. Guys... (gives a sign)}
+{230}{}{Don't do it, Bruce...}
+{231}{}{I'll defend myself.}
+{232}{}{I don't want to get involved in a fight. Let's negotiate.}
+{233}{}{Everyone uses all availaible means to survive. You aren't doing entirely honest work here either. Am I right?}
+{234}{}{Hm. Interesting. I don't know who to believe. But I do know that if you don't leave the city, you'll soon be hanging from a lamp post. Am I clear?}
+{235}{}{Very.}
+{236}{}{Go to hell, Bruce. You and your entire agency.}
+{237}{}{Happy to hear it.}
+{238}{}{Flattery doesn't fit a merc boss. But I value it.}
 
-{240}{}{Don't move. First I want to know what happened between you and the followers of Fire.}
-{241}{}{This is our personal business. It doesn't concern you.}
-{242}{}{Oh no. This is a mercenary guild, not a brothel. I've been working with the fire worshippers for years, ferrying slaves and convicts across the desert. And all of a sudden you come and block me a damn bunch of contracts. What the hell?}
-{243}{}{I'm telling you, it's personal.}
-{244}{}{Ah, is this about revenge? I understand. It's lucky for you that your followers can't pay for your head yet. But if that happens, I promise - your head will be on my desk.}
-{245}{}{You're scaring me. It would be better if I left here.}
-{246}{}{I doubt it'll come to that, Bruce. I'll see you again.}
+{240}{}{Don't move. First, I want to know what happened between you and the followers of the Fire.}
+{241}{}{It's between us both. Not for you to know.}
+{242}{}{You're wrong. This is a mercenary guild, not a brothel. I worked with the Fire-worshippers for years, transporting slaves and those sentenced to hard labor across the desert. And then you waltz in and deny me a huge amount of contracts. What the hell?}
+{243}{}{I'm telling you - it's personal.}
+{244}{}{A-ah, we're talking about revenge? I understand. Good for you that the followers can't pay for your head yet. But if that does happen, I promise you - your head will be lying on this table in days.}
+{245}{}{You're scaring me. It would be better if I left this building.}
+{246}{}{I doubt that it will come to that, Bruce. Until next time.}
 
-{247}{}{Adios, bandidos.}
+{247}{}{Adios, banditos.}
 {248}{}{[Show middle finger]}
-{249}{}{Whatever you say, you're the boss here.}
-{250}{}{What a surprise. We usually chase criminals, not the other way around.}
-{251}{}{Who is the criminal here?}
+{249}{}{Whatever you say, you're the boss.}
+{250}{}{How unexpected. Usually WE chase criminals, not vice versa.}
+{251}{}{Who *is* the criminal here?}
 {252}{}{But I'm not a criminal.}
-{253}{}{Did you know that Flagstaff declared you the number one criminal? It's lucky for you that the city can't pay the reward for you. However, now I know who you are and where to look for you. Keep that in mind and be quiet.}
-{254}{}{No problem, Sheriff.}
-{255}{}{I'm not the sheriff, you idiot. But if necessary, I'll be worse than any sheriff.}
-{1255}{}{I'm not the sheriff, you idiot. But if necessary, I'll be worse than any sheriff.}
-{256}{}{I believe it willingly.}
-{257}{}{I don't like that tone. I'll be back when you cool off.}
-{258}{}{Then stock up on ammo. Because you won't take me so easily.}
-{259}{}{(slowly puts his hand on his machine gun, peering into your eyes) Get out of my office.}
+{253}{}{Do you know that Flagstaff has declared you public enemy number one? Luckily for you, the town can't reward us for catching you. But now I know who you are and where I can find you. Keep that in mind and don't cause any problems.}
+{254}{}{No problem, sheriff.}
+{255}{}{I'm not a sheriff, you idiot. But if I need to, I'll be worse than any sheriff can be.}
+{1255}{}{I'm not a sheriff, you idiot. But if I need to, I'll be worse than any sheriff can be.}
+{256}{}{Suure.}
+{257}{}{I don't like your tone. I'll come back when you calm down.}
+{258}{}{Then stock up on ammunition. Because you won't take me so easily.}
+{259}{}{(slowly places hand on machine gun while looking into your eyes) Get out of my office.}
 
-{260}{}{Welcome back... Stop. Show me your neck. These are the marks from the collar. It's strange for a runaway slave to come here. What do you want, slave?}
-{261}{}{Don't call me that. Or you'll regret it.}
-{262}{}{You don't seem to understand your precarious position. Guys... (gives a sign)}
-{263}{}{Not in the face...}
-{264}{}{I will kill all the slavers in Arizona.}
-{265}{}{I want my freedom back. The tinkerers treated me badly.}
-{266}{}{Hmm. Tinkerers will not want to buy a runaway slave again at the same price. You're putting me in an awkward position. Well, I'm ready to buy your rights and sign a free one. But it will cost 1000 caps. I doubt you have that amount.}
+{260}{}{Welco... Wait. Show me your neck. Those are collar marks. Strange for a runaway slave to go here. What do you want, slave?}
+{261}{}{Don't call me like that. Or you'll regret it.}
+{262}{}{Looks like you don't understand your precarious position. Guys... (gives sign)}
+{263}{}{Just not the face...}
+{264}{}{I'll kill all slavers in Arizona.}
+{265}{}{I want my freedom back. The tinsmiths treated me badly.}
+{266}{}{Hm. The tinsmiths aren't going to buy a runaway slave again for the same price. You're putting me in a difficult situation. Well, I'm ready to buy back your rights and officially declare it. But that will cost you 1000 caps. I doubt you have that kind of money.}
 {267}{}{I'll find it.}
-{268}{}{Then there's nothing left for me... I'll kill you.}
-{269}{}{Hmm. Okay, that's settled. I'm waiting for 1000 caps.}
+{268}{}{Then I have no other choice... I'll kill you.}
+{269}{}{Hm. Okay, deal. I'm waiting for the 1000 caps.}
 
-{270}{}{(squints, peering into your face) Hmm. Recently I received information about one of the main bandits. And you look suspiciously like his description.}
-{271}{}{It's a coincidence. Do you have any evidence?}
-{272}{}{No. But I'll keep an eye on you.}
+{270}{}{(squints, examining your face) Hm. Some information about one particular highwayman was sent to me. And you remind me of the description.}
+{271}{}{It's a coincidence. Do you even have any proof?}
+{272}{}{No. But I'll keep my eye on you.}
 {273}{}{Of course.}
 {274}{}{Don't even think about it.}
-{275}{}{The mainline workers made me a mediator in the negotiations.}
-{276}{}{This is a surprise. And if that's true, you might be good. Well, while you're in this city, take care of yourself. After all, the locals are not in the spirit of the mainline workers.}
-{277}{}{They have a lot of enemies, that's right.}
-{278}{}{You know too much, Bruce. I'm sorry, but I'm going to have to keep you quiet...}
+{275}{}{The highwaymen made me an intermediary in negotiations.}
+{276}{}{How unexpected. If that's the case, maybe it's for the best. Well, while you're in the city, watch yourself. The locals aren't exactly thrilled with the highwaymen.}
+{277}{}{They have many enemies, that's for sure.}
+{278}{}{You know too much, Bruce. It's regretful, but I'll have to shut you up...}
 
-{280}{}{This is the armor of the mainline workers. Where did you get it from?}
-{281}{}{A battle trophy.}
-{282}{}{Hmm. Okay, I can believe it. But it's better not to shine in it in this city. Many people here have heard about highway bandits and may take you for one of them.}
+{280}{}{That's highwayman armor. Where did you get it from?}
+{281}{}{A battle. It's a trophy.}
+{282}{}{Hm. Fine, I can buy that. But it's best to not wear it in thir city. Many heard about the higwaymen here and could think you are one.}
 {283}{}{Thanks for the warning.}
-{284}{}{I don't care about the locals.}
-{285}{}{A gift from a good man.}
-{286}{}{You have dangerous friends. I advise you to hide it away while you're in town. The locals have heard about highway bandits. You can accidentally grab a bullet in the forehead.}
+{284}{}{I don't give a shit about the locals.}
+{285}{}{A gift from one really nice man.}
+{286}{}{You have dangerous friends. I suggest you hide this somewhere away while you're in the city. The locals heard about the highwaymen. You could accidentally walk into a bullet.}
 
-{290}{}{Well, well, and here's another victim of the desert. They say you made a lot of noise in Casa Grande. Is it true?}
-{1290}{}{Well, well, and here's another victim of the desert. They say you made a lot of noise in Casa Grande. Is it true?}
-{291}{}{What are you talking about? I have a great relationship with the locals.}
-{292}{}{Don't lie to me, buddy. My sources can't be so wrong.}
-{1292}{}{Don't lie to me, darling. My sources can't be so wrong.}
-{293}{}{What's it to you?}
-{294}{}{Yes, I had to shut someone's mouth. The locals are too suspicious.}
-{295}{}{ (raises one eyebrow) Honest confession? This simplifies things.}
-{296}{}{What's the deal?}
-{297}{}{You're lucky the locals can't pay for your head. But keep in mind, this can change at any time.}
-{298}{}{Sure. I'll be quiet.}
-{299}{}{I doubt it very much.}
+{290}{}{Well, well, well, here comes another victim of the desert. They say you stirred up hell in Casa Grande. Is that true?}
+{1290}{}{Well, well, well, here comes another victim of the desert. They say you stirred up hell in Casa Grande. Is that true?}
+{291}{}{What are you talking about? I have excellent relations with the locals.}
+{292}{}{Don't lie to me, friendo. My sources can't be that mistaken.}
+{1292}{}{Don't lie to me, dear. My sources can't be that mistaken.}
+{293}{}{Why do you care?}
+{294}{}{Yeah, I had to shut a few people up. The locals are too suspicious.}
+{295}{}{(raises brow) So you admit it? This greatly simplifies the case.}
+{296}{}{Why do you care?}
+{297}{}{You're lucky that the locals can't put a bounty on your head. But keep in mind that this could change at any time.}
+{298}{}{Of course. I'll be quiet.}
+{299}{}{I really doubt that.}
 
-#Main dialog
+#Main dialogue
 {300}{}{Welcome. How can I help?}
-{301}{}{I do not advise making sudden movements. What do you need?}
-{302}{}{I represent Chuck from the Blue Shield Gang.}
-{303}{}{Just a minute... Yes, this is some petty thief, for whom a reward has been appointed by the mayor of Casa Grande. Do you want to exonerate him or pay for his head? The reward is 250 caps.}
-{304}{}{Pay. Here are the bottlecaps.}
-{305}{}{Now this criminal is officially free. I will also transmit this alert to Casa Grande.}
+{301}{}{I do not recommend making sudden movements. What do you want?}
+{302}{}{I represent the interests of Chuck from the Blue Shield gang.}
+{303}{}{Just a minute... Yes, it is some kind of petty thief the mayor of Casa Grande is giving a reward for. Do you want to prove his innocence or pay for his head? That reward I mentioned is 250 caps.}
+{304}{}{Pay. Here are the caps.}
+{305}{}{The criminal is now officially free. I will also send these news to Casa Grande.}
 {306}{}{Thank you.}
-{307}{}{I can't afford it. Goodbye.}
+{307}{}{I don't have that kind of money. Goodbye.}
 {308}{}{}
-{309}{}{See you later.}
+{309}{}{Until next time.}
 
-#Slave title
-{310}{}{I want to redeem my slavery.}
-{311}{}{We've already discussed this. Do you have 1000 caps?}
+#Slave reputation
+{310}{}{I want to buy back my freedom.}
+{311}{}{We have already discussed this. Do you have 1000 caps?}
 {312}{}{No.}
-{313}{}{Then the question is closed.}
-{314}{}{Damn...}
-{315}{}{Here are the bottlecaps.}
-{316}{}{To be honest, I'm surprised. I doubt that these caps were obtained honestly, but I don't want to know for sure.}
-{317}{}{And the free one?}
+{313}{}{Then the matter is settled.}
+{314}{}{Fuck...}
+{315}{}{Here are the caps.}
+{316}{}{To be honest, I'm surprised. I doubt those caps were obtained legitimately, but I really don't want to know.}
+{317}{}{What about your end of the bargain?}
 {318}{}{It will take some time...}
 {319}{}{I'll wait...}
-{320}{}{Done. You're officially free now. Congratulations. Appreciate your second chance.}
-{1320}{}{Done. You're officially free now. Congratulations. Appreciate your second chance.}
-{321}{}{Necessarily. Goodbye.}
-{322}{}{Hey, don't act like you freed an ex-con. It's quite the opposite.}
+{320}{}{Done. You are now officially free. Congratulations. Value your second chance.}
+{1320}{}{Done. You are now officially free. Congratulations. Value your second chance.}
+{321}{}{Of course. Farewell.}
+{322}{}{Hey, don't you pretend that you were freeing a former criminal. The reality is completely the opposite.}
 
-#The Cardinals' Quest
-{323}{}{You'll regret it.}
-{324}{}{Bruce, let the guy go. He's an old friend of mine. You won't refuse my request, will you?}
-{325}{}{You are a respected person. Of course I trust you. But don't get into trouble with these cardinals. It's easy to get your reputation dirty about them.}
-{326}{}{I'll figure it out. Thanks for understanding, Bruce.}
-{327}{}{He's an old friend of mine. And it's not his fault. Let him go.}
-{328}{}{I don't know you, and your word means nothing in this city. And if you interfere with my work, you will end up in the same cage for complicity.}
-{329}{}{OK.}
-{330}{}{I know that you have detained the red Cardinal.}
-{331}{}{Yes, let him sit in prison and think about his future. But how do YOU know that? No one except the capture group was aware.}
-{332}{}{I have operational sources. What is he accused of?}
-{333}{}{This case is not worth the publicity. The client demanded to stop the transaction, and I don't know more myself.}
-{334}{}{Clearly. Have a good service.}
-{335}{}{I need to see him. I'll pay 10 caps for the meeting.}
-{336}{}{OK. You have ten minutes.}
-{337}{}{Here are the bottlecaps.}
+#Cardinal quest
+{323}{}{You'll regret this.}
+{324}{}{Bruce, release the guy. He's my old friend. You wouldn't refuse my request, right?}
+{325}{}{You're a respected man. Of course, I trust you. But don't get into trouble with those cardinals. It's easy to ruin your reputation by associating with them.}
+{326}{}{I'll deal with it. Thanks for the understanding, Bruce.}
+{327}{}{He's my old friend. He's an innocent man. Release him.}
+{328}{}{I don't know you, and your words mean nothing in this city. If you continue to stand in the way of my work - you'll end up in the same cell for aiding a known criminal.}
+{329}{}{Okay.}
+{330}{}{I know that you've apprehended a Red Cardinal.}
+{331}{}{Yeah, he should spend some time in that cell and think about his future. But how do YOU know this? Nobody but the capture groups were in the know.}
+{332}{}{I have sources. What's he guilty of?}
+{333}{}{This case isn't worth publicity. The client told me to stop the deal, I don't know anything beyond that either.}
+{334}{}{Alright. Good luck.}
+{335}{}{I need to see him. I'll pay 10 caps for it.}
+{336}{}{Good. You have 10 minutes.}
+{337}{}{Here are the caps.}
 {338}{}{Not now.}
-{339}{}{How much were you paid to catch him? I'll pay more for the release.}
-{340}{}{Hmm. If you think about it, it's a pathetic little thing. I'll release him on 100 caps bail.}
-{341}{}{OK. Here are 100 caps.}
-{342}{}{It's too much. He's not worth it.}
+{339}{}{How much did you get paid to find him? I'll pay you more to release him.}
+{340}{}{Hm. If you think about it, he's nothing. I'll release him on a bail of 100 caps.}
+{341}{}{Good. Here are the 100 caps.}
+{342}{}{This is too much. He isn't worth it.}
 {343}{}{Can I just talk to him? I'll pay 10 caps for it.}
-{344}{}{However, this does not guarantee that he will not get caught again. You know these cardinals, don't you? They are all hooligans and rebels. They are a threat to society.}
+{344}{}{Though it doesn't guarantee that we won't see him again. You know those cardinals? A bunch of degenerate hooligans. They're a threat to society.}
 {345}{}{I won't argue with that.}
-{346}{}{The Cathedral of Fire is concerned about what happened. This guy was part of our intelligence. Let him go. Immediately.}
-{347}{}{That's it. I guessed that this case smacks of espionage. Okay, I don't want any problems with your church. Let him go. But if something is wrong, you will be responsible.}
-{348}{}{Thanks for understanding, Bruce.}
-{349}{}{OK.}
+{346}{}{People in the Temple of Fire are worried about what happened. That guy was a part of our spy network. Release him. Immediately.}
+{347}{}{So that's how it is. I did think that espionage was likely involved in this case. Alright, I don't want any problems with your church. He'll be free to go. But if that's not true - you'll be responsible.}
+{348}{}{Thanks for the understanding, Bruce.}
+{349}{}{Okay.}
 
 #Questions about slaves
-{350}{}{Tell me what you're doing here.}
-{351}{}{This is a recruitment agency. We are looking for strong guys to perform dangerous tasks. Usually it's security or the search for criminals. Do you need any of this?}
-{352}{}{No, nothing like that.}
-{353}{}{Well, if necessary, I will be happy to help. For a fee, of course.}
+{350}{}{Tell me what is it you do here.}
+{351}{}{This is a recruiting agency. We're looking for some real tough people to do dangerous missions. Usually it's guarding someone or finding criminals. Do you need anything out of that?}
+{352}{}{No, I don't.}
+{353}{}{Well, if you end up needing it, I'll be glad to help. For a price, of course.}
 {354}{}{Of course.}
 
-{360}{}{Do you also sell slaves?}
-{361}{}{Slave contracts? Few can afford such a luxury.}
-{362}{}{Who, for example?}
-{363}{}{The main clients are the Flagstaff Colony and the tinsmiths. But I wouldn't call such a commodity slaves. Usually these are criminals serving their sentences. And what is your interest?}
-{364}{}{Just curious.}
-{365}{}{Mere curiosity arouses suspicion. I hope you understand what that means.}
-{366}{}{Uh, I think so.}
-{367}{}{I'm thinking of buying a couple of slaves.}
-{368}{}{It's stupid. We won't give you a single prisoner.}
-{369}{}{Then forget it.}
-{370}{}{I'm looking for slaves originally from Villa.}
-{371}{}{Villa... It doesn't mean anything to me.}
-{372}{}{I'm looking for slaves originally from the Villa. They were brought here from Flagstaff.}
-{373}{}{Villa... It doesn't mean anything to me. If these slaves have been to Flagstaff, it won't be easy to find them.}
-{374}{}{I see. Sorry to bother you.}
-{375}{}{Eh, we'll have to figure everything out on our own again. Goodbye.}
+{360}{}{Are you involved in slave trading?}
+{361}{}{Slave contracts? Few can afford such luxury.}
+{362}{}{Who could those few be?}
+{363}{}{Main clients are the Flagstaff colony and the tinsmiths. Though I wouldn't call those goods slaves. Usually they are criminals serving their sentences. Why are you asking?}
+{364}{}{I'm curious.}
+{365}{}{Just being curious is suspicious. I hope you know what this means.}
+{366}{}{Uhh, yeah, I think I do.}
+{367}{}{I'm thinking of buying a few slaves.}
+{368}{}{That's stupid. We won't give you a single one.}
+{369}{}{Forget it then.}
+{370}{}{I'm looking for slaves from Villa.}
+{371}{}{Villa... This doesn't say anything to me.}
+{372}{}{I'm looking for slaves from Villa. They were brought here from Flagstaff.}
+{373}{}{Villa... This doesn't say anything to me. If those slaves were in Flagstaff, then finding them will be a hard task indeed.}
+{374}{}{Alright. Sorry for the disturbance.}
+{375}{}{Ugh, I'll have to figure everything myself again. Farewell.}
 {376}{}{I'll pay 100 caps for the information.}
-{377}{}{Sounds acceptable. I can study the invoices for the latest shipments and contact our agents. Payment in advance.}
-{378}{}{Here are the bottlecaps. I'll wait.}
-{379}{}{It's not worth it, I'll try to figure it out on my own.}
-{380}{}{Something has become clear. Several slaves originally from the Villa actually ended up in the Flagstaff colony. They were bought by fire worshippers and transported to their Cathedral. They must have been damn good slaves if they had to be driven over such distances. What became of them is known only to the monks. }
-{381}{}{Thank you, Bruce. It's time for me to visit this very Cathedral of Fire. Or whatever his name is.}
-{382}{}{Ugh. I would have found out without you.}
-{1382}{}{Ugh. I would have found out without you.}
-{383}{}{Something has become clear. Several slaves originally from the Villa ended up in the Flagstaff colony. They were bought by fire worshippers and transported to penal servitude in Two-Sun. Apparently, they were damn good slaves if they had to be driven over such distances.}
-{384}{}{Thank you, Bruce. It's time for me to visit this dubious town. I hope caravans go there.}
-{385}{}{You know, Bruce, your help wasn't very helpful. Goodbye.}
-{386}{}{I'll come back later. Now I don't have so many caps with me.}
+{377}{}{Sounds acceptable. I can study the invoices for the latest transfers and contact our agents. Payment first.}
+{378}{}{Here are the caps. I'll wait.}
+{379}{}{No need to, I'll try to figure everything out myself.}
+{380}{}{Some things have become more clear. A few slaves from Villa really did end up in the Flagstaff colony. They were bought by the Fire-worshippers and sent to their Cathedral. Looks like they were damn good slaves, if they were transported over such distances. Only the monks know what happened to them. }
+{381}{}{Thanks, Bruce. Time to head into that Cathedral of Fire. Or whatever they call it.}
+{382}{}{Dammit. I would have figured that out myself.}
+{1382}{}{Dammit. I would have figured that out myself.}
+{383}{}{Some things have become more clear. A few slaves from Villa really did end up in the Flagstaff colony. They were bought by the Fire-worshippers and sent to do hard labor in Two Sun. Looks like they were damn good slaves, if they were transported over such distances.}
+{384}{}{Thanks, Bruce. Time for me to visit that questionable little settlement. I hope caravans go there.}
+{385}{}{You know, Bruce, you weren't particularly helpful. Bye.}
+{386}{}{I'll be back later. I don't have so many caps at the moment.}
 
-{390}{}{We need to eliminate one rowdy. His name is George Crook.}
-{391}{}{The same Commander Crook who subdued the Western tribe? Why do you want to remove it?}
-{392}{}{I'm just representing the customer.}
-{393}{}{Clearly. This old soldier has already managed to annoy many people in the city. Moreover, my best guys defected to his squad at one time. And now Crook just throws the bottlecaps to the wind, not knowing what to do with himself. I don't understand how the casino tolerates his drunken antics.}
-{394}{}{So will you take on this task?}
-{395}{}{Well, I didn't say that, but for 500 caps the world will forget about his existence.}
-{396}{}{I need to think about it. It's a responsible business, you see.}
-{397}{}{Agreed. Here are the bottlecaps. And yes, there was no such conversation.}
-{398}{}{Don't worry, we'll take care of everything.}
-{399}{}{I'm counting on you guys.}
+{390}{}{I need to get rid of a certain troublemaker. His name is George Crook.}
+{391}{}{The commander Crook that subjugated the western tribe? Why do you want to get rid of him?}
+{392}{}{I am only representing the interests of my client.}
+{393}{}{Understood. The old fighter managed to get on the wrong side of many people in the city. And more than that - the best men I had switched over to his unit. And now Crook is just throwing money away, having no idea what to do. I have no idea how the casino manages to tolerate his drunken antics.}
+{394}{}{So you're taking this on?}
+{395}{}{Well, I did not say this, but for 500 caps, the world will forget he ever existed.}
+{396}{}{I need some time to think it over. This is serious stuff, you know.}
+{397}{}{Deal. Here are the caps. And yes, I did not say this either. I was not here.}
+{398}{}{Don't worry, we'll make sure it goes smoothly.}
+{399}{}{I'm counting on you, guys.}
 
 #Bounty hunting
-{400}{}{I'm interested in finding criminals. For whom and how much do they pay?}
+{400}{}{I'm interested in hunting criminals. Who is being paid for and how much?}
 {401}{}{(sigh) Another bounty hunter...}
-{1401}{}{A bounty hunter in a lace apron? Where are we going...}
-{402}{}{Is something wrong?}
-{1402}{}{Ahem. Should I remind you that your security guard is a woman?}
-{403}{}{Ah, isn't it you that the whole city is praising for the last matches in the arena? This changes the case.}
-{404}{}{I can take care of myself. That's for sure.}
+{1401}{}{A bounty huntress in a lace apron? What's this world coming to...}
+{402}{}{Something wrong?}
+{1402}{}{Ahem. Do I need to remind you that your guard is a woman?}
+{403}{}{A-ah, so it's you the whole city is praising for the last few fights in the arena? This changes things.}
+{404}{}{I can stand up for myself. That's for sure.}
 {405}{}{}
 {406}{}{}
-{407}{}{Do you even have a rifle? This is a dangerous business, there is no place for beginners here. But if you want to risk your neck, it's up to you.}
-{408}{}{I can handle it.}
-{409}{}{There is a bulletin board on the street. It has the latest information. The system is simple. You find the criminal according to the description, bring his head to me and get a reward for it. Any questions? Then go ahead. Good luck.}
-{410}{}{See you later, Bruce Turner.}
-{411}{}{I want to talk about bounty hunting.}
-{412}{}{Did you manage to catch anyone?}
+{407}{}{Do you even have a rifle? This is dangerous stuff, there's no room for amateurs. But if you want to risk your skin - that's your business.}
+{408}{}{I'll manage to do it.}
+{409}{}{There's a notice board on the street. It has the most up-to-date information. The system's simple. You find a criminal that fits the description, bring back his head to me and receive a reward. Any questions? Then go ahead. Good luck.}
+{410}{}{Until next time, Bruce Turner.}
+{411}{}{I want to talk to you about bounty hunting.}
+{412}{}{Managed to catch anyone?}
 {413}{}{No. Not yet.}
-{414}{}{I thought so. Come back when you catch at least one.}
-{415}{}{Okay.}
-{416}{}{I'm a ranger. I am interested in work.}
-{417}{}{Usually the Rangers don't like our agency. It's strange that you're attracted to this prospect.}
-{418}{}{I'm a lone ranger.}
+{414}{}{Just like I thought. Come back when you catch at least one.}
+{415}{}{Fine.}
+{416}{}{I'm a Ranger. I'm looking for a job.}
+{417}{}{Usually the Rangers don't have a high opinion of our agency. It's strange that this appeals to you.}
+{418}{}{I'm a lone Ranger.}
 {419}{}{Okay...}
 
-{420}{}{Here is the head of Hernando Aviles.}
-{421}{}{Ah, this is our old acquaintance, Hernando. Well, will there be no more jokes in my address, you fucking bastard?}
-{422}{}{Here is the head of Chucho Navarro.}
-{423}{}{Son of a bitch, there was a lot of noise from him. I am glad that his loud mouth will never make a single sound again.}
-{424}{}{Here's Aidy Gorme's head.}
-{425}{}{Eh, but once she was a beauty and performed in a casino. A strange fate. I don't understand what blew her head off.}
-{426}{}{[Next]}
-{427}{}{Hernando Aviles is dead. But I couldn't get his head.}
-{428}{}{Chucho Navarro is dead. But I could not bring his head.}
-{429}{}{Aidy Gorme is dead. Alas, her head was left lying in the desert.}
-{430}{}{No head, no reward. But I am glad to hear such news. Until the refutation arrives, we will assume that you are telling the truth.}
-{431}{}{Uh, okay.}
-{432}{}{I won't get the caps? This is very bad.}
-{433}{}{Great job. Here are your 500 caps. I hope you're not going to give up this activity? We need such people.}
+{420}{}{Here's the head of Ernando Aviles.}
+{421}{}{A-ah, our old friend Ernando. Looks like you won't be making any more jokes about me, am I right, you fucking bastard?}
+{422}{}{Here's the head of Chucho Navarro.}
+{423}{}{What a son of a gun, he stirred up so much trouble. I'm glad his noisy mouth will not make a single sound from now on.}
+{424}{}{Here's the head of Adie Gorme.}
+{425}{}{Oh, and to think she was once a beautiful woman that performed in the casino. A strange fate. I don't get what caused her to lose her mind.}
+{426}{}{[Continue]}
+{427}{}{Ernando Aviles is dead. But I didn't manage to acquire his head.}
+{428}{}{Chucho Navarro is dead. But I didn't manage to bring his head.}
+{429}{}{Adie Gorme is dead. Unfortunately, her head has been left in the desert.}
+{430}{}{No head - no reward. But I'm happy to hear this. Until I receive information that says otherwise, I'll assume you're speaking the truth.}
+{431}{}{Uhh, alright.}
+{432}{}{I won't receive caps? That's very bad.}
+{433}{}{Excellent work. Here are your 500 caps. I hope you aren't going to be abandoning this kind of thing? We need people like you.}
 {434}{}{I'll think about it.}
-{435}{}{I don't know, this activity is too dangerous.}
+{435}{}{I dunno, this kind of activity is too dangerous.}
 
-{440}{}{Wait. So it was the last ataman of Los Panchos? The damn gang has finally fallen. Imagine how this news will spread all over Phoenix. Oh, it's going to be a real celebration for the townspeople.}
-{441}{}{Certainly. But aren't there other atamans?}
-{442}{}{These three held the largest and most dangerous clans of Los Panchos. The others didn't pose much of a threat. Now, without their atamans, their entire empire will disintegrate, and ordinary robbers will be greatly weakened. Surely the clans have already declared war on each other, starting the redistribution of influence.}
-{443}{}{It's a little weird. But it is even more strange that the chieftains had the same brand as you and your mercenaries.}
-{444}{}{Hmm. It had to be revealed sometime... We have embellished their legend a little. In fact, these three worked as mercenaries in our guild. They learned a lot here. But having felt the power and authority over people, they stopped being interested in honest work.}
+{440}{}{Wait. So that was the last Los Panchos chieftain? The damned gang has finally fallen. Imagine how these news will spread all over Phoenix. O-oh, this will be a real celebration for the people.}
+{441}{}{No doubt. But are there no other chieftains?}
+{442}{}{The trio controlled the biggest and most dangerous Los Panchos clans. The rest did not pose a significant threat. Now, without their atamans, their entire empire will dissolve, and the regular bandits will be severely weakened. No doubt the clans already declared war on each other, trying to get more power.}
+{443}{}{This is a bit strange. But even stranger is that the atamans had the same mark that you and your mercs have.}
+{444}{}{Hm. This would become known some day anyway... We made them out to be a bit worse than they were. In reality, the trio worked as mercenaries in our guild. Here, they learned a lot. But when they felt like they had power and control over people, they stopped being interested in honest work.}
 {445}{}{You should have warned me about this.}
-{446}{}{These people are a disgrace to the guild. We cannot allow our reputation to suffer because of them.}
-{447}{}{This is reasonable.}
+{446}{}{Those people would be terrible for the guild's reputation. We can't allow that to happen.}
+{447}{}{A prudent decision.}
 {448}{}{Actually, I don't care.}
-{449}{}{You've had enough of completed contracts. For now, rest and have fun. And I'll think about what other job you can leave.}
-{450}{}{More work? Great, I'm looking forward to it.}
-{451}{}{I doubt that after what I've heard, I'll want to work for you. Goodbye, Bruce.}
-{452}{}{Well, that's great news.}
-{453}{}{The cap is more important to me. You'll figure out the rest yourself.}
-{454}{}{Right. For now, rest and have fun. And I'll think about what other job you can leave.}
-{455}{}{More work? Great, I'm looking forward to it.}
-{456}{}{I have enough caps to get out of this business. Goodbye, Bruce.}
+{449}{}{That's enough fulfilled contracts from you. Go rest and relax for now. And meanwhile, I'll think what job I could give you later.}
+{450}{}{More work? Great, I'll be awaiting with great anticipation.}
+{451}{}{I doubt that I would want to work for you after what I've heard. Farewell, Bruce.}
+{452}{}{Well, those are great news.}
+{453}{}{I'm more concerned about the caps. You'll handle the other stuff.}
+{454}{}{Exactly. Go rest and relax for now. And meanwhile, I'll think what job I could give you later.}
+{455}{}{More work? Great, I'll be awaiting with great anticipation.}
+{456}{}{I have enough caps to leave this business. Farewell, Bruce.}
 {457}{}{What about a new job?}
 
-{460}{}{You're just in time. I was about to send for you. There is a new goal. And this time I'm paying a higher price.}
-{461}{}{It's not hard to guess that a new goal is worth that much money. What did he do wrong?}
-{462}{}{(shows the portrait) This is Gil McCord. He is known as one of the best shooters and trackers. He knows his job well and can get out of any scrape. Therefore, he cannot be left alive.}
-{463}{}{Hmm. This is strange. It's like you're not telling me something. Why are mercenaries chasing a mercenary?}
-{464}{}{(sigh) You see, I embellished our merits a little. In fact, the atamans of Los Panchos were once also our mercenaries. They learned a lot and that's why they were able to gain a foothold outside the city.}
-{465}{}{And Gil McCord?}
-{466}{}{He was their go-between and spy. This was revealed after we cleaned up the Los Panchos bases. It seems that Gil was too greedy and distrustful, so he worked on both sides to always have a trump ace up his sleeve.}
-{467}{}{You should have told the truth about the gang from the beginning.}
-{468}{}{These people are a disgrace to the guild. We cannot allow our reputation to suffer because of them.}
+{460}{}{You're just in time. I wanted to send someone to find you. There's a new target. And this time, I'll pay more.}
+{461}{}{It's kind of obvious that the new target is worth that kind of money. What is he guilty of?}
+{462}{}{(shows a portrait) This is Gil McCord. AKA one of the best marksmen and pathfinders in the world. He knows his field well and can get out of anything. That's why he can't be left alive.}
+{463}{}{Hm. That's strange. It's almost like you're not telling me something. Why are mercenaries chasing after a mercenary?}
+{464}{}{(sigh) You see, I somewhat made our achievements to be better than they are. In reality, the Los Panchos chieftains were once our mercenaries. Here they learned many things and that's exactly how they were able to establish themselves outside the city.}
+{465}{}{And what about Gil McCord?}
+{466}{}{He was their intermediary and spy. That was discovered after we cleaned up Los Panchos bases. Looks like Gil was too greedy and untrusting, so he was playing both sides to come out on top in the end, regardless of what happens.}
+{467}{}{You should have told me the truth about the gang from the very beginning.}
+{468}{}{Those people would be terrible for the guild's reputation. We can't allow that to happen.}
 {469}{}{Actually, I don't care.}
-{470}{}{This is reasonable.}
-{471}{}{Kill Gil McCord and bring his head.}
+{470}{}{A prudent decision.}
+{471}{}{Kill Gil McCord and bring back his head.}
 {472}{}{I'll do it. You can count on me.}
-{473}{}{I doubt that after what I've heard, I'll want to work for you. Goodbye, Bruce.}
+{473}{}{I doubt that I would want to work for you after what I've heard. Farewell, Bruce.}
 
-{474}{}{I've done your dirty work. Here is his head.}
-{1474}{}{I've done your dirty work. Here's his head.}
-{475}{}{(nods sadly) Gil McCord. You were one of us. And that's what greed has brought you to. His story will serve as an example to others. You're owed 750 caps, as we agreed. I really hope that this amount will not turn your head, as it turned Gila. And from now on, try not to spread about our little secret.}
-{476}{}{No problem, boss. Goodbye.}
-{477}{}{After everything you've seen? I won't even take a step here.}
+{474}{}{I did your dirty work. Here is his head.}
+{1474}{}{I did your dirty work. Here is his head.}
+{475}{}{(nods sadly) Gil McCord. You were one of us. And look where greed has brought you. Your story will serve as a warning to the rest. You will get 750 caps, as we agreed upon. I very much hope this kind of money won't drive you mad like it did with Gil. And, in the future, try not to spread our little secret.}
+{476}{}{No problem, boss. Farewell.}
+{477}{}{After what I've seen? I won't make a step in this building in the future.}
 
-{480}{}{About Gil McCord.}
-{481}{}{What news?}
-{482}{}{None yet.}
+{480}{}{Regarding Gil McCord.}
+{481}{}{Any news?}
+{482}{}{None so far.}
 {483}{}{How do I find him?}
-{484}{}{I doubt he's in town. In addition, our agents report that a man similar in description was seen leaving for the south with a caravan. There aren't many settlements there, you can check them all.}
-{485}{}{So he could be anywhere. Don't waste time.}
-{486}{}{Will they give me something for the road?}
-{487}{}{I'm paying an already high price for this job.}
+{484}{}{I doubt he's in the city. And our agents are reporting that they've seen a man similar to the description going to the south with a caravan. There aren't a lot of settlements there, you can check them all.}
+{485}{}{So he can be anywhere. No need to waste time.}
+{486}{}{Will I be given something for the trip?}
+{487}{}{I'm already paying a lot for this.}
 {488}{}{Of course.}
-{489}{}{I'll need extra travel expenses and some ammo.}
-{490}{}{But how will I find this shooter?}
-{491}{}{That's reasonable. Here are 100 caps for travel expenses. What kind of ammo might you need?}
-{492}{}{Pistol.}
-{493}{}{Revolver.}
-{494}{}{Rifle.}
-{495}{}{For the machine.}
-{496}{}{Are there any shells for a grenade launcher?}
-{497}{}{I only use energy weapons.}
-{498}{}{Now go and find that son of a bitch. And until you get his head, you don't have to come back here.}
-{499}{}{Roger that, boss.}
+{489}{}{I'll need to spend some money during the trip. And I could use some ammo.}
+{490}{}{But how will I find this marksman?}
+{491}{}{Sounds good. Here are 100 caps. Now, about bullets, for what kind of weapon do you need them?}
+{492}{}{A pistol.}
+{493}{}{A revolver.}
+{494}{}{A rifle.}
+{495}{}{A machine gun.}
+{496}{}{Could I get some ammo for a grenade launcher?}
+{497}{}{I exclusively use energy weapons.}
+{498}{}{Now go and find the son of a bitch. And until you get his head, don't even think of coming back.}
+{499}{}{Got it, boss.}
 {1499}{}{Got it, boss.}
 
 {500}{}{How much can I trust your people? What are their skills?}
-{501}{}{My people go through regular training. They know their worth. And I know who is best suited for this or that job. Don't worry, they are professionals in their field.}
-{502}{}{In the murder case?}
-{503}{}{Exactly. Real killers. Cold-blooded and precise.}
-{504}{}{Sounds cool. How do I become a real KILLER? Can I go through your training to learn this ability?}
-{505}{}{Oh, I'd rather not know about it. Let's change the subject, okay?}
-{506}{}{You know, this is a very expensive thing. And you're not in our guild yet. Considering all the costs, it will cost 50,000 caps. But after the course you will be able to make good money on all sorts of garbage.}
-{507}{}{I don't have that kind of money and never have. And I'm unlikely to earn them even with such a powerful skill. Goodbye.}
-{508}{}{It suits me.}
-{509}{}{caps on the table - and we can start.}
-{510}{}{Not now, I need to get ready.}
-{511}{}{[Silently give away the bottlecaps]}
-{512}{}{You have a strong mind, you son of a bitch. You'll make a great bounty hunter.}
-{1512}{}{You have a strong mind, bitch. You'll make a great bounty hunter.}
-{513}{}{You have acquired the "Death Strike" ability.}
-{514}{}{Although you are already in our guild, you will have to pay the costs. It's not cheap and will cost 35,000 caps.}
-{515}{}{After the last contract, it's time for you to teach the recruits yourself. Well, especially for you, I will make an exception and pay all costs in full.}
-{516}{}{[Silently follow Bruce's instructions]}
-{517}{}{It's too early for you to think about such things. Grow up a little.}
-{518}{}{OK.}
+{501}{}{My people practice regularly. They know their price. And I know which one of them's the right one for any given job. Don't worry, they're highly trained professionals in their field.}
+{502}{}{The field being the art of killing people?}
+{503}{}{That's right. They're real killers. Cold-blooded and precise.}
+{504}{}{Sounds great. How do I become like them? Are there courses I could go through to learn how they do it?}
+{505}{}{Oh, it's probably better not to know. Let's change the subject, okay?}
+{506}{}{There are. However, they are very expensive. And you are not yet in our guild. Considering all the costs involved, this will cost you 50 thousand caps. However, after you finish the courses, you should be able to earn quite a lot of profit.}
+{507}{}{I've never had that much money, ever, in my life. And I doubt I will. Farewell.}
+{508}{}{Your terms are satisfactory.}
+{509}{}{Caps on the table, and we can begin.}
+{510}{}{Not now. I need to prepare.}
+{511}{}{[Silently give caps]}
+{512}{}{Your will is strong, you son of a bitch. You'll make an excellent bounty hunter.}
+{1512}{}{Your will is strong, you bitch. You'll make an excellent bounty hunter.}
+{513}{}{You have gained the perk "Fatal Blow".}
+{514}{}{Though you're already in our guild, you will still have to cover the costs. It is not cheap. 35 thousand caps.}
+{515}{}{After your last contract, it's probably your own turn to teach the rookies. Welp. Just for you, I'm making an exception. All expenses are covered. You won't have to pay anything.}
+{516}{}{[Silently follow Bruce's commands]}
+{517}{}{It's too early for you to be thinking of this stuff. Grow up a little.}
+{518}{}{Okay.}

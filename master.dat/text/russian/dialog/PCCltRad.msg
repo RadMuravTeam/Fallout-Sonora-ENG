@@ -1,9 +1,9 @@
-{100}{}{You see the signalman.}
+{100}{}{You see a radio operator.}
 {101}{}{You see one of the Followers.}
-{102}{}{What is it? Lost? The exit is over there, but outsiders are not allowed here.}
-{1102}{}{What is it? Lost? The exit is over there, but outsiders are not allowed here.}
-{103}{}{Greetings, brother. May the Sacred Fire light you up.}
-{1103}{}{Greetings, Sister. May the Sacred Fire light you up.}
-{104}{}{Merciful Atom... what's wrong with me?}
-{105}{}{...I see... Sacred Fire...}
-{106}{}{I think I've had enough... Don't tempt me anymore, please...}
+{102}{}{What happened? Did you get lost? The exit is there, outsiders can't come here.}
+{1102}{}{What happened? Did you get lost? The exit is there, outsiders can't come here.}
+{103}{}{Greetings, brother. May the Holy Fire illuminate you.}
+{1103}{}{Greetings, sister. May the Holy Fire illuminate you.}
+{104}{}{Gracious Atom... what's happening to me?}
+{105}{}{I see... the Holy Fire...}
+{106}{}{This is enough... Tempt me no more, please...}

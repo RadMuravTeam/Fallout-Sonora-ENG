@@ -1,10 +1,10 @@
-{100}{}{You see a Follower of Fire.}
-{101}{}{You see one of the Followers. He completely withdrew into himself because of the frantic prayer.}
+{100}{}{You see a Follower of the Holy Fire.}
+{101}{}{You see one of the Followers. He has completely withdrawn into his own world from frantic prayer.}
 
-{200}{}{...Heaven will become Earth... Fire is God... And He said that He was pitiful before His face... Fire... The infidels will fall... The sun is in our hands... Flowers...}
-{201}{}{Hey, what are you mumbling?}
-{202}{}{...Fire is power...}
-{203}{}{Your Fire is just a mythical image.}
-{204}{}{(he is distracted from prayer and looks through you with an empty gaze) Fire... I am... really...}
-{205}{}{Ah, well, that explains it all, for now.}
-{206}{}{Uh, it's better not to bother him...}
+{200}{}{...Heaven will become earth... the Fire that giveth... pitiful before His very face... Fire... for the unfaithful are doomed... And the sun in the palms of our hands...}
+{201}{}{Hey, what are you bumbling about?}
+{202}{}{...the Fire is strength...}
+{203}{}{Your Fire is a myth.}
+{204}{}{(interrupts prayer and stares through you blankly) The Fire... is... truth...}
+{205}{}{Oh, well this explains everything. Bye.}
+{206}{}{Uhh, it's best not to disturb him...}

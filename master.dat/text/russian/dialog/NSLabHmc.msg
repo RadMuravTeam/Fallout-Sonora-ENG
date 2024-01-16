@@ -1,11 +1,11 @@
-{100}{}{You can see the lab.}
-{101}{}{This is a chemical laboratory.}
-{102}{}{This is a chemical laboratory. Scientific methods are required to work with it.}
-{103}{}{The component is prepared for the chemical process and loaded into a special vessel.}
-{104}{}{Components are needed to complete the chemical process.}
-{105}{}{The poison is made. This is exactly what Followers need.}
-{106}{}{We need laboratory data to make the poison properly.}
-{107}{}{There's nothing else to do here.}
-{108}{}{Components and instructions are needed.}
-{109}{}{I need instructions.}
-{110}{}{Done}
+{100}{}{You see a laboratory.}
+{101}{}{You see a chemical laboratory.}
+{102}{}{You see a chemical laboratory. Working with it requires using the ways of science.}
+{103}{}{The compound is ready for the chemical process and is placed inside of a special container.}
+{104}{}{Compounds are necessary to complete the chemical process.}
+{105}{}{You've made the poison. Exactly what the Followers need.}
+{106}{}{You need the research notes to properly make the poison.}
+{107}{}{Your job here is done.}
+{108}{}{You need compounds and instructions.}
+{109}{}{I need the instructions.}
+{110}{}{Ready.}

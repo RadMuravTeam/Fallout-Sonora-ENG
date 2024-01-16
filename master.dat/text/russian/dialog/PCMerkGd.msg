@@ -1,17 +1,17 @@
-{100}{}{There is a guard in front of you.}
-{101}{}{This is one of the guild's mercenaries. He's watching you closely.}
+{100}{}{You see one of the guards.}
+{101}{}{This is one of the guild's mercenaries. They're watching you very closely.}
 
-{110}{}{Bruce has a difficult character.}
-{111}{}{Bruce, straighten everyone's brains.}
-{112}{}{No matter how much I tried, Bruce never smiled.}
-{113}{}{Bruce gets nervous when customers walk around with guns.}
+{110}{}{Bruce has a tough temper.}
+{111}{}{Bruce will fix everyone's brains up.}
+{112}{}{However many times I've tried, Bruce didn't smile. Not even once.}
+{113}{}{Bruce is nervous when clients walk around with weapons.}
 {114}{}{I'm watching you.}
-{115}{}{You. Stand against the wall and take off your pants... I'm kidding.}
-{116}{}{Hands behind your head. Muzzle to the floor... Joke, don't worry.}
-{117}{}{Smile, you're in the funniest place in Phoenix.}
-{118}{}{Straight out of the wasteland, eh? You're still an innocent kid for a big city.}
-{119}{}{Oh, my God, and how did you come to us?}
-{120}{}{Say it loud, why are you whispering?}
-{121}{}{Got a smoke?}
-{122}{}{Is this the first time you've seen such armor? You can touch it.}
-{123}{}{Open the bag and take out all the valuables. A joke...}
+{115}{}{You. Face the wall and take off your pants... just kidding.}
+{116}{}{Put your hands behind your head. Face the floor... Relax, it's just a joke.}
+{117}{}{Smile, you're in the most joyous place in Phoenix.}
+{118}{}{Right from the wasteland, huh? You're an innocent child in a big city.}
+{119}{}{Oh my god, how did you end up here?}
+{120}{}{Talk louder, what is it you're whispering?}
+{121}{}{You got a smoke?}
+{122}{}{First time seeing an armor like that? You can touch it.}
+{123}{}{Open your purse and take out all belongings... Relax. Just a joke...}

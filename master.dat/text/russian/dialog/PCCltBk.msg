@@ -1,133 +1,133 @@
-{100}{}{You see Brother Francis.}
-{101}{}{You see one of the Followers. He's busy copying ancient blueprints.}
-{102}{}{How am I going to copy the blueprints in such darkness?}
+{100}{}{You see brother Francis.}
+{101}{}{You see one of the Followers of the Holy Fire. He is busy copying ancient blueprints.}
+{102}{}{How will I copy blueprints in this darkness?}
 
 {200}{}{Greetings, stranger. Can I help you in your search?}
-{1200}{}{Greetings, stranger. Can I help in your search?}
+{1200}{}{Greetings, stranger. Can I help you in your search?}
 {201}{}{First, tell me about this place.}
-{202}{}{I doubt it very much. WHAT can you do for me?}
-{203}{}{Please go away. There is no place for rudeness here.}
-{204}{}{I'm sorry, I'm not in a good mood today. So what is this place?}
-{205}{}{I'll leave. But you'll hear from me again.}
+{202}{}{Very much doubt it. HOW can you help me?}
+{203}{}{Please leave. This is no place for rude behavior.}
+{204}{}{Sorry, I got up on the wrong foot today. So, what is this place?}
+{205}{}{Oh I'll leave. But you'll hear more about me.}
 
 {210}{}{What do you need, stranger?}
 {1210}{}{What do you need, stranger?}
 {211}{}{How can I help you, novice?}
 {1211}{}{How can I help you, novice?}
 {212}{}{Goodbye.}
-{213}{}{You know a lot. Tell me something else?}
+{213}{}{You must know much. Could you tell me about something else?}
 
 #Questions
 {220}{}{Tell me about yourself.}
-{221}{}{My name is Francis, I am a bookkeeper.}
+{221}{}{My name is Francis, I am a keeper of books.}
 {222}{}{How did you become a follower?}
-{223}{}{I've been a follower since I was a teenager. Then the church was little known and did not participate in the fate of the city.}
-{224}{}{And you blindly believe in the dogmas of your church?}
-{225}{}{"Nisi videro, non credam. Non credam, nisi videro". There is no point in discussing this.}
-{226}{}{And what exactly are you doing, bookkeeper?}
-{227}{}{I restore old books, copy old writings, make lists. For example, I am currently busy with this magnificent drawing.}
-{228}{}{Why copy old writing?}
-{229}{}{We must preserve for posterity the knowledge of our infinitely wise ancestors. But the paper of the old writings has almost decayed, such texts will not live long, especially in the fresh air. Therefore, we restore, copy, and then preserve the old scriptures.}
-{230}{}{But if they are preserved, they will become inaccessible, right?}
-{231}{}{Right. And that's why we make copies that are stored in our library. True, they are often inferior in quality to the original, but this is a difficult question.}
+{223}{}{I was a follower from my youth. By that time the church was not well-known and did not get involved with the city.}
+{224}{}{And you blindly believe the dogmas of your church?}
+{225}{}{"Nisi videro, non credam. Non credam, nisi videro". There is no point discussing this any further.}
+{226}{}{And what is it exactly you do here, keeper of books?}
+{227}{}{I restore old books, copy ancient writings, make lists. Right now I am busy with this great blueprint.}
+{228}{}{What is the purpose of copying ancient writings?}
+{229}{}{We must save the knowledge of our incredibly wise ancestors for our descendants. But the paper on which they were written is almost completely decayed. These texts won't survive for long, especially out in the open air. This is why we restore, copy and then conserve ancient writings.}
+{230}{}{But if you conserve them, they become inaccessible, correct?}
+{231}{}{Correct. This is why we make copies that are stored in our library. They are not as good as the original sometimes, but that is a complex topic.}
 
 {240}{}{What is this place?}
-{241}{}{This is a library. A place where paper sources of knowledge are stored... mostly pre-war. I understand that this looks a little strange because there is not a single library left in the world anymore. But our work is all the more valuable.}
-{242}{}{Where did all these books come from?}
-{243}{}{From everywhere. We buy up all pre-war books and manuscripts. Part of this collection came to us from our predecessors, who buried them in the desert.}
-{244}{}{But why do we need old books?}
-{245}{}{They keep the knowledge of our ancestors. Unfortunately, we are not able to understand most of them. But someday the time will come, and these books will reveal their secrets.}
-{246}{}{Do you think this knowledge is safe? Didn't the ancestors ruin themselves with their help?}
-{247}{}{Right. But people learn from old mistakes. Besides, we share knowledge only with those who are worthy of it.}
-{248}{}{Buried in the desert? How is that?}
-{249}{}{After the Great War, scientists were treated with great disrespect. They were considered the culprits of the Apocalypse, and scientific books were burned at the stake. At least, that's what the chronicles say. Then our predecessors hid the books in barrels and buried them in the desert. We still haven't found many of them.}
+{241}{}{This is a library. This is a place where knowledge is stored in paper form... mostly Pre-War knowledge. I understand that this looks a bit strange, after all, there is not a single library left in the world except this one. But this only serves to make what we do more important.}
+{242}{}{Where are all these books coming from?}
+{243}{}{From everywhere. We buy all Pre-War books and writings we can. A part of this collection we got from our ancestors, who buried them in the desert.}
+{244}{}{But why do you need these old books?}
+{245}{}{They contain the knowledge of our predecessors. Unfortunately, we are not able to interpret a large part of it. But one day that time will come, and the secrets contained in these books will be revealed.}
+{246}{}{Do you think this knowledge is safe? Have our predecessors not destroyed themselves by using this same knowledge?}
+{247}{}{It is true. But people learn from past mistakes. Besides, we only share knowledge with those who are worthy of it.}
+{248}{}{Buried in the desert? How?}
+{249}{}{After the Great War, scientists were treated much less respectfully. It was thought that they were the ones that brought forth the Apocalypse, and scientific writings were burned. At least, so do the records say. Our ancestors hid these books in barrels and buried those barrels in the desert. We are still yet to find many of them.}
 
-{250}{}{About the drawing. Tell me, what does "transformer unit 6-B" mean?}
-{251}{}{This is... well... the name of the document.}
-{252}{}{I understand that. But WHAT does it mean?}
-{253}{}{This is the *name* of the drawing you're looking at. And what does your name mean?}
-{254}{}{I think nothing.}
-{255}{}{That's it.}
-{256}{}{Clearly. It seems like this is a meaningless conversation.}
-{257}{}{I think almost nothing. But what does the drawing symbolize, Brother Francis?}
-{258}{}{He... symbolizes ... (turns over the drawing and reads the inscription) transformer unit 6-In.}
-{259}{}{It's all clear, Brother Francis. It's all clear to me now.}
+{250}{}{About this blueprint. Tell me, what does "transformer unit 6-B" mean?}
+{251}{}{Well... it's... the name of the document, that's obvious.}
+{252}{}{That I understand. But WHAT does it mean?}
+{253}{}{It's the *name* of the drawing that you are looking at. What does your name mean?}
+{254}{}{Nothing, I think.}
+{255}{}{Same thing here.}
+{256}{}{Alright. Looks like this is a pointless conversation.}
+{257}{}{Almost nothing, I think. But what does the drawing symbolize, brother Francis?}
+{258}{}{It... symbolizes... (rotates blueprint and reads name) transformer unit 6-Â.}
+{259}{}{I see, brother Francis. I see.}
 
-#Study books
-{260}{}{You have a huge collection. Can I study these books?}
-{261}{}{I'm sorry, but we are very careful about admitting to our library. These books are too valuable, and their knowledge can be dangerous for ordinary people.}
-{262}{}{Okay, forget it.}
-{263}{}{I think you're just idiots. Bye.}
-{264}{}{Will you refuse me, a brother in faith?}
-{1264}{}{Will you refuse me, a sister in faith?}
-{265}{}{Oh, I didn't know that you were ordained a novice. Of course, take any books, but be careful, they are very fragile.}
-{266}{}{Thank you, Brother Francis. I will be extremely careful.}
-{1266}{}{Thank you, Brother Francis. I will be extremely careful.}
-{267}{}{I can't promise anything.}
-{268}{}{I can donate 300 caps to the library.}
-{269}{}{Well, that changes things. You can study our books, but be careful, they are very fragile.}
+#Study the books
+{260}{}{You truly have a fine collection. Could I study these books?}
+{261}{}{I'm afraid we are very careful with who to give access to our library. These books are very valuable, and the knowledge in them could be dangerous for commoners.}
+{262}{}{Fine, forget it.}
+{263}{}{In my opinion, you're just a bunch of morons. Bye.}
+{264}{}{Are you really going to refuse a brother-in-faith?}
+{1264}{}{Are you really going to refuse a sister-in-faith?}
+{265}{}{Oh, I did not know you were considered a novice. Of course, take any of the books, but be careful, they're quite fragile.}
+{266}{}{Thank you, brother Francis. I will be very careful.}
+{1266}{}{Thank you, brother Francis. I will be very careful.}
+{267}{}{Can't promise you anything.}
+{268}{}{I could make a donation of 300 caps to the library.}
+{269}{}{Well, this changes things. You can study our books, but be careful, they're quite fragile.}
 {270}{}{}
-{271}{}{Well, that changes things.}
-{272}{}{I don't have that many bottlecaps right now. I'll come back later.}
-{273}{}{Even after help, I can't count on trust?}
-{274}{}{Oh, of course, it's true. Study the books, but be careful, they are very fragile.}
+{271}{}{Well, this changes things.}
+{272}{}{Sorry, I don't have this many caps yet. I'll be back.}
+{273}{}{Even after helping I still should not expect to be trusted?}
+{274}{}{Oh, it's true that you helped. Study our books, but be careful, they're quite fragile.}
 
-#Aaron's Quest
-{280}{}{Brother Francis, do you keep the novices' mission schedule?}
-{281}{}{Yes. But I won't show you these scrolls, of course. Only a few ministers have access to them. Why do you need them?}
-{282}{}{I can't talk about it. Can you tell me who has been studying them lately?}
-{283}{}{Hmm. These documents are used quite rarely. I think I can match it with the seals of the visitors. But name the dates you need.}
-{284}{}{I am interested in these days...}
-{285}{}{...Well, apparently, in those days only Prior Mathias could study the documents.}
+#Aaron's quest
+{280}{}{Brother Francis, is it you who has the novice mission schedule?}
+{281}{}{Yes. But I will, of course, not show these scrolls to you. Only a few select people have access to them. Why do you need them?}
+{282}{}{I'm really not at liberty to say. Can you tell me who examined them lately?}
+{283}{}{Hm. These documents are quite rarely used. I suppose I could use the stamps of the visitors. But tell me the dates you are interested in.}
+{284}{}{I'm interested in these days...}
+{285}{}{...Well, it looks like during those days only prior Mathias could have been examining the documents.}
 {286}{}{Where can I find him?}
-{287}{}{His chambers are up the corridor. But be quiet, Brother Mathias is very nervous when he is sharply distracted from meditation.}
-{288}{}{Thank you, Brother Francis, you helped me a lot.}
-{289}{}{Clear. I'll leave you alone with these papers.}
+{287}{}{His chambers are higher up the corridor. But be quiet, brother Mathias is quite nervous when he is suddenly distracted from meditation.}
+{288}{}{Thank you, brother Francis, you have helped me greatly.}
+{289}{}{Alright. I'll leave you alone with those papers.}
 
 #Books
-{300}{}{You were talking about buying books. And I travel a lot.}
-{301}{}{Sure. If you find old books, bring them to me. The Church will generously pay for your labors.}
-{302}{}{I will keep in mind.}
-{303}{}{Don't you need new books?}
-{304}{}{I have the surviving books.}
+{300}{}{You told me about buying books. And I travel a lot.}
+{301}{}{Of course. If you find old books, bring them to me. The church will generously reward your efforts.}
+{302}{}{I'll keep that in mind.}
+{303}{}{You do need new books?}
+{304}{}{I have intact books.}
 {305}{}{Very good. How many books can you donate to the library?}
-{306}{}{It doesn't seem to be exactly what you need. Sorry to bother you.}
-{307}{}{I mean, I'm going to look for books. Goodbye.}
+{306}{}{Looks like this is not exactly what you were looking for. Sorry for the disturbance.}
+{307}{}{I wanted to say that I'll come look for intact books. Goodbye.}
 {308}{}{All the books I have.}
 {309}{}{Just one.}
 {310}{}{Two books.}
 {311}{}{Three books.}
-{312}{}{An excellent addition. You are helping the progress of all mankind. Thanks a lot.}
-{313}{}{Take it for free. This is my donation to the church.}
-{314}{}{Truly, your generosity knows no bounds. Thank you.}
-{315}{}{But I would like to ask you something.}
-{316}{}{You are welcome. Goodbye.}
-{317}{}{I want to get caps for this.}
-{318}{}{Sure. That's fair. Here's your reward - }
+{312}{}{A fine addition to our collection. You're helping the progress of all mankind. Thank you.}
+{313}{}{I don't need any money. This is my donation to the church.}
+{314}{}{Your generocity truly knows no bounds. Thank you.}
+{315}{}{But I would like to ask about something.}
+{316}{}{You're welcome. Goodbye.}
+{317}{}{I'd like to receive caps.}
+{318}{}{Of course, that's fair. Here is your reward - }
 {319}{}{ caps.}
-{320}{}{Maybe the library needs some specific books?}
-{321}{}{Oh, yes. Some people don't want to share old knowledge. Perhaps you can get through their stupidity?}
-{322}{}{Tell me more. Who is this greedy miser?}
-{323}{}{I have a short conversation with fools. The first - in the snout, the second - in the groin.}
-{324}{}{Recently I was informed that a very ancient book is kept in the town of San Brahmin. And it is much older than the day of the Great War. Can you imagine? Unfortunately, the locals can't read it, but they don't let us near it either because of the recent trade war.}
-{325}{}{Are you suggesting we steal her?}
-{326}{}{I guess that sounds a bit rude. But get it right. The local savages do not understand the true meaning of this book and cannot ensure its safe preservation. In our hands, this relic will do more good. So will you get this book? I'll pay for it.}
-{327}{}{My answer is no. I don't want to participate in the looting of any churches.}
-{328}{}{Well, I understand. Forget everything you've heard here.}
+{320}{}{Perhaps the library needs some specific books?}
+{321}{}{Oh yes. Some people simply don't want to share old knowledge. Perhaps you could manage to plough through their stupidity and convince them to change their minds?}
+{322}{}{I would like to know more. Who are those selfish fools?}
+{323}{}{Personally, I prefer to to talk to fools in the language of violence.}
+{324}{}{I was recently told that there is a very old book in the town known as San Brahmin. And that it is far older than even the day of the Great War. Can you imagine that? Unfortunately, the locals can't read it, but they still don't let us near it due to the recent trade war.}
+{325}{}{Are you proposing stealing it?}
+{326}{}{I suppose this sound a bit too harsh. Understand - the local savages have no idea what the true meaning of the book is and can't ensure it's safety. This relic would bring much more good if it were in our hands. So, will you get this book? I'll pay you for it.}
+{327}{}{My answer is no. I do not want to participate in the plundering of churches.}
+{328}{}{Well, I understand. Forget everything I said.}
 {329}{}{Of course.}
-{330}{}{I think you know better what to do with such junk. I'll get you the holy book.}
-{331}{}{Very good. I'm looking forward to it.}
-{332}{}{I have the holy Book.}
-{333}{}{Oh, these pages are beautiful! God, there's even Latin here. Ugh, it takes my breath away with anticipation...}
-{334}{}{If it's so important to the church, then take it for free. I just want to do something good.}
-{335}{}{I will pray for you, my brother. The world lacks people like you.}
-{1335}{}{I will pray for you, Sister. The world lacks people like you.}
-{336}{}{Good luck, Brother Francis.}
-{337}{}{It was very difficult to get this thing. I demand 300 caps in return.}
-{338}{}{Of course, here are the bottlecaps. It's not a pity for this relic of caps.}
-{339}{}{Good luck, Brother Francis.}
-{340}{}{Wait, brother. I think you should talk to Aaron himself. I will inform him about the help you have given to our church. And if you need my recommendation, you can count on it.}
-{1340}{}{Wait, Sister. I think you should talk to Aaron himself. I'll let him know about the help you've given our church. And if you need my recommendation, you can count on it.}
-{341}{}{OK.}
-{342}{}{See you later.}
-{343}{}{It so happened that I already have this book.}
+{330}{}{I think you know what to do with that thing better than they do. I'll get you that holy book.}
+{331}{}{Very good. I am awaiting for you with great anticipation.}
+{332}{}{I have the holy book.}
+{333}{}{Oh, look at those pages! The pale whiteness of them... My god, it even has latin. It's perfect. Oof, the anticipation makes it hard for me to even breathe...}
+{334}{}{If this is so important for the church, take it for free. I just want to do something good.}
+{335}{}{I will pray for you, brother. The world needs more people like you.}
+{1335}{}{I will pray for you, sister. The world needs more people like you.}
+{336}{}{I wish you great success in your endeavors, brother Francis.}
+{337}{}{It was very hard acquiring that thing. I demand 300 caps in exchange.}
+{338}{}{Of course, here they are. Caps are worthless compared to such a relic.}
+{339}{}{I wish you great success in your endeavors, brother Francis.}
+{340}{}{Wait, brother. I think you should talk to Aaron himself. I shall tell him about the help you gave to our church. If you happen to need my recommendation, you can count on it.}
+{1340}{}{Wait, sister. I think you should talk to Aaron himself. I shall tell him about the help you gave to our church. If you happen to need my recommendation, you can count on it.}
+{341}{}{Good.}
+{342}{}{See you.}
+{343}{}{It just so happened that I have this book already.}

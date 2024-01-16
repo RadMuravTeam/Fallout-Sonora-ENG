@@ -1,16 +1,16 @@
-{110}{}{Does not need repair.}
-{111}{}{Raw materials are out.}
-{112}{}{You have no idea how it works.}
-{113}{}{This device is configured only for mature leaves of fire agave.}
-{114}{}{This device is used to make juice, and not vice versa.}
+{110}{}{Doesn't need to be repaired.}
+{111}{}{Out of raw material.}
+{112}{}{You have no idea how this works.}
+{113}{}{The machine is set up to only be able to deal with fresh leaves of the fiery agave.}
+{114}{}{This machine is for producing juice, not the other way around.}
 
-{120}{}{You have prepared one bottle of agave juice.}
-{121}{}{You have prepared two bottles of agave juice.}
-{122}{}{You have prepared three bottles of agave juice.}
-{123}{}{You have prepared four bottles of agave juice.}
-{124}{}{You have prepared five bottles of agave juice.}
-{125}{}{You have prepared six bottles of agave juice.}
-{126}{}{You have prepared seven bottles of agave juice.}
-{127}{}{You have prepared eight bottles of agave juice.}
-{128}{}{You have prepared nine bottles of agave juice.}
-{129}{}{You have prepared ten bottles of agave juice.}
+{120}{}{You have made one bottle of agave juice.}
+{121}{}{You have made two bottles of agave juice.}
+{122}{}{You have made three bottles of agave juice.}
+{123}{}{You have made four bottles of agave juice.}
+{124}{}{You have made five bottles of agave juice.}
+{125}{}{You have made six bottles of agave juice.}
+{126}{}{You have made seven bottles of agave juice.}
+{127}{}{You have made eight bottles of agave juice.}
+{128}{}{You have made nine bottles of agave juice.}
+{129}{}{You have made ten bottles of agave juice.}

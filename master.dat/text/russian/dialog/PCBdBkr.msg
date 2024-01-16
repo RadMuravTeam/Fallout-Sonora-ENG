@@ -1,41 +1,41 @@
 {100}{}{You see a bandit.}
-{101}{}{You see a young man with a defiant behavior.}
-{102}{}{Is this your motorcycle? Oh, I'm sorry. I thought he was nobody's. Of course, uh, take it, we don't mind.}
-{103}{}{Fuck off}
-{104}{}{Hey, is that your bike?}
+{101}{}{You see a defiant young man.}
+{102}{}{This is your bike? Oh, I'm very sorry. It looked to me like it didn't belong to anyone. Of course, uhh, take it, we don't mind at all.}
+{103}{}{Fuck off.}
+{104}{}{Hey, is this your bike?}
 
-{200}{}{Hey, is that your bike?}
-{201}{}{Exactly.}
-{202}{}{Maybe so. What's it to you?}
-{203}{}{You're wrong. This is my bike. Any problems? Ah, you probably want to buy it. A good choice. The price is 500 caps. And hurry up before I change my mind.}
-{204}{}{Why do you need it? You can't use it anyway.}
-{205}{}{Do you take me for an idiot? This bike will interest any boss in the city. If you don't pay, someone else will.}
-{206}{}{Give me my bike. Now I'm asking nicely, but there won't be a second time.}
-{207}{}{Give me time to pack the bottlecaps.}
+{200}{}{Hey, is this your bike?}
+{201}{}{Yep.}
+{202}{}{Maybe. What is it to you?}
+{203}{}{You're mistaken. This is *my* bike. Problem? A-a-ah, you probably want to BUY it. Good choice. The price will be... 500 caps. I'd advise you to hurry up. Such a good deal won't last for very long.}
+{204}{}{What's it to you? You can't use it anyway.}
+{205}{}{You take me for an idiot? Everyone with power in the city will be interested in this bike. If you don't pay me - someone else will.}
+{206}{}{Give me my bike back. I won't ask you nicely again.}
+{207}{}{Give me time to collect the caps.}
 
-{210}{}{Brought 500 caps?}
-{1210}{}{Did you bring 500 caps?}
-{211}{}{Did you bring 700 caps?}
-{1211}{}{Did you bring 700 caps?}
-{212}{}{Give me time to pack the bottlecaps.}
+{210}{}{You brought 500 caps?}
+{1210}{}{You brought 500 caps?}
+{211}{}{You brought 700 caps?}
+{1211}{}{You brought 700 caps?}
+{212}{}{Give me time to collect the caps.}
 
-{220}{}{This is my motorcycle. Give me the ignition key. Immediately.}
-{221}{}{And then what? Will you start digging? Yes, our gang *owns* the whole area. You snap at me, you snap at the whole gang. Do you understand?}
-{222}{}{I don't give a damn about you and your whole gang. Give me the key or you'll die.}
-{223}{}{Sorry, I don't want problems with you and your guys.}
-{224}{}{By the way, I've changed my mind. The price has increased to 700 caps.}
-{225}{}{Gr-rm...}
-{226}{}{It's stupid. I'll just kill you.}
+{220}{}{This is *my* bike. Give me the key. Now.}
+{221}{}{Or what? You think you can do anything about it? Our gang *owns* this region. You scream at me - you scream at the whole band. Understand?}
+{222}{}{I don't give a fuck about you or your gang. Give me the key or die.}
+{223}{}{Sorry. I don't want any trouble with you or your buddies.}
+{224}{}{Oh, and by the way, the price is now 700 caps.}
+{225}{}{Hr-rm...}
+{226}{}{Talking to you was stupid. I should have just killed you right from the start.}
 
-{230}{}{Here are the bottlecaps. Now give me the ignition key.}
-{231}{}{(casually throws the key on the ground) Take it. I didn't know how to use it anyway. (with a grin, he heads deeper into the area, weighing the caps in his hand with a satisfied look)}
-{232}{}{Thanks, uh, good purchase.}
-{233}{}{Someday I'll lie in wait for you in bed at night and cut your throat. And I will laugh. Yes, laugh.}
-{234}{}{Not so fast, you bastard. Now give me all my caps.}
+{230}{}{Here are the caps. Now give me the key.}
+{231}{}{(offhandedly drops the key on the ground) Take it. I didn't know how to use this thing anyways. (walks away with a smirk, weighing the caps with a satisfied look)}
+{232}{}{Uhh, thanks, this was a good purchase.}
+{233}{}{Laugh while you still can. One day I'll find you, you son of a bitch.}
+{234}{}{Not so fast, jerk. Hand over all my caps.}
 
-{240}{}{You're a fool if you decided to run into a champion. Do you want to make sure of this?}
-{241}{}{You're a fool if you decide to go against a Follower. My brothers won't let it go so easily.}
-{242}{}{Do you know who the magistrals are? I'm one of them. Don't underestimate us.}
-{243}{}{ (grinning like a dog cornered) H-damn, I didn't know... Sorry, here's the key... Is everything okay now? I'll, uh, go.}
-{244}{}{Get out.}
-{245}{}{No problems. Let's forget about this misunderstanding.}
+{240}{}{Only an idiot would talk that way to an arena champion. A smart man would give the champion the key. Now.}
+{241}{}{You know, I'm a Follower. It would be unfortunate if I had to go tell my brothers about this. How about you give me the key, and I don't tell anyone what you did?}
+{242}{}{Have you heard of the highwaymen? I'm one of them. Don't underestimate us.}
+{243}{}{(the man grins his teeth like a cornered dog) D-damn, I didn't know... Sorry, take the key... Is it fine now? I'll, uhh, go away.}
+{244}{}{Get outta here.}
+{245}{}{No problem. I will forget that this misunderstanding ever happened.}

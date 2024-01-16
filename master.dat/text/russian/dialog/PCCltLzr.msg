@@ -1,59 +1,59 @@
-{100}{}{You see a tramp.}
-{101}{}{This tramp wanders aimlessly around the square.}
-{102}{}{This inadequate tramp is actively chanting something in honor of the church.}
-{103}{}{This guy barely moves across the square.}
-{104}{}{This refugee wanders aimlessly around the square.}
+{100}{}{You see a person.}
+{101}{}{This person is wandering around aimlessly.}
+{102}{}{This person is chanting something vaguely positive about the church.}
+{103}{}{This goner can barely move around.}
+{104}{}{This refugee is wandering around aimlessly.}
 
-#Floating replicas
-#- beggar
-{110}{}{Leave me alone.}
-{111}{}{I do not know what to do.}
-{112}{}{Such as me, nothing shines in the city.}
-{113}{}{I'm going to lie down here... you don't mind?}
-{114}{}{I want to quit this street life, but I can't.}
-{115}{}{Phoenix is thriving, and I'm falling further and further.}
-{116}{}{This, do you have some food for the poor brother from the street?}
-{117}{}{Borrow some caps, I'll give it, honestly.}
-{118}{}{I really need medicine for the baby. Help me out, huh?}
-{119}{}{I'm starving, at least give me a rat's tail.}
-{120}{}{Do you want to join? Sorry, but the area won't fit so many.}
-{121}{}{I'm waiting for the fanatics to bring us free food.}
-{122}{}{The cathedral sometimes distributes leftovers after lunch.}
-{123}{}{When the food is taken out, you need to kiss the priest's feet.}
-{124}{}{Praise the Fire! All people are brothers! See, I'm a believer too.}
+#Floating dialogue
+#- poor
+{110}{}{Don't bother me.}
+{111}{}{I don't know what to do.}
+{112}{}{There is no future in this city for people like me.}
+{113}{}{I'll just lie down here... are you okay with that?}
+{114}{}{I want to leave this street life behind, but I can't.}
+{115}{}{Phoenix may be prospering, but my situation is getting worse and worse.}
+{116}{}{Hey, do you have some food you could share with your fellow man living on the streets?}
+{117}{}{Could I borrow a couple of caps? I'll give them back, I promise.}
+{118}{}{I really need medicine for my kid. Help me out, eh?}
+{119}{}{I'm starving, give me a rat's tail at the very least.}
+{120}{}{Want to join me? Sorry, this place can't fit so many people.}
+{121}{}{I'm waiting for the fanatics to give us free food.}
+{122}{}{Those in the cathedral sometimes give us leftovers after lunch.}
+{123}{}{We have to kiss the priest's legs when they give us the food.}
+{124}{}{Glory to the Fire! All humans are brothers! See, I'm a believer too.}
 
 #- adept
-{130}{}{I want to become a novice, but they won't take me.}
-{131}{}{I'm telling you - I'll become a novice!}
-{132}{}{We'll have to pray a lot to be accepted into the order.}
-{133}{}{Peace! Love! Sacred Fire!}
-{134}{}{Do you also believe in something-there?}
+{130}{}{I want to become a novice, but they are not accepting me.}
+{131}{}{I'm telling you, I'll become a novice!}
+{132}{}{I'll have to pray a lot to be accepted into the order.}
+{133}{}{Peace! Love! Holy Fire!}
+{134}{}{Do you also believe in something?}
 {135}{}{What do YOU believe in?}
-{136}{}{Hail the Sacred Fire!}
-{137}{}{Hail Phoenix! Hail, Aaron!}
-{138}{}{I love Aaron! Hail, Aaron, Lord of the Phoenix!}
-{139}{}{My life belongs to Saint Aaron}
+{136}{}{Glory to the Holy Fire!}
+{137}{}{Glory to Phoenix! Glory to Aaron!}
+{138}{}{I love Aaron! Glory to Aaron, the Overlord of Phoenix!}
+{139}{}{My life belongs to Aaron!}
 
 #- sick or disabled
-{150}{}{I am here to ask for healing from an illness.}
-{151}{}{There is no escape from my illness, but the monks promised to help.}
-{152}{}{They say monks possess the ancient sacrament of healing.}
-{153}{}{I pray to Aaron every day to heal my sores.}
-{154}{}{I gave all my savings to the church, but I never cured my illness.}
-{155}{}{The monks treat me with prayers. And I feel a surge of strength! Oh, no...}
-{156}{}{The monks say I need to purify my soul. And for this you need to give everything to the church.}
-{157}{}{I'm so worthless, right?}
-{158}{}{I ask my followers to help me.}
-{159}{}{Only Followers of Fire can heal as well as before the Great War.}
+{150}{}{I'm here to ask them to heal my ailment.}
+{151}{}{There is no saving me from my illness, but the monks promised to help.}
+{152}{}{They say the monks know the ancient sacrament of healing.}
+{153}{}{I pray to Aaron every day so that my ulcers are healed.}
+{154}{}{I gave all my savings to the church, but I haven't yet healed my illness.}
+{155}{}{The monks cure me with prayers. And I feel strength coming back to me! Ow, or maybe not...}
+{156}{}{The monks say my soul must be cleansed. And for that I need to give everything I have to the church.}
+{157}{}{I'm that pathetic, yes?}
+{158}{}{I'm only asking the followers to help me.}
+{159}{}{Only the Followers of the Holy Fire can heal as well as people could before the Great War.}
 
 #- refugee
-{170}{}{I am here to seek refuge from the Followers of Fire.}
-{171}{}{I was told that the church accepts refugees, but this is not the case.}
-{172}{}{We fled from bandits, but the church does not want to receive us.}
-{173}{}{Followers of Fire help refugees.}
-{174}{}{The monks here are unusually round-cheeked. They are probably ill with something.}
+{170}{}{I'm here to ask the Followers of the Holy Fire for refuge.}
+{171}{}{I was told the church accepts refugees, but that's not true.}
+{172}{}{We were running away from bandits, but the church doesn't want to accept us.}
+{173}{}{The Followers of the Holy Fire help refugees.}
+{174}{}{The monks here have incredibly large stomachs. Must be some kind of illness.}
 {175}{}{Only near the temple do I feel safe.}
-{176}{}{They are strange - these fire worshippers.}
-{177}{}{These fanatics promise paradise on earth.}
-{178}{}{They say we should be afraid, but I don't understand what or who.}
-{179}{}{It's better to give food, and everyone can preach.}
+{176}{}{The Fire-worshippers are strange people.}
+{177}{}{They promise heaven on earth.}
+{178}{}{They say we must fear something, but I don't understand why, or who they're talking about.}
+{179}{}{They better give some food, anyone can preach.}

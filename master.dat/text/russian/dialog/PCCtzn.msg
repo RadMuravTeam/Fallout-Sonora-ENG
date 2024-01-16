@@ -1,147 +1,147 @@
-{100}{}{You see a citizen.}
-{101}{}{You see a Phoenician.}
-{102}{}{You see a Phoenician woman.}
-{103}{}{ }
+{100}{}{You see an city dweller.}
+{101}{}{You see a phoenixian.}
+{102}{}{You see a phoenixian.}
+{103}{}{    }
 
-{110}{}{You see an ordinary resident of Phoenix. Nothing outstanding.}
-{111}{}{You see an inconspicuous man. He mindlessly hobbles along the street.}
-{112}{}{You see a man in dirty clothes. He seems to be suffering from a hangover.}
-{113}{}{You see a local. His gaze is unfriendly.}
-{114}{}{You see a local. He quickly looks away from you, as if he doesn't notice.}
+{110}{}{You see a regular inhabitant of Phoenix. Nothing special.}
+{111}{}{You see a regular man. He is aimlessly walking along the street.}
+{112}{}{You see a man in dirty clothes. It looks like he is suffering from a hangover.}
+{113}{}{You see a local. His gaze is not welcoming.}
+{114}{}{You see a local. He quickly stops looking at you, as if he doesn't notice you.}
 
-{120}{}{You see an ordinary resident of Phoenix. Nothing outstanding.}
-{121}{}{You see an inconspicuous woman. She walks listlessly along the street.}
-{122}{}{You see a woman in old clothes. It won't hurt her to change her wardrobe.}
-{123}{}{You see a Phoenix resident. Her look expresses annoyance.}
-{124}{}{You see a Phoenix resident. She snorts when she catches your eye.}
+{120}{}{You see a regular inhabitant of Phoenix. Nothing special.}
+{121}{}{You see a regular woman. She is aimlessly walking along the street.}
+{122}{}{You see a woman in shabby clothes. It wouldn't hurt to change them.}
+{123}{}{You see a female inhabitant of Phoenix. Her gaza indicates irritation.}
+{124}{}{You see a female inhabitant of Phoenix. She snorts when she catches you looking at her.}
 
 #########################################
-#Retaliatory remarks
+#Replies
 #########################################
 
 #- reputation
-{200}{}{Good afternoon.}
-{201}{}{Only after you.}
-{202}{}{*Waving to you affably*}
-{203}{}{Of course, of course, I dare not delay.}
-{204}{}{Is there anything I can do to help?}
-{205}{}{I want to buy you a drink, but I'm broke.}
+{200}{}{Good day.}
+{201}{}{After you.}
+{202}{}{*Waves hand in a friendly manner*}
+{203}{}{Of course, of course, I shouldn't waste your time.}
+{204}{}{Can I help you?}
+{205}{}{I'd buy you a drink, but I have a hangover.}
 {206}{}{Hello. How are you?}
-{207}{}{We need to stick with people like you.}
-{208}{}{I don't know why, but they say a lot of good things about you.}
-{209}{}{My respects.}
+{207}{}{One should stick to people like you.}
+{208}{}{I don't know why, but I heard a lot of good things about you.}
+{209}{}{My respect.}
 
 {210}{}{Hello.}
-{211}{}{Watch where you're going.}
+{211}{}{Watch where you're heading.}
 {212}{}{Damn tourists...}
-{213}{}{Don't bother passersby, otherwise you'll get between the eyes.}
-{214}{}{You're not from the locals, it's obvious right away.}
+{213}{}{Don't annoy people, someone is bound to punch you between the eyes.}
+{214}{}{It's obvious you aren't a local.}
 {215}{}{First time in Phoenix, huh?}
-{216}{}{*Dismisses you*}
-{217}{}{Great, another beggar.}
+{216}{}{*Shakes you off*}
+{217}{}{Great, one more bum.}
 {218}{}{Stop bothering me.}
-{219}{}{What do you need?}
+{219}{}{What?}
 
 {220}{}{Fuck off.}
 {221}{}{Get off the street.}
-{222}{}{Get out of the way.}
-{223}{}{When they hang you, I'll laugh. LAUGH!}
-{224}{}{Great, one more peasant. Why are you coming here, huh?}
-{225}{}{Is there not enough room for you in the wastelands?}
-{226}{}{Don't come near me.}
-{227}{}{People like you don't belong in Phoenix.}
-{228}{}{You'll end up being hanged, too.}
+{222}{}{Get off the road.}
+{223}{}{I'll make sure to see your execution.}
+{224}{}{Great, another peasant. Why do you people rush here, eh?}
+{225}{}{What, wasteland too crowded for you?}
+{226}{}{Don't come close to me.}
+{227}{}{Phoenix has no place for people like you.}
+{228}{}{You'll get hanged too.}
 {229}{}{The city would be a better place without you.}
 
 #- power armor
 {230}{}{Don't touch me, Iron Man!}
-{231}{}{Hello, uh, sir... or ma'am... or whoever it is.}
-{232}{}{Can I ride you?}
-{233}{}{This, can you kill a couple of my enemies?}
-{234}{}{Are you looking for other robots? Well, the same as you?}
-{235}{}{If you're looking for your fellow robots, there aren't many left.}
-{236}{}{I feel so sorry for you, robot, you are so lonely in the world of people.}
-{237}{}{*Knock-knock* Hey, is anyone there?}
-{238}{}{Sorry, but the Scarecrow and Toto are not here.}
-{239}{}{Don't make me oil you.}
+{231}{}{Hello, uhh, sir... or ma'am... or whoever is inside of this thing.}
+{232}{}{Can I ride on you?}
+{233}{}{Hey, can you kill a few people I don't like?}
+{234}{}{You're looking for other robots? Well, are those like you?}
+{235}{}{If you're looking for your fellow robots, I'm sorry, there aren't many of you left.}
+{236}{}{I feel so bad for you, robot. You are alone in a world of men.}
+{237}{}{*Knock-knock* Hey, who's there?}
+{238}{}{Sorry, but there is no Scarecrow or Toto here.}
+{239}{}{Don't make me oil you up.}
 
-#- GG follower
-{240}{}{I pray to the Sacred Fire every day... the truth is true.}
-{241}{}{I'm sorry, I'll get out of the way immediately...}
+#- player is a follower
+{240}{}{I pray to the Holy Fire every day... I'm telling the truth.}
+{241}{}{I'm sorry, I'll get off the road immediately...}
 {242}{}{I promise I'll be good.}
-{243}{}{May the Sacred Fire be glorified... What's next?}
-{244}{}{I'm sorry, I won't breathe YOUR air anymore.}
-{245}{}{I honor Aaron, our liberator.}
-{246}{}{How to become a novice?}
-{247}{}{I don't want any trouble.}
-{248}{}{Is it true that you are forbidden to fuck?}
-{249}{}{Don't even ask for donations to the temple, I have nothing.}
+{243}{}{Glory to the Holy Fire... What's after that?}
+{244}{}{I'm sorry, I won't breathe YOUR air any longer.}
+{245}{}{I respect Aaron, our liberator.}
+{246}{}{How does one become a Follower?}
+{247}{}{I don't need trouble.}
+{248}{}{Is it true that you're forbidden from fucking?}
+{249}{}{Don't even ask for donations to the temple - I don't have anything.}
 
-#- GG arena champion
-{250}{}{I would have bet you a drink, but my bet on the last fight burned out.}
-{251}{}{Damn, if you lost, my bet would have won.}
-{252}{}{I'm sorry, I'll get out of the way immediately... And I'll leave town.}
-{253}{}{And you don't look like you're a champion.}
-{254}{}{How long did you have to train?}
-{255}{}{If you lose the next fight, I'll be SO upset.}
-{256}{}{I'll take my kids to the next fight.}
-{257}{}{It was a great fight, champion.}
-{258}{}{Why don't you fight in the ring anymore?}
-{259}{}{Arena fights have become boring without you.}
+#- player is a champion of the arena
+{250}{}{I'd buy you a drink, but the person I put my bet on in the last fight lost.}
+{251}{}{Damn, you should have lost. I would've gotten money that way.}
+{252}{}{I'm sorry, I'll get off the road immediately... and leave the city.}
+{253}{}{You know, you don't look like a champion to me.}
+{254}{}{How long have you been exercising?}
+{255}{}{I'll be SO sad if you lose the next fight.}
+{256}{}{I'll bring my kids with me to watch the next fight.}
+{257}{}{That was an awesome fight, champion.}
+{258}{}{Why aren't you fighting on the arena anymore?}
+{259}{}{Fights on the arena have become boring without you.}
 
-{1250}{}{I would have bet you a drink, but my bet on the last fight burned out.}
-{1251}{}{Damn, if you lost, my bet would have won.}
-{1252}{}{I'm sorry, I'll get out of the way immediately... And I'll leave town.}
-{1253}{}{And you don't look like you're a champion.}
-{1254}{}{How long did you have to train?}
-{1255}{}{If you lose in the next fight, I'll be SO upset.}
-{1256}{}{I'll take my kids to the next fight.}
-{1257}{}{It was a great fight, champion.}
-{1258}{}{Why don't you fight in the ring anymore?}
-{1259}{}{Arena fights have become boring without you.}
+{1250}{}{I'd buy you a drink, but the person I put my bet on in the last fight lost.}
+{1251}{}{Damn, you should have lost. I would've gotten money that way.}
+{1252}{}{I'm sorry, I'll get off the road immediately... and leave the city.}
+{1253}{}{You know, you don't look like a champion to me.}
+{1254}{}{How long have you been exercising?}
+{1255}{}{I'll be SO sad if you lose the next fight.}
+{1256}{}{I'll bring my kids with me to watch the next fight.}
+{1257}{}{That was an awesome fight, champion.}
+{1258}{}{Why aren't you fighting on the arena anymore?}
+{1259}{}{Fights on the arena have become boring without you.}
 
-#- GG stoned
-{260}{}{Yeah, yeah, uh, the leprechauns are over there, around the corner.}
-{261}{}{Are you high?}
-{262}{}{I also had problems with this stuff.}
-{263}{}{I don't have any drugs for you.}
-{264}{}{Go away, you fucking junkie.}
-{265}{}{I feel sorry for people like you.}
-{266}{}{Are you all right?}
-{267}{}{Looks like you're doing well... judging by the dilated pupils.}
-{268}{}{It won't do any good.}
-{269}{}{Need drugs? Look for them in the slums, loser.}
+#- player is on drugs
+{260}{}{Yes, yes, uhh, the leprechauns are just beyond that corner.}
+{261}{}{Are you on drugs or what?}
+{262}{}{I had problems with that too.}
+{263}{}{No, I don't have any drugs for you.}
+{264}{}{Scram, damn drug addict.}
+{265}{}{I feel sorry for those like you.}
+{266}{}{Everything alright?}
+{267}{}{Looks like you feel good... judging by the dilated pupils.}
+{268}{}{This won't lead to anything good.}
+{269}{}{You need drugs? Go find them in the slums, loser.}
 
 #- about the city
-{270}{}{This sky will never be clear.}
-{271}{}{It's going to be a hot night.}
-{272}{}{Easterly winds bring only dust and ashes.}
-{273}{}{There is always such a smog here.}
-{274}{}{Dust storm season is coming soon.}
+{270}{}{This sky will never become clear.}
+{271}{}{This night will be a hot one.}
+{272}{}{The eastern winds bring only dust and ashes.}
+{273}{}{There was always smog here.}
+{274}{}{The dust storm season is near.}
 
 {275}{}{I hate this damn city.}
-{276}{}{I've been living here too long.}
-{277}{}{It's getting a little crowded in the city.}
-{278}{}{It's time to get out of this city.}
-{279}{}{Phoenix is crowded with people... and problems.}
+{276}{}{I've spent too much time here.}
+{277}{}{The city is becoming crowded.}
+{278}{}{Time to get out of this city.}
+{279}{}{Phoenix is full of people... and problems.}
 
-{280}{}{Fortune has turned away from me.}
-{281}{}{I'm going to break the bank at the casino.}
-{282}{}{I'm trying to quit, but...}
-{283}{}{I'm having fun tonight!}
-{284}{}{I want to try my luck at the casino.}
+{280}{}{Fortune has turned it's back on me.}
+{281}{}{I'm gonna hit the jackpot in that casino.}
+{282}{}{I'm TRYING to stop, but...}
+{283}{}{Evening's gonna be a party!}
+{284}{}{I'll try my luck in the casino.}
 
-{285}{}{I can't wait for Veronica's new performances.}
-{286}{}{Veronica has an enviable figure.}
-{287}{}{Another worthless day.}
-{288}{}{Go to the ring if you have nothing to do.}
-{289}{}{Not a single rain in many years.}
+{285}{}{Can't wait for Veronica's new performances.}
+{286}{}{I envy Veronica's shape.}
+{287}{}{Another pathetic day.}
+{288}{}{Go to the arena if you have nothing to do.}
+{289}{}{Not one drop of rain for so many years.}
 
-{290}{}{They say the mercenaries are preparing a new batch of slaves.}
-{291}{}{There are only crooks in the casino.}
-{292}{}{Street thugs got completely out of hand.}
-{293}{}{Death awaits you in the slums.}
-{294}{}{Caravaneers, caravaneers all around...}
+{290}{}{They say the mercs are readying a new batch of slaves.}
+{291}{}{The casino's just full of cheaters.}
+{292}{}{The street bandits can do anything they want.}
+{293}{}{Only death awaits those who enter the slums.}
+{294}{}{Caravaneers, caravaneers everywhere...}
 
 {295}{}{}
 {296}{}{}
@@ -150,93 +150,93 @@
 {299}{}{}
 
 #########################################
-#Floating replicas
+#Floating dialogue
 #########################################
 
 #- reputation
 {300}{}{}
 
 #- power armor
-{330}{}{Oh, no, no, IT's looking my way!}
-{331}{}{Do you think it wants to attack someone?}
-{332}{}{Just ignore, just ignore...}
-{333}{}{From the sight of this one... THINGS are getting uncomfortable.}
-{334}{}{It doesn't look like a robot.}
-{335}{}{So that's what it is - the legendary power armor.}
+{330}{}{Oh no, oh no, IT'S looking in my direction!}
+{331}{}{You think it wants to attack someone?}
+{332}{}{Just ignore it, just ignore it...}
+{333}{}{Just looking at that... THING gives me the creeps.}
+{334}{}{This doesn't look like a robot.}
+{335}{}{So that's what it looks like - the legendary power armor.}
 {336}{}{I hope this thing isn't radioactive.}
-{337}{}{Is this some kind of self-propelled washing machine?}
-{338}{}{They say this piece of iron just killed five people yesterday.}
-{339}{}{Oh, it's better to get out of the way.}
+{337}{}{What is this? Some kind of moving washing machine?}
+{338}{}{They say this thing killed five people just yesterday.}
+{339}{}{Oops, better get off the road.}
 
-#- GG follower
-{340}{}{Stay away from this guy.}
-{341}{}{It looks ominous.}
-{342}{}{These sectarians are divorced... oops, it's better to be silent.}
-{343}{}{Don't speak ill of Followers.}
-{344}{}{Don't look at the followers point-blank, it's a bad sign.}
-{345}{}{Is it a follower? I have to say something flattering...}
-{346}{}{These followers have spies everywhere.}
-{347}{}{Walking around the city openly like this? These sectarians have become quite arrogant.}
-{348}{}{These followers feel like masters of the Phoenix.}
-{349}{}{I hope this sectarian is not going to demand donations from me.}
+#- player is a follower
+{340}{}{Don't get close to that person.}
+{341}{}{Those uniforms look so evil.}
+{342}{}{There are so many cultists around... oops, better not say anything.}
+{343}{}{Don't say anything bad about the Followers.}
+{344}{}{Don't look at the Followers while they're near you, it's not a good sign.}
+{345}{}{Is that a follower? I need to come up with something flattering...}
+{346}{}{These Followers have spies everywhere.}
+{347}{}{Walking across the city so openly? The arrogance of those cultists knows no bounds.}
+{348}{}{These Followers think they own Phoenix.}
+{349}{}{I hope that cultist isn't going to make me donate to the temple.}
 
-#- GG arena champion - husband
-{350}{}{It's that crazy guy from the ring.}
-{351}{}{Do you think if I come up, he will hit me?}
-{352}{}{This fighter is a fighter to all fighters.}
-{353}{}{Just don't look at him, just don't look...}
+#- player is an arena champion - male
+{350}{}{So this is that unusual one from the arena.}
+{351}{}{You think if I come close, he'll punch me?}
+{352}{}{He must be the best fighter in the world.}
+{353}{}{Don't look at him, don't look at him...}
 {354}{}{Hey, great fight, champion!}
 {355}{}{*whistles* Hey! Champion!}
-{356}{}{I wonder if this bully will pay attention to me.}
-{357}{}{Men earn money from fights. What the world has come to...}
-{358}{}{Why aren't you fighting anymore?}
-{359}{}{Come on, big guy, show me your left hook!}
+{356}{}{I wonder whether this giant will pay attention to me.}
+{357}{}{Men earn by fighting. What is this world coming to...}
+{358}{}{Why aren't you participating in the fights anymore?}
+{359}{}{Hey, giant, show us your left hook!}
 
-#- GG arena champion - Women
-{360}{}{It's the crazy one from the ring.}
-{361}{}{Do you think if I come up, she'll hit me?}
-{362}{}{This bitch will put anyone on the shoulder blades.}
-{363}{}{Just don't look at her, just don't look...}
+#- player is an arena champion - female
+{360}{}{So this is that unusual one from the arena.}
+{361}{}{You think if I come close, she'll punch me?}
+{362}{}{This bitch will put anyone down on the ground.}
+{363}{}{Don't look at her, don't look at her...}
 {364}{}{Hey, great fight, champion!}
-{365}{}{*whistles* Hey! Champion!}
-{366}{}{I wonder if this star will pay attention to me.}
-{367}{}{A woman and an arena champion? What have we come to...}
-{368}{}{Why aren't you fighting anymore?}
-{369}{}{Come on, woman, show me your right hook!}
+{365}{}{whistles* Hey! Champion!}
+{366}{}{I wonder whether this star will pay attention to me.}
+{367}{}{A woman being an arena champion? What are we coming to...}
+{368}{}{Why aren't you participating in the fights anymore?}
+{369}{}{Hey, woman, show us your left hook!}
 
 #- about the city
-{370}{}{*Apchi!*}
+{370}{}{*Achoo!*}
 {371}{}{It's hard to breathe this air.}
-{372}{}{Because of the smog, the city is not even visible from the mountain.}
-{373}{}{Someone has to clean up all this garbage.}
-{374}{}{It's going to be a hot night.}
+{372}{}{You can't see the city even from a mountain due to all this smog.}
+{373}{}{Someone needs to do something about all this trash.}
+{374}{}{This night will be a hot one.}
 
-{375}{}{It's getting a little crowded in the city.}
-{376}{}{It's good that that guy was hanged...}
-{377}{}{There are only tramps and idlers around...}
-{378}{}{I can't live in such conditions anymore.}
-{379}{}{It's time to get out of the city.}
+{375}{}{This city is becoming crowded.}
+{376}{}{It's good that they hanged that guy...}
+{377}{}{Everywhere I go there are only hobos and slackers...}
+{378}{}{I can't live in these conditions anymore.}
+{379}{}{Time to get out of this city.}
 
-{380}{}{The bank took pity on me.}
-{381}{}{Not a foot in the casino anymore.}
-{382}{}{I'll go to the casino for an hour... or more.}
-{383}{}{Fortune has turned away from me.}
-{384}{}{Everything was against me.}
+{380}{}{The bank had mercy upon me.}
+{381}{}{I'm not going in the casino at all from now on.}
+{382}{}{I'll go to the casino for just an hour... or a bit more.}
+{383}{}{Fortune has turned it's back on me.}
+{384}{}{It was all set up against me.}
 
-{385}{}{If Followers start reading me another moral...}
-{386}{}{Even during the day it is dangerous in the slums.}
-{387}{}{There are more caravans.}
-{388}{}{Is there really life outside the city?}
-{389}{}{Only the desperate can travel through the desert.}
+{385}{}{I swear, if the Followers try to moralize me one more time...}
+{386}{}{During the day, even the slums are dangerous.}
+{387}{}{There are more and more caravans now.}
+{388}{}{Is there really life beyond the city?}
+{389}{}{Only the desperate can travel across the desert.}
 
-#- Cathedral explosion
-{390}{}{These sectarians got what they deserved.}
-{391}{}{Phoenix will have a hard time without Followers.}
-{392}{}{The cathedral was destroyed, and the followers fled. Business...}
-{393}{}{I don't know which is better - with or without followers.}
-{394}{}{I can't believe it was a nuclear bomb.}
-{395}{}{So these idiots were building a nuclear bomb?}
-{396}{}{A nuclear bomb? Yes, they were definitely abnormal.}
-{397}{}{After the explosion in the Cathedral, the caps began to depreciate.}
-{398}{}{Who will now control the course of the caps?}
-{399}{}{It looks like the caps will become useless junk again.}
+#- explosion of the cathedral
+{390}{}{These cultists got what they deserved.}
+{391}{}{Phoenix will have a hard time existing without the Followers.}
+{392}{}{Cathedral destroyed, Followers fleeing. What a world...}
+{393}{}{I don't know whether life is better or worse without the Followers.}
+{394}{}{I can't believe it was an atomic bomb.}
+{395}{}{So those idiots were building an atomic bomb?}
+{396}{}{An atomic bomb? Yes, they were definitely not all right in the head.}
+{397}{}{After the destruction of the Cathedral the value of caps is going down and down.}
+{398}{}{Who will control the rate of the caps now?}
+{399}{}{Looks like bottle caps will become useless junk once again.}

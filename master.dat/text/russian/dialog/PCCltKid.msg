@@ -1,15 +1,15 @@
 {100}{}{You see a child.}
-{101}{}{You see an ordinary city child in rags.}
-{102}{}{Uh, I have to go.}
+{101}{}{You see a regular city child covered in rags.}
+{102}{}{Uhh, I have to go.}
 
 {200}{}{Excuse me, sir!}
-{1200}{}{Sorry, ma'am!}
-{201}{}{I don't serve beggars. Get lost.}
-{202}{}{What do you want, youngster?}
-{203}{}{I was asked to give this to you. (holds out a note)}
-{204}{}{If this is some kind of deception, you will pay cruelly for it.}
-{205}{}{Thank you, child, that's very kind of you.}
-{206}{}{Give it here.}
-{207}{}{(After passing the note, the child immediately runs away. You unfold a piece of paper, it says: "The sectarians got what they deserved. Stop your investigation, otherwise the same fate awaits you.")}
-{208}{}{If that youngster wrote it, then it remains to tremble with fear.}
-{209}{}{It seems that not ordinary bandits are behind the attacks.}
+{1200}{}{Excuse me, ma'am!}
+{201}{}{I don't help beggars. Get lost.}
+{202}{}{What do you need, youngster?}
+{203}{}{I was asked to bring this to you. (hands note)}
+{204}{}{If this is part of some deceitful plan, you will pay for it dearly.}
+{205}{}{Thanks, kid. That's very kind of you.}
+{206}{}{Give it to me.}
+{207}{}{(The child runs away mere moments after handing you the note. You unfold it, and see that it reads this: "The cultists got what they deserved. End your investigation or suffer the same fate.")}
+{208}{}{If that kid wrote this, then all I have left to do is tremble in fear.}
+{209}{}{Looks like it's not just regular bandits behind the attacks.}

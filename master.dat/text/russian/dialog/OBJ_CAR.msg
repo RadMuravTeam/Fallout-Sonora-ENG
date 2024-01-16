@@ -2,33 +2,33 @@
 {101}{}{-}
 
 #Using hands
-{110}{}{Without energy, the motorcycle will not go anywhere.}
-{111}{}{Damn, I need to charge the power supply.}
-{112}{}{The bike won't start. The on-board computer is locked and requires an access key.}
-{113}{}{Hmm, it seems that a key is needed here.}
-{114}{}{Now is not the right time for a remote trip.}
-{115}{}{I have unfinished business.}
-{116}{}{You stole a bike from bandits! I don't think they'll like it.}
-{117}{}{The motorcycle can accommodate only two passengers.}
+{110}{}{Without power, the bike won't go anywhere.}
+{111}{}{Damn, I need to insert a power block.}
+{112}{}{The bike isn't starting. It seems that the navigation computer is locked. You will have to acquire an access key.}
+{113}{}{Hmm. Looks like this thing needs an access key.}
+{114}{}{Now is not the right time for remote travel.}
+{115}{}{I have some unfinished business.}
+{116}{}{You steal the bike from the highwaymen! Your reputation among them lowers accordingly.}
+{117}{}{The bike can only fit two passengers.}
 
 #Using items
-{200}{}{Access has been obtained. Now the bike is ready to ride.}
-{201}{}{It doesn't fit.}
-{202}{}{This transport is charged from another energy carrier.}
-{203}{}{The motorcycle does not need lubrication yet.}
-{204}{}{The motorcycle does not need to change parts yet.}
-{205}{}{The onboard computer does not need repair yet.}
-{206}{}{This skull will serve as a great decoration for your steering wheel. And remind others that you are not to be trifled with.}
-{207}{}{You can't do this until the motorcycle belongs to you.}
-{208}{}{The steering wheel is already decorated with one skull.}
-{209}{}{You have restored the blind headlight. Now she will light your way.}
-{210}{}{This motorcycle has all the headlights in working order.}
-{211}{}{This applies more to the luggage compartment.}
+{200}{}{Access granted. The bike is now fully operational.}
+{201}{}{Not suitable.}
+{202}{}{This vehicle uses a different power source.}
+{203}{}{The bike doesn't need lubrication yet.}
+{204}{}{The bike doesn't need to have it's components replaced yet.}
+{205}{}{The navigation computer is not yet in need of repair.}
+{206}{}{This skull will make for a fine addition to the bike's steering wheel. Others will see that you are not to be trifled with.}
+{207}{}{Can only be done once you own the bike.}
+{208}{}{The steering wheel is already adorned with a skull.}
+{209}{}{You have replaced the broken headlight. It will now light the way for you.}
+{210}{}{All the headlights on this bike are fully operational.}
+{211}{}{This is related to the luggage compartment more.}
 
 #Using skills
-{300}{}{There's nothing to hack here.}
-{301}{}{The onboard computer is already under your control.}
-{302}{}{It's too complicated for you. Try to find the access key.}
-{303}{}{There is nothing to repair here.}
-{304}{}{There is nothing to repair here. However, you haven't examined the trunk yet.}
-{305}{}{You cannot repair this bike until it’s yours.}
+{300}{}{Nothing to hack here.}
+{301}{}{The navigation computer is already under your control.}
+{302}{}{This is too hard for you. Try to find the access key.}
+{303}{}{Nothing to repair here.}
+{304}{}{There's nothing to repair here. Though you haven't checked the trunk yet.}
+{305}{}{You can't repair the bike until it becomes your property.} 

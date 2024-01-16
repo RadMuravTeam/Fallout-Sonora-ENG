@@ -1,138 +1,138 @@
-{100}{}{You see Mayor Alvaro.}
-{101}{}{You see a puny-looking Mexican with a thin mustache and an apologetic look.}
-{102}{}{Hide it immediately. No weapons while you're in town.}
-{103}{}{We have a quiet settlement. It's not worth walking around here in this thing and scaring civilians.}
-{104}{}{Did something happen? Then get back to bed immediately! There is a curfew in the city at night.}
-{105}{}{They demand solutions from me. What can I do? I was just signing papers for the Brotherhood!}
+{100}{}{You see mayor Alvaro.}
+{101}{}{You see a puny-looking mexican with a thin mustache and an apologetic look.}
+{102}{}{Put that away immediately. No weapons while you're in the town.}
+{103}{}{This is a quiet settlement. No need to walk around in that thing and scare peaceful citizens.}
+{104}{}{Did something happen? Then get back to your bed immediately! There's curfew in the town at night.}
+{105}{}{They're demanding that I make decisions. But what can I actually do? I only signed papers for the Brotherhood!}
 
-#First meeting
-{200}{}{Oh, a new face in town! What a pleasant surprise... Greetings to you. I am, one might say, the mayor of this city. And my name is Alvaro.}
-{201}{}{Hello, Mayor.}
-{202}{}{Hmm. Don't you want to tell me your name? I won't insist. Surely you have a reason for that.}
-{203}{}{Yes, that's right.}
-{204}{}{I }
-{205}{}{. Very nice, senor Alvaro.}
-{206}{}{Good manners? Then you and I will meet.}
-{207}{}{Thank you for the warm welcome.}
-{208}{}{What a pathetic sight, Mayor? And this, in your opinion, is a city?}
-{209}{}{Uh, yes, I realize that it's not as big as Phoenix or its outskirts. And besides the Sonoran desert, I've never seen anything in my life. But look - isn't it beautiful here?}
+#First encounter
+{200}{}{Oh, a new face in town! A very pleasant surprise... Welcome. I suppose I could be called the mayor of this city. And as for my name, it's Alvaro.}
+{201}{}{Hello, mayor.}
+{202}{}{Hm. You don't want to say your name? Well, I won't insist. You must have your own reasons for that.}
+{203}{}{That is correct.}
+{204}{}{I'm }
+{205}{}{. Very nice to meet you, senor Alvaro.}
+{206}{}{Good manners? I think you and I will get along just fine.}
+{207}{}{Thank you for your warm welcome.}
+{208}{}{What is this sad sight, mayor? You call this a city?}
+{209}{}{Uhh, yes, I admit that it's not as big as Phoenix or it's surroundings. And yes, I did not see anything else in my life other than the Sonora desert. But look around - isn't this perfect?}
 {210}{}{Maybe.}
-{211}{}{It's just terrible here - there is no civilization.}
-{212}{}{May I know where you're going?}
-{213}{}{I don't know. I'm going wherever my eyes look.}
-{214}{}{Well, okay, I'll take your word for it. It's none of my business.}
-{215}{}{Thank you for understanding.}
-{216}{}{Exactly.}
-{217}{}{You can count on an overnight stay in our city. But subject to the rules. You're not going to make trouble for us, are you?}
+{211}{}{This place is terrible - no civilization whatsoever.}
+{212}{}{Can you tell me where you're heading?}
+{213}{}{I dunno. I'm just walking.}
+{214}{}{Well, fine, I'll believe you. It really is none of my business.}
+{215}{}{Thanks for the understanding.}
+{216}{}{Damn right.}
+{217}{}{You can stay in our town for some time. But only if you follow the rules. You aren't going to cause trouble, are you?}
 {218}{}{Of course. Thanks for the offer.}
-{219}{}{I don't bite until I'm disturbed. Keep in mind.}
-{220}{}{I serve the Brotherhood of Steel. Here's my badge.}
-{221}{}{Oh, welcome! Did not recognize... er... we are always glad to have our defenders. Make yourself as comfortable as you like.}
+{219}{}{I don't bite if I'm not disturbed. Keep that in mind.}
+{220}{}{I serve the Brotherhood of Steel. Here is my badge.}
+{221}{}{Oh, welcome! I didn't recognize you... Uhh... We're always happy to see our defenders. Make yourself at home.}
 {222}{}{Thank you.}
-{223}{}{That would be right away.}
+{223}{}{If only you behaved like that from the start.}
 {224}{}{I'm heading to Puerto. I have business there.}
-{225}{}{What a surprise. Usually, only caravans go in that direction without permission. But if you don't want to talk, I can't insist.}
-{226}{}{Thank you for understanding.}
-{227}{}{That's good. As they say, silence is more expensive than a bag of corn.}
-{228}{}{It's none of your business.}
-{229}{}{Well, let's assume that it's none of my business. But don't be rude to us, because we are a peaceful settlement.}
-{230}{}{Sorry, it was in a hurry - just fatigue from the road...}
-{231}{}{If you don't want a conflict, don't start it yourself. Got it?}
-{232}{}{I was glad to chat. But I'm sorry, I have a lot of paperwork right now.}
-{233}{}{See you again.}
-{234}{}{Do we have the same names? Funny coincidence. Then you and I will surely meet.}
+{225}{}{How unexpected. Usually only caravans go there by their own accord. But if you don't want to tell me, I won't insist.}
+{226}{}{Thanks for your understanding.}
+{227}{}{Very good. As they say, silence is worth more than a bag of maize.}
+{228}{}{None of your business.}
+{229}{}{Well, let's assume it really is none of my business. But you shouldn't be rude to us. We're a peaceful settlement, after all.}
+{230}{}{Sorry, I'm really tired after such a long way...}
+{231}{}{You don't want conflict - then don't start it. Got it?}
+{232}{}{I'm glad we had this conversation. But sorry, right now I have tons of paperwork to do.}
+{233}{}{See you later.}
+{234}{}{We have the same names? An interesting coincidence. We'll surely get along well.}
 
-{239}{}{So your town will come to an end. Run away from here before the crowd overthrows you, the mayor is a loser.}
-{240}{}{(clutching his head with his hands, the mayor sits at the table and does not pay attention to others) Eh...}
-{241}{}{You look like shit. Did something happen?}
-{242}{}{Everything is gone... We used to survive thanks to the Brotherhood of Steel. And recently a messenger came with bad news...}
-{243}{}{Yes, I know - the Brotherhood has been destroyed. Probably an explosion at the ammunition depot.}
-{244}{}{What should we do now? Who will protect us? Who will give us instructions?}
+{239}{}{So, the town is doomed. Flee before the crowd overthrows you... "mayor".}
+{240}{}{(clutching his head with his hands, the mayor sits at the table and does not pay attention to anything happening around him) E-e-eh...}
+{241}{}{You don't look particularly happy. What happened?}
+{242}{}{It's over... We managed to survive up to this point thanks to the Brotherhood of Steel. But recently, a messenger brought bad news...}
+{243}{}{Yes, I know - the Brotherhood is destroyed. Probably some explosion in the ammunition depot.}
+{244}{}{And what are we supposed to do now? Who will protect us? Who will tell us what to do?}
 {245}{}{What about the Followers?}
-{246}{}{They are not warriors and there are very few of them to solve so many issues. It's hopeless... Everything is gone... it's all gone...}
-{247}{}{Hey, Alvaro, get it together! You're the mayor. Everything is in your hands now. You are free from total control and oppression. Isn't that wonderful?}
-{248}{}{Yes... of course... But what kind of mayor am I? I was just doing paperwork under the supervision of people from the order. Now we have to survive on our own. It won't be easy.}
-{249}{}{You will succeed. I believe in you.}
+{246}{}{They aren't warriors, and there are far too few of them to solve so many problems. There is no hope... It's over... it's all over...}
+{247}{}{Hey, Alvaro, bring yourself together! You're the mayor, after all. Everything is now in your hands. You're free from total control and persecution. Isn't *that* perfect?}
+{248}{}{Yes... of course... But can I really even be called a mayor? I just did paperwork under the oversight of people from the order. Now, we're going to have to survive, and do it all by ourselves. It will not be easy.}
+{249}{}{It'll work out. I believe in you.}
 
-#Repeat meeting
-{250}{}{Sorry, I have a lot of paperwork right now.}
+#Repeated encounter
+{250}{}{Sorry, I have too much paperwork at the moment.}
 {251}{}{Goodbye.}
-{252}{}{How can I help, dear friend?}
-{253}{}{Hello, our new hero. How can I help you?}
-{1253}{}{Hello, our new heroine. How can I help you?}
+{252}{}{How can I help you, my dear friend?}
+{253}{}{Greetings to our new hero. How can I help you?}
+{1253}{}{Greetings to our new heroine. How can I help you?}
 
-{260}{}{They say people are disappearing from you. Is it true?}
-{261}{}{Who's talking?}
-{262}{}{I won't say.}
-{263}{}{Ah, of course, no one disappears from us! Except for some criminals who escaped themselves during the construction of the city.}
-{264}{}{I see.}
-{265}{}{I hope that you will not spread these dirty false rumors further.}
-{266}{}{Sure. No problem.}
-{267}{}{Only until it turns out that you're lying. Adios, Mr. Mayor.}
-{268}{}{This is Rosalia. She says you forbid looking for her husband.}
-{269}{}{What nonsense! I do not forbid the search, let him search. But she can't find it because her hubby just ran away from town. Surely her grumpy nature could not stand it.}
-{270}{}{I see.}
-{271}{}{Never mind- the old witch is going crazy.}
+{260}{}{They say people are going missing in this settlement. Is this true?}
+{261}{}{Who does?}
+{262}{}{I won't tell you.}
+{263}{}{No, it's not true. Nobody goes missing here! If you don't count a few criminals that fled by their own accord when the town was being built.}
+{264}{}{Alright.}
+{265}{}{I very much hope you aren't going to spread this misinformation any further.}
+{266}{}{Of course. No problem.}
+{267}{}{I will do so only if I find out you're lying. Adios, mister mayor.}
+{268}{}{It's Rosalia. She's telling me that you're forbidding her from searching for her husband.}
+{269}{}{What nonsense! I'm not forbidding her from searching, let her search as much as she pleases. But she just can't find him because her husband fled from the town. Probably because he couldn't tolerate her grumpiness.}
+{270}{}{Alright.}
+{271}{}{Don't mind her - the old witch is going mad.}
 
-{280}{}{Tell me, please, about the city?}
-{281}{}{We have a peaceful peasant community. Half of the people work on plantations, the rest - various peaceful affairs. There, the Followers even have their school.}
-{282}{}{Thanks for the reply.}
-{283}{}{What is grown here?}
-{284}{}{These are mainly maize and fire agave. The whole city lives on these plantations.}
-{285}{}{So do you trade with other cities?}
-{286}{}{The harvest is enough only for their own needs and for the nearest settlements. We also have a stable caravan coming from Phoenix for agave juice.}
-{287}{}{By the way, what settlements are there around?}
-{288}{}{I see.}
-{289}{}{Puerto in the west and Tu San in the east. This is all, except for a few small villages and outposts, but they are mostly seasonal.}
-{290}{}{Thank you.}
-{291}{}{A real oasis in the middle of the desert. How did this become possible?}
-{292}{}{We thank the Followers of the Apocalypse for their intelligence and kindness. It was they who brought out in their laboratory varieties of plants that can take root in a dry desert.}
-{293}{}{Do other cities also buy your crops?}
-{294}{}{Who are the Followers?}
-{295}{}{By the way, who are these Followers?}
-{296}{}{Followers of the Apocalypse... It's a strange name, but we're already used to it. They conduct scientific research, teach children, and treat diseases. Needless to say, the plantation itself appeared in the middle of the desert thanks to their experiments. But it's easier for you to ask the Followers themselves.}
-{297}{}{I know about some other followers - Followers of Fire in Phoenix.}
-{298}{}{I heard something about them, but we never crossed paths. Except for the caravans that come from Phoenix.}
-{299}{}{By the way, why is alcohol banned here?}
-{300}{}{Why is alcohol banned here?}
-{301}{}{Formally, only strong alcohol is prohibited. We have too much work to waste time on entertainment. However, after the harvest, the peasants get a couple of days of complete freedom.}
-{302}{}{Curiously, there are no guards here. Are you not afraid of slavers or bandits?}
-{303}{}{About the "peaceful community". Are you not afraid of slavers or bandits?}
-{304}{}{Why should we be afraid of them? Our patrons keep order in these lands. We are peaceful people and do only peaceful things. We are not even allowed to have weapons. Therefore, there is nothing to be afraid of here.}
-{305}{}{Yes, you have a real oasis here. How did this become possible?}
-{306}{}{Patrons? Who is it?}
-{307}{}{What, you don't know about the military base in Puerto? Then I shouldn't discuss it with you. Just know that there is someone to stand up for us.}
-{308}{}{You know who we're talking about the Brotherhood of Steel. They are now the owners of these lands.}
+{280}{}{Could you please tell me about the town?}
+{281}{}{This is a peaceful peasant community. Half of the people work on the plantations, the rest do other peaceful activities. Look, the Followers even have their own school.}
+{282}{}{Thanks for your answer.}
+{283}{}{What do you grow here?}
+{284}{}{Mainly maize and the fiery agave. Without the plantations, the town wouldn't exist.}
+{285}{}{So you trade with other towns?}
+{286}{}{The harvest is only enough to fulfill our own needs and to supply nearby settlements. There is also a caravan that arrives from Phoenix like clockwork to buy the agave juice.}
+{287}{}{By the way, what are the settlements that are nearby?}
+{288}{}{Alright.}
+{289}{}{Puerto is to the west and Two Sun is to the east. That's all, really, if you don't count a few small villages and outposts, but those are mostly seasonal.}
+{290}{}{Thanks.}
+{291}{}{A true oasis among the desert. How did it become possible?}
+{292}{}{We can thank the Followers of the Apocalypse for their knowledge and kindness. In their laboratories, they made new kinds of plants that can grow well even in the dry desert.}
+{293}{}{Do other towns also buy your harvest?}
+{294}{}{Who are those Followers?}
+{295}{}{By the way, who are those Followers?}
+{296}{}{The Followers of the Apocalypse... A strange name, but we got used to it. They conduct research, teach children, heal illnesses. And that's not to mention the fact that it was thanks to their experiments that plantations became possible among the desert. But it would be easier for you to ask the Followers themselves.}
+{297}{}{I also know about some other group of followers - The Followers of the Holy Fire. Their base of operations is in Phoenix.}
+{298}{}{I heard some things about them, but our paths never crossed. If you don't count the caravans that come from Phoenix.}
+{299}{}{By the way, why is alcohol forbidden here?}
+{300}{}{Why is alcohol forbidden here?}
+{301}{}{Officially, only strong alcohol is forbidden here. We have too much work to do to spend time on entertainment. Though after the harvest, peasants do get a couple of days of full freedom.}
+{302}{}{It's interesting that you don't have guards. Aren't you afraid of slavers or bandits?}
+{303}{}{Speaking of the "peaceful community" you said this place is. Aren't you afraid of slavers or bandits?}
+{304}{}{Why should we be afraid of them? Our benefactors ensure order in these lands. We're peaceful people and are involved in purely peaceful activities. We're even forbidden from having weaponry. That's why there's nothing to fear here.}
+{305}{}{Yes, it's a true oasis you have here. How did it become possible?}
+{306}{}{Benefactors? Who are they?}
+{307}{}{You don't know about the Puerto military base? Then I shouldn't discuss this with you. Just be aware that there is someone who will stand up for us.}
+{308}{}{You know who I'm talking about - the Brotherhood of Steel. They now have direct control over these lands.}
 
-{310}{}{How do you feel about the Brotherhood of Steel?}
-{311}{}{They are our patrons. We wouldn't have survived without them.}
-{312}{}{I see.}
-{313}{}{And to be honesta?}
-{314}{}{This is the honest answer.}
+{310}{}{What do you think about the Brotherhood of Steel?}
+{311}{}{They are our benefactors. Without them, we wouldn't be able to survive.}
+{312}{}{Got it.}
+{313}{}{And what if you were to be honest?}
+{314}{}{I am already being honest.}
 {315}{}{That's good.}
-{316}{}{So be it - I'll believe it.}
-{317}{}{I do not hear joy and admiration in your words.}
-{318}{}{I can talk to you frankly, right? We try not to talk about it, but everyone here lives by and large on the rights of peons. That is, lifelong slaves. After all, in order to obtain protection and a place of residence, you need to pay unaffordable taxes.}
-{319}{}{So, go on...}
-{320}{}{Due to the lack of so many funds, residents conclude a peonage contract renting themselves out for the rest of their lives.}
-{321}{}{It's sad to hear that.}
-{322}{}{Which was required to be proved.}
-{323}{}{But it's not that bad. We are given free rein in everything that does not contradict the laws and interests of the Brotherhood of Steel. And we get reliable protection and help. After all, the Brotherhood needs products and a trade route. And without us, none of this will happen.}
-{324}{}{And are you ready to put up with this situation?}
-{325}{}{We have no choice! It is thanks to the Brotherhood and the tinsmiths that we have built such a beautiful city and grown such a harvest. Without them, we would have dragged out a miserable life of scavengers in the desert.}
-{326}{}{And it's true - difficult conditions. I don't know what I would have to choose in such a situation.}
-{327}{}{It's hard for me to understand how freedom can be exchanged for a life in a stall. You made a mistake. Goodbye.}
-{328}{}{I know your secret about the infection and its silencing. And also - pressure on residents and continuous bans. Isn't it your tyranny if the Brotherhood has nothing to do with it?}
-{329}{}{If you can't become a death claw, pretend to be a blind pig-rat. Is that what you mean, weakling?}
+{316}{}{Alright - I'll believe you.}
+{317}{}{You don't sound particularly happy or excited.}
+{318}{}{It's not exactly as rosy as one might think. We don't talk about it much, but everyone here is mainly a peon. Effectively - slaves for life. After all, you need to pay unaffordably high taxes to receive protection and a place to live.}
+{319}{}{Go on...}
+{320}{}{Because they don't have so much money, the people enter peonage, effectively renting themselves out for the rest of their life.}
+{321}{}{That's sad.}
+{322}{}{Q.E.D.}
+{323}{}{But really, even then, it's worth it. We're given freedom in everything that doesn't go against the law and the interests of the Brotherhood of Steel. And we really do get very strong defense and a lot of help. After all, the Brotherhood needs products and trade routes. And they wouldn't have those without us.}
+{324}{}{You're okay with this state of affairs?}
+{325}{}{You say that as if we have a choice! It was only with the help of the Brotherhood and the tinsmiths that we were able to build such a perfect city and have such bountiful harvests. Without them, we would be living out a pathetic life of scavenging in the desert.}
+{326}{}{Those truly are difficult conditions. I don't know what I would choose in this situation.}
+{327}{}{I struggle to see how one could think exchanging their freedom to live as cattle is a good idea. You've clearly made a grave mistake. Farewell.}
+{328}{}{I know about all about your dirty little secret, the disease. And the pressure on the citizens, and the dozens of rules. If the Brotherhood is not involved, isn't this tyranny all your fault?}
+{329}{}{If you can't become a deathclaw, pretend to be a blind pigrat. That what you wanted to say, weakling?}
 
 {330}{}{Do you know that your son's pet is dying?}
-{331}{}{Yes... This pig rat has already bored me with his whining and night fuss. I told Chip not to keep the beast in the house, but he won't listen to me. Now we have to put up with and fend off the attacks of neighbors.}
-{332}{}{What did Pinkie do to all of you?}
-{333}{}{Well.. uh, to be honest, nothing in particular, except for the night noises. He is scared just by his appearance. And that's enough. If he had been useful, perhaps the attitude towards Pinkie would have changed.}
-{334}{}{An interestaing observation.}
+{331}{}{Yes... That pigrat has completely pissed me off with it's whining and noise-making during the night. I told Chip that he shouldn't keep an animal in the house, but he doesn't listen to me. Now I need to put up with that and deal with the neighbors' complaints.}
+{332}{}{How did Pinky wrong you all?}
+{333}{}{Well.. uhh, to be honest, he hasn't, aside from the noises he makes at night. It's just that his appearance scares people. And that's enough. If he was of some help, maybe we would view him differently.}
+{334}{}{An interesting observation.}
 
-{340}{}{In the settlement of Santa Ana, they want to start trading with you.}
-{341}{}{Santa Ana? I haven't heard of this village for many years. Its inhabitants avoided all contact with us. What has changed there?}
-{342}{}{Well, let's just say that the government has changed there.}
-{343}{}{Oh, that sounds intriguing. I'll prepare the caravan. Perhaps we will recruit new workers among the residents of Santa Ana, which are sometimes so lacking. Thank you for the message.}
-{344}{}{Please.}
+{340}{}{The Santa Ana settlement wishes to start trading with you.}
+{341}{}{Santa Ana? I haven't heard that name in a long time. The villagers avoided any and all contact with us. What changed?}
+{342}{}{Let's just say it is controlled by a new order now.}
+{343}{}{Ooh, that sounds intriguing. I will ready a caravan. Perhaps we'll find new workers in Santa Ana, since we often lack them. Thanks for the information.}
+{344}{}{You're welcome.}

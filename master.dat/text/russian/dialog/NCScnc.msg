@@ -1,17 +1,17 @@
-{100}{}{This is Arthur Carrington.}
-{101}{}{You see the same archaeologist from Vault 27.}
+{100}{}{You see Arthur Carrington.}
+{101}{}{You see the Vault 27 archeologist.}
 
-#The first dialog
-{200}{}{Glad to see you again, hero.}
-{1200}{}{Glad to see you again, heroine.}
-{201}{}{I see you've already settled into your new place. Can you give me a minute?}
+#First dialogue
+{200}{}{Happy to see you again, hero.}
+{1200}{}{Happy to see you again, heroine.}
+{201}{}{I see you have already established yourself in this new place. Could I take just a minute of your precious time?}
 {202}{}{Yes?}
 {203}{}{Bye.}
 {204}{}{Another question.}
 
-{220}{}{What are you doing here?}
-{221}{}{I am offered to teach children to read and write. It's an unusual experience. But it's better than messing around on a plantation. I am not allowed to do more serious research yet. And it's annoying, because I used to manage several serious projects.}
-{222}{}{I think you'll get along with time. In the meantime, relax.}
-{223}{}{What do you think about Followers?}
-{224}{}{At first I was fascinated by their thirst for knowledge. But their kindness is shocking. It is impossible to help everyone so indiscriminately and share knowledge. Many simply do not deserve it. And if they deserve it, then because of stupidity they are not able to properly dispose of the received good.}
-{225}{}{You have different views on the same thing. This is normal.}
+{220}{}{What is it you do here?}
+{221}{}{I'm being offered to teach kids literacy. It's not something I am experienced in. But better than working at the plantation. They don't let me near more important research. And this annoys me, after all, I managed several important projects in the past.}
+{222}{}{I think you'll do just fine. Relax.}
+{223}{}{What do you think about the Followers?}
+{224}{}{At first, I was charmed by their pursuit of knowledge. But their unrestricted altruism is shocking. You can't just spend resources on and share knowledge with everyone you see. Many simply don't deserve it. And even if they do, their stupidity does not allow them to properly use the gift they were handed.}
+{225}{}{You just have different opinions on an issue. That's normal.}

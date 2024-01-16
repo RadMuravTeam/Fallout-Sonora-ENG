@@ -1,74 +1,74 @@
 {100}{}{}
 {101}{}{}
-{102}{}{!Cheat: Volumetric heads are included.}
-{103}{}{!Cheat: Volumetric heads are disabled.}
+{102}{}{!Cheat: volumetric heads disabled.}
+{103}{}{!Cheat: volumetric heads disabled.}
 
-#The use of items on GG
-{110}{}{A curious thing. It's worth looking for some use for it.}
-{111}{}{These things are better to use when you get out.}
-{112}{}{It's nice to pay yourself. But it doesn't make sense.}
-{113}{}{You got one bottle cap.}
-{114}{}{It will be more useful to sell this to urban upstarts.}
-{118}{}{Use this item from your hand.}
-{119}{}{Use this through your backpack or out of your hand.}
+#Using items on the player character
+{110}{}{A curious thing. You should find a way to use it.}
+{111}{}{These items are better off used when you get to the surface.}
+{112}{}{It feels nice to pay yourself. But pointless.}
+{113}{}{You receive a bottle cap.}
+{114}{}{It would be a better idea to sell it to city-dwelling upstarts.}
+{118}{}{Use this item with your hands.}
+{119}{}{Use this item with your hands or via the backpack.}
 
-{120}{}{At the sight of this useless garbage, you involuntarily have an idea... the idea of burning this world in a new atomic war.}
-{121}{}{This update is intended exclusively for the ZAX logic module.}
-{122}{}{It's not like you're a nuclear bomb.}
-{123}{}{These passwords should be used on computers and other electronic systems.}
-{124}{}{You tore up this letter, trying to forget everything that connected you with the sect of fire worshippers.}
-{125}{}{This letter should be presented to the Followers of Fire in Phoenix.}
-{126}{}{Damn sectarians...}
-{127}{}{I don't want to think about them anymore.}
-{128}{}{Drinking this liquid in its pure form will only lead to an upset stomach.}
-{129}{}{Hey, be careful! You almost cut off your head.}
-{1129}{}{Hey, be careful! You almost cut off your own head.}
+{120}{}{Seeing this junk, you can't help but get an idea... to set the world on fire again in another nuclear war.}
+{121}{}{The update is meant exclusively for the hardware of ZAX supercomputers.}
+{122}{}{It doesn't look like you're an atomic bomb.}
+{123}{}{These passwords should be used on computers and other electronics.}
+{124}{}{You tear the letter apart, trying to forget everything that linked you to the Fire-worshipper cult.}
+{125}{}{This letter should be given to the Followers of the Holy Fire in Phoenix.}
+{126}{}{Damn cultists...}
+{127}{}{I don't want to remember them.}
+{128}{}{Drinking this liquid pure is just going to give you indigestion.}
+{129}{}{Hey, careful there! You almost cut your head off.}
+{1129}{}{Hey, careful there! You almost cut your head off.}
 
-{130}{}{Setting your hair on fire is not the best idea.}
-{131}{}{You've changed your boots. Now you can safely walk on burning and caustic substances. However, only a couple of minutes.}
-{132}{}{This is not necessary yet, since the old boots are in excellent condition.}
-{133}{}{This is not necessary yet, since the old glasses are still in working condition.}
-{134}{}{Wearing these strange glasses, you seem to fall into another dimension.}
-{135}{}{The battery of electronic glasses is depleted. Night vision is disabled.}
-{136}{}{Take the glasses in your hand to feel like a handsome man.}
-{1136}{}{Take the glasses in your hand to feel like a real fashionista.}
-{137}{}{This is not necessary yet, since a gas mask can cope with protection.}
-{138}{}{You've changed your gas mask. It will protect you from harmful gas and dust for a while.}
-{139}{}{Yes, put it on your head and scare the village kids. It'll be fun.}
+{130}{}{Setting your head on fire isn't the best idea.}
+{131}{}{You change your shoes. You can now safely walk on caustic substances, if only for a few minutes.}
+{132}{}{There is no need to do this yet, as the shoes are currently in good condition.}
+{133}{}{There is no need to do this yet, as the goggles are currently in good condition.}
+{134}{}{You put on the strange goggles and flip the switch. Immediately, you feel like you have been transported to another dimension.}
+{135}{}{The battery of the light amplification goggles has run out of energy. Night-vision disabled.}
+{136}{}{Take the glasses with your hand to look fabulous.}
+{1136}{}{Take the glasses with your hand to look fabulous.}
+{137}{}{There is no need to do this yet, as the gas mask you are currently wearing is in good condition.}
+{138}{}{You change your gas mask. For some time, it will protect you from dangerous gas and dust.}
+{139}{}{You get an idea to put it on your head and scare village childen. That would be fun.}
 
-#Reset items
-{140}{}{Your family members would not be happy to know that you are throwing away family heirlooms.}
-{141}{}{Beggars will be very happy to find your caps.}
-{142}{}{Imagining yourself a patron of the arts, you generously scatter money to the wind.}
-{143}{}{These sandals will help you survive in caustic substances, but only for a short time.}
-{144}{}{The bait is set.}
+#Dropping items
+{140}{}{Your family members would be very dissapointed in you if they learned that you're droppin family relics like nothing.}
+{141}{}{The poor will be very pleased to find the caps you dropped.}
+{142}{}{Fancying yourself a philantropist, you generously throw money into the air.}
+{143}{}{These sandals will help you stay alive in caustic substances, if not for long.}
+{144}{}{Bait installed.}
 
-#Different replicas
-{150}{}{A light heat comes from a radioactive object in your backpack.}
-{151}{}{Your Pip-Boy shows the degree of exposure: }
-{152}{}{This cannot be done during combat.}
-{153}{}{One-two, the radio is working.}
-{154}{}{Your legs can't stand the huge weight of the backpack.}
-{155}{}{What a pain!}
-{156}{}{Don't do it.}
-{157}{}{It could be dangerous! Your recklessness almost ruined your character. And how upset Granny Adonsia would be...}
-{158}{}{You should look for more reliable shoes. And this one can be sold at the nearest market.}
-{159}{}{To parse this item, you will need a workbench.}
-{160}{}{You need to collect ALL the parts of the map.}
-{161}{}{You have collected all the parts of the treasure map. It looks like it's buried near the ruins of a local lighthouse.}
+#Various log messages
+{150}{}{The radioactive item in your backpack produces a light heat.}
+{151}{}{Your Pip-Boy shows you the irradiation level: }
+{152}{}{Cannot be done during combat.}
+{153}{}{Test. Test. Radio is fully operational.}
+{154}{}{Your legs fail to support the incredible weight of the backpack.}
+{155}{}{OW!}
+{156}{}{I shouldn't have done that.}
+{157}{}{That could have been very dangerous! Your recklessness almost led to your demise. Think about how sad grandma Adonsia would have been...}
+{158}{}{Time for you to find more reliable clothing. This pair can be sold at the nearest marketplace.}
+{159}{}{You will need a workbench to dismantle this item.}
+{160}{}{You need to collect ALL map pieces.}
+{161}{}{You have collected all the treasure map pieces. It appears to be buried near the ruins of a local lighthouse.} 
 
 #Achievements
-{200}{}{Your good fame is growing.}
-{201}{}{Your notoriety is growing.}
-{202}{}{A high dose of radiation permanently reduces your health.}
-{203}{}{A high dose of radiation again permanently reduces your health.}
-{204}{}{I'm getting worse.}
-{205}{}{I'm getting MUCH worse.}
-{206}{}{For a large number of beatings you get the achievement "Seasoned Fighter".}
-{207}{}{I think I'm getting used to this pain.}
-{208}{}{For your dastardly betrayal, you were stripped of all your ranks in the Brotherhood of Steel.}
-{209}{}{For your dastardly betrayal, you were excluded from the Rangers.}
-{210}{}{For your vile betrayal, you were excluded from the mainline.}
-{211}{}{For your vile betrayal, you were excluded from the cult of Fire.}
-{212}{}{After such a long journey, you have earned the title of a peace-loving wanderer.}
-{213}{}{The title of the peace-loving wanderer is lost. But it is not too late to return to the righteous path.}
+{200}{}{Your fame increases.}
+{201}{}{Your infamy increases.}
+{202}{}{The high dose of radiation has permanently reduced your health.}
+{203}{}{A high dose of radiation has permanently reduced your health. Again.}
+{204}{}{I'm feeling worse.}
+{205}{}{I'm feeling MUCH worse.}
+{206}{}{For surviving so many injuries received in such a large number of battles, you receive the achievement "Battle-hardened".}
+{207}{}{I seem to be getting used to the pain.}
+{208}{}{For your vile betrayal, the Brotherhood of Steel has stripped you of all your ranks.}
+{209}{}{You have been expelled from the Rangers for your vile betrayal.}
+{210}{}{You have been expelled from the Highwaymen for your vile betrayal.}
+{211}{}{You have been expelled from the Cult of the Holy Fire for your vile betrayal.}
+{212}{}{The difficulties you encountered over your long journey were harsh, but you always strived to avoid hurting others. You have rightfully earned the title of peaceful wanderer.}
+{213}{}{You have lost the title of peaceful wanderer. But it's not too late to return to the righteous path.} 

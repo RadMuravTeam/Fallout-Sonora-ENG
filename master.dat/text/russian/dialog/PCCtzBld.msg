@@ -1,15 +1,15 @@
-{100}{}{You see a beggar.}
-{101}{}{You see an ordinary street dweller.}
-{102}{}{You have witnessed a crime.}
-{103}{}{What am I standing for? We need to remove the witnesses!}
+{100}{}{You see a bum.}
+{101}{}{You see an average inhabitant of the steets.}
+{102}{}{You have become a crime witness.}
+{103}{}{Why am I standing around? I need to deal with the witnesses!}
 
-{110}{}{Am I... a murderer?}
-{111}{}{I didn't mean to!}
+{110}{}{I'm... a murderer?}
+{111}{}{I didn't want to do it!}
 {112}{}{She forced me.}
-{113}{}{If she hadn't shown her caps...}
+{113}{}{If she didn't show me her caps...}
 {114}{}{Why did I do it?}
-{115}{}{I think I killed her.}
-{116}{}{My God, I killed a man!}
-{117}{}{There's nothing to be done now.}
-{118}{}{You won't tell anyone, will you?}
-{119}{}{Looks like I'm going to have to get out of town.}
+{115}{}{Looks like I killed her.}
+{116}{}{Oh my god, I just killed a person!}
+{117}{}{Can't do anything now.}
+{118}{}{You're not gonna tell anyone, right?}
+{119}{}{Looks like I'll have to get out of the city.}

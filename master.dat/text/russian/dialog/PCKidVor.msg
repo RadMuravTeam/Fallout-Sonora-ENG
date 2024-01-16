@@ -1,8 +1,8 @@
-{100}{}{You see a street kid.}
-{101}{}{You see an inconspicuous boy. He looks closely at the market.}
+{100}{}{You see a street child.}
+{101}{}{You see an unremarkable boy. He's looking closely at the market.}
 
-{200}{}{Hello}
+{200}{}{Hi}
 {201}{}{Bye}
 
-{210}{}{Hello}
+{210}{}{Hi}
 {211}{}{Bye}

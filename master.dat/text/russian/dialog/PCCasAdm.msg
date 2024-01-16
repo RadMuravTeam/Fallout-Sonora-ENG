@@ -1,136 +1,135 @@
-{100}{}{You see the manager of the casino.}
-{101}{}{You see a well-dressed man. He's looking around the casino.}
-{102}{}{It is not necessary to walk in this within the casino.}
+{100}{}{You see the casino manager.}
+{101}{}{You see a well-dressed man. He is looking around the casino.}
+{102}{}{You can't wear this inside the casino.}
 
-#The first dialog
-{200}{}{Welcome to our casino. Note - *the only* operating casino in all of Arizona.}
-{201}{}{Not impressive. I thought it would be more... lively.}
-{202}{}{Your truth. The population of Phoenix is going through a bad time, it affects our business as well. In any case, there is no choice, is there?}
-{203}{}{You can't argue with that.}
-{204}{}{The casino is just super. It's amazing how soon you managed to restore it.}
-{205}{}{We have come to this through long and hard work. All thanks to Don Diego.}
-{206}{}{Curious.}
+#First dialogue
+{200}{}{Welcome to our casino. Note - the *only* functioning casino in all of Arizona.}
+{201}{}{Not too impressive. I imagined that this place would be more... lively.}
+{202}{}{You're not exactly wrong. It's not the best time to be an inhabitant of Phoenix, and this affects our business as well. In any case, there's nothing we can really do, no?}
+{203}{}{Can't argue with that.}
+{204}{}{The casino is absolutely amazing. I wonder how you even managed to restore it.}
+{205}{}{A very high amount of very hard work. All thanks to Don Diego.}
+{206}{}{Interesting.}
 
-#Repeat dialog
-{210}{}{Can I be of any help?}
-{211}{}{Nothing yet.}
+#Repeated dialogue
+{210}{}{Can I help you with anything?}
+{211}{}{There's nothing you could help me with, at least, at this moment.}
 
-#Ban casino games
-{220}{}{What do you allow yourself? Why am I not allowed to play at the casino?}
+#No more casino for you
+{220}{}{What is this? Why am I no longer allowed to play at the casino?}
 {221}{}{}
-{222}{}{We're not bothering you to play. But only for the chips that you have left. We will not give out new chips.}
+{222}{}{We do not interfere with your ability to play. But you can only plays with those chips that you have left. We won't be giving you any new ones.}
 {223}{}{Why?}
-{224}{}{Take the trouble to explain.}
-{225}{}{It is not difficult to guess that other people's winnings hurt the casino's capital. And you've already earned enough caps for a comfortable old age. It's time to make way for new players. Don't you think?}
-{226}{}{Pathetic speculator, you can't trick me around your finger.}
-{227}{}{I can understand your logic, but it's still a shame.}
-{228}{}{Don't get upset. After all, we are always happy to have wealthy clients. Let me make a little present from our casino to keep a friendly mood. This bottle contains *real* pre-war whiskey. He is not poisoned or irradiated. An expensive and rare pleasure in our time.}
-{229}{}{And that's it? Not enough to heal the wound in my soul.}
-{230}{}{Thank you for the gift.}
-{231}{}{I also propose to settle in a suite for a while and taste all the delights of living in luxury. This number is rarely used anyway. Here's the key.}
-{232}{}{Already something.}
-{233}{}{You're all courtesy.}
-{234}{}{Have a nice time... Oh, by the way. Don Diego is interested in your person and would like to discuss some common business. I already told the guards to let you through.}
-{235}{}{Tell him I'll drop by when I have some free time. Later.}
-{236}{}{Certainly. I would also like to chat with Don Diego.}
-{237}{}{Have a nice time.}
-{238}{}{Yeah.}
+{224}{}{Explain yourself.}
+{225}{}{It is not hard to figure out that when players win, the income of the casino is hurt. And you have won so very, very much. You have earned enough caps to live out the rest of your life in luxury. Isn't it time to make way for new players?}
+{226}{}{Pathetic speculator. You won't fool me.}
+{227}{}{I understand your thought process. But it still feels like I was cheated.}
+{228}{}{Don't fret. We are always happy to have wealthy clients. Let me give you a small present from our casino to maintain a friendly attitude. This bottle contains *real* Pre-War whiskey. No poison and no radiation. An expensive and rare delight in our time.}
+{229}{}{And that's all I get? Too little to restore the damage this has caused.}
+{230}{}{Thanks for the present.}
+{231}{}{I also suggest spending some time in our de luxe suite and and tasting all the delights of life in luxury. It is rarely used, anyways. Here is the key.}
+{232}{}{That's more like it.}
+{233}{}{You are courtesy itself.}
+{234}{}{Please enjoy yourself... Oh, by the way. Don Diego has become interested in you and would like to discuss some kind of mutual business. I already told the guards to let you in.}
+{235}{}{Tell him that I'll visit him when I find the time. Goodbye.}
+{236}{}{I will go there immediately. I too would like to chat with Don Diego.}
+{237}{}{Please enjoy yourself.}
+{238}{}{Uh-uh.}
 {239}{}{See you later.}
 
-#Questions
-{250}{}{Are you the one running the casino?}
-{251}{}{In a way. My name is Bill Gatsby. I am an administrator, but Don Diego owns this place.}
-{252}{}{Don Diego - who is this?}
-{253}{}{I see.}
-{254}{}{What, you've never heard of him? This is a man with a capital letter. One of the most respected people in the city. But usually, he is reluctant to show himself to clients and manages things from his office.}
-{1254}{}{What, you've never heard of him? This is a man with a capital letter. One of the most respected people in the city. But usually, he is reluctant to show himself to clients and manages things from his office.}
-{255}{}{Why is he called Don?}
-{256}{}{It's probably a sign of respect. I don't know how and why they started calling him that.}
-{257}{}{Can I meet him?}
-{258}{}{Hardly. He accepts only on a particularly important matter.}
-{259}{}{In a way. My name is Bill Gatsby, I'm an administrator.}
+#Asking questions
+{250}{}{Do you manage the casino?}
+{251}{}{In a way. My name is Bill Gatsby. I am the administrator, but this establishment is owned by Don Diego.}
+{252}{}{Who is this Don Diego fellow?}
+{253}{}{Alright.}
+{254}{}{Have you really never heard of him? He's not just the man, he's *the* man. One of the most respected people in the city. But usually he is reluctant to go out near the clients. He prefers to manage business from his own cabinet.}
+{1254}{}{Have you really never heard of him? He's not just the man, he's *the* man. One of the most respected people in the city. But usually he is reluctant to go out near the clients. He prefers to manage business from his own cabinet.}
+{256}{}{I suppose it's a sign of reverence. I don't know how and why they started calling him that either.}
+{257}{}{Can I meet with him?}
+{258}{}{Not a chance. He only allows people to meet him for very important matters.}
+{259}{}{In a way. My name is Bill Gatsby, I am the administrator.}
 
-{270}{}{How are you coping here after Don Diego's death?}
-{271}{}{We could work autonomously before. Of course, now I have to work for two. But these are temporary problems. In the end, Diego was just sitting in his pants in his chair, and it was me who did the real work.}
-{272}{}{I see.}
-{273}{}{I think you underestimate his contribution to the business... Shall we change the subject?}
+{270}{}{How are you holding up here after the death of Don Diego?}
+{271}{}{We could work without him even before. Of course, now I have to work for two. But those are only temporary problems. In the end, Diego was just sitting in his chair all day, while *I* was doing the real work.}
+{272}{}{Alright.}
+{273}{}{I think you underestimate his contributions. But let's change the subject.}
 
-{275}{}{I see the casino is still working after that explosion?}
-{276}{}{Yes, a terrible story. We were lucky that the explosion was underground and was far enough away. And yet the building has suffered serious damage. We will restore it to its former form in a year... Well, I'm counting on it.}
-{277}{}{I see.}
-{278}{}{I hardly believe it.}
+{275}{}{I see the casino is still operational, even after that explosion.}
+{276}{}{Yes, terrible tragedy. We were lucky the blast was underground and was quite far away. Still, the building suffered serious damage. We'll restore everything in a year... Well, at least, if my calculations are correct.}
+{277}{}{Alright.}
+{278}{}{I find it hard to take what you are saying seriously.}
 
-{280}{}{They say that Followers were killed near the casino.}
-{281}{}{Yes, a terrible story. Personally, I didn't see anything. And retelling rumors is an unpleasant business. Talk to those who were on the street that day.}
-{282}{}{Of course I will.}
-{283}{}{Or maybe you're protecting your casino? After all, the attack happened nearby for a reason.}
-{284}{}{ (the administrator's face is distorted in tension) We did not deserve such distrust. Do you have any hard evidence against us? I knew it. Then we'd better end this conversation. Thank you for understanding.}
-{285}{}{You're singing too sweetly. You're lucky if the casino is really not in business.}
-{286}{}{Of course I believe you. Forget about my question.}
+{280}{}{I heard the Followers were attacked near the casino?}
+{281}{}{Yes, terrible tragedy. Personally, I didn't see anything. And I wouldn't like to just paraphrase the rumours I've heard. You should talk to the people who were on the street that day.}
+{282}{}{Of course, I'll do exactly that.}
+{283}{}{What if you're just drawing away suspicion from your casino? It can't be a coincidence that the attack happened nearby.}
+{284}{}{(the administrator becomes uncomfortable) We have done nothing to deserve such an attitude being directed at us. Do you have hard evidence against us? Just as I thought. Then we better end this conversation. Thank you for your understanding.}
+{285}{}{Uh-uh. You're lucky if the casino really is not involved.}
+{286}{}{Of course, I believe you. Forget about my question.}
 
-#GG - your man
-{290}{}{Come in, amigo. Welcome to Don Diego's family. Now you are your own person, and the family values its people and does not leave them in trouble. But you follow the rules, too. Don't upset the boss - this is the first of them.}
-{291}{}{Of course, Bill, I understand everything.}
-{292}{}{Great, now I can tell you straight - you're a shitty administrator. Well, did you eat it?}
-{293}{}{You know, there is some truth in your hurtful words. But Don Diego did not find anyone better for this position. At least he and I have full confidence in the casino's work.}
-{294}{}{Well, yes, of course.}
-{295}{}{Come in, have a seat. Now you are your own person, and the family values its people and does not leave them in trouble. But keep in mind that he does not tolerate traitors. Don't upset Don Diego - and you will save not only your skin but the whole family. I hope I won't have to repeat it twice.}
-{296}{}{Of course, Bill, I understand that.}
-{297}{}{I know you don't like me. But we have to work together.}
-{298}{}{As an administrator, I'm above that. If the boss trusts you, then I can close my eyes to personal prejudices against you.}
-{299}{}{You're thinking right, Bill.}
-{300}{}{It's good that we understand each other. (holds out a key with a tag) The boss told me to put you in a suite. Even I haven't had the honor. Appreciate this generosity.}
-{301}{}{Wow. Finally, I will be able to live in human conditions.}
-{302}{}{By the way, if you decide to relax in the casino, then keep in mind - the rules of the game are the same for everyone. If you want to play roulette, buy the chips and play like a regular player. If you get into debt, the casino will not write them off from the account. Is that clear? That's good.}
-{303}{}{Honest rules. Well, I'll go.}
-{304}{}{It won't stop me.}
+#Main character is allied
+{290}{}{Come here, amigo. Welcome to the Don Diego family. Now you're now a member, and the family values it's members and doesn't leave them be in bad situations. But you must follow the rules. Rule number one is don't dissapoint the boss.}
+{291}{}{Of course, Bill, I understand.}
+{292}{}{Great, now I can say that you're are a shit administrator to your face. What are you gonna do?}
+{293}{}{You know, there is a bit of truth in your insult. But Don Diego couldn't find anyone better. At the very least, there is mutual trust regarding the casino.}
+{294}{}{Why yes, of course.}
+{295}{}{Come here, sit down. Now you're a member of the family, and the family values it's members and doesn't leave them be in bad situations. But you should know that the family does not tolerate traitors. Don't dissapoint Don Diego - and you'll save not only your skin, but your whole family. I hope I don't need to repeat this a second time.}
+{296}{}{Of course, Bill, I understand.}
+{297}{}{I know that you don't really like me, but we are going to work together.}
+{298}{}{As an administrator, I am above such things. If the boss trusts you, I'll have to ignore my own opinion of you.}
+{299}{}{You're thinking the right way, Bill.}
+{300}{}{It's good that we understand each other. (gives a key with a tag) Boss ordered me to settle you into the de luxe suite. Not even I had that honor. Appreciate this generosity.}
+{301}{}{Oh wow. Finally, I'll be able to live in acceptable conditions.}
+{302}{}{Oh, and by the way, if you think of relaxing in the casino, keep in mind that the rules are the same for everyone. You want to play roulette - buy the chips and play like other players. You get in debt - the casino won't erase it. Understood? Good.}
+{303}{}{Fair. Well, I'll be going.}
+{304}{}{That won't stop me.}
 
-#Work and admission to the boss
-{320}{}{Do you have any vacancies open? I'm looking for a job.}
-{321}{}{Oh no, we have enough people. Don Diego asked me not to bother him with such questions anymore.}
-{322}{}{My offer will remain valid for a while. Goodbye.}
-{323}{}{Give me a chance, I'll do any task.}
-{324}{}{That's fair. Show yourself in action, and we'll see if it's worth contacting you.}
-{325}{}{I'm listening.}
-{326}{}{Still, tell your boss. What if he's interested in our partnership?}
-{327}{}{It's useless. Your candidacy... not quite the level to talk about partnership. Do you understand?}
-{328}{}{Yeah. I understand. Someone here is quite arrogant.}
-{329}{}{No problems. I understand everything.}
-{330}{}{Two respected people in the city should listen to each other. Don't you find it?}
-{331}{}{Oh, of course, you are a well-known person in the city. Perhaps Don Diego will be interested in talking to you.}
-{332}{}{Great. When can I meet him?}
-{333}{}{Surely your boss will have a job for me. I'm the champion of the ring.}
-{334}{}{Hmm, sometimes we don't have enough strong guys. Especially SO strong.}
-{335}{}{Great. So can I meet your boss?}
-{336}{}{Don Diego sent me to work. What are your problems?}
-{337}{}{Ah, this is our new employee. How nice it is to get rid of the burden of responsibility, at least in small things.}
-{338}{}{Go on.}
-{339}{}{After Don Diego's death, we had a real hell. I really could use a smart employee.}
+#Work and access to the boss
+{320}{}{You have any vacancies? I'm looking for a job.}
+{321}{}{Oh, no, we have plenty of people. Don Diego asked me to no longer concern him with such questions.}
+{322}{}{My offer will remain for some time. Goodbye.}
+{323}{}{Give me a chance, I'll complete any assignment.}
+{324}{}{Fair. Show yourself in action, and we'll see whether we should associate with you or not.}
+{325}{}{I'l listening.}
+{326}{}{Still, tell his to your boss. What if he becomes interested in having me as a partner?}
+{327}{}{It would be pointless. You... don't have the kind of skill we require of partners. Understand what I mean?}
+{328}{}{Uh-uh. I understand. That someone here is arrogant.}
+{329}{}{No problem. I understand.}
+{330}{}{Two respected people in the city should listen to one another, wouldn't you agree?}
+{331}{}{Oh, of course. You're quite a famous individual. Perhaps Don Diego really would be interested in talking with you.}
+{332}{}{Great. When will I be able to meet him?}
+{333}{}{I'm sure your boss has a job for someone like me. I'm an arena champion.}
+{334}{}{Huh, we really do sometimes lack strong people. Especially SUCH strong people.}
+{335}{}{Great. So, I can go meet your boss?}
+{336}{}{Don Diego sent me here for a job. What are the problems you are having?}
+{337}{}{A-ah, our new employee. It is so nice to get rid of the burden of responsibility, even if in trivial matters.}
+{338}{}{Please continue.}
+{339}{}{After the death of Don Diego, everything here has gone to hell. I could really use an intelligent employee.}
 
-{340}{}{I'll tell the guards to let you through. Don Diego's office is on the second floor. Behave politely with him, do not make sudden movements, and keep your weapon in a holster. Is everything clear? Go.}
-{341}{}{Yeah, you didn't have to explain the obvious things.}
-{342}{}{Oh, don't worry, I'll be the nicest.}
+{340}{}{I'll tell security to let you in. Don Diego's cabinet is on the second floor. Be polite, don't make sudden movements, keep the weapon in your holster. You got all that? Then go.}
+{341}{}{Uh-uh. But you didn't need to explain obvious things.}
+{342}{}{Oh, don't worry, I'll be courtesy itself.}
 
-{350}{}{One of our regular customers completely forgot about paying debts. It is necessary to remind him. But so that the debt is paid.}
-{351}{}{Sounds incredibly banal. What's the catch?}
-{352}{}{I don't think it has bottlecaps at all. They say he's completely drunk and is on the verge. If so, we will lose the client, and with it our bottlecaps. And this by the way }
-{353}{}{ caps... So let's write it down.}
-{354}{}{You'll find that son of a bitch in the slums. Go, I have a lot of work to do.}
-{355}{}{Yes, I'll see you.}
+{350}{}{One of our regular clients has completely forgotten about paying up debts. He needs to be reminded. But in such a way so that the debt will be paid.}
+{351}{}{Sounds incredibly trivial. What's the catch?}
+{352}{}{I don't know if he even has the caps. We heard that he spends all his time drinking and is on the verge of getting thrown out onto the streets. If so, we'll be losing a client, and with him }
+{353}{}{ caps... Let's write that down.}
+{354}{}{You'll find that son of a bitch in the slums. Go, I have work to do.}
+{355}{}{Yeah, see you later.}
 {356}{}{About that debtor and his debt.}
-{357}{}{What are the successes in this case?}
-{358}{}{Unfortunately, none. But I'm working on it.}
-{359}{}{Remind me, where does this guy live?}
-{360}{}{He lives in the eastern slums. His name is Badi.}
-{361}{}{I see. Thank you.}
-{362}{}{How much does the client owe the casino bank?}
-{363}{}{ caps. We accept cash only. Don't let this speculator cheat with barter or some kind of service. With people like him, you have to be on your guard.}
-{364}{}{ ringing investments in the bank.}
-{365}{}{The client is dead. There's nothing more I can do.}
-{366}{}{Dead? I'm afraid this unpleasant news will upset my boss terribly. Well, it turns out that we all lost our legal caps. Get lost. We don't need mercenaries who don't know how to work.}
+{357}{}{Any success there?}
+{358}{}{Unfortunately, no.}
+{359}{}{Remind me, where does that goner live?}
+{360}{}{He lives in the eastern slums. Name is Buddy.}
+{361}{}{Understood. Thank you.}
+{362}{}{How much does the client owe?}
+{363}{}{ caps. We only accept cash. Don't let that speculator fool you with barter or some service. One needs to be vigilant when around people like him.}
+{364}{}{ shiny contributions to our bank.}
+{365}{}{The client is dead. I can't do anything more.}
+{366}{}{Dead? I'm afraid that these unpleasant news will very much dissapoint my boss. Welp, looks like we are no longer going to receive the caps that are lawfully ours. Get lost. We don't need mercs who have no idea how to do the job.}
 {367}{}{Hey!}
-{368}{}{That's his duty, }
-{369}{}{ caps. Don't ask me how I did it.}
-{370}{}{That's how dutiful it is. Thank you for your cooperation. Great job. Here is your fee - one-fifth of the amount owed.}
-{371}{}{Have a nice day.}
-{372}{}{If my first assignment is so successful, then maybe your boss has another job for me?}
+{368}{}{Here is the debt, }
+{369}{}{ caps. Don't ask me how I managed to get it.}
+{370}{}{How diligent. I thank you for your assistance. Excellent job. Here is your reward - one fifth of the debt.}
+{371}{}{Goodbye.}
+{372}{}{If my first assignment went so successfully, maybe your boss will have another one for me?}

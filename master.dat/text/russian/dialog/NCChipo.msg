@@ -1,75 +1,75 @@
-{100}{}{You see a Chip.}
+{100}{}{You see Chip.}
 {101}{}{You see a local child.}
-{102}{}{Wow, is this a real weapon? Do you have a permit?}
-{103}{}{Wow, is that power armor? I thought it was Frank's invention.}
+{102}{}{Wow, is that a real weapon? Do you have permission to carry it around?}
+{103}{}{Oh wow, is that power armor? I thought Frank was just making stuff up.}
 {104}{}{What are you doing?}
-{105}{}{I miss Pinkie.}
-{106}{}{Cruel! Why did you do that?}
-{1106}{}{Cruel! Why did you do that?}
+{105}{}{I miss Pinky.}
+{106}{}{You cruel, cruel person! Why did you do it?}
+{1106}{}{You cruel, cruel person! Why did you do it?}
 
-#Floating phrases
-{110}{}{Hey, Pinkie!}
-{111}{}{Sit down, Pinkie!}
-{112}{}{What a stupid animal.}
-{113}{}{No, Pinkie!}
+#Floating dialogue
+{110}{}{Hey, Pinky!}
+{111}{}{Sit, Pinky!}
+{112}{}{What a silly animal.}
+{113}{}{No, Pinky!}
 {114}{}{Don't scratch the floor!}
-{115}{}{Pinkie, stop gnawing on the furniture.}
-{116}{}{Oh, Dad will scold me for this.}
+{115}{}{Pinky, stop gnawing the furniture.}
+{116}{}{Oh, dad will be mad about this.}
 {117}{}{Wait, I'll pour you some water.}
 {118}{}{Are you hungry?}
-{119}{}{Do you want yummy?}
-{120}{}{Look, I have a mantis foot.}
-{121}{}{Well done, Pinkie. Good Pinky.}
-{122}{}{Hold the yummy.}
-{123}{}{Do you want more?}
-{124}{}{Give me a paw!}
+{119}{}{You want something tasty?}
+{120}{}{Look, I have a mantis' foot.}
+{121}{}{Great, Pinky. Good Pinky.}
+{122}{}{Here, take the yummy.}
+{123}{}{Want some more?}
+{124}{}{Give me your paw!}
 
-{130}{}{Hey, Pinkie!}
-{131}{}{Stop whining, Pinkie.}
-{132}{}{You've got the whole house on edge.}
-{133}{}{Do you want the neighbors to hear?}
+{130}{}{Hey, Pinky!}
+{131}{}{Stop whimpering, Pinky.}
+{132}{}{The whole house has heard you by now.}
+{133}{}{You want the neighbors to hear you?}
 {134}{}{Stop scratching me!}
-{135}{}{I'm worried about you.}
-{136}{}{Oh, what's wrong with you?}
-{137}{}{Can I give you some water?}
-{138}{}{Look what you've done!}
-{139}{}{What's hurting you?}
+{135}{}{I worry about you, after all.}
+{136}{}{Ugh, what's wrong with you?}
+{137}{}{Maybe I should give you some water?}
+{138}{}{Look at what you did!}
+{139}{}{Where does it hurt?}
 
-{200}{}{Hi. Are you going to my dad? He should be in his office.}
-{201}{}{Yes. Are you his son?}
-{202}{}{Yeah. I'm Chipo.}
-{203}{}{I see.}
-{204}{}{And who is this?}
-{205}{}{This... It's Pinkie. I'm watching him...}
-{206}{}{Hmm. Curious.}
+{200}{}{Hi. Do you need to talk to my dad? He should be in his cabinet.}
+{201}{}{Yes. And you're his son?}
+{202}{}{Uh-uh. I'm Chip.}
+{203}{}{Alright.}
+{204}{}{And what's that?}
+{205}{}{That... That is Pinky. I'm watching after him...}
+{206}{}{Hm. Interesting.}
 
-#Dialog
+#Dialogue
 {210}{}{What are you doing?}
-{211}{}{Wow. I thought you were kicked out of town.}
-{212}{}{Hey, isn't there so much talk about you around? Cool.}
-{213}{}{Lately, Pinkie's been kind of groovy. It looks like he's completely recovered.}
-{214}{}{You keep an eye on Pinkie there.}
+{211}{}{Oh my. I thought you were driven out of the town.}
+{212}{}{Hey, so it's you they're talking about? That's cool.}
+{213}{}{Look at him go! Seems like Pinky is finally back on his feet.}
+{214}{}{You watch over Pinky.}
 
 {219}{}{Bye, Chip.}
 
 {220}{}{Do you know where your dad is?}
-{221}{}{In the office, probably. As usual. He's always sitting there over his papers, and he throws me out so that I don't bother him.}
-{222}{}{Uh, believe me, you really shouldn't "bother" him.}
+{221}{}{In his cabinet, probably. As usual. He spends all his time with his papers, and tells me to go away so I won't disturb him.}
+{222}{}{Uhh, believe me, you really shouldn't "disturb" him.}
 
-{230}{}{Unusual pet you have.}
-{231}{}{It's Pinkie. He's cool, but people don't want him in town.}
+{230}{}{You sure have an unusual pet.}
+{231}{}{This is Pinky. He's cool, but people don't want to see him in the town.}
 {232}{}{Why?}
-{233}{}{Well, they come up with all sorts of things. That he is dangerous, that he spreads the infection or harms the plantations. Some nonsense. Frank is most displeased with everyone. Shouts that he will kill Pinkie at any opportunity.}
-{234}{}{Pig rats can really be dangerous.}
-{235}{}{But Pinkie is not like that! He hasn't done anything wrong yet. Only scratching at night. And lately, he's also been sick. While the others want him dead, he needs help right now.}
-{236}{}{Maybe it's for the best. Later.}
-{237}{}{This is sad news. Hold on, man.}
-{238}{}{Let me see this beast. Maybe I can cure him.}
-{239}{}{I had to do a whole Pinky operation. But it's all over now.}
-{240}{}{So he really recovered! Fantastic! Thank you very much. You know, he seems to like you. You can play with him if you want. But do not go further than the plantations, so that he does not escape into the desert.}
-{241}{}{Glad to help. Good luck, Chipo.}
-{1241}{}{I was glad to help. Good luck, Chipo.}
-{242}{}{What an injustice!}
-{243}{}{I'd like to take a walk with Pinkie.}
-{244}{}{If he wants to go with you, then I don't mind. Just don't take him far from home.}
-{245}{}{Thank you. I will walk with him to the nearest neighborhoods.}
+{233}{}{Well, they make up stuff. That he's dangerous, that he spreads disease or harms the plantations. Nonsense, basically. Frank is the one the most unhappy with him. He screams that he'll kill Pinky the moment he finds a convenient excuse.}
+{234}{}{Pigrats really *can* be dangerous.}
+{235}{}{But Pinky isn't like that! He still hasn't done anything bad. He just scratches at night. And he's become sick with something lately. While the others want him to die, he very much needs help right now.}
+{236}{}{Maybe it's for the best. Bye.}
+{237}{}{That's terrible. Hold on, boy.}
+{238}{}{Let me examine that animal. Perhaps I'll be able to heal him.}
+{239}{}{I had to do an entire operation on Pinky. But now that's all behind him.}
+{240}{}{He really has gotten better! Amazing! Thank you so much. You know, I think he likes you. You can play with him, if you want. But don't go beyond the plantations. He could escape into the desert.}
+{241}{}{Happy to help. Goodbye, Chip.}
+{1241}{}{Happy to help. Goodbye, Chip.}
+{242}{}{How unfair!}
+{243}{}{I want to go for a walk with Pinky.}
+{244}{}{If he wants to come with you, I'm not against it. Just don't go too far away from home.}
+{245}{}{Thanks. I'll walk him around the closest regions.}

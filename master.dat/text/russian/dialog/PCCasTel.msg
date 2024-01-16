@@ -1,26 +1,26 @@
 {100}{}{You see Diego's man.}
-{101}{}{You see one of Don Diego's men.}
+{101}{}{You see one of don Diego's men.}
 
-{110}{}{My respects. How is Don Diego?}
-{111}{}{I can't understand how they got along with the boss.}
-{112}{}{Can I help you with something?}
-{113}{}{Give my deep respects to Don Diego.}
-{114}{}{Could you ask Don for my promotion?}
+{110}{}{My regards. How is Don Diego?}
+{111}{}{I don't understand how you managed to have this relationship with the boss.}
+{112}{}{How can I help you?}
+{113}{}{Please inform Don Diego of my deep respect toward him.}
+{114}{}{Could you you ask the Don to promote me?}
 
-{115}{}{My respects.}
+{115}{}{My regards.}
 {116}{}{How are you?}
-{117}{}{Go back to the casino.}
+{117}{}{Return to the casino.}
 {118}{}{The boss won't like you being here.}
-{119}{}{My job is to monitor security.}
+{119}{}{My job is to ensure safety around here.}
 
-{120}{}{You'd better not linger here.}
-{121}{}{These are office premises, what are you doing here?}
-{122}{}{Do you have business with your boss? So go to him.}
+{120}{}{It's best not to spend too much time here, for you at least.}
+{121}{}{These are offices, what are you doing here?}
+{122}{}{You have something you need to say to the boss? Well, then go to him.}
 {123}{}{The boss won't like me talking to you.}
 {124}{}{If I find out you're a spy...}
 
 {125}{}{What are you doing here?}
 {126}{}{Spying?}
-{127}{}{Hey, get back to the casino right away.}
-{128}{}{These are office premises.}
-{129}{}{You don't belong here.}
+{127}{}{Hey, return to the casino immediately.}
+{128}{}{These are offices.}
+{129}{}{This is no place for you to be in.}

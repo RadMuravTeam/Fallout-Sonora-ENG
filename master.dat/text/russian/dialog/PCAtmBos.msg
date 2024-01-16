@@ -1,79 +1,79 @@
 {100}{}{You see Theodore.}
-{101}{}{You see a man with burnt skin. He is wearing well-worn work clothes with a pre-war symbol.}
-{102}{}{Security! An outsider!}
-{103}{}{We'll talk when Ralph is overtaken by Electromagnetic Retaliation.}
-{104}{}{I have a lot to do. But thanks for visiting Grandpa. By the way, who are you?}
-{105}{}{Oh, I don't feel well...}
+{101}{}{You see a person with burned skin. On him is a very old, tattered uniform with a Pre-War symbol.}
+{102}{}{Security! Intruder!}
+{103}{}{We'll talk when Ralph meets Electromagnetic Retribution.}
+{104}{}{I have a lot of work to do, but thank you for visiting such an old man as myself. By the way, who are you?}
+{105}{}{Oh, I do not feel good...}
 
 {110}{}{   }
-{111}{}{Boss! Theodore! Trouble!}
-{112}{}{What happened? I'm trying to sleep here...}
-{113}{}{Ralph and the others locked themselves at the control panel. And he's not joking!}
-{114}{}{Ralph? I asked you to bring him to me. for me. Repeat?}
-{115}{}{No, Chief, he's locked himself in and won't let anyone in there. We have to do something!}
+{111}{}{Boss! Theodore! There's trouble!}
+{112}{}{What in Atom's name happened? I'm trying to sleep here...}
+{113}{}{Ralph and the others have locked themselves in the control room. He isn't kidding around!}
+{114}{}{Ralph? I told you to bring him to me. BRING. HIM. TO. ME. Do I have to repeat myself?}
+{115}{}{No, boss, but it's not just that he's locked in there, he isn't letting anybody else enter. We've got to do something!}
 
-{200}{}{Well, well. And here is the first messenger of evil. Or not? I'm getting confused about the days of the week, I need to wind up the clock.}
-{201}{}{Um, I don't understand what you're talking about. I've been in town recently, looking for my family.}
-{202}{}{Hmm, really? Well, yes, I've seen a lot in a hundred years. Sorry for the skepticism, but it's very important to be careful right now.}
-{203}{}{Did something happen?}
-{204}{}{The pipeline from the reactor cooling system exploded. Burst like a nasty worm. We've cut off the liquid supply, but there won't be enough reserves for a long time. The reactor will overheat from month to month and sooner or later it will have to be turned off.}
-{205}{}{Doesn't sound very good. Can it be fixed?}
-{206}{}{Sure. But not by our forces. This is a nuclear power plant, not a factory. We need parts and equipment, and we'll have to do a good job of finding them. Can you handle it? Our payment is timely.}
-{207}{}{I don't understand it.}
-{208}{}{Me too, hehe. Just bring us the materials to fix it. It seems there is an operating factory somewhere in the south. Ask around the locals.}
+{200}{}{Well, well, well. The first messenger of evil arrives. Or maybe not? Looks like I've started messing up the days of the week. I really do need to get that clock working.}
+{201}{}{Uhh, I don't know what you're talking about. I'm new here, I'm looking for my relatives.}
+{202}{}{Hmm, really? Well, yes, I saw many people over the course of a century. Excuse my skepticism, but in these times it's very important to tread lightly.}
+{203}{}{Did something go wrong?}
+{204}{}{The pipes going to the reactor cooling system exploded. They burst open like a vile worm. We cut off the coolant supply, but the reserves won't last long. The reactor will overheat at times, and we will eventually have to shut it down.}
+{205}{}{Doesn't sound good at all. Can it be repaired?}
+{206}{}{Of course. But not by us. This is a nuclear power plant, not a factory. We need components and equipment, and to find them, one will have to search hard. Could you do it? You will be compensated.}
+{207}{}{I have no experience in that kind of work.}
+{208}{}{Neither do I, he-he. Just bring us the materials for repair. I think there's a functioning factory somewhere to the south. Ask the locals.}
 {209}{}{I'll think about it.}
-{210}{}{It's too far and out of the way. Sorry.}
-{211}{}{Sure. I always want to earn money.}
-{212}{}{Fine, I'm counting on you. Go, but don't tell anyone about our agreement... Hmm. M-nasty sea worms. They are trying to pounce on you with their copper teeth.}
-{213}{}{e... Goodbye.}
-{214}{}{But don't tell anyone about our agreement. Especially those crazy fire worshippers.}
+{210}{}{It's too far away and not in the direction I was already going. Sorry.}
+{211}{}{Of course. I'm always up for earning some money.}
+{212}{}{Great, I'm counting on you. Go, but don't tell anyone about our little deal... Hm-m. Re-e-volting seaworms. They want to lunge right at you, with their razor-sharp teeth.}
+{213}{}{Uhh... Goodbye.}
+{214}{}{But don't tell anyone about our deal. Especially those crazy fire-worshippers.}
 
 {220}{}{Yes, yes, I'm listening.}
 {221}{}{Goodbye.}
-{222}{}{I'm waiting for the results. Don't forget that this job is paid.}
+{222}{}{I'm awaiting results. Don't forget that you'll be given compensation for doing this job.}
 
-{230}{}{Can I ask a couple of questions about this station?}
-{231}{}{Don't waste my time. I've already done you the courtesy of letting you in.}
-{232}{}{Okay.}
-{233}{}{I managed to fix the cooling system.}
-{234}{}{Thank Ampere, you succeeded! I can't believe it, and how did you do it?}
-{235}{}{Well, I had to tinker with this hardware all day.}
-{236}{}{You sing sweetly, smooth skin. It can't be that your appearance coincidentally coincided with a diversion.}
-{237}{}{Uh, sabotage?}
-{238}{}{We studied the wreckage. So what? The system was deliberately blown up with dynamite. How do you explain this, my slippery pale-skinned friend?}
-{239}{}{Uh, I have nothing to do with it. You let me in yourself and then...}
-{240}{}{Enough of these soporific speeches, dear. I'll tell you what - find the culprits who are behind the terrorist attack. And only then will I decide whether to pay you or not.}
-{241}{}{Give me my bottlecaps, old man, or you'll go to your forefathers.}
-{242}{}{How am I going to do that? However, such a station probably has a lot of moves for the secret penetration of intruders.}
-{243}{}{You're thinking right. Now go and don't come back without information. U-ha-ha, I'll have fun treading on one foot!}
-{244}{}{OK... Uh, I'll go. Goodbye.}
-{245}{}{I know the laws! And you? So do not contradict the officer on duty.}
-{246}{}{E... What?}
-{247}{}{Come here, you decrepit doll, now I'll put your brains in place.}
+{230}{}{Can I ask you a couple of questions about this plant?}
+{231}{}{Don't waste my time. Just letting you in was already a favor.}
+{232}{}{Alright.}
+{233}{}{I fixed the cooling system.}
+{234}{}{By Amper, you did it! I can't believe it! How did you do it?}
+{235}{}{Well, I had to spend an entire day working with this piece of junk.}
+{236}{}{Singing like a bird, smoothskin. Your arrival coinciding with the sabotage can't be a mere coincidence.}
+{237}{}{Uhh, what sabotage?}
+{238}{}{We studied the wreckage. And what did we find? The system was blown up with dynamite. How do you explain that, my little slippery smoothskin friend?}
+{239}{}{Uhh, I had nothing to do with it. It was you yourself who let me in, and then there also was the...}
+{240}{}{Enough with talking people to death, my dear. Let me tell you this - you find those responsible for this. And only then will I decide whether to pay you or not.}
+{241}{}{Gimme my caps, old man, or you'll go meet your great-grandparents.}
+{242}{}{My great-grandparents are long-dead. I don't see how I could meet them. Well, in any case, that plant undoubtedly had many ways for malefactors to get in without anyone noticing.}
+{243}{}{You are thinking correctly. Now go and do not return without information. Ha-ha-ha, I'll be merrily walking with a single leg!}
+{244}{}{O-kay... uhh, I'll be going. Goodbye.}
+{245}{}{I know the law! What about you? Pay some respect to an officer on duty.}
+{246}{}{Uhh... What?}
+{247}{}{Get over here, you decrepit puppet, and I'll fix your brain up.}
 
-{250}{}{I know who blew up the cooler.}
-{251}{}{Wow, how curious. Like in a real detective story... And who is it?}
-{252}{}{I don't know. I'm just desperate. I'd better go get a drink.}
-{253}{}{The explosion was carried out by the Red Cardinals on the order of the fire worshippers. And your devoted assistant, Ralph, helped them with this.}
-{254}{}{Close my contacts! Why would he interfere in this?}
-{255}{}{I have no idea, but it's a fact.}
-{256}{}{The Church tried to persuade you to an unprofitable contract. And Ralph... He thinks it's time for him to take up the post of stationmaster.}
-{257}{}{Hey, security! Bring Ralph to me. And do not take your eyes off him, so that there are no discounts for him... He's crazy. Like an overripe cherry. Do you know how much work it costs to launch this station?}
-{258}{}{I don't care...}
-{259}{}{Must be pretty damn hard?}
-{260}{}{Oh yeah. All worries. Ralph thinks the cultists will do better if they take command here. But as a former officer, I know that people with convictions should not be allowed to come to power. Oh, I love to write out fines for crossing in the wrong place. You feel like that... big.}
-{261}{}{N-well...}
-{262}{}{What are you talking about?}
+{250}{}{I know who blew up the cooling system.}
+{251}{}{Oh, how intriguing. It's like I'm in a real detective story... So who was it?}
+{252}{}{I have no idea - which is why I am in a state of absolute despair. I better go drown it in alcohol to ease the pain.}
+{253}{}{The sabotage was commited by the Red Cardinals on behalf of the Fire-worshippers. A devoted assistant of yours has been helping them. His name is Ralph.}
+{254}{}{Dammit! Why would *he* get involved in this?}
+{255}{}{I have no idea, but it's the truth.}
+{256}{}{The Cathedral has been trying to make you accept a one-sided contract. But Ralph... He thinks the time has come for him to take the role of managing the plant.}
+{257}{}{Guards! Bring Ralph to me. And don't let your guard down around him, don't let him talk you into anything... He's crazy. Just like an overripe cherry. Can you even comprehend how much effort it took to launch this plant?}
+{258}{}{I don't care in the slightest...}
+{259}{}{Let me guess. A lot.}
+{260}{}{Oh yes, very much so - it was all work and no play. Ralph thinks the cultists would run things better if they were in charge. But as a former officer, I know better than to let people with convictions anywhere near power. Oh, how I love giving people fines for walking in restricted areas. I feel so... powerful.}
+{261}{}{I see...}
+{262}{}{The fuck you talking about?}
 
-{270}{}{What is this old libertine up to? Look, deal with Ralph. This case is getting too dangerous.}
-{271}{}{Will do. Like two fingers on asphalt.}
-{272}{}{It's worth talking to him first.}
+{270}{}{What does that debauched old man have on his mind? Listen, go deal with Ralph. This case is becoming too dangerous.}
+{271}{}{I'll do it, sure.}
+{272}{}{It would be prudent to speak to him first.}
 
-{280}{}{And here is our hero. A real hard worker of the nuclear power plant. I'm sorry, I ran out of awards. But don't worry. I know how to comfort you. Go to the storekeeper and ask him for anything you want in the warehouse.}
-{1280}{}{And here is our heroine. A real hard worker of the nuclear power plant. I'm sorry, I ran out of awards. But don't worry. I know how to comfort you. Go to the storekeeper and ask him for anything you want.}
-{281}{}{Glad to try.}
-{1281}{}{Glad to try.}
-{282}{}{After all I've seen, I don't understand how you even exist with such insanity. Yes, and you control the station.}
-{283}{}{What are you saying? Miasma? Yeah, that's a problem. I tried to wash, but the smell only intensified. You're it, you better worry about yourself.}
+{280}{}{It's an honor to meet our nuclear power plant's hero. It's a shame I ran out of rewards. But don't fret. I know what will make you happy. Go to the quartermaster and ask him to receive anything you want from the warehouse.}
+{1280}{}{It's an honor to meet our nuclear power plant's heroine. It's a shame I ran out of rewards. But don't fret. I know what will make you happy. Go to the quartermaster and ask him to receive anything you want from the warehouse.}
+{281}{}{Happy to help.}
+{1281}{}{Happy to help.}
+{282}{}{After all I've seen, I don't understand how you even survived this long with such madness. Let alone manage a power plant.}
+{283}{}{What did you say? Miasma? It's a serious problem, yes. I try to wash myself, but the smell only intensifies. You should worry more about your own personal hygiene.}
 {284}{}{Goodbye, old man.}
-{285}{}{I hope we never cross paths again.}
+{285}{}{I hope we never meet again.}

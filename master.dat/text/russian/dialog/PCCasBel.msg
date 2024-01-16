@@ -1,85 +1,85 @@
 {100}{}{You see a bellboy.}
-{101}{}{You see a very helpful young man with an ingratiating look.}
-{102}{}{Q-you're not going to check into the room in this one... in this...}
-{103}{}{Sorry, buddy, but I was forbidden to serve an ass like you.}
-{1103}{}{Sorry, but I was forbidden to serve a bitch like you.}
+{101}{}{You see a fairly helpful-looking young man with a look that shows he's looking for approval.}
+{102}{}{Y-you're not planning on going to the suite in that... in this... r-right?}
+{103}{}{Sorry, buddy, but I'm no longer authorized to serve an asshole like you.}
+{1103}{}{Sorry, but I'm no longer authorized to serve a bitch like you.}
 
-{200}{}{What can I do for you, sir?}
-{1200}{}{What can I do for you, ma'am?}
+{200}{}{How may I help you, sir?}
+{1200}{}{How may I help you, ma'am?}
 {201}{}{Who are you?}
-{202}{}{I'm a bellboy. I run small errands for a small fee.}
-{203}{}{Clear.}
-{204}{}{Any progress? I definitely have... Heh heh.}
+{202}{}{I am a bellboy. I do small tasks for small rewards.}
+{203}{}{Alright.}
+{204}{}{Have you achieved any success? I definitely have... Heh-heh.}
 
 {210}{}{Good night, sir.}
 {1210}{}{Good night, ma'am.}
 {211}{}{Good morning, sir.}
 {1211}{}{Good morning, ma'am.}
-{212}{}{Good afternoon, sir.}
-{1212}{}{Good afternoon, ma'am.}
+{212}{}{Good day, sir.}
+{1212}{}{Good day, ma'am.}
 {213}{}{Good evening, sir.}
 {1213}{}{Good evening, ma'am.}
-{214}{}{My respects, sir.}
-{1214}{}{My respects, ma'am.}
-{218}{}{I see.}
+{214}{}{My regards, sir.}
+{1214}{}{My regards, ma'am.}
+{218}{}{Alright.}
 {219}{}{Bye.}
 
 {220}{}{What is this place?}
-{221}{}{Inside the casino, and on the second floor there is a small hotel. Here you can relax and gamble.}
-{222}{}{Remind me, what are you doing here?}
-{223}{}{Running small errands, sir. I'm a bellboy.}
-{1223}{}{Running errands, ma'am. I'm a bellboy.}
-{224}{}{What are you doing here?}
+{221}{}{This is the inside of the casino. There is a small hotel on the second floor. Here, one can rest and gamble.}
+{222}{}{Remind me, what is it you do here?}
+{223}{}{I do small tasks, sir. I am a bellboy.}
+{1223}{}{I do small tasks, ma'am. I am a bellboy.}
+{224}{}{What is it you do here?}
 {225}{}{So this is a hotel?}
-{226}{}{I want to rent a hotel room.}
-{227}{}{There is one spare room. With you }
+{226}{}{I want to rent a room.}
+{227}{}{There is one availaible room. It will cost you }
 {228}{}{ caps per night.}
-{229}{}{Don't, I've changed my mind.}
-{1229}{}{Don't, I've changed my mind.}
-{230}{}{I wish I had so many caps.}
-{231}{}{Good. Here are the bottlecaps.}
-{232}{}{You have had a good rest and gained strength.}
+{229}{}{On a second thought, I changed my mind, I don't need a room.}
+{1229}{}{On a second thought, I changed my mind, I don't need a room.}
+{230}{}{It's a shame I don't have so many caps.}
+{231}{}{Great. Here are the caps.}
+{232}{}{You have rested well and gathered strength.}
 
-#Arrangement of the suite
-{250}{}{I checked into a suite. Can you get some furniture in there?}
-{1250}{}{I moved into a suite. Can you bring some furniture in there?}
-{251}{}{Of course, sir. What do you need?}
-{1251}{}{Of course, ma'am. What do you need?}
-{252}{}{However, everything is already forced there.}
-{253}{}{Pot. [5 caps]}
-{254}{}{Small shelves for things. [20 caps]}
-{255}{}{Roomy cabinet. [50 caps]}
-{256}{}{Refrigerator. [50 caps]}
+#Improving the de luxe suite
+{250}{}{I have settled in the de luxe suite. Can you bring some furniture there?}
+{1250}{}{I have settled in the de luxe suite. Can you bring some furniture there?}
+{251}{}{Of course, sir. What is it you need?}
+{1251}{}{Of course, ma'am. What is it you need?}
+{252}{}{On a second thought, there's enough stuff there anyways.}
+{253}{}{A pot. [5 caps]}
+{254}{}{Small shelves for items. [20 caps]}
+{255}{}{A spacious cabinet. [50 caps]}
+{256}{}{A refrigerator. [50 caps]}
 {257}{}{}
-{258}{}{Ahem. bottlecaps forward.}
-{259}{}{Yes, yes, uh, of course...}
-{260}{}{All ready, sir.}
-{1260}{}{All set, ma'am.}
-{261}{}{Great.}
-{262}{}{Yeah. The service is terrible when there are no competitors.}
+{258}{}{Hmm. Caps first.}
+{259}{}{Yes, uhh, of course...}
+{260}{}{Done, sir.}
+{1260}{}{Done, ma'am.}
+{261}{}{Excellent.}
+{262}{}{Hmm. Service sure is awful when there are no competitors.}
 
-#Skill Enhancement
-{300}{}{Tell me, is the game in this casino fair?}
-{301}{}{Honest... Yes, perhaps.}
+#Skill increase
+{300}{}{Tell me, are the games in this casino really fair?}
+{301}{}{Fair... Yeah, I suppose.}
 {302}{}{Why did you hesitate?}
-{303}{}{Well, it depends a lot on probabilities. And they are generally slightly higher at the casino than at the player. But that doesn't mean you can't win and get rich.}
-{304}{}{Tell me how to do it. Surely there are all sorts of tricks?}
-{305}{}{Uh, no. (looks around at the guard and lowers his voice) The boss won't like it.}
-{306}{}{No one will know about it. [it's tempting to show your caps]}
-{307}{}{Then forget it.}
-{308}{}{H-hy, everything is for our customers. For 300 caps, I will spend a small one... a master class, yes. "How can you raise your chances by five percent and why is it a lot". Something like this.}
-{309}{}{I can easily win back such caps. When do we start?}
-{310}{}{I can't afford it. See you later.}
-{311}{}{Meet me at the billiard table on the second floor. And this... don't forget the caps.}
-{312}{}{No problems.}
+{303}{}{Well, it really depends on a lot on stuff. And, in general, chances are better for the casino than the player. But that doesn't mean you can't win and get rich.}
+{304}{}{Tell me how to do it. There have to be some tricks, right?}
+{305}{}{Uhh, no. (looks in the direction of security and lowers his voice) The boss won't like it.}
+{306}{}{Nobody will ever find out. [temptingly show your caps]}
+{307}{}{Forget it, then.}
+{308}{}{H-heh, anything for our clients. For 300 caps I'll do a little... master-class, yeah. "How you can raise your chances by 5 percent and why that's a lot". Something like that.}
+{309}{}{I'll easily win those caps back. When will we start?}
+{310}{}{I can't afford this. See you later.}
+{311}{}{We'll meet each other at the billiard table on the second floor. And... don't forget about the caps.}
+{312}{}{No problem.}
 
-{320}{}{I'm ready to start anytime.}
-{321}{}{Here are 300 caps. }
-{322}{}{Wait a little longer. I'll have to go get the caps.}
-{323}{}{Thank you. (looking around hides the bottlecaps) Let's start with the general rules...}
+{320}{}{I'm ready to start any moment now.}
+{321}{}{Here are the 300 caps. }
+{322}{}{Wait a bit. I'll go get the caps.}
+{323}{}{Thank you. (looks around, the hides the caps) I suppose we should start with the basic rules...}
 {324}{}{[Continue]}
-{325}{}{...And never split into fives, then the sum will be equal to ten.}
-{326}{}{Wow, it's not easy. Now I know exactly what NOT to do.}
-{327}{}{That's all I know. Ultimately, these five percent of luck will decide your fate in the game. Okay, I'll go before the boss suspects anything.}
-{328}{}{Thanks for the tips, man.}
-{329}{}{Get lost, I don't need you anymore.}
+{325}{}{...And never split on fives, then the sum will be ten.}
+{326}{}{Oh wow, how complicated. Now I definitely know what NOT to do.}
+{327}{}{That's all I know. In the end, this 5 percent will decide your success within the game. And now I have to go. Before the boss suspects anything.}
+{328}{}{Thanks for the tips, pal.}
+{329}{}{Scram, you're of no use to me anymore.}
