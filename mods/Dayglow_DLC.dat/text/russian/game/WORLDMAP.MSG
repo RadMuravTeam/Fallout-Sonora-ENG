@@ -539,7 +539,7 @@
 {3601}{}{A group of radmurts.}
 {3602}{}{The body of an unlucky marauder.}
 {3603}{}{A lone scavenger.}
-{3604}{}{The Mad Mr. Assistant.}
+{3604}{}{The Mad Mr. Handy.}
 
 # Encounter Table 13 -- ROAD_D
 {3650}{}{Red Rider.}

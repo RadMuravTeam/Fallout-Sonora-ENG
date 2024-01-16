@@ -174,7 +174,7 @@
 {274}{}{Assistant}
 {275}{}{Computer}
 {276}{}{Roboglaz}
-{277}{}{Mr. Assistant}
+{277}{}{Mr. Handy}
 {278}{}{The Guard}
 {279}{}{Clothing Synthesizer}
 {280}{}{Console}
@@ -205,7 +205,7 @@
 {305}{}{Gerardo}
 {306}{}{Ghoul}
 {307}{}{Carlos}
-{308}{}{Mr. Assistant}
+{308}{}{Mr. Handy}
 {309}{}{Roboglaz}
 {310}{}{ZAX}
 {311}{}{Computer}
@@ -525,7 +525,7 @@
 {625}{}{Ralph}
 {626}{}{Atomic Engineer}
 {627}{}{Atomic Engineer}
-{628}{}{Mr. Assistant}
+{628}{}{Mr. Handy}
 {629}{}{Atomic Engineer}
 {630}{}{Cooling system}
 {631}{}{Computer}
@@ -640,7 +640,7 @@
 {740}{}{Washer}
 {741}{}{The Fisherman}
 {742}{}{Psychomaniac}
-{743}{}{Mr. Assistant}
+{743}{}{Mr. Handy}
 {744}{}{Flyer}
 {745}{}{Cannibal}
 {746}{}{The Wolf}
@@ -898,7 +898,7 @@
 {998}{}{Trucker}
 {999}{}{Rutger}
 {1000}{}{Steve Morgan}
-{1001}{}{The cart}
+{1001}{}{Cart}
 {1002}{}{Super Mutant}
 {1003}{}{Mr. Traffic Warden}
 {1004}{}{Ghoul}
