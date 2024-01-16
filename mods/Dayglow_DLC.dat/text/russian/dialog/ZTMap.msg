@@ -37,13 +37,13 @@
 {132}{}{The way to the nomads' camp is suddenly blocked by a military detachment.}
 {133}{}{You have entered a tribal camp lost among the dunes.}
 {134}{}{You have come to the pens. The persistent smell of cattle can be felt already a mile away.}
-{135}{}{You have come to the settlement of tinsmiths. Unusual buildings built of aviation equipment can be seen behind the gates.}
+{135}{}{You have come to the settlement of tinsmiths. Unusual buildings made of aviation equipment can be seen behind the gates.}
 {136}{}{}
 {137}{}{}
 {138}{}{It seems that this bunker has been abandoned for a hundred years.}
 {139}{}{Ahead you notice old ruins. Judging by the humid air, there should be a sea behind them.}
 {140}{}{You found yourself at a small pier.}
-{141}{}{For the first time in your life you were on the deck of a destroyer.}
+{141}{}{For the first time in your life you are on the deck of a destroyer.}
 {142}{}{}
 {143}{}{The road led you to the dam. On its top, the ranger bastion is unapproachably located.}
 {144}{}{}
@@ -67,14 +67,14 @@
 {162}{}{}
 {163}{}{}
 {164}{}{You have discovered a small town surrounded by green plantations. There is a lot of life in this oasis.}
-{165}{}{In the middle of the desert there is a huge plantation. So familiar to you and at the same time so alien landscape...}
+{165}{}{In the middle of the desert lies a vast plantation; a landscape both familiar and alien.}
 {166}{}{}
-{167}{}{A deserted highway leads you to a bandit's lair. It looks like no one is waiting for you here.}
+{167}{}{The deserted highway leads you to the bandit's lair. It looks like no one is waiting for you here.}
 {168}{}{This place looks abandoned, but something about it worries you.}
 {169}{}{What a sad sight. This place will be uninhabitable for the next hundred years.}
-{170}{}{You went down into the uranium mines.}
-{171}{}{A lonely motel appears on the side of the road like a ghost.}
-{172}{}{An old high lighthouse on the shore beckons to a casual traveler.}
+{170}{}{You descend into the uranium mines.}
+{171}{}{As you travel along the road, a solitary motel suddenly materializes on the side of the road, like a ghost.}
+{172}{}{An old high lighthouse on the shore beckons to the casual traveler.}
 {173}{}{}
 {174}{}{}
 {175}{}{}
