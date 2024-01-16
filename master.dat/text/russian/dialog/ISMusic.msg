@@ -1,11 +1,11 @@
 {110}{}{This jukebox is broken.}
-{111}{}{The jukebox has been restored and is ready to make terrible creaking noises called music.}
-{112}{}{The jukebox has been successfully restored. Oh, how loud!}
-{113}{}{The musical automaton is finally coming out of the string.}
+{111}{}{The jukebox is restored and is now ready to make the scary creaky noises known as music.}
+{112}{}{The jukebox is successfully restored. Oops, how loud!}
+{113}{}{The jukebox finally gives up the ghost.}
 
-{120}{}{*Boom boom*}
-{121}{}{*sh-sh-sh*}
-{122}{}{*sadum-padum*}
-{123}{}{*Shi-boom, shi-boom*}
+{120}{}{*Boom-boom*}
+{121}{}{*Psh-sh-sh*}
+{122}{}{*Pdum-pdum*}
+{123}{}{*Sh-boom, sh-boom*}
 {124}{}{*Sha-la-la*}
-{125}{}{*Òrum-pum-pum*}
+{125}{}{*Troom-poom-poom*}

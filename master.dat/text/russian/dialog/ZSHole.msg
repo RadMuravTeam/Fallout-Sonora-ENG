@@ -1,4 +1,3 @@
-{100}{}{Ònow you can go down into the darkness.}
-{101}{}{Ñit is false to say why there are no stairs here. Ho it is not there.}
-{102}{}{It is impossible to fix what is not there. This ladder needs to be replaced.}
-{103}{}{ÃNothing can be done here with bare hands.}
+{100}{}{You can now go down into the darkness.}
+{101}{}{It's hard to say why there is no ladder, but such is the situation you are in. You will have to find another solution.}
+{102}{}{One cannot repair that which does not exist. You will have to find a replacement for this absent ladder.}

@@ -1,34 +1,31 @@
 {100}{}{You see Gerardo.}
-{101}{}{You see one of the enslaved peasants of the Villa.}
+{101}{}{You see one of Villa's enslaved peasants.}
 
-#The first dialog
-{200}{}{?! And you're here?! I thought the raiders didn't find you...}
-{201}{}{No, Gerardo, we haven't found it. That's why I'm here to save you.}
-{202}{}{Eh, amigo, you know how to encourage. But believe me, there's no way out of here. The very earth here is saturated with death! We will perish, amigo, and no one will even bury us.}
+#First dialogue
+{200}{}{You're here too?! I thought the raiders didn't find you...}
+{201}{}{They didn't. That's why I'm here, to save you all.}
+{202}{}{Eh, amigo, you sure know how to give people hope. But believe me - there is no exit here. The land itself is filled with death! We will die here, amigo, and no one will even bury us.}
 {203}{}{Where is my padre?}
-{204}{}{Now he should be in an old hangar in the middle of the Burial Ground. All the survivors gather there. Go north, you won't miss it.}
-{205}{}{Good. See you later.}
-{206}{}{What about you?}
-{207}{}{The padre said to sit here and direct new people to the hangar. Don't worry, I'm relatively safe in these containers.}
-{208}{}{I see. See you later, Gerardo.}
+{204}{}{He left to scout and hasn't come back. Looks like this land has consumed him as well. If you come to look for him, you'll die too!}
+{205}{}{I have to. Wait here until I come back.}
 
-{210}{}{Thank heaven you're back!}
-{1210}{}{Thank heaven you're back!}
-{211}{}{Be.}
-{212}{}{The barrier is disabled, and the robots will not touch us. Go back to the Villa.}
-{213}{}{And did you manage it all? Truly, here is the real leader of the Villa! Although something has changed in you, amigo... Okay, I'll meet you at home! If, of course, we get there.}
-{214}{}{Be.}
+{210}{}{Thank heavens, you're back!}
+{1210}{}{Thank heavens, you're back!}
+{211}{}{Take care.}
+{212}{}{The barrier is disabled, and the robots won't hurt you anymore. Come back to Villa.}
+{213}{}{You really did it? Truly, the real leader of Villa stands before me! Though I recognize you, amigo, something changed inside you... Alright, see you at home! Assuming, of course, we make it.}
+{214}{}{Take care.}
 {215}{}{What now?}
 
-{220}{}{Come with me, I need support in battle.}
-{221}{}{What are you, amigo? You're calling me to my death! With our weapons against robots, we are powerless. It's better to sit back and wait until someone opens the gate.}
-{222}{}{I don't recognize you, Gerardo. Remember, you were always a cool pepper in our village?}
-{223}{}{Ya... I'm alive only because of your padre. The villa and this world are completely different. I'm not ready for this. Sorry. Even if I return to the Villa, I will not be able to live as before.}
-{224}{}{Gerardo, now is not the time for despondency. Get up, your family needs you!}
-{225}{}{Okay, amigo... But I won't take a step into that damn bunker! Let's get to the entrance, and then without me.}
-{226}{}{Well, at least so.}
-{227}{}{No... I'm needed here now. Padre Andres is counting on me.}
-{228}{}{I see.}
-{229}{}{We should split up. Stay where you are until I get back.}
-{230}{}{Whatever you say, amigo...}
-{231}{}{That's settled.}
+{220}{}{Come with me. I need all the support in battle I can get.}
+{221}{}{No, amigo! You're inviting me to step into my grave! With these weapons, we're powerless against those robots. Better to sit tight and wait for someone else to open the gates.}
+{222}{}{Looks like slavery broke you.}
+{223}{}{You're right... I'm alive right now thanks only to your padre. But... We've seen and lived through things we never would have even imagined before. Even if we return to Villa, our life as it was before all this will never come back.}
+{224}{}{Gerardo, now is not the time to be all glomy. Get on your feet, your family needs you!}
+{225}{}{Alright, amigo... But I'm not taking a single step into that damn bunker! We'll walk to the exit, you'll go into it without me.}
+{226}{}{At least it's something.}
+{227}{}{No... I'll stay here... I'm sorry...}
+{228}{}{I understand.}
+{229}{}{We should split up. Stay here until I come back.}
+{230}{}{As you wish, amigo...}
+{231}{}{That's agreed upon.}

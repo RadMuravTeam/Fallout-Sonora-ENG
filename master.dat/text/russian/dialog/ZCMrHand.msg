@@ -1,19 +1,19 @@
 {110}{}{Shall I tell you a joke, Mr. McClellan?}
 {111}{}{Good morning, Mrs. McClellan.}
-{112}{}{A nobody like you killed Mrs. McClellan!}
-{113}{}{Away from the McClellan family home!}
-{114}{}{Save yourself, Mr. McClellan! Go to the basement and get the kids!}
-{115}{}{I will not let my masters offend!}
-{116}{}{No one can interrupt my master's dog's morning walk.}
-{117}{}{I see a thief! Master, don't leave the room and lock the door!}
-{118}{}{You shouldn't have kidnapped my master's dog!}
-{119}{}{God, that blinding flash... Mr. McClellan? What's the matter with you? Mr. McClellan!}
-{120}{}{I cannot harm members of the McClellan family. But you're not from this family.}
-{121}{}{I was created to obey only the orders of the McClellan family.}
-{122}{}{I have to take care of my safety because I am the property of the McClellan family.}
-{123}{}{It will be a gentle rain today.}
-{124}{}{Your blood will be a great lubricant, plebeian!}
-{125}{}{Activating the "Deep Cleaning" protocol}
-{126}{}{Should I place this primate's skull next to your trophies, Mr. McClellan?}
-{127}{}{Shall I serve the intruder with garlic or mustard sauce, Mrs. McClellan?}
-{128}{}{You'll have to pay a fine.}
+{112}{}{A schmuck like you killed Mrs. McClellan!}
+{113}{}{Get away from the McClellan family residence!}
+{114}{}{Run, Mrs. McClellan! Head to the basement, and take the children with you!}
+{115}{}{I will not allow my masters to be insulted!}
+{116}{}{No thing and no creature will prevent my master from walking his dog in the morning.}
+{117}{}{Thief detected! Master, do not leave the room, and lock the door!}
+{118}{}{You should not have kidnapped my master's dog!}
+{119}{}{God, what a blinding flash... Mr. McClellan? What happened to you? Mr. McClellan!}
+{120}{}{I cannot bring harm to members of the McClellan family. You are not a member of the McClellan family.}
+{121}{}{I was made to follow only the orders of the McClellan family.}
+{122}{}{I must ensure my own safety, as I am the property of the McClellan family.}
+{123}{}{There will be a drizzle today.}
+{124}{}{This plebian blood will serve as a highly effective lubricant!}
+{125}{}{Initiating "Deep cleaning" protocol.}
+{126}{}{Shall I place that primate's scull near your trophies, Mr. McClellan?}
+{127}{}{Shall I serve the offender with garlic or mustard sauce, Mrs. McClellan?}
+{128}{}{You will have to face the penalty.}

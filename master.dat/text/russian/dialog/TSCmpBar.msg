@@ -1,5 +1,5 @@
-{110}{}{The barrier is destabilized for 5 seconds.}
-{111}{}{The barrier has already been destabilized.}
-{112}{}{The modulator action is over.}
-{113}{}{At the moment, the modulator is useless.}
-{114}{}{Some calculations will be required here.}
+{110}{}{Barrier destabilized for 5 seconds.}
+{111}{}{Barrier already destabilized.}
+{112}{}{Modulator out of power.}
+{113}{}{The modulator is currently useless.}
+{114}{}{This will need a bit of math.}

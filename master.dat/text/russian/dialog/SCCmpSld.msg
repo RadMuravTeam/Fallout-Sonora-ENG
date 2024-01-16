@@ -1,8 +1,8 @@
-{100}{}{You see a soldier of the Brotherhood.}
-{101}{}{You see a warrior of the Brotherhood of Steel.}
+{100}{}{You see a Brotherhood soldier.}
+{101}{}{You see one of the Brotherhood of Steel's warriors.}
 
-{110}{}{Keep an eye on the rear.}
-{111}{}{You should always be on your guard here.}
-{112}{}{Watch your step. They could have set traps.}
-{113}{}{These desperados are desperate guys.}
-{114}{}{In this operation, you don't have to save ammo.}
+{110}{}{Watch your back.}
+{111}{}{You always have to be on the lookout here.}
+{112}{}{Watch where you're going. They could have set up traps.}
+{113}{}{These desperados are quite foolhardy.}
+{114}{}{We don't have to conserve ammo during this operation.}

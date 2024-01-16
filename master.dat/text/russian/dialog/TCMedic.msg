@@ -1,12 +1,12 @@
 {100}{}{You see a doctor.}
-{101}{}{This is Doc Jones. He looks more like a mechanic than a doctor.}
-{102}{}{The operation was successful.}
+{101}{}{You see Doc Jones. He looks more like a mechanic than a doctor.}
+{102}{}{Operation successful.}
 
-#Floating replicas (do not delete empty lines)
-{110}{}{Fixing people is harder than fixing machinery.}
-{111}{}{I've never thought about the composition of stimpacks.}
-{112}{}{Injuries have become more frequent lately.}
-{113}{}{I will lose a couple more patients - and I will definitely face a technical inspection.}
+#Floating dialogue (do not delete empty lines)
+{110}{}{Fixing people isn't like fixing machinery.}
+{111}{}{I never thought about what went into those stim-paks before.}
+{112}{}{More traumas as of late.}
+{113}{}{I lose a few more patients - I'm definitely getting a technical inspection.}
 {114}{}{ }
 {115}{}{ }
 {116}{}{ }
@@ -14,86 +14,86 @@
 {118}{}{ }
 {119}{}{ }
 
-#The first dialog
-{200}{}{Ah, fresh meat. Fall in there. (unceremoniously points to the dirty operating table) What are we going to fix?}
-{201}{}{I'm not a tin can to fix me.}
-{202}{}{Okay, got it. So you're made of a particularly brittle alloy? Then I suggest amputation - the most effective way.}
-{203}{}{Hey, I'm not that bad!}
-{204}{}{Really? (adjusts strange glasses with luminous lenses and looks for something below your chest)}
-{205}{}{Eh, doc... can we talk first?}
-{206}{}{Wait, Doc, I'll be back soon...}
-{207}{}{But the tourniquets are over, so you'll have to suffer.}
+#First dialogue
+{200}{}{Aah, fresh meat. Lie down here. (unceremoniously points to a dirty operating table) So, what are we fixing?}
+{201}{}{I'm not a machine to be *fixed*.}
+{202}{}{Fine, I get it. You're of the fragile type, right? I suggest amputation - the most effective method in such situations.}
+{203}{}{Hey, it's not so bad!}
+{204}{}{It isn't? (corrects his strange glasses with glowing lenses, while scanning for something below your chest)}
+{205}{}{Uhh, doc... maybe we should talk first?}
+{206}{}{Wait a bit, doc, I'll be right back...}
+{207}{}{But we're out of tourniquets, so you'll just have to suffer for a while.}
 
-{210}{}{What, back to me?}
+{210}{}{Again?}
 {211}{}{Wrong door, doc.}
-{212}{}{Enough talking.}
-{213}{}{Another question.}
+{212}{}{Enough talk.}
+{213}{}{Next topic.}
 
-#Treatment
-{220}{}{I need treatment.}
-{221}{}{I have to disappoint you - I treat only my brothers and those whom our leader orders me to.}
+#Healing
+{220}{}{I need healing.}
+{221}{}{I'm afraid I'm going to have to disappoint you - I only heal my brethren and those I am ordered to heal by our leader.}
 {222}{}{This is not good.}
-{223}{}{Are there any caps? Then show me what's broken.}
+{223}{}{You have bottle caps? Then show me what needs fixing.}
 {224}{}{Nothing.}
-{225}{}{Just heal my wounds, Doc.}
+{225}{}{Just heal these wounds, doc.}
 {226}{}{}
-{227}{}{The cost of treatment will be }
+{227}{}{That will cost you }
 {228}{}{ caps.}
-{229}{}{Okay, Doc, here are the bottlecaps.}
-{230}{}{You know, Doc, it's better if I put up with it.}
-{231}{}{It can wait. Now it's more important for me to know something.}
-{232}{}{You're fine.}
+{229}{}{Okay, doc. Here they are.}
+{230}{}{You know, doc, it'd probably be better if I just endured it.}
+{231}{}{That can wait. I have more important things to ask you.}
+{232}{}{You're perfectly operational.}
 {233}{}{Thanks, doc.}
-{234}{}{Next time I'll find another clinic. Later.}
+{234}{}{Next time I'll go find another clinic. Bye.}
 {235}{}{caps.}
 
-{250}{}{Can you get me one of those implants of yours?}
-{251}{}{(frowning) Master Hard has agreed to your medical care. But spending the most valuable implants on a savage from the desert is beyond reasonable.}
+{250}{}{I've heard rumors you tinsmiths have advanced cybernetic implants. Can you install one in me?}
+{251}{}{(frowning) Master Khard has agreed to your medical treatment. But spending our priceless implants on a desert savage is far beyond the point of reason.}
 {252}{}{Are they that important to you?}
-{253}{}{Not every tinker is allowed to install a new implant. This requires a good reason and the capabilities of the body. Some have been waiting for their turn for several years.}
-{254}{}{Master Hard thinks I'm worthy. I think he won't mind one operation.}
-{255}{}{Maybe so. Choose the type of implant. Its cost is }
-{256}{}{Not now. I need to prepare for such an operation.}
-{257}{}{Oh no, the installation of this implant is contraindicated for you.}
-{258}{}{Sorry. Can we try another one?}
-{259}{}{Then we will postpone the operation for a while.}
+{253}{}{Even among our ranks, few are allowed to have a new implant installed. The procedure requires good reasons and confirmed compatibility. Some wait years for their turn.}
+{254}{}{Master Khard deems me worthy. I don't think he'll mind one single operation.}
+{255}{}{That may be so. What kind of implant do you want to get? All of these cost }
+{256}{}{Not now. I have some business to take care of before I commit to such a major operation.}
+{257}{}{Oh. Your body seems to be incompatible with this one.}
+{258}{}{Shame. What about another?}
+{259}{}{Then let's postpone the operation until then.}
 {260}{}{[Strength +1]}
 {261}{}{[Perception +1]}
 {262}{}{[Endurance +1]}
 {263}{}{[Charisma +1]}
 {264}{}{[Intelligence +1]}
-{265}{}{[Dexterity +1]}
+{265}{}{[Agility +1]}
 {266}{}{[Luck +1]}
-{267}{}{Great. }
-{268}{}{ caps, and we can start. After the operation, it will also take two days to adapt.}
-{269}{}{Here are the bottlecaps. Go ahead, Doc.}
+{267}{}{Excellent.}
+{268}{}{ caps. Upfront. Then we can begin. After the operation, you'll need to remain here for around 48 hours to let the system adapt to your body.}
+{269}{}{Here are the caps. Let's start, doc.}
 
 #Questions
 {300}{}{Why is it so dirty here?}
-{301}{}{(looks around in bewilderment) Is it?}
-{302}{}{Doc, I'm afraid to ask, but... how many of your patients survived surgery?}
-{303}{}{Wait, I'll turn on the statistics analyzer... There is. 58 percent.}
-{304}{}{So... a little more than half.}
-{305}{}{This is not a place where people get to with light scratches. Most patients come with severe injuries. In second place is an electric shock. And then - radiation, breathing problems, decreased vision, diarrhea...}
-{306}{}{Uh, I see, doc. You don't have to continue...}
+{301}{}{(looks around in confusion) It is?}
+{302}{}{Doc, I'm afraid to ask, but... how many of your patients survive after the operations?}
+{303}{}{Just a second, let me turn on the statistics analyzer... There. 58 percent.}
+{304}{}{So... a bit more than half.}
+{305}{}{This isn't the place you go to get treated for some scratches and cuts. Most patients come here with life-threatening traumas. Second most common reason - electric shock. Following that, irradiation, breathing issues, loss of vision, diarrhoea-}
+{306}{}{Uhh, thanks, I get it, doc. You don't need to list them all...}
 
 {310}{}{Tell me about the clinic.}
 {311}{}{This is a hospital, not a bar.}
 {312}{}{How did you become a doctor?}
-{313}{}{My predecessor tried to install a neuroimplant to improve his medical skills. Something went wrong and he died of a brain hemorrhage. My brothers needed a new doctor, and then I was sent to study with the Followers of the Apocalypse. I have been serving here ever since.}
-{314}{}{Where did you get the medicines from?}
-{315}{}{The old pre-war drugs are mostly brought by caravans from Phoenix. And the new ones are from a small laboratory in Casa Nueva. They have their own production there.}
+{313}{}{My predecessor attempted to self-install a neural implant to improve his medical skills. Something went wrong during the procedure and he died of intracerebral bleeding. My brethren were in need of a new medical specialist. That was when I was sent to learn from the Followers of the Apocalypse. I have been serving here since the moment I got back.}
+{314}{}{Where do you get your medical supplies?}
+{315}{}{Old, Pre-War medication is received mainly from Phoenix caravans. New ones - from a small laboratory in Casa Nueva. They produce their own medicine there.}
 {316}{}{Who are these Followers of the Apocalypse?}
-{317}{}{I would call them fanatics obsessed with the knowledge of the Old World. However, knowledge is useless without technology.}
+{317}{}{I would call them fanatics, obsessed with the knowledge of the Old World. But all the knowledge in the world is useless without technology.}
 
-{320}{}{Why do tinsmiths implant electronics in themselves?}
-{321}{}{The human body is fragile and vulnerable. By replacing parts with electronics, we are trying to protect ourselves, become stronger, smarter and more viable. The dream of every tinker is to achieve complete cybernetization and digitization of personality. But this, unfortunately, is an unattainable ideal.}
+{320}{}{Why do the tinsmiths install implants in themselves?}
+{321}{}{The human body is fragile and vulnerable. By replacing parts of ourselves with machinery, we seek to make ourselves more secure, to become stronger, smarter and more resilient. The dream of every tinsmith is to become entirely machine and digitize their consciousness. But that, unfortunately, is an unreachable ideal.}
 
 {330}{}{What happened to this patient?}
-{331}{}{He's seriously injured. To save him, I tried to install a couple of implants and prostheses. But the fragile human body rejects technology. He can't survive without implants, but he dies with them. Evil irony.}
-{332}{}{Can it be cured?}
-{333}{}{Fix it? I'm afraid not. It will have to be "dismantled".}
-{334}{}{Can I try it?}
-{335}{}{If our high-tech medicine can't cure him, then your savage rituals won't help any more. But I don't mind interfering in such a hopeless situation.}
-{336}{}{Let's see what my "rituals" are capable of, Doc.}
-{337}{}{Let's talk about something less pessimistic.}
+{331}{}{He was badly wounded. To save his life, I attempted to install a couple of implants and replace the lost limbs with prosthetic equivalents. But the fragile human body is rejecting the technology. He cannot live without these implants, but with them, he dies too. Bitter irony.}
+{332}{}{Can he be healed?}
+{333}{}{Fixed? No, I'm afraid not. He'll have to be dismantled.}
+{334}{}{Can I try to help him?}
+{335}{}{If our technologically advanced medicine has failed to save him, your tribal rituals will not be of any help, either. However, in such a hopeless situation, there's no point preventing you from trying.}
+{336}{}{Let's see how good my "rituals" are, doc.}
+{337}{}{Let's talk about something less morbid.}

@@ -1,14 +1,17 @@
-{100}{}{You have a Slippery Skull in front of you.}
-{101}{}{You see one of the savages of the Jackal tribe.}
-{102}{}{Stay away from me.}
+#---------------------------------------------------------
+#  Translated by Georg, garwert.
+#---------------------------------------------------------
+{100}{}{You see Slithery Skull.}
+{101}{}{You see one of the members of the Jackal tribe.}
+{102}{}{Don't come any closer to me.}
 
-#Retaliatory remarks
-{200}{}{Keep your distance from me, stranger.}
-{201}{}{Okay.}
+#Replies
+{200}{}{Keep your distance, outsider.}
+{201}{}{Alright.}
 {202}{}{Tell me about Black Fang.}
-{203}{}{The best warrior of all. Fear him, stranger. Show him respect. With his traps, he brought more food than any other. And it's worth it to forgive his bad temper.}
-{204}{}{Tell me about the Rabid Bitch.}
-{205}{}{They don't talk bad about a bitch. She is our leader, everyone should honor her and share food. But in a hungry time, it is difficult for such a leader to sell even a piece of old clothes.}
-{206}{}{Which of them is more worthy to be the leader of the tribe?}
-{207}{}{Fang must lead the tribe into the mountains, away from these barren lands. The Mad Bitch wants to find an alliance with outsiders. Which is better? Let the pack decide. I'll follow everyone.}
+{203}{}{The best warrior out of them all. Fear him, outsider. Show him respect. He has brought us more food using his traps than any other man. And that is worth excusing his bad temper.}
+{204}{}{Tell me about Rabid Bitch.}
+{205}{}{The pack is not supposed to badmouth their alpha. So we try to show respect and share our prey with her. Although in these hungry times, I wouldn't want to share a single leather strip with a leader like her, let alone food.}
+{206}{}{Which one of them is more worthy of being the leader of your tribe?}
+{207}{}{Fang has to drive the tribe into the mountains, away from these barren lands. Rabid Bitch wants to establish an alliance with outsiders. Which one is better? Let the pack decide. I'll follow.}
 {208}{}{Bye.}

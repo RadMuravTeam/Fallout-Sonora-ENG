@@ -1,25 +1,25 @@
 {100}{}{You see a bandit.}
-{101}{}{You see a dangerous criminal with a shotgun in his hands. And he's ready to shoot it.}
+{101}{}{You see a dangerous criminal with a shotgun in his hands. And he's very prepared to fire from it.}
 
-{110}{}{Lie still and don't dig!}
-{111}{}{Where is this cute little bitch?}
-{112}{}{If the kid doesn't come back, I'll shoot someone.}
-{113}{}{Hey, Dad, do you want a shot of fractions?}
-{114}{}{Where do they keep the caps?}
-{115}{}{Damn, these beggars don't have any food!}
-{116}{}{Bitches, who do you take me for?!}
-{117}{}{I'll cut off her fingers if your geek doesn't come back with food.}
-{118}{}{Fingers are dancing on the hook.}
+{110}{}{Lie down quietly and don't make noise!}
+{111}{}{Where is that sonovabitch?}
+{112}{}{If that kid doesn't come back I'll definitely shoot somebody.}
+{113}{}{Hey daddy, wanna eat some lead?}
+{114}{}{Where are they holding all the caps?}
+{115}{}{Dammit, those bums don't even have any food!}
+{116}{}{Who do you take me for, fuckers?!}
+{117}{}{I'll cut her fingers off if your kid doesn't come back with food.}
+{118}{}{Fingers play when hooked.}
 {119}{}{}
 
-#Dialog
-{200}{}{Stop! Hands up so I can see!}
-{201}{}{You will die.}
-{202}{}{You're surrounded, give up if you're not tired of living.}
-{203}{}{(thinks for a second) Fuck you!}
-{204}{}{Ugh...}
-{205}{}{(thinks for a second and then rushes away)}
-{206}{}{Come on, run away from here.}
-{207}{}{Your hostages have escaped. Surrender or die.}
-{208}{}{Which... So, don't forget who has a gun here. And now I'm leaving the valley. And you shut up and stay here. Understand?}
-{209}{}{Come on, run away from here.}
+#Диалог
+{200}{}{Stop! Hands up so I can see 'em!}
+{201}{}{You're gonna die.}
+{202}{}{You're surrounded, surrender if you're not tired of living.}
+{203}{}{(thinks this over for a second) Fuck off!}
+{204}{}{Oof...}
+{205}{}{(thinks this over for a second then runs away)}
+{206}{}{Yeah, get outta here.}
+{207}{}{Your hostages ran away. Surrender or die.}
+{208}{}{What... Don't you forget who has a gun here. And now I'm gonna leave this valley. And you'll shut up and remain here. Get it?}
+{209}{}{Yeah, get outta here.}

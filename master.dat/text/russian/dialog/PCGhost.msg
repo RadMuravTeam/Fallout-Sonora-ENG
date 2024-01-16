@@ -1,21 +1,21 @@
-{100}{}{There's a ghost in front of you!}
-{101}{}{You see... the soul of a man burned in a nuclear flame.}
+{100}{}{You see a ghost!}
+{101}{}{You see... the soul of a people who burned up in an atomic blast.}
 
 {102}{}{What the hell is this?}
-{103}{}{It wasn't real, was it?}
-{104}{}{I think I'm going crazy... Or not?}
-{105}{}{These souls are everywhere!}
+{103}{}{This wasn't real. It better not be.}
+{104}{}{Am I going insane... Or what?}
+{105}{}{These souls - they're everywhere!}
 
-{110}{}{Look what you've done!}
-{111}{}{It's your fault!}
+{110}{}{Look at what you did!}
+{111}{}{You're guilty of this!}
 {112}{}{Why did you do this to us?}
-{113}{}{Why did you kill us?}
-{114}{}{We will haunt you all your life.}
-{115}{}{The murderer!}
+{113}{}{Why did you murder us?}
+{114}{}{We will pursue you your whole life.}
+{115}{}{Murderer!}
 
-{1110}{}{Look what you've done!}
-{1111}{}{It's your fault!}
+{1110}{}{Look at what you did!}
+{1111}{}{You're guilty of this!}
 {1112}{}{Why did you do this to us?}
-{1113}{}{Why did you kill us?}
-{1114}{}{We will haunt you all your life.}
-{1115}{}{The murderer!}
+{1113}{}{Why did you murder us?}
+{1114}{}{We will pursue you your whole life.}
+{1115}{}{Murderer!}

@@ -1,10 +1,10 @@
-{100}{}{You see a Test Character.}
-{101}{}{This is a character for cruel experiments. You can have a good time with him.}
-{110}{}{Okay, okay, cool it.}
+{100}{}{Перед вами Тестовый Персонаж.}
+{101}{}{Это персонаж для жестоких экспериментов. С ним можно как следует поразвлечься.}
+{110}{}{Ладно-ладно, остынь.}
 
-#Replicas floating
-{120}{}{A beautiful day to die.}
-{121}{}{Isn't this world beautiful?}
+#Реплики плавающие
+{120}{}{Прекрасный день, чтобы умереть.}
+{121}{}{Ну разве этот мир не прекрасен?}
 {122}{}{}
 {123}{}{}
 {124}{}{}
@@ -14,22 +14,22 @@
 {128}{}{}
 {129}{}{}
 
-#Dialog
-{200}{}{Glory to the Brotherhood of Steel!}
-{201}{}{I hate the Brotherhood. And I hate you too.}
-{202}{}{Uh, yes, of course.}
-{203}{}{I'm your commander now. I order you to join the squad.}
-{204}{}{What are your instructions, sir?}
-{205}{}{At ease, soldier.}
+#Диалог
+{200}{}{Слава Братству Стали!}
+{201}{}{Я ненавижу Братство. И тебя тоже ненавижу.}
+{202}{}{Э, да-да, конечно.}
+{203}{}{Теперь я твой командир. Приказываю присоединиться к отряду.}
+{204}{}{Какие будут указания, сэр?}
+{205}{}{Вольно, солдат.}
 
-{206}{}{Intelligence 2}
-{207}{}{Intelligence 4}
-{208}{}{Intelligence 5}
-{209}{}{Intelligence 6}
-{210}{}{Intelligence 8}
+{206}{}{Интеллект 2}
+{207}{}{Интеллект 4}
+{208}{}{Интеллект 5}
+{209}{}{Интеллект 6}
+{210}{}{Интеллект 8}
 
-{211}{}{Mine is yours not to understand, friend.}
-{212}{}{Do you take me for a fool? Here I am for you!}
-{213}{}{Stay here while I think about the answer.}
-{214}{}{The brotherhood? For the first time, I hear.}
-{215}{}{Tell me about the Brotherhood.}
+{211}{}{Моя твоя не понимать, друже.}
+{212}{}{Ты меня за дурака принимаешь? Вот я тебе!}
+{213}{}{Стой здесь, пока я думаю над ответом.}
+{214}{}{Братство? Впервые слышу.}
+{215}{}{Расскажи мне о Братстве.}

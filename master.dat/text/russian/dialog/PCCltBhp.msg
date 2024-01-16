@@ -1,99 +1,99 @@
 {100}{}{You see an adept.}
-{101}{}{You see one of the Followers of Fire. He's chanting something crazy to attract attention.}
+{101}{}{You see one of the Followers of the Holy Fire. He's chanting something like a madman to attract attention.}
 
-#Floating replicas
-{110}{}{Fear the Sacred Fire!}
-{111}{}{Fear the punishment of the Fiery Heavens!}
-{112}{}{The Lord is the power in nuclear fission!}
-{113}{}{All-eat, all-eat we need to repent!}
-{114}{}{Who! Who dares to resist the voice of our Lord?}
-{115}{}{Ske-eptics! Skeptics will fall first!}
-{116}{}{These people gave their souls to the Nuclear Devil!}
-{117}{}{Hearken, victims of Radiation and Devastation!}
-{118}{}{They have fallen from their dirty thoughts!}
-{119}{}{Honor your father Aaron, the Lord of the Phoenix, for He gives life to this desert!}
-{120}{}{A new era is coming!}
-{121}{}{Only a fool would resist progress!}
+#Floating dialogue
+{110}{}{Fear the Holy Fire!}
+{111}{}{Fear the retribution of the Fiery Heavens!}
+{112}{}{The Lord liveth within the power of nuclear fissio!}
+{113}{}{A-a-all, a-a-a-all must repent!}
+{114}{}{What? Who-î dares resist the voice of our lord?}
+{115}{}{Ske-eptics! Ske-eptics will be the first to fall!}
+{116}{}{These people gave up their souls to the Atomic Devil!}
+{117}{}{Heed these words, victims of Radiation and Devastation!}
+{118}{}{They fell due to their sinful thoughts!}
+{119}{}{Respect thy father Aaron, Overlord of Phoenix, for it is He who giveth life to this desert!}
+{120}{}{A new era begins!}
+{121}{}{Only a fool resists progress!}
 
-#The first dialog
-{200}{}{Come closer, child of Radiation and Desolation. Everyone should see that justice prevails. No one will escape the punishment of heaven!}
-{201}{}{Wait a minute, Venerable one, what's going on?}
-{202}{}{We, the servants of the Sacred Fire, have been hiding from ordinary people for years. For their hearts and minds could not contain simple truths. We were chased away, beaten, and killed! But we waited patiently for the right hour.}
-{203}{}{[Next]}
-{204}{}{Hey, you freak in rags, what are you yelling at?}
-{205}{}{Here it is! Intolerance! Foul language! We, the servants of the Sacred Fire, have been hiding from ordinary people for years. For their hearts and minds could not contain simple truths. We were chased away, beaten, and killed! But we waited patiently for the right hour.}
-{206}{}{The hour when the Lord gets tired of human stupidity and sends us peace. These people, whose bodies have become the receptacle of the Nuclear Devil, are proof of that. They have been plotting their atrocities against the church for many years. They robbed and killed our monks, who bring light truths to the whole world. Ungrateful! They will burn in the Nuclear Flames of Hell!}
-{207}{}{What a horror. These bastards got what they deserved.}
-{208}{}{May the Sacred Fire be with you! Go in peace and tell the common people about the persecution of the peaceful church.}
-{209}{}{Necessarily. After what I have heard, it is impossible to put up with such injustice.}
-{210}{}{You don't have to make me an agitator. I'll just go about my business.}
-{211}{}{So far I have heard only one side of the conflict. It will not be possible to listen to the second one.}
-{212}{}{Skeptics! Have we done so little for the city? See how the Phoenix blossomed when it accepted the wisdom of Ruler Aaron. Go and think about it. And fear the Sacred Fire! Fear The Fire!}
-{213}{}{I'm sorry, please, this is my first time here and I don't know a lot. I will take a closer look at your church.}
-{214}{}{Man, after what I've seen, your speeches look very dubious. I will decide for myself how to treat your church.}
+#First dialogue
+{200}{}{Come closer, child of Radiation and Devastation. All must see that justice triumphs. No one will escape their divine punishment!}
+{201}{}{Wait a minute, what's going on?}
+{202}{}{We, the servants of the Holy Fire, have spent years hiding from ordinary people. For their hearts and minds could not accept simple truths. We were driven away, we were beaten, even killed! But we waited patiently for the right moment.}
+{203}{}{[Continue]}
+{204}{}{Hey you, idiot in purple rags, what the hell are you screaming about?}
+{205}{}{Observe! Intolerance! Foul language! We, the servants of the Holy Fire, have spent years hiding from ordinary people. For their hearts and minds could not accept simple truths. We were driven away, we were beaten, even killed! But we waited patiently for the right moment.}
+{206}{}{The moment when the lord grows tired of human stupidity and gives us respite. These people, whose bodies became vehicle for the Atomic Devil, are proof of this. They have spent many years planning various evil acts against the church. They robbed and killed our monks who simply taught the world truth. They were ungrateful! They shall burn in the Atomic Flame of the Underworld!}
+{207}{}{How horrible. These bastards definitely got what they deserved.}
+{208}{}{May the Holy Fire be with you! Go in peace and tell the commoners about the persecution of a peaceful church.}
+{209}{}{Of course. I can't just stand around after I hear about such injustice.}
+{210}{}{I'm not going to become an agitator. I'll just go about my business.}
+{211}{}{Right now I've only heard one side of the story. It's obvious that I won't be able to listen to the other.}
+{212}{}{Skeptics! Have we truly done so little for the city? Look at how Phoenix prospered after accepting Aaron's wisdom. Go and contemplate this. And above all, fear the Holy Fire! Fear the Fire!}
+{213}{}{I'm terribly sorry. I'm not a local, I don't know much about this place. I will take a look at your church.}
+{214}{}{Dude, after what I saw, your speeches sound pretty questionable. I'll decide what to think of your church for myself.}
 
-{220}{}{Greetings, brother. I am glad to observe your epiphany from our last meeting. I remember you were skeptical and looked at me with hostility. Now I will stretch out my hand to you and say crede firmiter et pecca fortiter.}
-{1220}{}{Greetings, Sister. I am glad to observe your epiphany from our last meeting. I remember you were skeptical and looked at me with hostility. Now I will stretch out my hand to you and say crede firmiter et pecca fortiter.}
-{221}{}{Greetings, brother. I am glad to see that you have been accepted into the service. It is a great honor and responsibility. Crede firmiter et pecca fortiter.}
-{1221}{}{Greetings, Sister. I am glad to see that you have been accepted into the service. It is a great honor and responsibility. Crede firmiter et pecca fortiter.}
+{220}{}{Greetings, brother. I am happy to observe your illumination after our last encounter. I remember you were once a skeptic and looked at me with hostility. Now I shake your hand and tell you 'crede firmiter et pecca fortiter'.}
+{1220}{}{Greetings, sister. I am happy to observe your illumination after our last encounter. I remember you were once a skeptic and looked at me with hostility. Now I shake your hand and tell you 'crede firmiter et pecca fortiter'.}
+{221}{}{Greetings, brother. I am happy to see that you too have been welcomed into the church. It is a great honor, but with great honor also comes great responsibility. Crede firmiter et pecca fortiter.}
+{1221}{}{Greetings, sister. I am happy to see that you too have been welcomed into the church. It is a great honor, but with great honor also comes great responsibility. Crede firmiter et pecca fortiter.}
 {222}{}{Now, if you don't mind, I'd like to talk to you.}
-{223}{}{Crede firmi... what? I am still far from the sacred texts. See you.}
+{223}{}{Crede firmi... What? I've got a long way to go before understanding the holy texts. See you later.}
 
-#Repeat dialog
-{250}{}{I see that the talk about the Sacred Fire does not give you peace. So what do you want to know this time?}
-{251}{}{And again you, the servant of the Nuclear Devil, come to test me.}
-{252}{}{Greetings, brother. Are you all right? Don't the commoners bother you?}
-{1252}{}{Greetings, Sister. Are you all right? Are the commoners bothering you?}
-{253}{}{I think I'll go.}
+#Repeated dialogue
+{250}{}{I see my speeches about the Holy Fire give you no rest, yes? So what is it exactly that you want to learn this time?}
+{251}{}{So, servant of the Atomic Devil, you come to tempt me once again.}
+{252}{}{Hello, brother. Is everything going well? Are the commoners disturbing you?}
+{1252}{}{Hello, sister. Is everything going well? Are the commoners disturbing you?}
+{253}{}{I suppose I should go.}
 
 {260}{}{Who are you?}
-{261}{}{I would like to get to know you better.}
-{262}{}{I am a priest and a humble servant of Aaron, the Lord of the Phoenix. My name is Gabriel.}
-{263}{}{I doubt that's your real name.}
-{264}{}{So we talked. See you later.}
-{265}{}{What kind of religion do you represent, Gabriel?}
-{266}{}{Right. After being accepted into the service, we change our names, thereby putting an end to our past life.}
+{261}{}{I would like to know more about you.}
+{262}{}{I am an ecclesiastic and obedient servant of Aaron, Overlord of Phoenix. My name is Gabriel.}
+{263}{}{I doubt this is your real name.}
+{264}{}{Enough talk. See you later.}
+{265}{}{What religion exactly are you representing, Gabriel?}
+{266}{}{Correct. After being accepted into the church, we change our names. By doing this, we effectively rejecting our past life.}
 {267}{}{}
-{268}{}{By the way, could you help me in understanding our faith?}
-{269}{}{After what I heard, I wanted to get to know your faith better.}
-{270}{}{Tell me about the religion you represent.}
-{271}{}{Can I discuss our faith with you?}
-{272}{}{The Church of the Sacred Fire is located to the north of the city. Walk along the main street, the road itself will lead you to the cathedral. It is better to learn about faith in sermons than from me.}
-{273}{}{And who are you?}
-{274}{}{A cheap trick to lure, sectarian. You can't fool me with that.}
-{275}{}{Great, I'll head straight there.}
-{276}{}{Is your church so influential that you arrange public executions?}
-{277}{}{No, no, the execution was carried out by other people, but under our supervision. And yet, the whole city owes a debt to the church. I am obliged for water, for electricity, for peace and order. Soon you will see it all with your own eyes, a child of Radiation and Devastation.}
-{278}{}{You're singing too sweetly, old man. I'm going to see if you're lying.}
-{279}{}{In that case, I just need to explore the city. Bye.}
-{280}{}{Forgive my bad temper, but such questions are not discussed on the street. And you should not fill your head with skepticism, so the Nuclear Devil penetrates the souls of young monks. Fear the Sacred Fire, novice, fear the Fire!}
-{281}{}{Apparently, I will have to turn to the ministers in the cathedral. See you later.}
-{282}{}{And then what are you doing?}
-{283}{}{By the way, what are these poor people punished for?}
-{284}{}{Those guys behind you weren't afraid. Why were they executed?}
-{285}{}{What are these people punished for?}
-{286}{}{Fools, they succumbed to the temptations of the Nuclear Devil. Some of them spread false rumors about our church and its leader Aaron, may he be famous forever and ever. Others are punished for robbing our monks or the church itself. From now on, their souls will have no rest in the Nuclear Underworld.}
-{287}{}{Don't you think it's too much... harsh punishment?}
-{288}{}{They got what they deserved. Now I'll be more careful. Be.}
-{289}{}{Execution on a religious basis? I'm going to get out of here before I get swept up with them.}
-{290}{}{Who are you that oversees this execution?}
-{291}{}{What do you know about the rebels who are fighting the church?}
-{292}{}{Heretics and cowards! Ah, IF we knew the position of their headquarters, they should all burn at the punitive bonfire.}
-{293}{}{Clearly. You don't know anything. I'll go ask the others.}
+{268}{}{By the way, could you help me understand our faith?}
+{269}{}{I want to learn more about your faith after what I heard.}
+{270}{}{Tell me about the religion that you represent.}
+{271}{}{Could I discuss our faith with you?}
+{272}{}{The Church of the Holy Fire is in the north end of town. Go along the main street and the road itself shall bring you to the cathedral. It is better to learn about the faith during sermons rather than from me.}
+{273}{}{Who are you, exactly?}
+{274}{}{A cheap way to lure people in, cultist. Your trickery has no power over me.}
+{275}{}{Great, I'm heading right there.}
+{276}{}{So your church is so influential that you are holding public executions?}
+{277}{}{No, no, the execution performed by others, under our supervision. Still, even then, the entire city has got the church to thank for many things. Water, electricity, peace and security. You will soon see it with your very own eyes, child of Radiation and Devastation.}
+{278}{}{What you're saying is too good to be true, old man. I'll take a look, see whether you're saying the truth or not.}
+{279}{}{In that case I simply need to explore the town. Farewell.}
+{280}{}{Excuse my bad temper, but such questions are not simply discussed on the street. And one must not fill their head with skepticism. This is exactly how the Atomic Devil enters the souls of young monks. Fear the Holy Fire, novice, fear the Fire!}
+{281}{}{I suppose I should pay a visit to the ministers in the cathedral. Talk to you later.}
+{282}{}{What is it you do then?}
+{283}{}{By the way, what were these poor sods punished for?}
+{284}{}{These guys behind you definitely didn't. Why were they executed?}
+{285}{}{What were those people punished for?}
+{286}{}{They were fools who gave into the temptations of the Atomic Devil. Some of them spread false rumours about our church and it's leader, Aaron, may he be praised forever and ever. Others were punished for robbing our monks or stealing from the church itself. Their souls shall know no rest from this point onward in the Atomic Underworld.}
+{287}{}{Don't you think this is a bit too... harsh of a punishment?}
+{288}{}{They got what they deserved. I will be more careful now too. Farewell.}
+{289}{}{Execution on a religious basis? I better get out of here before I wind up with them.}
+{290}{}{Who are you to oversee this execution?}
+{291}{}{What do you know about the rebels resisting the church?}
+{292}{}{Heretics and cowards! Oh, if ONLY we knew the location of their headquarters, may they all burn in the punitive fire.}
+{293}{}{Alright. You don't know anything. I'll go ask others.}
 
 #Quest
-{300}{}{I'm investigating the attack on the monks at Aaron's request. What can you tell us about it?}
-{301}{}{Tell me again about the attacks on Followers.}
-{302}{}{Followers often became victims of robberies or ridicule. When Aaron came to power, may his name be famous, any bandit in the city began to bypass us. However, the attacks have recently resumed.}
-{303}{}{[Next]}
-{304}{}{Shooting during the execution, murder in the slums, and an attack near the casino - these are the most audacious crimes against our brothers in recent times.}
-{305}{}{Thank you, that's enough.}
+{300}{}{I was asked to investigate the attacks on the monks by Aaron. What can you tell me about them?}
+{301}{}{Tell me once again about the attacks on the Followers.}
+{302}{}{The Followers were often the victims of theft and insults. When Aaron came to power, glory to him, all bandits in the city started avoiding us. But lately, the attacks have begun again.}
+{303}{}{[Continue]}
+{304}{}{Gunfire during the execution, a murder in the slums and an attack near the casino - here are the most daring of the crimes that have recently been commited against our brothers.}
+{305}{}{Thanks, that's enough.}
 
-{310}{}{Tell me about the shooting during the execution.}
-{311}{}{They shot from the roof of these ruins when we carried out the execution. There were several shooters, they were in the crossfire and were aiming at me. Perhaps this is how the supporters of the criminals tried to save their accomplices, but by the will of the Eye of the Phoenix, they failed.}
-{312}{}{Was there a shootout near the casino?}
-{313}{}{Ignorant bandits shot our brothers near the casino like some pig rats on a ranch. It's hard to say what happened because people talk about different things.}
-{314}{}{And what kind of incident in the slums?}
-{315}{}{A very dark matter. Our novices came to the slums to praise Aaron and ask for donations to the temple. They were soon found hanging from lampposts. Of course, the locals don't want to say that no one saw anything. So let us pray for the souls of our brothers.}
-{316}{}{Do you have any leads on these attacks?}
-{317}{}{Do you think Aaron himself would have given you this case if it wasn't so dark? Ask people in casinos and slums, maybe they will be more trusting of you. After all, many Followers are known by sight, and you are a new person.}
+{310}{}{Tell me about the gunfire during the execution.}
+{311}{}{Gunfire came from the roofs of these ruins while we were executing these people. It was not one person, but rather a group. The bullets were clearly supposed to be directed at me. It is possible that the supporters of those criminals were trying to save them, but by the will of the Eye of Phoenix, they failed.}
+{312}{}{There was a skirmish near the casino?}
+{313}{}{Ignorant bandits shot down our brothers near the casino, like pigrats on a ranch. It is hard to tell what really happened, as there are many rumours that are inconsistent with each other.}
+{314}{}{What about the incident in the slums?}
+{315}{}{Very bad business. Our novices came to the slums to glorify Aaron and ask for donations to the temple. Soon they were found hanged on the lampposts. Of course, the people living nearby don't want to say anything, as if they never saw anything. So let us pray for the souls of our brothers.}
+{316}{}{Do you know of any piece of information I could investigate to come closer to solving this case?}
+{317}{}{Do you think Aaron would give you this case if it was not so clouded in mystery? Ask the people in the slums and the casino, maybe they will trust you more. After all, many know the faces of the Followers, and you are new in the city.}

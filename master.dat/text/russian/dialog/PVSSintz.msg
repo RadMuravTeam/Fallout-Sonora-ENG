@@ -1,12 +1,12 @@
 {102}{}{You have filled a container with synthetic raw materials.}
 
 {200}{}{Enter command.}
-{201}{}{End session.}
-{202}{}{Check for synthetic material.}
+{201}{}{Complete session.}
+{202}{}{Check for presense of synthetic material.}
 
-{210}{}{Cartridge of synthetic material let.}
-{211}{}{The cartridge of synthetic material is filled with }
-{212}{}{%.}
-{213}{}{ To make an overall of Vault (consumption of 25% of the material).}
-{214}{}{To make a cassock of Followers of Fire (consumption of 50% of the material).}
+{210}{}{Synthetic raw material cartridge empty.}
+{211}{}{Synthetic raw material cartridge at }
+{212}{}{% capacity.}
+{213}{}{Fabricate Vault jumpsuit (spend 25% of material).}
+{214}{}{Fabricate Fire-worshipper robes (spend 50% of material).}
 {215}{}{Done.}

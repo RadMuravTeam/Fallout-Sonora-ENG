@@ -1,16 +1,16 @@
-{100}{}{You see the delegate.}
-{101}{}{You see an outsider to the cult. Among the walls of the Cathedral, he looks like a real savage.}
+{100}{}{You see a delegate.}
+{101}{}{You see a man not from the cult. He looks like a real savage inside the walls of the Cathedral.}
 
-{200}{}{Hey, you. Bring me these fruits of yours, I'm hungry.}
-{201}{}{Why would I bring you food?}
-{202}{}{Ah, so you're not a Follower? Then fuck off, I don't care about you. Only the Church of Fire is worthy of my reverence. They are the future of these lands, the rest are just garbage.}
-{203}{}{And who are you?}
-{204}{}{I am the chief of the Eastern tribe. We form an alliance with Followers and want to become part of this great nation.}
-{205}{}{An alliance of cult and savages? Why does the church need this?}
-{206}{}{The church cares about people from the wastelands. Is this your first time in this city? Look how many benefits the Church of the Sacred Fire has brought to these lands. The followers conquered the Sun and imprisoned it in sticks and lamps, isn't this an indicator of their greatness, their divine power?}
-{207}{}{Do you understand anything of their teachings?}
-{208}{}{Not much, to be honest. But the Followers promised to teach. They will open their temple in our valley, teach you to understand the language of the Ancients, and even conquer the Sun. Well, that's what they promised.}
-{209}{}{And in return?}
-{210}{}{We will become ministers - this is an honorary title for the tribe! We will work for the good of the church, and the church will help us. This way we will not only save ourselves but also become better, smarter, and stronger.}
-{211}{}{I see. Well, bye.}
-{212}{}{You again? Go away, I'll only talk to Aaron.}
+{200}{}{Hey, you. Bring me some of your fruit. I want to eat.}
+{201}{}{Why would I do that?}
+{202}{}{Ah, so you are not from the Followers? Then get lost, I don't care about you. Only the Church of the Holy Fire is deserving of my respect. They are the future of these lands! The others are mere trash.}
+{203}{}{Who are you, anyway?}
+{204}{}{I'm the chieftain of the eastern tribe. We're making an alliance with the Followers. We want to become part of this great nation.}
+{205}{}{An alliance between a cult and a tribe? Why would the church want that?}
+{206}{}{The church cares about the people of the Wasteland. What, this your first time in the city? Just look at how much good the Church has brought here. The Followers have conquered the Sun and have imprisoned it within sticks and lamps. Is this not proof of their greatness, their divine strength?}
+{207}{}{Do you even understand at least a part of their teachings?}
+{208}{}{Well, no. But the Followers promised to explain! They will set up a temple in our valley, they will teach us to understand the language of the Ancients and conquer the Sun ourselves. They promised so.}
+{209}{}{And what do they get in return?}
+{210}{}{We will become servants - it is a worthy title for the tribe! We will work for the benefit of the church, and we will receive the church's help. We're not just saving ourselves, we're becoming better, smarter and stronger.}
+{211}{}{Alright. Goodbye.}
+{212}{}{You again? Go, I will only speak with Aaron.}

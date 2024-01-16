@@ -1,3 +1,3 @@
-{110}{}{This car is too dilapidated to drive. But some parts in it may be in working order.}
-{111}{}{This car is too dilapidated to drive.}
-{112}{}{You pulled the nuclear unit out of the car.}
+{110}{}{This car is too damaged to travel in. But certain components could still be in working condition.}
+{111}{}{This car is too damaged to travel in.}
+{112}{}{You extract a nuclear power supply unit from the car.}

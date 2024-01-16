@@ -1,2 +1,2 @@
-{100}{}{There is a cache in front of you.}
-{101}{}{One of the rangers left a backpack with things here.}
+{100}{}{You see a stash.}
+{101}{}{Some Ranger left a backpack with items here.}

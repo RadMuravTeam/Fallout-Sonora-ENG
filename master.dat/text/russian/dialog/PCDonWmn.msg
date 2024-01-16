@@ -1,22 +1,22 @@
-{100}{}{You see a Diego's woman.}
+{100}{}{You see Diego's woman.}
 {101}{}{You see one of Don Diego's wives.}
 
-{110}{}{What do you allow yourself?}
-{111}{}{We don't have a place for you.}
-{112}{}{If the husband finds out, then we will all have problems.}
+{110}{}{What are you even doing?}
+{111}{}{There is no place for you here.}
+{112}{}{If the husband learns about this, we'll both have problems.}
 {113}{}{You better get out of here.}
-{114}{}{Diego won't like your presence.}
-{115}{}{If you have business with Diego, then go to him.}
+{114}{}{Diego won't like your presense.}
+{115}{}{If you have something you want to tell Diego, then head right to him.}
 
-{1110}{}{Don't even hope to become one of us.}
-{1111}{}{Honey, this place is taken}
-{1112}{}{Are you in our family too?}
+{1110}{}{Don't even think about replacing us.}
+{1111}{}{This position is taken, dear.}
+{1112}{}{Oh, did you want to become part of our family?}
 {1113}{}{You better get out of here.}
-{1114}{}{We will not tolerate a new competitor.}
-{1115}{}{Diego IS OURS. Don't even dream of sharing a bed with him.}
+{1114}{}{We are not going to tolerate new competition.}
+{1115}{}{Diego's OURS. Don't even dream of him sharing his bed with you.}
 
-{120}{}{We don't know what to do now.}
-{121}{}{Diego was our patron.}
-{122}{}{Without a husband, a real fight started around us.}
-{123}{}{After Diego's death, everyone around seemed to break loose.}
-{124}{}{Ah, Diego... Who just raised their hand?}
+{120}{}{We don't know what to do anymore.}
+{121}{}{Diego protected us.}
+{122}{}{There is so much conflict here now, ever since we lost our husband.}
+{123}{}{Ever since Diego died, it's as if no one is bothering hiding their true selves anymore.}
+{124}{}{Ah, Diego... Who could have done this to you?}

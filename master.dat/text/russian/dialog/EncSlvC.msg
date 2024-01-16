@@ -1,34 +1,34 @@
-{100}{}{You see the curator.}
-{101}{}{In front of you is a man in a mantle of defiant color. Looking around the convoy, he seems to rise above the whole world.}
-{102}{}{This person doesn't want to talk to you.}
+{100}{}{You see the Curator.}
+{101}{}{You see a man in robes of a striking color. He's looking at the convoy like he's on the top of the world.}
+{102}{}{This person does not wish to speak with you.}
 
-{200}{}{A peaceful traveler in these parts? What a surprise. But we don't need fellow travelers. And don't bother us or our slaves. Is that clear to you? Now go your own way.}
-{201}{}{Can I ask a question?}
-{202}{}{Why don't the brothers in Fire share information?}
-{203}{}{I'm not leaving here without answers.}
-{204}{}{Clear. I'm leaving.}
+{200}{}{A peaceful wanderer at this time of day, in this part of the Wastes? How unexpected. But we have no need of companions. Go, and don't bother us or the slaves. Got it?}
+{201}{}{Can I ask you a question?}
+{202}{}{Why can't brothers-in-Fire share information with each other?}
+{203}{}{I'm not leaving until I get some answers.}
+{204}{}{Got it.}
 
-{205}{}{It is a pity that your thinking is as insignificant as a single atom in a nuclear womb. I'll have to split you until you completely disappear!}
-{206}{}{What are you carrying...}
-{207}{}{If you really are a brother of Fire, then you should know: if you are not initiated into the most important things, then you are not worthy of it.}
-{208}{}{So can I ask a question?}
-{209}{}{Looks like you're a well-read person. And you don't want to share your knowledge.}
+{205}{}{How sad that your thinking is as pathetic as a lone atom in an atomic womb. We will have to Придется split you into total oblivion!}
+{206}{}{What the fuck are you talk-...}
+{207}{}{If you are truly a brother of Fire, then you must know that if you do not know about this, you are unworthy of knowing.}
+{208}{}{So... can I ask you a question?}
+{209}{}{You're a wise man. But don't want to share the wisdom.}
 
-{210}{}{Only one.}
+{210}{}{Yes. Just one.}
 {211}{}{What are you transporting?}
-{212}{}{Ancient... an artifact. Too important to talk about with the uninitiated.}
-{213}{}{Who are you?}
-{214}{}{Of all the questions, you choose the most meaningless. These are my mercenaries. These are my slaves. And I'm in charge of this whole convoy.}
-{215}{}{Is it hot in this cassock in the middle of the desert?}
-{216}{}{ (grinning) No. Synthetic fiber and capillary-liquid compressor make the cassock ideal for the desert.}
-{217}{}{I'd like to get to the nearest town. Tell me the way?}
-{218}{}{Hmm? (raises an eyebrow mysteriously)}
-{219}{}{Uh, thanks for the answer.}
-{220}{}{And that's it? I expected more.}
-{221}{}{(shows Flagstaff city on your map)}
-{222}{}{(shows Phoenix city on your map)}
-{223}{}{(shows the city of Two-Sun on your map)}
-{224}{}{Your question is settled. Leave if your miserable life is worth something to you.}
-{225}{}{I'm dying of thirst! Give me a sip of water!}
-{226}{}{Saving a worthless life is not in my plans. But on the other hand, any convention is valuable for the revival of the world. Take a sip of this pure water. And tell everyone you meet that the Followers of Fire dream of giving everyone water to drink... everyone who deserves it.}
-{227}{}{I'm not going to waste time on those who are ready to talk, but not ready to listen. Go away.}
+{212}{}{An ancient... let's say, artifact. It is too important to talk about with uniniciated.}
+{213}{}{Who *are* you?}
+{214}{}{Out of all the questions you could ask, you chose the most pointless one. These are my mercenaries, and these are my slaves. And me - I oversee this convoy.}
+{215}{}{Don't you get hot, wearing those robes in the middle of the desert?}
+{216}{}{(grins) No. It's made of synthetic fiber and has a liquid-capillary compressor. Ideal for desert conditions.}
+{217}{}{I need to get to the nearest settlement. Mind showing me the way?}
+{218}{}{Hm? (raises an eyebrow, mysteriously)}
+{219}{}{Uhh, thank you for your answer.}
+{220}{}{That's all? I expected more.}
+{221}{}{(shows the location on Flagstaff on your map)}
+{222}{}{(shows the location on Phoenix on your map)}
+{223}{}{(shows the location on Two Sun on your map)}
+{224}{}{Your one question has been answered. If your pathetic life is worth anything to you, go.}
+{225}{}{I'm dying of thirst! Give me some water, please!}
+{226}{}{Saving your pathetic life is not part of my plans. But for the cause of restoring the world, all prices are worth paying. Take a sip from this purest of waters, and tell that the Followers of the Holy Fire dream of fulfilling the thirst of all... all worthy of it.}
+{227}{}{I will not spend my time on those who are ready to talk, but not ready to listen. Go.}

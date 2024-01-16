@@ -1,13 +1,13 @@
-{100}{}{You see a cyberpsych.}
-{101}{}{You see a distraught tinker whose mind has been taken over by technology.}
+{100}{}{You see a cyberpsycho.}
+{101}{}{You see crazy tinsmith. His mind is posessed by technology.}
 
-{110}{}{How my head hurts!}
-{111}{}{Stop those numbers! I can't do this anymore!}
+{110}{}{My head! It hurts so much!}
+{111}{}{Stop those numbers! I can't take it anymore!}
 {112}{}{Why? Why? Why?}
-{113}{}{There are only numbers all around!}
+{113}{}{Numbers everywhere!}
 {114}{}{The program tells me to kill.}
-{115}{}{I'm a machine, I'm a machine, I'm not a person...}
-{116}{}{This voice in my head does not allow me to execute the program!}
-{117}{}{I'm just a variable in a big program. Don't stop her from working!}
-{118}{}{You have interfered with my program!}
-{119}{}{You should be erased from the database!}
+{115}{}{I'm a machine, a machine, not a human...}
+{116}{}{The voice in my head doesn't let me execute the program!}
+{117}{}{I'm just a variable in a big program. Don't attempt to interfere!}
+{118}{}{You interfered!}
+{119}{}{You ought to be deleted from the database!}

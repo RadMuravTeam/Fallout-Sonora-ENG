@@ -1,17 +1,17 @@
-{100}{}{You see a merchant.}
-{101}{}{You see the head of the caravan.}
-{102}{}{Put away your weapon if you have peaceful intentions.}
+{100}{}{You see a trader.}
+{101}{}{You see a caravan leader.}
+{102}{}{Put away the weapon, if you really do have peaceful intentions.}
 
-{200}{}{Hello, traveler. Lately, it has become increasingly difficult to get from one place to another and not be ambushed at the same time.}
-{1200}{}{Hello, traveler. Lately, it has become increasingly difficult to get from one place to another and not be ambushed at the same time.}
-{201}{}{Hmm. There are rumors about a man of your appearance. Unkind rumors.}
-{202}{}{Thank God you're with us! I'm glad our paths crossed. What can I do for such a respected person?}
+{200}{}{Greetings, wanderer. Lately, it's becoming harder and harder to get from one place to another without being ambushed at some point.}
+{1200}{}{Greetings, wanderer. Lately, it's becoming harder and harder to get from one place to another without being ambushed at some point.}
+{201}{}{Hm. There are rumours about a person with your appearance. They aren't good rumours.}
+{202}{}{Thank god you're here! It's great that our paths crossed. How can I help such a respected person as you?}
 {203}{}{I'm just passing by.}
-{204}{}{I need to restock. Do you have any goods left?}
-{205}{}{This is my favorite craft. Look, choose.}
-{206}{}{So, so...}
-{207}{}{Have a good trip.}
-{208}{}{Thank you.}
+{204}{}{I need to resupply. Do you have any goods left?}
+{205}{}{I have many supplies with me. Go take a look.}
+{206}{}{Let's see...}
+{207}{}{Good luck.}
+{208}{}{Thanks.}
 
-{210}{}{Now what can I do for you?}
+{210}{}{What can I do for you now?}
 {211}{}{Bye.}

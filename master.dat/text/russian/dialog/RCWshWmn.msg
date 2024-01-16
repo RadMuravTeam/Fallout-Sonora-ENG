@@ -1,11 +1,11 @@
-{100}{}{This is Miss Milton.}
-{101}{}{You see the mother of the Milton family.}
+{100}{}{You see miss Milton.}
+{101}{}{You see the mother from the Milton family.}
 
-#Dialog
-{110}{}{Please get rid of these damn pig rats!}
+#Диалог
+{110}{}{Please, save us from those damned pigrats!}
 {111}{}{Stop him before he shoots someone!}
-{112}{}{Thank you for saving us. If it wasn't for you, he would have killed us for sure.}
-{113}{}{Thank you for your help, and now leave me, I have to bury my husband.}
-{114}{}{What's the use of you, damn rangers?! Get out!}
-{115}{}{Don't come near me!}
-{116}{}{Thanks for the help. I hope the spirit of Nathan will not take revenge on us.}
+{112}{}{Thank you for saving us. If it wasn't for you, he would have surely killed us.}
+{113}{}{Thank you for your help. Now leave. I have to bury my husband.}
+{114}{}{What use is there of you, you damned Rangers?! Get lost!}
+{115}{}{Don't come any closer!}
+{116}{}{Thank you for your help. I hope Nataani's spirit will not decide to take revenge on us.}

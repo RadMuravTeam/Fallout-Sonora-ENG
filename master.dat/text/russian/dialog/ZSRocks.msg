@@ -1,7 +1,7 @@
-{110}{}{ blocks the passage. With a large force or a package of explosives, you could remove this obstacle.}
-{111}{}{You don't have the strength to dismantle this mountain of stones.}
-{112}{}{Using brute force, you eliminate the obstacle and free the passage.}
-{113}{}{The explosion blows rocks in all directions.}
-{114}{}{It seems that heavier weapons are needed here.}
-{115}{}{It is impossible to dig during the battle.}
-{116}{}{Special equipment is needed here}
+{110}{}{ blocks the way. High physical strength or an explosive could get rid of this obstacle.}
+{111}{}{You are not strong enough to deal with this pile of rock.}
+{112}{}{Your brute force allows you to get rid of the obstacle and clear the way.}
+{113}{}{The explosion spreads small pieces of rock in all directions.}
+{114}{}{Looks like you're going to need heavier equipment.}
+{115}{}{Digging in combat is impossible.}
+{116}{}{Specialised tools are needed here.}

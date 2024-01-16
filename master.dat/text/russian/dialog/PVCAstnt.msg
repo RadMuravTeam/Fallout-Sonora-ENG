@@ -1,5 +1,5 @@
-{100}{}{You see the assistant.}
-{101}{}{You see one of the laboratory assistants. He is busy with calculations and does not pay attention to you.}
+{100}{}{You see an assistant.}
+{101}{}{You see one of the assistants in the lab. He is busy with calculations and isn't paying attention to you.}
 
 {110}{}{I'm too busy...}
-{111}{}{What's wrong? Why did the alarm go off?}
+{111}{}{What happened? Why did the alarm go off?}

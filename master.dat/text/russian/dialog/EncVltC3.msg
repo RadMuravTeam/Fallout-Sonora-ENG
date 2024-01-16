@@ -1,19 +1,19 @@
-{100}{}{You see a resident of the vault.}
-{101}{}{You see a local resident who looks unusually clean and freshly groomed.}
+{100}{}{You see a Vault resident.}
+{101}{}{You see a resident of the local Vault. They look incredibly clean.}
 
-{110}{}{Good afternoon... or night? What's going on outside?}
-{111}{}{Please don't hurt us, we are peaceful people!}
-{112}{}{We have been living in this Vault for a long time. Where did you come from?}
-{113}{}{The raiders have been trying to get in here for months.}
-{114}{}{How did you manage to get inside?}
+{110}{}{Good day... or is it night? What's going on out there?}
+{111}{}{Please don't hurt us. We're peaceful people!}
+{112}{}{We've been living in this Vault for a long time. Where did you come from?}
+{113}{}{The raiders have been spending several months trying to break in.}
+{114}{}{How did you get in?}
 {115}{}{This is our home. We have nowhere else to go.}
-{116}{}{We won't survive in the desert. Please don't send us away!}
+{116}{}{We won't survive in the desert. Please don't make us go!}
 
-{120}{}{Thank you, you are saving us from the terrible outside world!}
-{121}{}{Thank you for fixing the life support system}
-{122}{}{Ah, what fresh air in the Vault!}
-{123}{}{If it wasn't for you, we would have had to leave the Vault.}
-{124}{}{You're a good person. Unlike these raiders.}
-{125}{}{You know, the first overseer of the Vault was a man named Van Buren.}
+{120}{}{Thank you for saving us from the horrible outside world!}
+{121}{}{Thank you for repairing our life support system!}
+{122}{}{Ah, how fresh the Vault air is now!}
+{123}{}{If not for you, we'd have to leave the Vault.}
+{124}{}{You're a good person. Unlike those raiders.}
+{125}{}{You know, you remind me a bit of our first Overseer. His name was Van Buren, I think.}
 {126}{}{Thanks for the help.}
-{127}{}{We wouldn't have survived in the desert.}
+{127}{}{We wouldn't survive in the desert.}

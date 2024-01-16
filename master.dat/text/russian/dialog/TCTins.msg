@@ -1,47 +1,47 @@
-{100}{}{You see the tinker.}
-{101}{}{In front of you is a man in dirty overalls. His bald head is wrapped in wires and sensors.}
+{100}{}{You see a tinsmith.}
+{101}{}{You see a person in dirty working overalls. Their balded head is shrouded in wires and sensors.}
 
-{110}{}{We'll have to take it apart.}
-{111}{}{These parts can be sold to commoners in Phoenix.}
-{112}{}{It's time for this bucket with nuts to go to the landfill.}
+{110}{}{This will need to be dismantled.}
+{111}{}{These components can be sold to the Phoenix commoners.}
+{112}{}{This bucket of bolts should have ended up in the junkyard a long time ago.}
 {113}{}{This junk is good for nothing.}
-{114}{}{I am full of compassion for this pile of scrap metal.}
-{115}{}{But this pile of junk was a masterpiece of technology.}
+{114}{}{I feel for this heap of scrap.}
+{115}{}{And to think that this pile of rubbish was once a technological masterpiece.}
 {116}{}{I can't wait to see the technology from the Forbidden Zone.}
-{117}{}{We need a new plasma converter.}
-{118}{}{The time will come when planes will appear above us again.}
-{119}{}{Do you hear that blissful sigh of the piston mechanism?}
+{117}{}{New plasma converter needed.}
+{118}{}{One day, planes will begin to fly over our heads once more.}
+{119}{}{Hear the blissful sigh of the piston mechanism?}
 
 {120}{}{What do the Steel Gods say?}
-{121}{}{The gods of Steel promised us new blueprints in exchange for power cells.}
-{122}{}{These parts need to be urgently sent to the Steel Port.}
-{123}{}{The steel gods want to exalt our people.}
+{121}{}{The Gods of Steel have promised us new blueprints in exchange for energy cells.}
+{122}{}{These components must be transported to Steel Port immediately.}
+{123}{}{The Gods of Steel wish to exalt our people.}
 {124}{}{}
-{125}{}{Even the gods have become powerless before atomic fission.}
-{126}{}{We would never have allowed what happened in the Steel Port.}
-{127}{}{The gods of Steel were not as smart as we thought.}
+{125}{}{Even the Steel Gods are powerless before atomic fission.}
+{126}{}{We would have never allowed what happened at Steel Port.}
+{127}{}{We overestimated the wisdom of the Gods of Steel.}
 {128}{}{}
 {129}{}{}
 
-{130}{}{When will the new batch of uranium ore arrive?}
-{131}{}{By making energy cells, we are reviving civilization.}
-{132}{}{We should limit the distribution of batteries.}
+{130}{}{When will the new shipment of uranium ore arrive?}
+{131}{}{By producing energy cells, we are rebuilding civilization.}
+{132}{}{We should restrict the usage of batteries.}
 {133}{}{How much uranium ore do we have?}
 {134}{}{}
-{135}{}{We'll have to save energy until Flagstaff starts the mine again.}
-{136}{}{Until Flagstaff restores the mine, we will not be able to make power cells.}
-{137}{}{The caravaneers say the Flagstaff mine is inactive.}
-{138}{}{How little uranium ore do we have left?}
+{135}{}{Energy conservation will be necessary until the Flagstaff mine begins operating again.}
+{136}{}{Until the Flagstaff mine becomes operational again, we can't make any energy cells.}
+{137}{}{The caravaneers say that the Flagstaff mine has completely ceased operation.}
+{138}{}{How much uranium ore do we have left?}
 {139}{}{Without the Flagstaff mine, we won't be able to make batteries.}
 
-{140}{}{What do they want in the Cathedral of Fire?}
-{141}{}{These fire worshippers do not understand the essence of technology at all.}
-{142}{}{The more the ambassador of the Cathedral is here, the more difficult it is to work.}
-{143}{}{Tell the ambassador of the Cathedral to pick up his worthless orders.}
-{144}{}{If the Cathedral wants to do this, let them find the drawings first.}
+{140}{}{What do they want in the Temple of Fire?}
+{141}{}{The fire-worshippers completely fail to grasp the essense of technology.}
+{142}{}{The ambassador from the church just makes work harder.}
+{143}{}{Tell the ambassador from the church to take his pathetic orders back.}
+{144}{}{If the church wants this, they better find the blueprints for it first.}
 
-{145}{}{No matter how much we ridiculed the fire worshippers, we needed them.}
-{146}{}{Without the Cathedral of Fire, it will become much harder to obtain nuclear material.}
-{147}{}{After the explosion in the Cathedral, the value of the caps plummeted.}
-{148}{}{We need new partners. The Cathedral of Fire is no longer in business.}
-{149}{}{That's what happens when technology falls into the wrong hands.}
+{145}{}{Regardless of how much we laughed at the fire-worshippers, it turned out we needed them in the end.}
+{146}{}{Without the Temple of Fire, acquiring nuclear material will become much harder.}
+{147}{}{The value of caps has dropped considerably after the explosion in the Temple.}
+{148}{}{Without the church, we need new partners.}
+{149}{}{This is what happens when technology gets in the wrong hands.}

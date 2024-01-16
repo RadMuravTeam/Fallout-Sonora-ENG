@@ -1,17 +1,20 @@
-{100}{}{You see an atomist.}
-{101}{}{You see a man with burnt skin. He is wearing well-worn work clothes with a pre-war symbol.}
-{102}{}{Thanks, Doc. Thank you very much.}
-{103}{}{I have a problem here, you know. Don't you know a doctor?}
+#---------------------------------------------------------
+#  Translated by Georg; revised by garwert, nuk.
+#---------------------------------------------------------
+{100}{}{You see an atomic worker.}
+{101}{}{You see a person covered in old burns. He is wearing is a visibly aged, tattered uniform with a pre-War symbol on it.}
+{102}{}{Thanks for patching me up, doc. I really appreciate it.}
+{103}{}{I've got a problem here, you see. Any chance you could recommend a doctor?}
 
-{200}{}{Hey, thank you very much. I didn't think that there were still doctors in our time.}
-{201}{}{How did you manage it?}
-{202}{}{It was when we were repairing the broken pipes that the pressure threw me onto the railing. It's good that at least he didn't fly to the lower level. He would have been dangling in the radioactive sludge, like a duck in an ice hole.}
-{203}{}{You're definitely lucky. Well, come on.}
-{204}{}{You're a born loser. Bye.}
-{205}{}{Duck?}
-{206}{}{Well, you know, the bird was like that. Even before the nuclear war. I haven't seen a single live duck since. Probably died out like a dinosaur...}
-{207}{}{A dinosaur?}
-{208}{}{Oh, okay, let's go.}
+{200}{}{Golly, I'm really grateful for that. Didn't think there were any doctors left around these days.}
+{201}{}{How did you manage to end up like that?}
+{202}{}{When we were repairing broken pipes, the pressure blasted me away into the railing. I'm lucky I didn't fall to the bottom level. Then I would have been swimming around in radioactive goo like a goldfish in a bowl.}
+{203}{}{Sounds like you've had a stroke of luck back there. So long.}
+{204}{}{You must've been born with hard luck. Bye.}
+{205}{}{A goldfish?}
+{206}{}{Well, you know, some of us had pet fish back then. Before the atomic war. I'm sure no one keeps them anymore - I sure as hell haven't seen one in a long, long while. Wouldn't be surprised if they went extinct. Like the dinosaurs...}
+{207}{}{Dino-sores?}
+{208}{}{Eh, never mind.}
 
-{210}{}{Hey, Doc. Thanks again.}
-{211}{}{Don't hurt.}
+{210}{}{Hey, doc. Thanks again.}
+{211}{}{Take care.}

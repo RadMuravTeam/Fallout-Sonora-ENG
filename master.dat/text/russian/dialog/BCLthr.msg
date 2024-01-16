@@ -1,105 +1,105 @@
-{100}{}{You see Ronnie.}
-{101}{}{You see the master of leather goods. With a professional movement of his hand, he cleans a piece of leather.}
-{102}{}{Listen, iron spirit, leave our peaceful village alone.}
+{100}{}{You see Ronny.}
+{101}{}{You see the local expert in crafting leather items. He is professionally cleaning a piece of skin.}
+{102}{}{Listen, metal spirit, leave our calm village in peace.}
 
-{200}{}{Greetings, stranger. I hope you came to us with good intentions?}
-{1200}{}{Greetings, stranger. I hope you came to us with good intentions?}
+{200}{}{Greetings, outsider. I hope you have come to us with good intentions?}
+{1200}{}{Greetings, outsider. I hope you have come to us with good intentions?}
 {201}{}{Who are you? And what is this place?}
-{202}{}{I want to get acquainted.}
-{203}{}{I'm Ronnie, and this is my tannery.}
-{204}{}{Looks like you're pretty settled in here, Ronnie.}
-{205}{}{Right. I used to travel through the Sonoran desert and herd Brahmins like the others. And now I'm sitting here and preparing leather for my tribesmen and for sale.}
-{206}{}{You have an important job, Ronnie.}
-{207}{}{Not a bad business, it must be.}
-{208}{}{I see. But right now I don't need leather goods. Later.}
+{202}{}{I want to get to know you.}
+{203}{}{I am Ronny, and this is my tannery.}
+{204}{}{Looks like you settled here well, Ronny.}
+{205}{}{Exactly. I used to travel through the Sonora desert and graze brahmin, like everyone else. Now I sit here and prepare skins for my fellow people and for outsiders to buy.}
+{206}{}{Your work must be extremely important, Ronny.}
+{207}{}{A solid business it must be.}
+{208}{}{Understood. But as of now, I have no need of leather items. Goodbye.}
 
-{210}{}{Greetings to you.}
-{211}{}{See you later.}
-{212}{}{Ah, I recognize my work. I mark each such armor with a special brand.}
+{210}{}{Greetings.}
+{211}{}{Until next time.}
+{212}{}{A-ah, I recognise my work. Every such piece of armor I mark with a special seal.}
 {213}{}{Welcome, Ranger. How can I help you, friend of my tribe?}
-{214}{}{Ah, another ambassador of a strange religion. What does your church want from my tribe this time?}
+{214}{}{A-ah, another representative of a strange religion. What does your church want from my tribe this time?}
 
 {220}{}{Why did you stop trading with Garage City?}
-{221}{}{Our priests decided so. They don't like that outsiders are bringing discord into our lives, deceiving and stealing our Brahmins. Therefore, we have closed trade routes with Phoenix and all its colonies.}
-{222}{}{Does this apply to Garage City?}
-{223}{}{The priests know better. Talk to them. Until they give their consent, I will not be able to trade with this city.}
-{224}{}{I see. I'm going to seek their favor.}
-{225}{}{Chief Geronimo has agreed to trade.}
-{226}{}{Chief Chatto has agreed to trade.}
-{227}{}{There is no Supreme Leader yet. Don't miss your chance.}
-{228}{}{I hope all this is just the Divine Brahmin's providence. Tell the residents of the Garage to send a person to negotiate.}
-{229}{}{That's good.}
+{221}{}{Our priests decided so. They do not like that the outsiders are breaking our traditions and are fooling and stealing our brahmin. That is why we have broken trade routes with Phoenix and all it's colonies.}
+{222}{}{But Garage City isn't a colony of Phoenix.}
+{223}{}{As I said, the priests made that decision. You should talk to them. Until they give me permission, I will not be able to trade with that town.}
+{224}{}{Alright. I'll go achieve their permission.}
+{225}{}{Chieftain Jeronimo has given permission to trade.}
+{226}{}{Chieftain Chatto has given permission to trade.}
+{227}{}{There is no more supreme leader. Nobody's watching. Don't miss your chance to profit.}
+{228}{}{I hope this is all just part of the Holy Brahmin's plan. Tell the residents of Garage City to send a negotiator.}
+{229}{}{Great.}
 
-{230}{}{Can you make bags for my bike?}
-{231}{}{That's my line. I'll do it in the best possible way, your bike will make a whole caravan. But such work is expensive. What can you offer in return?}
+{230}{}{Can you craft bags for my bike?}
+{231}{}{That is my specialty. I'll craft bags of the highest quality. Your bike will turn into an entire caravan. But such work costs much. What can you offer in exchange?}
 {232}{}{Let's see...}
-{233}{}{The tannery is closed to outsiders. I work only for members of the tribe and those outsiders who are trusted by shamans.}
-{234}{}{So you have to deal with the local shit first? Clear.}
+{233}{}{The tannery is closed for outsiders. I work only for members of the tribe and those outsiders the shamans trust.}
+{234}{}{So I'll have to deal with your local bullshit first? Fine.}
 {235}{}{I'll talk to them later.}
 
-{240}{}{I wanted to look at your products. Can I?}
-{241}{}{I don't trade with outsiders anymore until the war is over. So decided Chief Geronimo.}
-{242}{}{Okay, I'll do without your skin.}
-{243}{}{The war is over. You can start, friend.}
-{244}{}{Perhaps the chief is too busy to tell me about it. Okay, look what I have. Maybe you need something to order?}
-{245}{}{Thank you, give me time to think.}
-{246}{}{Come on, we're neighbors, not strangers at all.}
-{247}{}{Sorry, but the leader knows better.}
-{248}{}{Are you sure? Well, okay.}
-{249}{}{Neighbors should live in peace. Your tribe and our Villa - a good union will come out of us.}
-{250}{}{I agree with you, outsider. The chief spoke only of Phoenix and its colonies. We will assume that the Villa is not one of them. Look at what I have. Maybe you need something to order?}
-{251}{}{Thank you, give me time to think.}
-{252}{}{Am I not trustworthy, Ronnie?}
-{253}{}{Sorry, I didn't mean to offend you. You are not one of those who cheated and harmed our tribe. Here, look at my products. Maybe you need something to order?}
-{254}{}{Thanks, let me think.}
+{240}{}{I would like to take a look at your wares. Can I?}
+{241}{}{I am not to trade with outsiders while this war is going on. Chieftain Jeronimo said so.}
+{242}{}{Fine, I'll manage without your leather.}
+{243}{}{The war is over. You can start, friendo.}
+{244}{}{The chieftain must have been too busy to tell me this. Alright, take a look at what I have. Maybe you need something comissioned?}
+{245}{}{Thanks, let me think for a bit.}
+{246}{}{Come on, I'm from Villa. We're like neighbors to you, not outsiders.}
+{247}{}{Sorry. Chieftain knows better.}
+{248}{}{You sure? Well, alright.}
+{249}{}{Neighbors must live in peace. Your tribe and our Villa will make for incredible allies to one another.}
+{250}{}{I agree with you, outsider. The chieftain was only talking about Phoenix and it's colonies. Let's assume Villa is not one. Take a look at what I have. Maybe you need something comissioned?}
+{251}{}{Thanks, let me think for a bit.}
+{252}{}{Am I not deserving of your trust, Ronny?}
+{253}{}{Sorry, I didn't mean to offend you. You are not one of those who have fooled and harmed our tribe. Here, take a look at what I have. Maybe you need something comissioned?}
+{254}{}{Thanks, let me think for a bit.}
 
-{260}{}{Greetings, hero. We are all immensely grateful to you for your exploits. Here, take this weapon as a token of gratitude. Shamans endowed him with a piece of the power of the Divine Brahmin.}
-{1260}{}{Greetings, heroine. We are all immensely grateful to you for your exploits. Here, take this weapon as a token of gratitude. Shamans endowed him with a piece of the power of the Divine Brahmin.}
-{261}{}{Curious object.}
-{262}{}{Although the power of this weapon is not unlimited. When the divine energy runs out, you need to replace the bat plates.}
-{263}{}{Thanks, Ronnie.}
+{260}{}{I welcome a hero when I see one. We are all incredibly thankful to you for your actions. Here, take this weapon as a show of our appreciation. Our shamans have enfused it with a sliver of the Holy Brahmin's power.}
+{1260}{}{I welcome a heroine when I see one. We are all incredibly thankful to you for your actions. Here, take this weapon as a show of our appreciation. Our shamans have enfused it with a sliver of the Holy Brahmin's power.}
+{261}{}{A curious object.}
+{262}{}{Of course, the strength of this weapon is not infinite. When the holy energy runs out, you will need to replace the powersells.}
+{263}{}{Thanks, Ronny.}
 
-{270}{}{So the war ended - thanks to your intervention. San Brahmin reopens trade routes to Phoenix. Therefore, I can reopen the doors of the workshop for everyone.}
-{271}{}{So the war ended - thanks to your intervention. The San Brahmin no longer believes in the Phoenix Empire and its vassals. But we are still open to our friends and rangers.}
-{272}{}{[Next]}
-{273}{}{If you need any leather goods, contact me directly.}
-{274}{}{I'll keep that in mind.}
+{270}{}{And so, the war is over - thanks to you. San Brahmin once again trades with Phoenix. And that is why I will once again open the doors of my tannery to everyone.}
+{271}{}{And so, the war is over - thanks to you. San Brahmin will trade with the Phoenixian empire and it's vassals no more. But we are still open to our friends and the Rangers.}
+{272}{}{[Continue]}
+{273}{}{If you need any leather items, head right to me.}
+{274}{}{Will keep that in mind.}
 
-{280}{}{Hmm. You look suspiciously like one of the bandits who attacked our shepherds at Garage City.}
-{281}{}{I don't know what you're talking about. There was nothing like that.}
-{282}{}{Ha! Even children who have peed themselves say that their feet are dry. Go in peace.}
-{283}{}{Okay...}
-{284}{}{Yes, there was a case. We thought it was a wild brahmin.}
-{285}{}{I should have thought better. It's lucky for you that the shepherds didn't get hurt. Otherwise, the whole pueblo would be mad at you. But it's good that you admit a mistake. At least I know I should be more careful with you.}
-{286}{}{Uh, okay...}
-{287}{}{I will think over your words, wise man.}
-{288}{}{Leave your moralizing to the stupid kids, dumbass.}
+{280}{}{Hm. You look suspiciously close to the description of one of the bandits that attacked our pastoralists near Garage City.}
+{281}{}{I don't know what you're talking about. It's a total fabrication.}
+{282}{}{Ha! Even kids who have wetted their pants say their feet are dry. Go in peace.}
+{283}{}{Uhh... okay...}
+{284}{}{Yes, a similar event did take place. We thought it was a mad brahmin.}
+{285}{}{You thought. Good for you that the pastoralists were not harmed. Otherwise, the entire pueblo would have been very angry with you. But it is good that you recognise your misdeed. And at least I know that I should be more careful with you.}
+{286}{}{Uhh, alright...}
+{287}{}{I will think your wise words over.}
+{288}{}{Leave your moralizing for the silly kids, idiot.}
 
-{290}{}{You know, Mangas asked me to destroy the moonshine factory in Phoenix.}
-{291}{}{Who does he think he is? A shaman cannot deprive us all of pleasure so easily. No one will like it. At least Mangas can't decide for all the clans at once, he's not the supreme leader.}
-{292}{}{So you're against Mangas' proposal?}
-{293}{}{This is everyone's business, not just the leader's. Instead of following the whims of this grumpy old man, it's better to get me a box of Phoenix swill. I will find a use for it during the celebration of the Day of the Sun.}
-{294}{}{But what's the problem with getting alcohol?}
-{295}{}{Don't you know? We cut off all deals with Phoenix because of the war. Of course, we also know how to make moonshine from cacti, but real tequila from the city does not go to any comparison.}
-{296}{}{How many bottles do you need?}
-{297}{}{Ten bottles of tequila and the same number of bottles of beer.}
-{298}{}{Okay, I'll think about which one of you to support in this dispute.}
-{299}{}{Remind me how many bottles of alcohol do you need?}
-{300}{}{I have just as much alcohol as you need.}
-{301}{}{May your name be glorified by the Sun-loving Brahmin himself! With such reserves, our holiday will not be overshadowed even by the war going on around. Thank you. If you need the services of a tanner, then remember me. I'll do anything for you for a reduced fee.}
-{302}{}{I'll keep that in mind. Bye, Ronnie.}
+{290}{}{You know, Mangas asked me to destroy the moonshine distillery in Phoenix.}
+{291}{}{Who does he think he is? A shaman can't just rid us of all of a pleasure like that. Nobody will like that. Mangas can make decisions by himself only for his clan. He isn't our supreme leader.}
+{292}{}{So you are against Mangas' offer?}
+{293}{}{Mangas' request was not one of a chieftain. It was simply a personal request. Instead of fulfilling the whims of that grumpy old man, you could instead get me a box of Phoenixian swill. I will find a use for it during the celebration of the Day of the Sun.}
+{294}{}{What's the problem with getting alcohol?}
+{295}{}{Don't you know? We ended all deals with Phoenix due to the war. Of course, we know how to make moonshine too. From cactuses. Of course, it can't even be compared to real tequila from a city.}
+{296}{}{How many bottles?}
+{297}{}{10 bottles of tequila and beer.}
+{298}{}{Alright, I'll think over who to side with here.}
+{299}{}{Remind me, how many bottles of alcohol do you need?}
+{300}{}{I have exactly as much alcohol as you need.}
+{301}{}{Let the Sunlike Brahmin itself glorify your name! With such reserves, our celebration will not be darkened even by the war happening all around us. Thank you. If you ever need services relating to leather, head right to me. I'll do anything for you, at a lowered price.}
+{302}{}{Will keep that in mind. Bye, Ronny.}
 
-{310}{}{What do you sell? }
-{311}{}{I make various items out of Brahmin leather. But mostly they are used by members of the tribe. I no longer do business with Phoenix and its colonies. Only rangers can make their orders.}
-{312}{}{I see.}
+{310}{}{What is it you trade?}
+{311}{}{I create various things out of brahmin skin. But they are mainly used by other members of the tribe. I no longer conduct business with Phoenix and it's colonies. Only the Rangers can ask for commissions.}
+{312}{}{Alright.}
 {313}{}{What items do you make?}
-{314}{}{Clothes, belts, bags, and much more. I make armor for the Rangers.}
-{315}{}{What's the problem with the Phoenix?}
-{316}{}{We co-existed peacefully for a while. But for the last few years, white people have been coming from the big city with guns to subdue us or take away from us what belongs to us. The tribe can't stand it.}
-{317}{}{You say you have a good relationship with the Rangers?}
-{318}{}{They help us resist the invaders from Phoenix. And they have always been good customers in my tannery.}
-{319}{}{And who do you support in this dispute?}
-{320}{}{It's hard to say. The Rangers have treated us well so far, but I suspect they are not pure in mind. After all, they have their interests in this conflict.}
-{321}{}{[Next]}
-{322}{}{At the same time, we have been peacefully existing with Phoenix for a long time and actively traded with it until the relationship deteriorated. Phoenix would have given us more opportunities if it weren't for the greedy tyrant at the head there.}
-{323}{}{I see.}
+{314}{}{Clothes, belts, bags, and many other things. For the Rangers, I create armor.}
+{315}{}{What problems do you have with Phoenix?}
+{316}{}{Once, we peacefully coexisted. But in the last couple of years, light-skinned men with weapons have come from that big city, bent on subjugating us or taking away what is ours. The tribe can tolerate it no more.}
+{317}{}{You said you have good relations with the Rangers?}
+{318}{}{They help us resist against the Phoenixian invaders. And they were always good clients for my tannery.}
+{319}{}{And who do you personally support in this debate?}
+{320}{}{Hard to say. The Rangers have treated us well so far, but I suspect that their intentions are not as pure as they make them out to be. They have their own agenda in this war.}
+{321}{}{[Continue]}
+{322}{}{But on the other hand, for a long time, we have lived together with Phoenix in peace, and actively traded with them, until our relations soured. Phoenix would give us more opportunities, if it was not ruled by a greedy tyrant.}
+{323}{}{Understood.}

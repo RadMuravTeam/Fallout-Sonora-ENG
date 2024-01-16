@@ -1,145 +1,145 @@
-{100}{}{This is Ranger Oscar.}
-{101}{}{You see a middle-aged man. He wears gloves and a revolver on his belt.}
-{102}{}{I would like your technology to drive away the missionaries.}
-{103}{}{I'm leaving the pueblo soon. The rangers are no longer welcome here. It's sad.}
-{104}{}{Thanks for the help. Your dedication will go down in history.}
+{100}{}{You see Oscar.}
+{101}{}{You see a middle-aged man. He's wearing gloves and has a revolver in his holster.}
+{102}{}{I wish I could use your technologies to drive out the missionaries.}
+{103}{}{Soon I will have to leave the pueblo. The Rangers aren't welcome here anymore. Very tragic.}
+{104}{}{Thanks for the help. Your courage will go down in history.}
 {105}{}{We'll meet again, amigo.}
-{106}{}{It's better for you if our paths don't cross again.}
-{107}{}{I need to get ready for battle. We meet near the mission camp.}
+{106}{}{It would be best for you if our paths don't cross in the future.}
+{107}{}{I need to prepare for battle. We'll meet near the missionary camp.}
 
-# Before receiving the quest
+#Before receiving quest
 {200}{}{Hello}
 {201}{}{Bye}
-{202}{}{[Cheat: get out of the pueblo, ranger]}
-{203}{}{[Cheat: you won]}
-{204}{}{[Cheat: give a quest to eliminate missionaries]}
+{202}{}{[Cheat: get outta this pueblo, Ranger]}
+{203}{}{[Cheat: you're winner]}
+{204}{}{[Cheat: gib quest to terminate missionaries]}
 
-{210}{}{So. Wait a minute. Who are you? Of the missionaries?}
-{211}{}{No, just a traveler. And I'm already leaving.}
-{212}{}{No, no, I'm from a ruined village in the northwest.}
-{213}{}{A village? There are few settlements there. It looks like you're just lying.}
-{214}{}{I'm telling you... It doesn't matter. Where are you from?}
-{215}{}{Let it remain a secret. Better take care of yourself.}
-{216}{}{See you, stranger.}
-{217}{}{If so, then what?}
-{218}{}{I don't like you. Like everyone else who came from the east. If I find out that you are a spy of the missionaries, you will immediately get a bullet in the forehead.}
-{219}{}{The chiefs let me in.}
-{220}{}{Your happiness. I wouldn't do that in their place.}
-{221}{}{I'm not from the East. And from the northwest.}
-{222}{}{See you, stranger.}
-{223}{}{And why did they let you in? Aren't you a stranger yourself?}
-{224}{}{Chief Geronimo sent me to you. How can I help?}
-{225}{}{Well, an extra pair of legs and arms will be very useful.}
-{226}{}{If I were him, I wouldn't be in such a hurry. But an extra pair of legs and arms really wouldn't hurt me.}
+{210}{}{Wait. Just look at that. Who are *you*? One of the missionaries?}
+{211}{}{No, I'm a simple traveler. I want nothing to do with the local affairs.}
+{212}{}{No, no, I'm from a ruined village to the north-west.}
+{213}{}{A village? There are barely any settlements there. I think you're lying.}
+{214}{}{I'm telling you... Ah, nevermind. Are you from there?}
+{215}{}{That will remain a secret. Better worry about yourself.}
+{216}{}{See you later, stranger.}
+{217}{}{Okay. Suppose I'm lying. Then what?}
+{218}{}{I don't like you. You're just like everyone who came from the east. If I learn that you're are a spy for those missionaries, you'll get a bullet to your head right away.}
+{219}{}{I was allowed here by the chieftains.}
+{220}{}{Good for you. If I was them, I wouldn't do that.}
+{221}{}{I'm not from the east. I'm from the north-west.}
+{222}{}{See you later, stranger.}
+{223}{}{Why were *you* allowed? Aren't you an outsider?}
+{224}{}{Supreme Leader Jeronimo sent me to you. How can I help?}
+{225}{}{Well, one more person could help me out quite well.}
+{226}{}{I wouldn't be so rash, if I was him. But one more person wouldn't hurt.}
 {227}{}{Report the situation, Ranger.}
-{228}{}{Are you Ranger Oscar? General Mossman sent me. He demands a report.}
-{229}{}{It's a strange thing. I don't understand why he sent you and not one of the rangers... But the general knows better.}
+{228}{}{So you are Ranger Oscar? I was sent here by general Mossman. He's demanding a report.}
+{229}{}{Strange... I don't understand why he sent you, and not a Ranger... But the general knows best.}
 
-{230}{}{I was sent to San Brahmin to restore order. The tribe is trying to defend its freedom and independence from the Phoenician Empire. The situation is complicated and at any moment it can go from local skirmishes to a state of real war.}
+{230}{}{I was sent to San-Brahmin to restore order. The tribe is trying to retain it's freedom and independence from the Phoenixian empire. The situation is complicated and could transition from local skirmishes to real warfare any moment now.}
 {231}{}{Go on.}
-{232}{}{Get to the point, please.}
-{233}{}{A detachment of Phoenicians came from the east. They have set up their camp near the Pueblo and are trying to drive the tribe away. They say they want to conclude a trade agreement with them. But this is complete nonsense.}
-{234}{}{What's wrong?}
-{235}{}{No empire in history has been so courteous to the locals during the expansion. As soon as the alliance is concluded, the tribe will be disarmed, and the Brahmins will be distributed to those who will obey the will of the emperor.}
+{232}{}{More to the point, please.}
+{233}{}{A unit of Phoenixians has come from the east. They have set up their camp near the pueblo and are trying to drive out the tribe. They say they simply want to establish a trade agreenment with them, but that's an obvious lie.}
+{234}{}{How so?}
+{235}{}{No empire in history has been that courteous to native tribes during a time of expansion. As soon as the alliance is established, the tribe will be disarmed and the brahmin will be redistributed to those who will obey the will of the emperor.}
 {236}{}{[Listen]}
-{237}{}{The Phoenix cannot be trusted. It's a bunch of adventurers and bandits. The townspeople simply do not know any other life. And the tribe of cattle breeders has been creating its own culture and traditions for generations. Some greedy rich people from the city can't ruin their lives.}
-{238}{}{Clearly. Do you want to drive the missionaries back to the city?}
-{239}{}{Our forces are unequal to go into open battle. And within the tribe, a split is maturing, which was generated by the Phoenicians among the youth. Help prepare a squad to expel the missionaries. It is necessary to heal the wounded and to reason with the son of Chief Chatto.}
-{240}{}{Okay. I'll see what I can do.}
-{241}{}{I doubt your squad can handle it. I'll try to find another way.}
+{237}{}{Phoenix must not be trusted. It is a hive of bandits and opportunists. They simply don't know any other life. Meanwhile, the pastoralist tribe has spent generations creating it's own culture and traditions. We can't allow their way of life to be ended by the greed of rich city-dwellers.}
+{238}{}{Alright. So, you want to drive back the missionaries to the city?}
+{239}{}{Our forces are not equal. We can't fight an open battle. The Phoenixians have begun to divide the tribe by spreading their ideas among the young generation. Help me prepare a unit to drive back the missionaries. You need to treat the wounded and talk some sense into the son of the chieftain, Chatto.}
+{240}{}{Alright. I'll see what I can do.}
+{241}{}{I doubt your unit will manage. I'll try to find another way.}
 
-{242}{}{Hello, sectarian. What are you counting on? Oh, I know - for a bullet in the forehead.}
+{242}{}{Hello, cultist. What are you expecting from me? Oh, I know - a bullet to the head.}
 {243}{}{Wait a minute...}
-{244}{}{What are you...}
-{245}{}{Get out! So that your spirit will not be on the land of cattle breeders. You, Aaron's henchmen, were not invited here.}
-{246}{}{Okay... calm down... I'm leaving.}
-{247}{}{A ranger? What a pleasant surprise. The General Staff did not warn me about your appointment. Are you here of your own free will?}
-{248}{}{No, I'm just passing by. What's going on here? Do you need help?}
-{249}{}{Just along the way. Sorry, I have to move on soon. Maybe we'll meet again.}
+{244}{}{What are you doing...}
+{245}{}{Get out of here, out of the lands of the pastoralists. Nobody asked Aaron's henchmen to come here.}
+{246}{}{Fine... I'm leaving.}
+{247}{}{Another Ranger? A surprise to be sure, but a welcome one. Headquarters didn't tell me about you. Are you here on your own initiative?}
+{248}{}{No, I'm just passing by. What's going on here, exactly? Do you need any help?}
+{249}{}{This place is just a temporary stop for me. Sorry, I'll have to go soon. Maybe we'll see each other again later.}
 
-{250}{}{Didn't they tell you to get out of the pueblo? If you continue to resist, I will have to use force to drive you away from this holy land.}
-{251}{}{It was a mistake. Give me a chance, I'll fix it!}
-{252}{}{You have no power here. You're as much an outsider as I am. So sit tight and keep quiet.}
-{253}{}{I bet my hat-you can't drive me away. What is it, stupid? Are your fingers itching already? So come on! Get out your revolver, you son of a bitch!}
-{254}{}{Let's discuss the action plan again. What needs to be done?}
+{250}{}{Didn't I tell you to get out of the pueblo? If you don't leave, it'll be your corpse leaving this holy land.}
+{251}{}{This was a mistake. Give me a chance, I'll make it right!}
+{252}{}{You have no power here. You are an outsider, just like me. So sit down and shut up.}
+{253}{}{Looks like you can't drive me out of here. What's the matter, idiot? Fingers already itching? Do it! Take out the revolver, you son of a bitch!}
+{254}{}{Let's discuss the plan again. What needs to be done?}
 
-{260}{}{Leave the pueblo immediately. Commander Crook gives you one last chance to avoid the death penalty.}
-{261}{}{I can't be intimidated by death. I went on this mission fully aware of the risks. But my goal is higher than my life. I tried to save the tribe from extermination or enslavement by imperial troops.}
-{262}{}{It's over. The elders advocate a truce with the missionaries.}
-{263}{}{I see. The missionaries have completely clouded their minds. There is no sadder sight than the powerlessness of power.}
-{264}{}{Now the majority is against you. So are you going to leave?}
-{265}{}{I'll have to go back to base with nothing. But don't think the Rangers will just let it go. The Phoenix Empire cannot be allowed to sweep away entire nations in its path for the sake of power and resources.}
-{266}{}{Cheer up. You will still have a chance to take revenge. Probably.}
-{267}{}{Right. Get out of here.}
+{260}{}{You must leave the pueblo immediately. Commander Crook is giving you your last chance to escape the death penalty.}
+{261}{}{You can't scare me with death. I went on this mission fully aware of the risks. But my goal is more important than my life. I was trying to save a tribe from extermination or enslavement at the hands of an imperial army.}
+{262}{}{It's over. The elders have given their support for a peace treaty with the missionaries.}
+{263}{}{I see. Those missionaries have completely clouded their judgement. There is no sight more tragic than the powerlessness of leaders.}
+{264}{}{The majority has turned against you. Now, are you going to leave?}
+{265}{}{And so, I have to return to base with nothing. But don't you think the Desert Rangers are just going to leave this as it is. The Phoenixian empire cannot be allowed to destroy entire cultures for power and resources.}
+{266}{}{Don't fret. You'll have an opportunity at vengeance. Probably.}
+{267}{}{Right. Leave.}
 {268}{}{So you're not going to leave?}
-{269}{}{No. I will stay to protect the tribe during the siege. And I won't be alone. There are still people in the tribe who are ready to stand up for themselves.}
-{270}{}{As you wish. But you've been officially warned.}
-{271}{}{Do as you like. My job is to warn.}
-{272}{}{The desert teaches you to hide in the shadows and wait for the right moment to attack. Use this tactic, otherwise you will lose.}
-{273}{}{Sometimes it is more useful to retreat to gather strength. Isn't that the case?}
-{274}{}{The Parker Dam was flooded and destroyed. Your command will no longer be able to support the struggle in San Brahmin.}
-{275}{}{It's over. The Supreme Leader turned away from the Rangers.}
+{269}{}{No. I will remain to protect the tribe during the siege. And I will not be alone. There are still people ready to fend for themselves in the tribe.}
+{270}{}{Whatever you say. You've been warned.}
+{271}{}{Do whatever you want. My job was just to warn you.}
+{272}{}{The desert teaches to hide in the shadows and wait for the right moment to strike. Use this tactic, otherwise, you will only face defeat.}
+{273}{}{Sometimes it is better to retreat, to return in greater numbers later. Is this not such a situation?}
+{274}{}{Parker Dam was flooded and destroyed. Your brass will no longer be able to support fighting in San-Brahmin.}
+{275}{}{It's over. The supreme leader has cut ties with the Rangers.}
 
 #After receiving the quest
-{300}{}{Report back. Any information about our enemy will be valuable.}
-{301}{}{I have nothing to report yet.}
+{300}{}{Report. Any information about the enemy will be invaluable.}
+{301}{}{Nothing to report yet.}
 {302}{}{Good to see you, Ranger.}
 {303}{}{Good to see you, amigo.}
 
-{310}{}{I want to ask you about the Arizona Rangers.}
+{310}{}{I want to ask you about the Desert Rangers.}
 {311}{}{We represent Law and Order in these lands.}
 {312}{}{Do the Rangers have a base?}
-{313}{}{The General Staff in the west and many outposts throughout Southern Arizona. But it would be silly to tell you their exact location. }
-{314}{}{The General Staff in the west and many outposts throughout Southern Arizona. But you already know where it is.}
+{313}{}{A headquarters to the west and many outposts all over South Arizona. But it would be a bad idea to give you their exact coordinates.}
+{314}{}{A headquarters to the west and many outposts all over South Arizona. But you already know where they are located.}
 {315}{}{Where's your badge, Ranger?}
-{316}{}{I removed it only in order not to aggravate the difficult situation. As things get better in Pueblo, the badge will be on my chest again.}
-{317}{}{I don't understand why the Rangers are getting involved in this war?}
-{318}{}{We have two goals - to make friends with the tribe and stop the expansion of the Phoenix.}
-{319}{}{Isn't the enforcement of the law contrary to the principles of the tribe?}
-{320}{}{Simple rules are the same for everyone - do not kill for no reason, do not steal someone else's. As for the local foundations, the Rangers have to put up with them and make some adjustments.}
-{321}{}{Clear.}
+{316}{}{I only removed it to not make an already complicated situation even worse. When the mess currently happening in the pueblo is resolved, the badge will be right back on my chest.}
+{317}{}{I don't understand. Why are the Rangers participating in this war?}
+{318}{}{We have two goals - to befriend the tribe and to stop Phoenix's expansion.}
+{319}{}{Isn't being forced to follow laws against the tribe's traditions?}
+{320}{}{The simple rules are equal for all - do not kill senselessly, do not steal from others. About local traditions, we Rangers have to accept them and make some adjustments.}
+{321}{}{Alright.}
 
-{330}{}{The missionaries fled back to Phoenix.}
-{331}{}{You have amazing diplomatic skills. I don't know how you managed to sort it out, but I'm very grateful.}
-{332}{}{It's nothing. They turned out to be quite skittish.}
-{333}{}{It wasn't easy. But our great mission requires sacrifice.}
-{334}{}{General Mossman did not entrust you with such a serious task for nothing. He has a nose for good people. Now I will be able to return to the base after a long and stressful mission.}
+{330}{}{The missionaries are fleeing back to Phoenix.}
+{331}{}{You have incredible diplomatic prowess. I don't know how you managed to do it, but you have my thanks.}
+{332}{}{It was nothing. They were quite easily intimidated.}
+{333}{}{It wasn't easy. But our great mission demands sacrifice.}
+{334}{}{General Mossman didn't give you such an important mission for nothing, it seems. He's good at finding capable people. Now I will be able to return to base. This was a long and tense mission. I'll rest there for a while.}
 {335}{}{Good luck, Oscar.}
-{336}{}{The Rangers need people like you. Stop by our base in Parker Dam. I will pass the recommendation on you to the general.}
-{337}{}{Thank you, Ranger. I'll be in those parts, I'll definitely look in on the general.}
+{336}{}{The Rangers need people like you. Go to our base at Parker Dam. I'll send a letter of recommendation to the general.}
+{337}{}{Thank you, Ranger. If I happen to be in those lands, I will head to the general right away.}
 
-{340}{}{Chatto refused to support the Phoenicians.}
-{341}{}{Good news. If Chatto does not create problems, then our chances of winning increase dramatically.}
+{340}{}{Chatto has refused the support of the Phoenixians.}
+{341}{}{Those are good news. Our chances of victory have heavily increased.}
 {342}{}{What else needs to be done?}
-{343}{}{It remains to raise the soldiers and go into battle. But some are lying wounded. This scares the cattlemen, besides, some of them could go into battle if they were patched up.}
-{344}{}{I'll cure them.}
-{345}{}{Thank you. A commendable initiative. But if you don't know how to treat people, then at least bring them medicines. Surely something can be stolen from the missionaries.}
-{346}{}{I'm on my way.}
-{347}{}{But I'm not a doctor.}
-{348}{}{Then bring the medicines. Surely something can be stolen from the missionaries.}
-{349}{}{I'm on my way.}
-{350}{}{All the wounded are back in the ranks. We can perform.}
-{351}{}{Great. It remains to assemble a squad and conduct an instruction. Meet me north of the missionaries' camp. Get ready for an uphill battle.}
-{352}{}{I'm on my way.}
-{353}{}{Chatto is no more, he can't interfere with your plans.}
-{354}{}{This is not good news. Chatto was a leader among the youth and could influence the minds of his fellow tribesmen. It remains to be hoped that none of the dissenters will stand in our way.}
-{355}{}{Then you have no choice. Crook is waiting for your attack. Come on, show me what you're capable of, Ranger!}
-{356}{}{Go back to Crook and let him know that I accept his challenge. If he wants a fight, he'll get it.}
+{343}{}{We still have to deal with the soldiers. Some of them are wounded. It is scaring the pastoralists, and some of them could participate in battle, if the soldiers were healed.}
+{344}{}{I'll do it.}
+{345}{}{Thank you. Excellent initiative. But if you cannot do it yourself, at least bring medicine. I'm sure some could be stolen from the missionaries.}
+{346}{}{Already on my way.}
+{347}{}{But I am no doctor.}
+{348}{}{Then bring medicine. I'm sure some could be stolen from the missionaries.}
+{349}{}{Already on my way.}
+{350}{}{All the wounded are healed. We can begin the fight.}
+{351}{}{Excellent. The only thing that's left is to bring them together and explain the mission to them. We'll meet to the north of the missionary camp. Expect a difficult fight.}
+{352}{}{Already on my way.}
+{353}{}{Chatto will no longer be able to interfere. He's dead.}
+{354}{}{Those are not very good news. Chatto was the leader among the youth and could have changed the minds of his fellow tribesmen. We can only hope that none of them will stand in our way.}
+{355}{}{Then you have no choice. Crook is expecting your attack. Go, show what you are capable of, Ranger!}
+{356}{}{Head to Crook and tell him that I accept his challenge. If he wants a fight, he'll get one.}
 {357}{}{Bye.}
-{358}{}{Good job. But what about Chatto? Did you manage to convince him?}
-{359}{}{I haven't been able to talk to him yet.}
+{358}{}{Excellent work. But what about Chatto? Have you managed to convince him?}
+{359}{}{I have not yet managed to talk to him.}
 
-# during the skirmish
-{360}{}{Hmm. It doesn't look like the missionaries are preparing for battle. Their self-confidence is good for us. It's a good time to start the offensive.}
-{361}{}{Ranger Oscar, may I conduct a reconnaissance? I'll be back soon.}
+#during the fight
+{360}{}{Hm. Doesn't look like the missionaries are prepared for a fight. Their self-confidence will work to our advantage. A good time to begin the assault.}
+{361}{}{Ranger Oscar, could I conduct reconnaissance on them? I'll be back soon.}
 {362}{}{Let the battle begin!}
-{363}{}{I report: the missionaries have fled!}
-{364}{}{Victory is ours! (The warriors of the tribe cheerfully rejoice) I still need time to look around. And you go back to the pueblo, we'll sum up there.}
-{365}{}{See you later.}
-{366}{}{In that case, you'll die like a dog. Whining and vainly begging for mercy.}
-{367}{}{That's enough! Time's up, Ranger...}
-{368}{}{Drive away the Phoenicians!}
-{369}{}{Vper-ed!}
-{370}{}{If Crook and his whole pack don't immediately capitulate together, then we'll have to force him out.}
-{371}{}{I will inform him of your requirements.}
-{372}{}{The fight is over. We have won!}
+{363}{}{Report: the missionaries are fleeing!}
+{364}{}{Victory is with us! (the tribe's warriors rejoice) I still need some time to look around this place. You head to the pueblo. I'll be there soon.}
+{365}{}{Until next time.}
+{366}{}{Then you will die like a dog. Whining and vainly begging for mercy.}
+{367}{}{Enough! Your time has run out, Ranger...}
+{368}{}{Drive the Phoenixians back!}
+{369}{}{For-ward!}
+{370}{}{If Crook with all his henchmen doesn't immediately capitulate, we will have to drive him back with force.}
+{371}{}{I'll tell him your requirements.}
+{372}{}{The battle is over. We won!}

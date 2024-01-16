@@ -1,54 +1,58 @@
+#---------------------------------------------------------
+#  Translated by Georg; revised by garwert.
+#---------------------------------------------------------
 {100}{}{You see a cadet.}
-{101}{}{You see a cadet. Today he serves in the kitchen.}
-{102}{}{You're not on the ration lists.}
+{101}{}{You see a cadet. Today he is serving in the kitchen.}
+{102}{}{Your name's not on the list, so you're not authorized to get field rations.}
 
-{200}{}{Okay, stop... Civilian? What are you doing here?}
-{201}{}{I'm watching you. Got it?}
-{202}{}{E... These are office premises. Go away.}
-{203}{}{Try to kick it out, sucker.}
-{204}{}{Of course I don't want any problems.}
+{200}{}{Wait a minute... a civilian? What are you doing here?}
+{201}{}{Watching you. Got it?}
+{202}{}{Uhh... These are service rooms. Go away.}
+{203}{}{Yeah, go make me, sucker.}
+{204}{}{Sure, I don't want any problems.}
 {205}{}{Don't worry, I have clearance.}
-{206}{}{You're not supposed to know that. But I have a clearance, relax.}
+{206}{}{This is none of your concern, but I do have clearance to be here. Relax.}
 
-{210}{}{I'm the kitchen attendant today. But we don't serve outsiders.}
-{211}{}{So I have nothing to do here. Bye.}
-{212}{}{I'm the kitchen attendant today. But you're not on the ration lists.}
+{210}{}{Today I am on duty in the kitchen. But we don't serve outsiders.}
+{211}{}{Then I have no reason to stay here. Goodbye.}
+{212}{}{Today I am on duty in the kitchen. But you aren't on the list. So, not authorized to receive a field ration.}
 
-{220}{}{Who's your supervisor, cadet?}
-{221}{}{Captain Agatha. And what?}
-{222}{}{How do you like her training?}
-{223}{}{Very tiring. But it will benefit in the conditions of a hungry desert. It's a shame that we, the cadets, are not allowed to shoot serious weapons. I've been dreaming about him since the very beginning of my studies. And even after receiving the badge, we will have to save ammo. Annoying.}
-{224}{}{Shoot some more. It's not such a big deal.}
-{225}{}{Did you think you were in a fairy tale? Naive.}
-{226}{}{Nothing, I just wanted to talk. Bye.}
+{220}{}{Who is your curator, cadet?}
+{221}{}{Captain Agatha, why?}
+{222}{}{What do you think of her training exercises?}
+{223}{}{They are very tiring. But the lessons they teach will be useful in barren desert. The only thing that sucks is that we cadets are not allowed to touch serious weaponry. I dreamt of it since the start of the training. And even when I receive a badge we will still have to conserve ammo. A bummer.}
+{224}{}{You will get to fire them later. It's not that big of a deal, really.}
+{225}{}{Did you think you are in some fairytale? How naive.}
+{226}{}{Nothing, just wanted to talk. Bye.}
 {227}{}{Is she a good commander?}
-{228}{}{Of course. She takes care of her cadets as if they were her children. I am glad that she is the one who trains our squad.}
-{229}{}{You're lucky to have her. Later.}
+{228}{}{Of course. She cares about her cadets as if we were her own children. I'm glad that it's her training our unit.}
+{229}{}{You got lucky with her. Bye.}
 
-{230}{}{So it was after your training that the quartermaster lost his weapon?}
-{231}{}{But... We have returned the weapon.}
-{232}{}{And then they quietly took it back, right? Or have you changed the signature in the issue log? Speak.}
-{233}{}{Indeed, it is difficult to argue with this. You can be free, cadet.}
-{234}{}{Thu... uh... uh... Listen. I told them it was a bad idea.}
-{235}{}{So. Tell me.}
-{236}{}{Yeah. So you confessed.}
-{237}{}{We returned the weapon after training and then stole it along with a box of cartridges. We just wanted to practice shooting a little. Otherwise, which of us are rangers?}
-{238}{}{And you hoped it would go unnoticed?}
-{239}{}{We were really going to get the gun back. But the shooting attracted the radscorpions. I had to run, and the gun was left lying in the desert. It is not possible to return for it without arousing suspicion yet. Besides, the quartermaster, as luck would have it, has started reinventorization.}
-{240}{}{Well, I can understand you. Although others will judge.}
-{241}{}{What an interesting excuse. I wonder what the Rangers will do to you for such an offense?}
-{242}{}{You know, the others won't like that I'm telling you this. But something has to be done. You're a new person at the base. Can we come to an agreement?}
-{243}{}{Business approach. What do you suggest?}
-{244}{}{I'll give you the rest of the cartridges if you return the gun to me. I'll find a way to sneak it back to the warehouse so our asses don't get hurt. The weapon lies under a large cactus opposite the farm. What do you say?}
-{245}{}{Not a bad deal. I'll think about your offer.}
-{246}{}{I'm not going to cover for petty thieves. Have a nice stay, cadet.}
-{247}{}{Don't worry, it's between us.}
-{248}{}{Em... Listen. I told them it was a bad idea. They didn't listen to me.}
-{249}{}{Remind me where the gun is.}
+{230}{}{So the quartermaster got a missing weapon after your training exercise?}
+{231}{}{But... we returned the weapon.}
+{232}{}{And then quietly took it back, yeah? Or changed a signature in the issue log? Speak.}
+{233}{}{Hmm, hard to argue against that. Dismissed, cadet.}
+{234}{}{Wh... Um... Ugh... Listen. I told them it was a bad idea.}
+{235}{}{So, tell me about it.}
+{236}{}{Aha. You admitted to it.}
+{237}{}{We returned the weapon after the training exercise, and then stole it back along with some ammunition. We just wanted to have a bit of shooting practice. What kind of a ranger can't shoot?}
+{238}{}{And you hoped this would remain unnoticed?}
+{239}{}{We really were planning to return the gun. But the shooting attracted radscorpions. We had to run, and the gun is left lying in the desert. So far we haven't succeeded in getting it back without causing suspicion. And the quartermaster, as luck would have it, began his re-inventory.}
+{240}{}{Alright, I won't be the one to judge your actions, even if I didn't understand. But know that others will.}
+{241}{}{What an interesting excuse. I wonder what the rangers will do to you all for such an offense.}
+{242}{}{You know, the others won't like that I am telling you this. But something has to be done. You're new on this base. Maybe we can reach an agreement?}
+{243}{}{Straight to the point, eh? Alright, tell me your proposal.}
+{244}{}{I'll give you what's left of the bullets if you return the gun to me. I'll find a way to return it to the warehouse without anyone noticing so that we don't get our asses kicked. The weapon lies under a large cactus in front of the farm. So, what do you say?}
+{245}{}{Not a bad proposal. I'll think about it.}
+{246}{}{I'm not gonna help some petty thieves. Goodbye, cadet.}
+{247}{}{Don't worry, this will remain between us.}
+{248}{}{Umm... Listen. I told them it was a bad idea. They didn't listen.}
+{249}{}{Remind me, where is the gun again?}
 
-{250}{}{It's him! Thanks, you're saving our asses. Now the guys and I will be more careful. Yes, and here are the cartridges, as agreed. }
-{251}{}{Be.}
-{252}{}{You had to lick the quartermaster's ass, didn't you? Now every cadet will know that it's better not to mess with you.}
+{250}{}{That's the gun! Thanks, you really saved our hides. We'll be more careful from now on. Yeah, and here is the ammo I mentioned.}
+{251}{}{Goodbye.}
+{252}{}{You really had to kiss the quartermaster's ass, yeah? Now every cadet will know that it's best not to deal with you.}
 {253}{}{Sorry, I had no choice.}
-{254}{}{You screwed up yourself. Blame only yourself for this.}
+{254}{}{You were the ones who screwed up. You can only blame yourselves.}
 {255}{}{Is this the gun we were talking about?}
+

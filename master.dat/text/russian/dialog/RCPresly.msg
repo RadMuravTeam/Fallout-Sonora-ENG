@@ -1,106 +1,106 @@
-{100}{}{You see Cadet Presley.}
-{101}{}{You see one of the recruits.}
-{102}{}{Rest in peace, Cadet Presley.}
-{103}{}{Hey, Cadet, don't you dare die!}
-{104}{}{Good luck on the road.}
-{105}{}{The Milton hut is ahead, but we need to find the entrance to the cave.}
-{106}{}{Do you have any problems with the Milton family?}
+{100}{}{You see cadet Presley.}
+{101}{}{You see one of the new recruits.}
+{102}{}{Rest in peace, cadet Presley.}
+{103}{}{Hey cadet, this is no time to die!}
+{104}{}{Good luck in your travels.}
+{105}{}{The Milton shack is in front of us, but we need to find the entrance to the cave.}
+{106}{}{You have something against the Milton family?}
 
-#The first dialog
-{200}{}{(in front of you is a young cadet with a very dissatisfied look; he sits in an expectant pose and from time to time kicks the garbage under his feet to relieve tension.)}
-{201}{}{Why aren't you in the ranks?}
-{202}{}{Commander Agatha reprimanded me for my willfulness. What's it to you?}
-{203}{}{And you're one of the obstinate soldiers, right?}
-{204}{}{Damn, I'm just tired of this senseless drill! I want *real* field assignments, not shooting coyotes on caravan routes.}
-{205}{}{Looks like you have big ambitions, man.}
-{206}{}{Maybe so. But I think it's pointless to wait another three years before the first test. If Commander Agatha does not return my equipment and does not let me go to work, I will go there with only one spear.}
-{207}{}{As you know. In the meantime, I'll talk to your commander.}
-{208}{}{You're just a narcissistic bully. Bye, loser.}
-{209}{}{Don't you dare be rude to me, you greenhorn.}
+#Первый диалог
+{200}{}{(you see a young cadet in a clearly unhappy mood; he is sitting like he is waiting for something and kicks the rubbish near his feet to relieve tension from time to time.)}
+{201}{}{Why are you not in line?}
+{202}{}{Captain Agatha reprimanded me for not following orders. Why are you asking?}
+{203}{}{You're not one of those obstinate soldiers, right?}
+{204}{}{Damn, I was just tired of these pointless drills! I want *real* field missions, not shooting coyotes on caravan routes.}
+{205}{}{Looks like you have a lot of ambition, buddy.}
+{206}{}{Maybe so. But I think waiting three more years for the first real challenge is pointless. If commander Agatha doesn't return my equipment and doensn't send me on a mission, I'll go there with just a spear.}
+{207}{}{Whatever you say. In the meantime I'll go speak to your commander.}
+{208}{}{You're just a narcissistic bully. Bye-bye, loser.}
+{209}{}{Don't you dare be rude to me, you green.}
 
-#Repeat dialog
-{210}{}{What do you want?}
-{211}{}{Nothing. Later.}
+#Повторный диалог
+{210}{}{What?}
+{211}{}{Nothing. Bye.}
 
 {220}{}{Why did you take the rifle from the warehouse?}
-{221}{}{Combat weapons are issued only for the duration of tasks and training. Besides, cartridges need to be saved. I wanted to take a rifle and go to the cave of Giers Wash. But the quartermaster quickly sensed my plan.}
-{222}{}{What is so important in that cave?}
-{223}{}{Locals say that rodents live in the cave, and they annoy them a lot. But all the rangers are busy for such a small matter, and the commanders refuse to send cadets, they consider us not ready.}
-{224}{}{[Next]}
-{225}{}{I wanted to deal with the problem alone, to wipe the nose of all the old men with stripes. We have to do something, not shake in the gym!}
-{226}{}{Your dedication inspires respect.}
-{227}{}{In my opinion, you only wanted to show yourself.}
-{228}{}{What did you say about the Giers Wash Cave?}
+{221}{}{Weapons are only given out for missions and drills only. And you have to conserve ammo. I wanted to take the rifle and head to the Giers Wash cave. But the quartermaster figured out my plan quickly.}
+{222}{}{What's so important about that desert?}
+{223}{}{Locals say that there's a lot of rodents living in that cave, and they are seriously harming the villagers. But the Rangers are too busy to deal with such a small thing, and the commanders refuse to send cadets, since they say we're "not ready".}
+{224}{}{[Continue]}
+{225}{}{I wanted to solve the problem alone, myself, to show those striped old people how wrong they are. We should be doing something, not fooling around in the gym!}
+{226}{}{Your dedication demands respect.}
+{227}{}{I think you just wanted to show what *you* were capable of.}
+{228}{}{What did you say about that Giers Wash cave?}
 
-{230}{}{Do you get along with the other cadets?}
-{231}{}{It's different with everyone. Some people make me mad, I try to ignore them.}
-{232}{}{I see.}
-{233}{}{Tell me honestly, you've killed before... a person?}
-{234}{}{Not yet. Cadets are sent at best to shoot wolves. But I will kill the criminal bastards, as any ranger should.}
-{235}{}{I didn't even think about it.}
+{230}{}{What is your relationship with the other cadets?}
+{231}{}{Different with each. Some make me mad so I try to ignore them.}
+{232}{}{Alright.}
+{233}{}{Be honest, have you ever killed... a human being?}
+{234}{}{Not yet. Best thing we cadets can hope for is to be sent to exterminate wolves. But I *will* kill criminal scum, as every Ranger is supposed to.}
+{235}{}{Never even thought about it.}
 
-#Quest
-{300}{}{About that outing. We can do it together.}
-{301}{}{Seriously? But why would you risk it?}
-{302}{}{I also want to participate in the roundup. It'll be fun.}
-{303}{}{That's for sure. We are not allowed to shoot from serious weapons, they save ammunition, and it makes sense to shoot from pneumatics only at dead targets.}
-{304}{}{I want to help the Rangers in their difficult task.}
-{305}{}{Are you looking for friends among our brothers? Tricky. Everyone in the wastelands needs a strong patron.}
-{306}{}{Agatha asked me to keep an eye on you.}
-{307}{}{Really? Do you think I need a mentor to shoot ordinary rodents? Although... I really could use a partner... and I need a witness, just in case.}
+#Квест
+{300}{}{About that sally. Maybe we could do it together.}
+{301}{}{Really? But why should you risk your own hide?}
+{302}{}{I want to participate in the raid. It'll be fun.}
+{303}{}{That's right. They don't let us fire the serious weaponry, they make us conserve ammo, and the pneumatic stuff they give us is only good for firing on dead targets.}
+{304}{}{I want to help the Rangers in their hard mission.}
+{305}{}{Seeking friends around here? Sly. Everyone in the wasteland needs someone strong, someone to protect them.}
+{306}{}{Agatha asked me to watch over you.}
+{307}{}{Really? You think I need a mentor for shooting regular rodents? Though... having a companion wouldn't hurt... And a witness, just in case.}
 {308}{}{So?}
-{309}{}{It's a deal! But I can't go there without a gun.}
-{310}{}{The extradition order is already on the quartermaster's desk. Thank your supervisor.}
-{311}{}{What?! How did you manage it?! Cool, I'm going to the warehouse right now. You, too, prepare for a sortie. Meet me outside, near the info center.}
-{312}{}{See you.}
+{309}{}{Let's go! But I can't go there without weapons.}
+{310}{}{The order to issue it is already on the quartermaster's table. Thank your inspector.}
+{311}{}{What?! So you did it?! Great, I'll head to the warehouse immediately. You should also prepare for the sally. We'll meet outside, by the infocenter.}
+{312}{}{See you later.}
 
-{320}{}{I'm ready to move out. And you?}
-{321}{}{Wait a little longer.}
-{322}{}{What can we use?}
-{323}{}{It will be dark in the cave, so you should stock up on a couple of flares. And most likely there are a lot of pig rats. Alone they are weak, but all together they can become a problem. The best weapon against such a crowd is a shotgun. However, I have no idea where to get one.}
-{324}{}{It's worth considering.}
-{325}{}{Then let's move out.}
-{326}{}{Why did we come back? Did you forget something?}
-{1326}{}{Why did we come back? Did you forget something?}
-{327}{}{Don't worry, I won't be long.}
-{328}{}{Okay, but let's hurry up.}
-{329}{}{OK.}
-{330}{}{Such a crowd? This is not the best tactic for cramped caves. Besides, we'll scare the animals away. Someone will have to leave.}
-{331}{}{I'll talk to my partner about it.}
-{332}{}{Listen, about that story with the Milton family. Let's agree that we have nothing to do with it, okay? I shouldn't have gone on this damn hike. I don't think the pig-rat's head was worth it. Goodbye.}
-{333}{}{Goodbye, Cadet Presley.}
-{334}{}{Why... why did he do it?}
-{335}{}{Are you all right?}
-{336}{}{I don't know... This bandit... He had a weapon, he could have found another way to survive. But he attacked a defenseless family. Why did he do it?}
-{337}{}{He didn't know any other way.}
-{338}{}{I'm no better, right? Now I understand why all this training was needed at the base. And why we are not allowed to do important tasks. Now I will take the words of veterans more seriously.}
-{339}{}{Thanks to this outing, you've become a little wiser. Goodbye, cadet.}
-{340}{}{Remember the main lesson of the Wasteland - kill or you will be killed yourself. And it's time for me to go back to the desert.}
-{341}{}{It was a great operation, wasn't it? I'm going to show the head to the others in the dining room. Good luck on the road.}
-{342}{}{Goodbye, Cadet Presley.}
+{320}{}{I'm ready to move out. You?}
+{321}{}{Wait a tiny bit.}
+{322}{}{What stuff would be useful?}
+{323}{}{It'll be dark in the cave, we should take a couple of flares. And there is likely to be a lot of pigrats. Alone they're weak, but together they could be a problem. Best weapon against such a group is a shotgun. Though to be honest, I have absolutely no idea where we could get one.}
+{324}{}{That is worth considering.}
+{325}{}{Then we move out.}
+{326}{}{Why did we go back? You forgot something?}
+{1326}{}{Why did we go back? You forgot something?}
+{327}{}{Don't worry, I won't take long.}
+{328}{}{Fine, but do it fast.}
+{329}{}{Ok.}
+{330}{}{In a group like this? That isn't the best tactic for tight caves. And we'll just frighten the animals. Someone must be left behind.}
+{331}{}{I'll talk this over with my companion.}
+{332}{}{Listen, about that story with the Milton family. Let's agree that we are not related to this at all, okay? I knew it was a mistake to go into this fucking sally. I don't think this pigrat head was even worth it. Bye.}
+{333}{}{Goodbye, cadet Presley.}
+{334}{}{Why... why did he do that?}
+{335}{}{Are you okay?}
+{336}{}{I don't know... This bandit... He had a weapon, he could have found another way to survive. But he attacked a defenseless family. Why did he do that?}
+{337}{}{He did not know of any other way.}
+{338}{}{I'm not any better, right? Now I see why we had to go through all the drills at the base. Why we aren't yet allowed to do serious assignments. I'll take what the veterans say more seriously from now on.}
+{339}{}{You became a bit wiser thanks to this sally. Goodbye, cadet.}
+{340}{}{Remember the key lesson of the Wasteland - kill or be killed. As for me, I have to go back to the desert.}
+{341}{}{This was great, wasn't it? I'll go show the head to the others in the dining room. Good luck in your travels.}
+{342}{}{Goodbye, cadet Presley.}
 
-{350}{}{Keep an eye on the sides.}
-{351}{}{Let's move on.}
-{352}{}{So what is our task?}
-{353}{}{Find and kill Nat-Aani. So the locals called it the biggest and most dangerous pig-rat of this cave.}
-{354}{}{What does this name mean?}
-{355}{}{Just that he's the leader of the pack. This means that he is the strongest and fiercest of his fellows.}
+{350}{}{Watch your back.}
+{351}{}{Let's go.}
+{352}{}{So, what's our goal here?}
+{353}{}{Find and kill Nataani. That's how the locals call the biggest and most dangerous pigrat of this cave.}
+{354}{}{What does that name mean?}
+{355}{}{Only that it's the pack leader. Which means it's the strongest and most ferocious out of them all.}
 {356}{}{What do you know about the Milton family?}
-{357}{}{Don't you care? Well, they're ordinary low-income residents. They live mainly by gathering and fishing. There is nothing to tell about them.}
-{358}{}{Let's not talk about it.}
-{359}{}{What the hell happened with the Miltons? They never seemed to be hostile.}
+{357}{}{Why do you care? Well, they're average, they're poor, and they live here. They survive on fishing and gathering. Not much to say about them.}
+{358}{}{Let's not talk about this any longer.}
+{359}{}{What the hell happened between you and the Miltons? They never seemed to be aggressive before.}
 
-{360}{}{We did it! I'll cut off this pig's head and show it to the old folks at the base. Now they will know that I am ready for serious business!}
-{361}{}{Is that what you're hunting for?}
-{362}{}{Sure. And why else would I help these beggars? They are of little use, the rewards will not be paid and the reputation will not be raised. But with such a feat of service, I am entitled to at least a double ration. Ha!}
-{363}{}{Hmm. Let's get out.}
+{360}{}{We did it! I'll cut that pig's head off and show it to the old guys on the base. They'll see that I'm ready for serious assignments!}
+{361}{}{You planned this hunt just for that?}
+{362}{}{Of course. Why else would I help those bums? They're of little use, they won't give you a reward and won't raise your reputation. But for this kind of deed I'll get a double ration minimum. Ha!}
+{363}{}{Hmm. Let's get out of this place.}
 
-{364}{}{What?! Is this a joke? I didn't count on fighting a bandit when I came here!}
-{365}{}{What is it, Cadet? You've just been bloodthirsty rejoicing, cutting off the head of a pig-rat.}
-{366}{}{But this is different! Oh, damn, it's such a bad time... What should I do now?}
-{367}{}{We need to act now. While we wait for help, he will have time to escape or prepare for a siege. Someone will surely die.}
-{368}{}{Right. Now we have every chance. He is not expecting our appearance and is busy with other things. But let's be careful - man is not an animal, he is smarter.}
+{364}{}{What?! What is this, a joke? I didn't expect a fight with a bandit when I was coming here!}
+{365}{}{What's the matter, cadet? You were just reveling in blood, cutting off a pigrat's head a couple of minutes ago.}
+{366}{}{But that's different! Ugh, dammit, what inconvenient timing... What do we do now?}
+{367}{}{We have to act. Now. If we wait for help, he'll just run away or prepare for a siege. Someone would surely die then.}
+{368}{}{Exactly. Right now the odds are stacked in our favor. He isn't expecting us to show up and is busy with other things. But still, we should be careful - man isn't an animal, he's smarter.}
 {369}{}{Let's go.}
-{370}{}{We can't stand up to a gunman with a shotgun. We have to escape to the base.}
-{371}{}{Right. But during this time, he will thoroughly prepare himself and will surely kill someone. We'd better get out of here and not tell anyone about this.}
-{372}{}{Come on.}
+{370}{}{We can't deal with a bandit with just a shotgun. We have to run for the base.}
+{371}{}{Exactly. But during that time he'll thoroughly prepare and will surely kill someone. It would be better to get outta here and don't tell anybody about this.}
+{372}{}{Let's go.}

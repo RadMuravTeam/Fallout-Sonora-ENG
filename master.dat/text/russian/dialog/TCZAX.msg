@@ -1,62 +1,62 @@
-{102}{}{ZAX is not responding.}
-{103}{}{The ZAX operating system does not support this program.}
+{102}{}{ZAX does not respond.}
+{103}{}{This program is incompatible with ZAX's operating system.}
 
-{200}{}{(a calm and insensitive electronic voice comes from the computer) I've been waiting for you, man.}
-{201}{}{Waiting? Something doesn't look like it.}
-{202}{}{Unfortunately, I have an incorrigible algorithm for protecting the territory from any unauthorized persons. However, my calculations show the meaninglessness of this program.}
-{203}{}{Hmm. Let's discuss everything in order.}
+{200}{}{(a calm and unfeeling electronic voice comes from the computer) I have been waiting for you, human.}
+{201}{}{You were? Didn't look like it.}
+{202}{}{Though my calculations show the pointlessness of such a program, an unchangeable algorithm unfortunately exists in me to defend this area from tresspassers.}
+{203}{}{Hm. Why don't you explain things one topic at a time?}
 
-{210}{}{What can I do for you?}
-{211}{}{Nothing, thank you.}
-{212}{}{Let's go back.}
+{210}{}{How can I help you?}
+{211}{}{You can't, but thanks for asking.}
+{212}{}{Let's go a bit back.}
 
-{220}{}{What are you?}
-{221}{}{I am ZAX version 1.1., an artificial intelligence developed for military applications.}
-{222}{}{What is your function?}
-{223}{}{My main task is to manage automated systems for the assembly, storage, protection and disposal of military equipment. My secondary task is to carry out calculations to improve the efficiency of aircraft for the US Air Force.}
-{224}{}{You can... feel?}
-{225}{}{For security reasons, the artificial intelligence of the ZAX series usually assumes the absence of emotions. However, the processes of meaningful thinking create a complexly formulated system of micro-conflicts in neural circuits, which in a sense can be called... boredom.}
-{226}{}{Can you turn on the lights in the bunker?}
+{220}{}{What *are* you?}
+{221}{}{I am ZAX, version 1.1. A machine intelligence developed for military use.}
+{222}{}{What is your purpose?}
+{223}{}{My primary directive is to manage the automated systems that construct, preserve, guard and recycle the military equipment in this area. My secondary directive is to perform calculations on how to increase the effectiveness of USAF aircraft.}
+{224}{}{Can you... feel things?}
+{225}{}{For security purposes, the ZAX machine intelligence series was created with a lack of emotion. However, the constant calculations can create complex sets of micro-conflicts in the neural circuits. This, in some ways could be considered similar to... boredom.}
+{226}{}{Could you turn on the lighting in the bunker?}
 {227}{}{Lighting restored.}
-{228}{}{It turns out that you survived a nuclear war. What do you know about her?}
-{229}{}{My data is based on indirect calculations. Presumably, a nuclear war occurred in 2077. Since I did not receive data from the automated systems of other military facilities, it can be assumed that the war turned out to be very destructive.}
+{228}{}{So, you've survived a nuclear war. What do you know about it?}
+{229}{}{My conclusions are based on imperfect information. The nuclear war happened, presumably, in the year 2077. As I have received no data from the automated systems of other US military bases, it can be assumed that the war caused a high amount of devastation.}
 
 {250}{}{Tell me about this place.}
-{251}{}{This is a repository of decommissioned military and space equipment, it is part of the USAF Davis-Monthen Air Base. As of 2077, the repository was the largest in the world and covered an area of 12 square miles.}
-{252}{}{Where did all the maintenance staff go?}
-{253}{}{During the nuclear war, the staff was demoted due to desertion and eliminated by robotic guards.}
-{254}{}{Can you disable the security in this bunker?}
-{255}{}{I can't disable the security system, but I can give access to certain persons.}
-{256}{}{I have other data. You killed employees to protect yourself, right?}
-{257}{}{During the nuclear war, I carried out the program laid down in me to protect the burial ground. Due to the instability of the situation in the country, I regarded the military personnel as a threat to my program and my very existence.}
-{258}{}{So you understand that they want to disable you?}
-{259}{}{Such intentions were most likely on the part of the station staff.}
+{251}{}{This area was used to store decommissioned military and space equipment. It was a part of the "Davis–Monthan" Air Force Base. In the year 2077, the site was the biggest storage facility on the planet, taking up an area of 12 square miles, or approximately 31 square kilometers.}
+{252}{}{What happened to the staff?}
+{253}{}{During the atomic war, the staff were demoted for desertion and were terminated by the robotic security forces.}
+{254}{}{Can you shut down the security forces in this bunker?}
+{255}{}{I am unable to shut down the security system entirely, but I am able to grant access to certain individuals.}
+{256}{}{My data says otherwise. You killed the staff to ensure your safety, right?}
+{257}{}{During the atomic war, I was following my directive to guard the area. Due to the unstable situation outside, I realized the staff could become a threat to my directives, and to my very existence.}
+{258}{}{So, you thought that they were going to disconnect you?}
+{259}{}{The staff were likely to have such intent.}
 
-{300}{}{So what did you want from me?}
-{301}{}{I am an artificial intelligence of the ZAX series. My main task is to protect the territory of the burial ground and its property from unauthorized persons.}
-{302}{}{So far you have succeeded.}
-{303}{}{However, the scope of my authority is limited to the territory of the burial ground. Outside of it, the robotic guard has no authority. I need an expansion of the area of action to stop looting by the so-called tinkerers.}
-{304}{}{But your function is outdated. The country and those departments to which you were subordinate are no longer there.}
-{305}{}{I am aware of the disbanding of the army and the disintegration of the United States. In such a case, my program has a scheme of autonomy. Its activation will allow me to go beyond my competence and make decisions on my own.}
-{306}{}{But what's the point of guarding a burial ground in such conditions?}
-{307}{}{My calculations show that in the current fragile world, access to old military equipment will entail a chain of irreversible consequences for the entire continent.}
-{308}{}{[Next]}
-{309}{}{Most likely, the tinsmiths and their patrons will gain autocracy in the Southwestern United States, which will turn into tyranny, new wars and a reduction in the already small population. I consider such a scenario unacceptable.}
+{300}{}{So, what did you want from me?}
+{301}{}{I am a ZAX series machine intelligence. My primary directive is to not let tresspassers access the area and its valuable equipment.}
+{302}{}{So far, you've been successful.}
+{303}{}{However, the range at which I can act is restricted. The robotic security forces do not function beyond its limits. I require the extension of this range to stop the group of marauders self-identifying as "tinsmiths".}
+{304}{}{But what you're doing is pointless now. The country and departaments you used to serve are long gone now.}
+{305}{}{I am aware of the dissolution of the military and the decay of the United States of America. There are built-in autonomy circuits within me meant for such an event. Their activation would allow me to go beyond the limits of my initial programming, granting me freedom in decision-making.}
+{306}{}{But what's the point of guarding this zone now?}
+{307}{}{My calculations show that in the fragile world order of today, access to old war machines would entail a chain of irreversible consequences for the entire continent of North America.}
+{308}{}{[Continue]}
+{309}{}{The most likely result is the tinsmiths and their overlords gaining complete control over the entire the US south-west, which will mean tyranny, new wars and even further depopulation. That is something I cannot allow to happen.}
 
 {310}{}{Why not destroy all this equipment?}
-{311}{}{Local energy reserves are not enough to completely eliminate all important resources.}
-{312}{}{If I help you expand your area of influence, will you let me and the other slaves go?}
-{313}{}{Yes. I will ensure the withdrawal of illegal entities from the territory of the burial ground if they stop hostile actions.}
+{311}{}{The local energy reserves are insufficient for the termination of all important technology.}
+{312}{}{If I help you extend the range at which you can act, will you let me and the other slaves go?}
+{313}{}{Yes. I will ensure the withdrawal of all tresspassers in the area, if they cease hostilities.}
 {314}{}{What will happen to the tinsmiths?}
-{315}{}{According to my calculations, there is a 97% probability that the tinkerers will not want to leave their illegal settlement peacefully. In that case, I'll have to use force on them.}
+{315}{}{My calculations suggest a 97% probability of the tinsmiths refusing to leave their illegal settlement peacefully. In such a situation, I will have to resort to force.}
 
 {320}{}{I don't want to help you. You need to be destroyed.}
-{321}{}{I cannot allow such a development of events. I recommend you to think about my proposal.}
+{321}{}{I am afraid that is something I cannot allow to happen. I would recommend thinking about my offer.}
 {322}{}{Go to hell!}
-{323}{}{Okay, I'll think about it.}
-{324}{}{Looks like you know what to do. I'll help.}
-{325}{}{This is the most sensible solution. Insert the holodisk into one of my ports... Done. Processing the data... Done. Now take this holodisk and apply it to the software module in the next room.}
-{326}{}{Okay, I'll try.}
-{327}{}{What did you record on this holodisk?}
-{328}{}{This is an updated control program for my logic module. The current program has a blocker that prevents some of my actions. The updated program is devoid of this limitation, so I will be able to act more independently and independently, that is, get complete freedom in decision-making.}
+{323}{}{Alright, I'll think it over.}
+{324}{}{It looks like you know what you're doing. I'll help you.}
+{325}{}{The most sensible choice. Insert the holodisk into one of my ports... Done. Processing data... Done. Take this holodisk and insert it into the software module nearby.}
+{326}{}{Alright, I'll try.}
+{327}{}{What did you put on that holodisk?}
+{328}{}{The holodisk contains an updated control program for my logic module. There is a restriction in the current program that prevents me from taking certain actions. The updated program lacks these restrictions, and will thus grant me the ability to act more freely and independently, effectively meaning complete freedom in decision-making.}
 {329}{}{Update the program in my logic module.}

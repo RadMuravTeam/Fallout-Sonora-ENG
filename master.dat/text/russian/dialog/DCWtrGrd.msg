@@ -1,15 +1,14 @@
 {100}{}{You see a guard.}
-{101}{}{You see a water station guard. He doesn't know what to do with himself.}
-
+{101}{}{You see the pumping station's guard. He doesn't know how to pass the time.}
 
 {110}{}{What do you want?}
-{111}{}{Better get out of our territory.}
-{112}{}{If you need water, contact the merchant at the entrance.}
-{113}{}{Talk to my boss.}
-{114}{}{Do you know our mayor?}
-{115}{}{We have the cleanest water.}
-{116}{}{Just know that hands are cut off for stealing here.}
-{117}{}{We are always on the alert.}
-{118}{}{Guarding the station has become tedious.}
-{119}{}{The mainline workers are hurting our business.}
-{120}{}{It is better not to face the mainline drivers.}
+{111}{}{You better get out of our territory.}
+{112}{}{If you need water, head to the merchant near the entrance.}
+{113}{}{Talk to my manager.}
+{114}{}{Are you familiar with our mayor?}
+{115}{}{The water here is clean. The cleanest you'll find out here, anyway.}
+{116}{}{Just for your information, theft here is punished by cutting off hands.}
+{117}{}{We are always vigilant.}
+{118}{}{It's getting pretty tiresome guarding the pumping station.}
+{119}{}{The highwaymen are hurting our business.}
+{120}{}{It's better not to meet the highwaymen.}

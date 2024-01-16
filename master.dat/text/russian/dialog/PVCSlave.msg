@@ -1,9 +1,9 @@
 {100}{}{You see a test subject.}
 
-{101}{}{In front of you is distraught. He silently stared up somewhere.}
-{102}{}{You see a woman with disheveled hair and reddened eyes. She turned to the wall.}
-{103}{}{This is a psychopath. He sits on the floor and sways, clutching his head.}
+{101}{}{You see a madman. He's silently looking at the ceiling.}
+{102}{}{You see a woman with ruffled hair and red eyes. She is turning away from you, toward the wall.}
+{103}{}{You see a psycho. He's sitting on the floor and is swinging whilst grasping his head.}
 
-{111}{}{Uh-uh...}
-{112}{}{I won't fall for your tricks! Get out, you damned sectarian!}
-{113}{}{My head! I hear so many thoughts... Your thoughts... they're terrible!}
+{111}{}{Uh-h-h-h-h...}
+{112}{}{Your tricks won't work on me! Get away, you damned cultist!}
+{113}{}{My head! I hear so many thoughts... so many... Your thoughts... are horrible!}

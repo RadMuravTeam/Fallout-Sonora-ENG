@@ -1,41 +1,41 @@
 {100}{}{You see Nick.}
-{101}{}{You see one of the inhabitants of Casa Nueva.}
-{102}{}{At night we sleep and do not interfere with each other. It is better not to break this rule.}
+{101}{}{You see one of Casa Nueva's commoners.}
+{102}{}{During the night, we sleep and don't bother others. It's best not to break this rule.}
 
 {200}{}{Hi, I'm Nick. How can I help you?}
-{201}{}{Nice to meet you, Nick. Can I ask you a few questions?}
-{202}{}{I'm not interested in your name. But I need to know something.}
-{203}{}{Nothing. I'll go.}
+{201}{}{Nice to meet you, Nick. Could I ask you a few questions?}
+{202}{}{I am not interested in knowing your name. I am, however, interested in knowing something else.}
+{203}{}{You can't. I should go.}
 
 {210}{}{How can I help you?}
 {211}{}{What do you need from me?}
-{212}{}{I'll go.}
-{213}{}{Can I ask you a few questions?}
+{212}{}{I should go.}
+{213}{}{Could I ask you a few questions?}
 
 {220}{}{Of course.}
 {221}{}{Thanks, Nick. Goodbye.}
-{222}{}{I'm sorry, uh, but you'd better talk to the mayor first. Otherwise, we will have problems.}
-{223}{}{Are you serious? Well, okay...}
+{222}{}{Sorry, uhh, but you should first speak to the mayor. Otherwise, we'll have problems.}
+{223}{}{You serious? Well, alright...}
 
 {230}{}{Who are you?}
-{231}{}{My name is Nick, I'm telling you.}
-{232}{}{What are you doing here, Nick?}
-{233}{}{What can a person with that name do in a place like this?}
-{234}{}{I'm working, you know. I used to work at a concrete plant, but the plant has recently been closed.}
-{235}{}{Your diligence is commendable. Few are willing to give themselves up to their work. But I wanted to ask something else.}
-{236}{}{And that's all you've achieved? Then do at least something valuable - answer me a couple of questions.}
-{237}{}{Surely you have plenty of free time. Will you answer a couple more questions?}
+{231}{}{My name's Nick, I'm telling you.}
+{232}{}{What is it you do here, Nick?}
+{233}{}{What could a man with a name like that be doing in a place like this?}
+{234}{}{Work, you know. I used to work in a concrete factory, but that place has been closed sometime ago.}
+{235}{}{Your industriousness is commendable. Few are ready to devote themselves to their work. But I wanted to ask you about something else.}
+{236}{}{Is this all you achieved? Then do something useful - answer a few of my questions.}
+{237}{}{I'm sure you have plenty of free time. Could you answer some more of my questions?}
 
-{240}{}{How did you end up in this city?}
-{241}{}{You know, it's not customary to ask about the past here. We are building a new life to replace the old one. But if that's what you're worried about, I came from Casa Grande. It's a small town on the way to Phoenix. Surely you've been through it?}
-{242}{}{Casa Grande, you say? Thanks for the information. What else can you tell me?}
-{243}{}{Too smart? Of course, I know about this place. Better tell me something else.}
-{244}{}{I see. What about the rest of the questions?}
-{245}{}{How free are you here? Can you leave if you want?}
-{246}{}{Why leave this paradise? There is only a desert around, and in large settlements, there is nothing but suffering. Yes, I'm losing some of my freedom here. But in exchange, I get Vault and food. First, we have to survive and build a new world, and only after that, we can talk about freedom. Such times.}
-{247}{}{Inspiring speech, Nick. Life is really better here than in the rest of Arizona. Will you tell me something else?}
-{248}{}{Only weak people don't go against the wind. I hope you have the strength to at least answer a couple of questions.}
-{249}{}{I understand you. Let me ask you one more question.}
-{250}{}{Casa Grande is where?}
-{251}{}{In the middle of the tenth highway between Phoenix and Two-Sun. I can show it on the map.}
-{252}{}{Thank you.}
+{240}{}{How'd you end up in this town?}
+{241}{}{You know, asking about the past is not too accepted here. We're building a new life, one to replace the old one. But if it's that important to you, I came here from Casa Grande. It's a small town located in the direction of Phoenix. I'm sure you already were there?}
+{242}{}{Casa Grande, you say? Thanks for the information. And what else can you tell me?}
+{243}{}{You too smart for your own good? Of course I know about that place. Now tell me something else.}
+{244}{}{Alright. How about some other questions?}
+{245}{}{How free are you here? Can you go away if you wanted to?}
+{246}{}{Why would one go away from this paradise? There's only desert around, and the big settlements are filled with nothing but suffering. Yes, I lose a part of my freedom. But in exchange I receive shelter and food. First, we must survive and build a new world, and only then start talking about freedom. Such are the times we live in.}
+{247}{}{An inspiring speech, Nick. People really do live better lives here than in the rest of Arizona. Can you tell me something else?}
+{248}{}{Only the weak don't go against the flow. I hope you are strong enough to at least answer a couple of my questions.}
+{249}{}{I understand how you feel. Could I ask you one more question?}
+{250}{}{Where is Casa Grande?}
+{251}{}{Between the 10th highway that goes from Phoenix to Two Sun. I can mark it on your map.}
+{252}{}{Thanks.}

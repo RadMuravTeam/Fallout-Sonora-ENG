@@ -1,33 +1,36 @@
-{100}{}{Before you is a savage.}
-{101}{}{You see one of the females of the Jackal tribe. Her little red eyes stared at you out of the twilight.}
+#---------------------------------------------------------
+#  Translated by Georg; revised by garwert.
+#---------------------------------------------------------
+{100}{}{You see a pack member.}
+{101}{}{You see a female member of the Jackal tribe. Her little red eyes are staring at you from the dark.}
 
-#Replicas floating
-{120}{}{There are only maggots for lunch again.}
-{121}{}{Shhh, don't bark in vain!}
-{122}{}{They say a stranger is wandering in the mountains.}
-{123}{}{The brood will die out if we don't find food.}
-{124}{}{It's time to sharpen the claws.}
-{125}{}{Strangers know no mercy.}
+#Floating lines
+{120}{}{More grubs for lunch.}
+{121}{}{Shush, don't woof for no reason!}
+{122}{}{They say an outsider is in the bur-rows.}
+{123}{}{The br-rood will die if we don't find more food.}
+{124}{}{Time to sharpen my claws.}
+{125}{}{Outsiders know no mercy.}
 {126}{}{}
 {127}{}{}
 {128}{}{}
 {129}{}{}
 
-#Response remarks
-{200}{}{Just give me a reason and I'll rip the meat off your bones!}
-{201}{}{I will feed my puppies with your meat.}
-{202}{}{My claws are hungry for your flesh.}
+#Replies
+{200}{}{Give me a reason, and I'll tear the flesh off your bones!}
+{201}{}{I'll feed your flesh to my pups.}
+{202}{}{My claws crave your flesh.}
 {203}{}{}
 {204}{}{}
 
-{205}{}{My children are hungry for your blood.}
-{206}{}{My children are hungry and want your meat.}
-{207}{}{Do you want to die, a stranger?}
-{208}{}{Mmm, you smell delicious.}
-{209}{}{*Licking his lips while examining your body*}
+{205}{}{My kids crave your blood.}
+{206}{}{My kids are hungry and want your flesh.}
+{207}{}{Wan-nna die, outs-sider?}
+{208}{}{M-m-m, you smell nice.}
+{209}{}{*Licks her lips examining your body*}
 
 {210}{}{Hit me!}
-{211}{}{I want to be your bitch!}
-{212}{}{Can you bite my neck.}
+{211}{}{I wanna be your bitch!}
+{212}{}{You can bite my neck.}
 {213}{}{}
 {214}{}{}

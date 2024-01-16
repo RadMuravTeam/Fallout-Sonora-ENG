@@ -1,13 +1,13 @@
-{110}{}{The machine gives out goods only for money. Unless, of course, you're going to hack it.}
-{111}{}{This merchant has already been hacked.}
+{110}{}{Only Pre-War cash will make the machine release it's contents. Unless you plan to break it open, of course.}
+{111}{}{This machine is already broken open.}
 {112}{}{}
-{113}{}{ The lock is too complicated.}
-{114}{}{The lockpicks are installed. Now it will be easier for you to crack this lock.}
-{115}{}{The lock already has the required number of lock picks.}
-{116}{}{An electronic decoder is not suitable for breaking mechanical locks.}
-{117}{}{You have opened the container with the goods. It's time to see what's left inside.}
-{118}{}{Now that the machine is open, it doesn't make sense.}
-{119}{}{You have received a pack of mentats.}
-{120}{}{The vending machine ran out of goods.}
+{113}{}{The lock is too advanced for you.}
+{114}{}{Lockpicks inserted. Picking this lock will be easier now.}
+{115}{}{The lock already has enough lockpicks in it.}
+{116}{}{An electronic decoder is useless when dealing with mechanical locks.}
+{117}{}{You have opened up the storage compartment. Time to see what's inside.}
+{118}{}{This is pointless now that the machine is broken open.}
+{119}{}{You receive mentats.}
+{120}{}{The machine is out of mentats.}
 {121}{}{}
-{122}{}{You cannot bypass the protective mechanism of the merchant.}
+{122}{}{You fail to bypass the security mechanisms of the machine.}

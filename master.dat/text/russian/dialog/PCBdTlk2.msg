@@ -1,26 +1,26 @@
 {100}{}{You see a slum dweller.}
-{101}{}{You see a woman with a confused look. She is clearly uncomfortable here.}
+{101}{}{You see a woman with a bewildered look. She's clearly uncomfortable here.}
 {102}{}{Some bastard killed him!}
-{103}{}{Eh? What? Well... Do you have food?}
-{104}{}{Thank you for the meal, señor.}
-{1104}{}{Thank you for the food, señora.}
+{103}{}{Ah? What? Well... Do you have food?}
+{104}{}{Thank you for the food, seignior.}
+{1104}{}{Thank you for the food, seigniora.}
 
-{200}{}{Hi. Can I help you with something?}
-{201}{}{Probably nothing.}
+{200}{}{Hello. Can I help you?}
+{201}{}{I suppose no.}
 
 {210}{}{Who are you?}
-{211}{}{My name is Susie. My husband and I moved from a small ranch in the desert. It was too hard to live there. And we decided to try our luck in the big city.}
-{212}{}{Bye, Susie.}
+{211}{}{My name is Susie. My husband and I relocated here from a small ranch in the desert. Life was too hard there. So we decided to try our luck here, in this big city.}
+{212}{}{Goodbye, Susie.}
 
-{220}{}{Why did you live in such a terrible building?}
-{221}{}{We don't have the caps to settle in more prosperous areas. And living on the street is too dangerous. At least Vernon and his gang are watching us here.}
-{222}{}{Who is Vernon?}
-{223}{}{The manager of the community house. His office is on the right down the corridor.}
-{224}{}{What kind of gang?}
-{225}{}{Some people of frightening appearance. We try to stay away from them. Their camp is in an abandoned building in a nearby neighborhood.}
-{226}{}{Clear. Bye.}
-{227}{}{Remind me, what's your name?}
-{228}{}{And who are you?}
+{220}{}{Why are you living in this horrid building?}
+{221}{}{We don't have the caps to move to more better-off regions. And it is far too dangerous to live on the streets. Here, at least we are watched by Vernon and his gang.}
+{222}{}{What Vernon?}
+{223}{}{The manager of this communal housing. His office is to the right, down this corridor.}
+{224}{}{What gang?}
+{225}{}{Some people with a threatening appearance. We try to keep away from them. Their camp is in the abandoned building in a nearby region.}
+{226}{}{Will keep that in mind. Bye.}
+{227}{}{Remind me, what is your name?}
+{228}{}{Who are you?}
 
-{230}{}{What can you tell us about this area?}
-{231}{}{This is the worst residential area in the city.}
+{230}{}{What can you tell me about this region?}
+{231}{}{It's the worst one in this whole city.}

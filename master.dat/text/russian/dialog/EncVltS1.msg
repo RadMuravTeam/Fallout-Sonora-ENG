@@ -1,1 +1,1 @@
-{102}{}{You press different buttons at random, but it doesn't give any result.}
+{102}{}{You push a bunch of different buttons at random, but nothing happens.}

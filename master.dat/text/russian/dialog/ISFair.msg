@@ -1,3 +1,3 @@
 {110}{}{The fire alarm is not responding.}
-{111}{}{Fire alarm is on.}
-{112}{}{You turn on the switch, and a fire alarm sounds throughout the supermarket.}
+{111}{}{The fire alarm is turned on.}
+{112}{}{You turn on the switch, and the sound of a fire alarm fills the supermarket.}

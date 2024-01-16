@@ -1,2 +1,2 @@
-{100}{}{You see a Test Object.}
-{101}{}{This is a test object for incredible experiments.}
+{100}{}{Перед вами Тестовый Объект.}
+{101}{}{Это тестовый объект для невероятных экспериментов.}

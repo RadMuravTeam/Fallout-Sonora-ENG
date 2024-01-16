@@ -1,134 +1,135 @@
 {100}{}{You see Graham.}
-{101}{}{You see one of the knights of the Brotherhood of Steel.}
-{102}{}{Stop. Show me the pass.}
+{101}{}{You see one of the Brotherhood knights.}
+{102}{}{Stop. Show me your clearance.}
 
-#The first dialog
-{200}{}{Hey, native. Even if you were given a pass, this does not mean that you can walk around the ship and distract people from their service.}
-{1200}{}{Hey, native. Even if you were given a pass, it does not mean that you can walk around the ship and distract people from their service.}
-{201}{}{I'm sorry, but I was terribly curious. This place is so unusual...}
-{202}{}{Impressive, right? A real ship. With a huge well-trained and armed team. Tell me, Native, have you come across anything more impressive? That's it.}
-{1202}{}{Impressive, right? A real ship. With a huge well-trained and armed team. Tell me, native, have you come across anything more impressive? That's it.}
-{203}{}{Distract from the service? You're just sitting in the dining room and doing nothing.}
-{204}{}{All this base works thanks to me and my service. But you, a savage from the desert, do not understand the greatness of old technologies. Tell me, Native, have you come across anything more impressive? That's it.}
-{1204}{}{All this base works thanks to me and my service. But you, a savage from the desert, do not understand the greatness of old technologies. Tell me, native, have you come across anything more impressive? That's it.}
-{205}{}{By the way, who are you?}
-{206}{}{I'm Knight Graham. I'm in charge of onboard equipment. I'm on a short break right now, so ask me questions if you have any.}
-{207}{}{Nice to meet you, Knight Graham.}
+#First dialogue
+{200}{}{Hey, outsider. Even if they gave you clearance, that doesn't mean you can waltz around the ship and distract people from work.}
+{1200}{}{Hey, outsider. Even if they gave you clearance, that doesn't mean you can waltz around the ship and distract people from work.}
+{201}{}{I'm sorry, I was just terribly curious. This place is so unusual...}
+{202}{}{Amazing, isn't it? A real warship. With a big, well-trained and well-armed team. Tell me, outsider, have you ever seen something more spectacular? That's right. You haven't.}
+{1202}{}{Amazing, isn't it? A real warship. With a big, well-trained and well-armed team. Tell me, outsider, have you ever seen something more spectacular? That's right. You haven't.}
+{203}{}{Work? You're not doing any work, you're just sitting here doing absolutely nothing.}
+{204}{}{This entire base only functions thanks to me and my efforts. But of course, a desert primitive like you wouldn't understand. You simply cannot comprehend the greatness of Old World technology. Tell me, outsider, have you ever seen something more spectacular? That's right. You haven't.}
+{1204}{}{This entire base only functions thanks to me and my efforts. But of course, a desert primitive like you wouldn't understand. You simply cannot comprehend the greatness of Old World technology. Tell me, outsider, have you ever seen something more spectacular? That's right. You haven't.}
+{205}{}{Who are you, by the way?}
+{206}{}{I'm knight Graham. I operate the equipment here. I'm on a small break right now, so ask what questions you have, if you have any.}
+{207}{}{Nice to meet you, Graham.}
 {208}{}{Okay.}
-{209}{}{Now I will know who is responsible for all this mess on the ship.}
-{210}{}{Ah, this is our new hero. A damn upstart from the desert, who surpassed all the veterans put together. Not bad. But don't think that you will be accepted into the Brotherhood so easily.}
-{211}{}{I understand your displeasure. And I will do everything to make the brotherhood accept me.}
-{212}{}{Then remember. Many swore in blood that they would not betray our brotherhood. Those who tried paid for it with their lives in the most horrific way.}
-{213}{}{I don't care about your opinion. And the opinion of others. If someone doesn't like my presence, let them go to hell.}
-{214}{}{Hmm. There's enough iron in your blood. Let's see how much it will last.}
+{209}{}{Now I know who's responsible for this junk lying around.}
+{210}{}{Ah, here goes our new hero. The damn desert upstart who's better than all the veterans combined. Impressive. But don't you think you'll be accepted into the Brotherhood that simply.}
+{211}{}{I understand your suspicion. I'll do everything in my power to make the Brotherhood accept me.}
+{212}{}{Then mark these words well: Many swore on blood they wouldn't betray our Brotherhood. Those who tried to - have paid for it. In a way more terrible than you can imagine.}
+{213}{}{I don't care what you think. Or what anyone else thinks, for that matter. Someone doesn't like me - they can go to hell.}
+{214}{}{Hm. You've got enough iron in your blood. Let's see how long it will last.}
 
-#Repeat dialog
-{220}{}{Hey, native. You don't expect to fill your belly here, do you? Or are you looking for a source of veteran wisdom? Tell me straight out, what do you need?}
-{1220}{}{Hey, native. You don't expect to fill your belly here, do you? Or are you looking for a source of veteran wisdom? Tell me straight out, what do you need?}
-{221}{}{Hey, soldier. Do you want to fill your worthless time with food or chat with a veteran about the service?}
-{222}{}{Neither one nor the other. I'm going on the road.}
-{223}{}{Okay. But if you need advice from a veteran, then ask.}
-{224}{}{Goodbye, Knight Graham.}
+#Repeated dialogue
+{220}{}{Hey, outsider. You're not counting on eating here, are you? Or are you seeking a source of veteran wisdom? Tell me straight, what do you want?}
+{1220}{}{Hey, outsider. You're not counting on eating here, are you? Or are you seeking a source of veteran wisdom? Tell me straight, what do you want?}
+{221}{}{Hey, soldier. Want to fill your miserable time with food, or chat with a veteran?}
+{222}{}{Neither. I'm getting ready to leave.}
+{223}{}{Okay. But if you ever want to hear a tip from a veteran, don't be afraid to ask.}
+{224}{}{Goodbye, Graham.}
 
 {230}{}{I need food.}
-{231}{}{Cook's over there in the kitchen. Be gentle with him if you want more.}
-{232}{}{I really want to chat.}
-{233}{}{Thank you. Goodbye.}
-{234}{}{I really want to chat.}
-{235}{}{Ah, I don't even know where to start. So much has happened.}
-{236}{}{Thanks for the story. Goodbye, Knight Graham.}
+{231}{}{Cook's over there, in the kitchen. Be gentle with him if you want extra.}
+{232}{}{I actually wanted to talk to you.}
+{233}{}{Thanks. Goodbye.}
+{234}{}{I actually wanted to talk to you.}
+{235}{}{Oh, I don't even know where to begin. So many things have happened lately.}
+{236}{}{Thanks for telling me your story. Goodbye, Graham.}
 
 #Gambling
-{250}{}{Let's play cards?}
-{251}{}{Playing for interest is not interesting. What will you bet? bottlecaps? Okay, and I'll put 5 mm cartridges. The bet is 10 rounds for 25 caps.}
+{250}{}{Wanna play cards?}
+{251}{}{Playing just for fun doesn't interest me. What are you betting on? Caps? I'm going to bet on 5mm bullets. 10 bullets per 25 caps.}
 {252}{}{Not today.}
-{253}{}{OK. I accept the challenge. Let's play.}
-{254}{}{No, I want IRP.}
-{255}{}{Isn't it too fat for a stranger from the desert? Okay, but your bid will be higher - 50 caps.}
+{253}{}{Very well. I accept the challenge. Let's play.}
+{254}{}{I want the ration pack.}
+{255}{}{Isn't that too fat for a desert outsider? Fine. But for 50 caps, not 25.}
 {256}{}{}
-{257}{}{For me to play games instead of the service? Don't forget where you are.}
-{258}{}{I'm sorry, Knight Graham.}
-{259}{}{It was very rude.}
-{260}{}{So, let's get started... Distribution... You... me... Your move.}
-{261}{}{We continue...}
+{257}{}{You're asking me to go gambling while on duty? Don't forget where you are.}
+{258}{}{I'm sorry, Graham.}
+{259}{}{It was pretty inappropriate, yeah.}
+{260}{}{So, let's begin... Dealing cards... Yours... Mine... Your turn.}
+{261}{}{Continue...}
 {262}{}{I give up.}
-{263}{}{What? Did I lose to a wasteland brat? Damn, today is definitely not my day...}
-{1263}{}{What? Did I lose to a wasteland girl? Damn, today is definitely not my day...}
-{264}{}{Your card is broken, Knight Graham.}
-{265}{}{That should knock you down a little. Bye, loser.}
-{266}{}{Even in gambling, the Brotherhood always has an advantage. Which was required to be proved.}
-{267}{}{Next time I'll get my revenge, Knight Graham.}
-{268}{}{You may have won the game, but you're going to lose the war anyway.}
+{263}{}{What the hell? I lost to some desert punk? Damn, today is NOT my lucky day...}
+{1263}{}{What the hell? I lost to some girl from the desert? Damn, today is NOT my lucky day...}
+{264}{}{Game over, Graham.}
+{265}{}{That should bring you down a notch. Bye, loser.}
+{266}{}{Even in gambling, the Brotherhood always has the advantage. As I demonstrated.}
+{267}{}{I'll win it back next time, Graham.}
+{268}{}{You may have won this game, but you're still going to lose the war.}
 
-{270}{}{Can we play cards again?}
-{271}{}{If I keep losing my stocks, I'll be left in nothing but dirty leggings. Being a knight of the Brotherhood, I say "stop" to the game.}
-{272}{}{Okay, whatever you say...}
+{270}{}{Maybe we could play cards again?}
+{271}{}{If I lose more of my supplies, I'll be left with only my dirty pants. As a Brotherhood knight, I declare the game over.}
+{272}{}{Fine, whatever you say...}
 
-#Questions
-{280}{}{And whose kid is this running around the upper deck?}
-{281}{}{Ah, it's the Cabin Boy. The son of one of our paladins. Do not pay attention. We are not particularly happy about the powder monkeys.}
-{282}{}{Clearly. Let's forget about the cabin boy for now.}
-{283}{}{What's wrong with a child on a ship?}
-{284}{}{First of all, it is a military base. More precisely, an outpost. There is no place for worldly concerns here.}
-{285}{}{The father is a paladin. And who is the mother?}
-{286}{}{Look, it's none of your business. Is that clear? Why do you care so much about someone else's past? Worry about your present.}
-{287}{}{And what is a "monkey"?}
-{288}{}{Em... I don't know. Just an old expression.}
+#Inquiries
+{280}{}{What's that kid doing running around on the upper deck?}
+{281}{}{Ah, that's Deckie. A son of one of our paladins. Don't mind him. We're not too happy with that monkey either.}
+{282}{}{Fine. Let's talk about something else.}
+{283}{}{What's bad about having a kid aboard?}
+{284}{}{This is, above all, a military base. Well, an outpost. This is no place for civilian concerns.}
+{285}{}{The father is a paladin. Who's the mother?}
+{286}{}{Listen, this is none of your business, got it? Why are you so hung up on somebody else's past? Worry more about the present.}
+{287}{}{What's a "monkey"?}
+{288}{}{Umm... I dunno. Just an old phrase.}
 
 {290}{}{Tell me about your Brotherhood.}
-{291}{}{Heh, what does ignorance like you need to know about Brotherhood? Only that there is no greater power in the Wastelands than we are.}
-{292}{}{I believe it willingly. That's the end of the conversation about the Brotherhood.}
-{293}{}{It sounds loud, but I don't hear much about you in Arizona.}
-{294}{}{But we are well known in California. They know and are afraid because it was we who destroyed the Creator and his entire army. What, you don't know that? Good God, where is this country going...}
-{295}{}{I won't argue. But what have you done to be feared?}
-{296}{}{Here in Arizona, we have a lot to do, but the commoners don't know much about us yet. But in California, every mutt on the Wastelands knows that it was we who destroyed the Creator's army.}
-{297}{}{That's why I'm here, next to a powerful Brotherhood. But what brought your order to such glory?}
-{298}{}{We have won many glorious victories recently. Do you know anything about the Creator? Even rumors of this war have reached Arizona.}
-{299}{}{What else is the Creator?}
+{291}{}{Heh, what does a person of your sort need to know about the Brotherhood? Only that there's no force in the Wastelands greater than us.}
+{292}{}{I believe you alright. And on that note, let's talk about something else.}
+{293}{}{You talk a big game. But I don't hear much about you in Arizona.}
+{294}{}{We're very well-known in California. Known and feared, for it was us who destroyed the Master and his whole army. What, you don't know? Good lord, where is this country heading...}
+{295}{}{I won't argue with that. But what did you do to become feared?}
+{296}{}{We've a lot to do, here in Arizona, but the common folk don't know much about us. In California, every Wasteland mutt knows it was us who destroyed the Master's army.}
+{297}{}{That's why I'm here, by the magnificent Brotherhood. But what exactly brought your order to such fame?}
+{298}{}{We've won many glorious victories as of late. Heard anything about a fellow called the Master? Rumors of that war have traveled even as far as Arizona.}
+{299}{}{What Master?}
 {300}{}{Please tell me more.}
-{301}{}{Once you've started, then tell me more.}
-{302}{}{The creator is a damn psychopath whose mutated brains gave rise to the idea of the universal transformation of people into mutants. He thought it would save humanity from extinction.}
-{303}{}{Go on.}
-{304}{}{That's not a bad idea.}
-{305}{}{He managed to create a cult around himself and gather an army of super mutants. No one in the Wastelands could match such strength. No one but us.}
-{306}{}{And what did you do?}
-{307}{}{And you didn't like it, of course?}
-{308}{}{It was a year of glorious battles and great victories. We defeated the Creator's army and destroyed him with a nuclear explosion. There are still remnants of his henchmen in some places, but they no longer pose the former threat.}
-{309}{}{Did you also participate in this war?}
-{310}{}{Cool. I would like to see these battles.}
-{311}{}{Oh, of course. Everyone here has their own combat history. For example, I was on the defensive in the battle of the Dayglow. It was a glorious massacre.}
-{312}{}{Surely you've embellished everything.}
-{313}{}{The brotherhood never lies. Talk to any knight or paladin - there are many who participated in those battles. I myself held the defense in the battle at the Dayglow.}
-{314}{}{Will you tell me how it was?}
-{315}{}{It seems there's no stopping you.}
-{316}{}{After the defeat, the super mutants fled in all directions from their base. The largest groups captured small settlements on their way. Junktown, Necropolis, Dayglow, and even the Hub was attacked. We tried to respond to requests for help.}
-{317}{}{It's very noble of you to help ordinary residents.}
-{318}{}{Yeah. As if you were doing it out of the goodness of your heart.}
-{319}{}{Intelligence reported that the super Mutants had set up a major outpost in the Glare of the Day. Our squad was supposed to destroy them, but the task was not easy. The enemy organized a fort, and around the fort - a complex system of anti-personnel traps and trenches. In addition, although the locals wanted to get rid of these monsters, they were not happy with us either.}
+{301}{}{You started this, so go on.}
+{302}{}{The Master was a damn psychopath. His mutated brains got the idea to turn all people into mutants. He thought he was saving humankind from extinction that way.}
+{303}{}{Continue.}
+{304}{}{Not a bad idea.}
+{305}{}{He managed to build a cult around himself and gather a whole army of supermutants. Nobody in the Wastes could contend with such a force. Except us.}
+{306}{}{So what did you do?}
+{307}{}{And you, of course, didn't like that?}
+{308}{}{It was a year of glorious battles and great victories. We smashed the Master's army and destroyed him with a nuclear blast. From time to time, some of his remaining henchmen are discovered, but they're no longer the threat they once posed.}
+{309}{}{Did you participate in that war, too?}
+{310}{}{That's cool. I wish I could've seen it.}
+{311}{}{Oh yes. Everybody here has a war story. I, for instance, held the line in the battle of Dayglow. A glorious battle.}
+{312}{}{You're embellishing it.}
+{313}{}{The Brotherhood never lies. Talk to any knight or paladin - many here participated in those battles. I myself held the line in the battle of Dayglow.}
+{314}{}{Can you tell me what it was like?}
+{315}{}{I don't think I can shut you up at this point.}
+{316}{}{After we decimated them, the supermutants ran away in all directions away from their base. The largest groups captured small settlements along their way. Junktown, Necropolis, Dayglow, even the Hub itself, received attacks. We tried to respond to the calls for help.}
+{317}{}{It was very honorable of you to help them.}
+{318}{}{Uh-uh. Like you did it out of the goodness of your hearts.}
+{319}{}{Intelligence said the supermutants established a big outpost in Dayglow. Our unit was supposed to destroy them, but it proved to be a difficult task. The enemy built a fort, and around the fort, put up a complicated system of anti-infantry traps and trenches. And, though they wanted to get rid of those monsters, the locals weren't happy with us either.}
 {320}{}{Go on.}
-{321}{}{Of course. Who would like to be between two lines of fire?}
-{322}{}{The siege lasted two weeks. Due to the distance from the main base, we could not count on supplies and got out as best we could - smoked out the enemy with a smoke pipe, flooded bunkers with toxic barrels, and used local criminals to create blockages. The super mutants were cut off from the outside world and could not receive provisions.}
-{323}{}{Did you starve them to death?}
-{324}{}{And do you think this is a glorious battle?}
-{325}{}{At the end of the second week, the super mutants had no choice. Some of them surrendered, while others tried to break out of the siege. The last fight was the fiercest and hardest. Our commander showed unprecedented skill in tactics. If we had undertaken the siege of the fort at the very beginning, I would not be telling this story now.}
-{326}{}{Wow, you really are stronger than anyone you can find nowadays.}
-{327}{}{Yes, you seem to be able to fight.}
-{328}{}{Sitting under siege is not particularly impressive.}
-{329}{}{Don't worry, son. We'll turn Arizona into a civilized place, too. Just give me time.}
-{1329}{}{Don't worry, lady. We'll turn Arizona into a civilized place, too. Just give me time.}
-{330}{}{Oh, great. Great. Uh, bye.}
-{331}{}{I do not doubt at all after all I've heard. And thanks a lot for the story.}
-{332}{}{I wouldn't want something like this to happen in Arizona. Good luck, man with a gun.}
-{340}{}{You know what happened to Paladin Bell, right?}
-{341}{}{What's it to you? You don't even know him, and we fought shoulder to shoulder. Leave him, it's none of your business.}
-{1341}{}{What's it to you? You don't even know him, and we fought shoulder to shoulder. Leave him, it's none of your business.}
-{342}{}{I'm trying to cure him. And for that I need details.}
-{343}{}{It was during your battles that his tower was torn off, right?}
-{344}{}{What are you... Ah, well. Listen, we were on different patrols with him. And the tower was torn off for him already here. Therefore, he could get his injury anywhere.}
-{345}{}{He was talking about some kind of ash desert in hell. What do you think it means?}
-{346}{}{An ash-colored desert? I don't even know... Although there is one place near Casa Nueva. Cement was mined there, so everything is gray.}
-{347}{}{Did you have a task there?}
-{348}{}{I didn't tell you that, but at some point in my career, workers began to disappear. One by one. We were sent to deal with this problem.}
+{321}{}{Well, that's fair. Who would like being in the middle of two lines of fire?}
+{322}{}{The seige lasted for two weeks. Because we were far away from our main base, we couldn't count on supplies improvised as best we could - smoked the enemy out, flooded their bunkers with toxic waste, used local criminals to make barriers. The supermutants were cut off from the outside world and couldn't receive supplies.}
+{323}{}{You starved them to death?}
+{324}{}{And you think that's a glorious battle?}
+{325}{}{By the end of week two, the supermutants didn't have a choice. Part of them surrendered, the rest tried to break out. That last fight was the most ferocious and hard-fought. Our commander showed unprecedented tactical mastery. If we had tried beseiging their fort at the start, I might not have been here, telling you this story.}
+{326}{}{Wow. You really are stronger than anybody else around in our time.}
+{327}{}{Yeah. You can fight, alright.}
+{328}{}{Seiges aren't particularly spectacular.}
+{329}{}{Don't worry, son. We'll turn Arizona into a civilized place, too. Just give us some time.}
+{1329}{}{Don't worry, lady. We'll turn Arizona into a civilized place, too. Just give us some time.}
+{330}{}{Oh, that's great. That's excellent. Uhh, bye.}
+{331}{}{After all you've told me, I don't doubt you anymore. And thanks a lot for the story.}
+{332}{}{I wouldn't want anything like that to happen here in Arizona. Thank you, soldier.}
+
+{340}{}{Do you know what happened with paladin Bell?}
+{341}{}{Why do you care? You don't even know him, and I fought with him shoulder-to-shoulder. Leave him alone. It's none of your business.}
+{1341}{}{Why do you care? You don't even know him, and I fought with him shoulder-to-shoulder. Leave him alone. It's none of your business.}
+{342}{}{I'm trying to help him. I need details.}
+{343}{}{Was it during those battles that he lost his mind?}
+{344}{}{What are you... Uh, fine. Listen, we were in different patrols. He lost his mind here. Could've received his trauma anywhere.}
+{345}{}{He talked about some kind of ash, in hell. What do you think it could mean?}
+{346}{}{An ash-colored desert? I don't even know... Though there is one place, near Casa Nueva. They mined cement there, so the whole area is gray.}
+{347}{}{Were you ever sent there?}
+{348}{}{If anybody asks, I did not tell you this, but at some point, workers started to dissapear in the quarry. One after another. We were sent to deal with this problem.}
 {349}{}{Go on.}
-{350}{}{We found the gutted remains of people as if someone had torn them apart. But neither the maniac nor the beast was found. Bell was with us, too. That was the first time we felt that something was wrong with him.}
-{351}{}{So, the quarry in Casa Nueva. That's something. Thanks and bye.}
+{350}{}{We found gutted human remains. Like something mauled them. But we didn't find any maniac or beast. Bell was with us, too. It was the first time we felt something was wrong with him.}
+{351}{}{So, a quarry in Casa Nueva. That's something. Thank you and goodbye.}

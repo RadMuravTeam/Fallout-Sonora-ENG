@@ -1,12 +1,12 @@
-{100}{}{You see a sentry.}
-{101}{}{You see a private in a typical army armor with a recognizable symbol. He makes sure that outsiders do not enter the garrison.}
-{102}{}{Un intruso!}
+{100}{}{You see a patrolman.}
+{101}{}{You see a private in typical military armor with a recognizable symbol. He's making sure that no outsiders enter the base.}
+{102}{}{¡El intruso!}
 
 {110}{}{*Yawn*}
 {111}{}{Estoy aburrido...}
-{112}{}{Viene alguien?}
-{113}{}{Donde esta el cambio de guardia?}
-{114}{}{Hoy es un dia caluroso.}
+{112}{}{¿Alguien viene?}
+{113}{}{¿Dƒnde estž el cambio de guardia?}
+{114}{}{Hoy es un dša caluroso.}
 {115}{}{Tengo que informar sobre esto.}
 {116}{}{Malditos insectos.}
 {117}{}{Necesito zapatos nuevo.}
@@ -15,65 +15,47 @@
 
 {120}{}{*Yawn*}
 {121}{}{Boring...}
-{122}{}{Is someone coming?}
-{123}{}{Where is the shift guard?}
-{124}{}{It's a hot day today.}
-{125}{}{This will have to be reported.}
+{122}{}{Someone near?}
+{123}{}{Where's the next shift?}
+{124}{}{Hot day today.}
+{125}{}{This will need to be reported.}
 {126}{}{Damn insects...}
 {127}{}{I need new shoes.}
 {128}{}{}
 {129}{}{}
 
-{200}{}{Shalto ahi! No te muevas.}
+{200}{}{¡Alto ahš! No te muevas.}
 {201}{}{What?}
-{202}{}{Eres un gringo, No? Hablas Espanol?}
-{203}{}{Mine speak the language of the fists. Look and be surprised, native...}
-{204}{}{Unfortunately, I don't speak Spanish.}
-{205}{}{American - road - stop. Do you understand? Go back. Quickly.}
-{206}{}{Are you sending me away? But why?}
-{207}{}{How dare you tell me where to go? Get out of the way yourself!}
-{208}{}{Civilian - entry is prohibited. You go - or I shoot. Go away! Go!}
-{209}{}{You have a serious attitude. OK, I'll leave.}
+{202}{}{Eres un gringo, ¿No? ¿Hablas espaœol?}
+{203}{}{I speak language of the kulaks. Gaze in awe, native...}
+{204}{}{Unfortunately, I don't speak spanish.}
+{205}{}{American - road - end. Understand? Go back. Fast.}
+{206}{}{You want me to leave? Why?}
+{207}{}{How dare you tell me to leave? Go back yourself!}
+{208}{}{Civilian - entry forbidden. You leave - or I kill you. Go! Go!}
+{209}{}{Serious attitude. Okay. I'm leaving.}
 {210}{}{Fuck you!}
 {211}{}{Hablo un poco de espaœol.}
 {212}{}{Are you threatening me?}
 
-{220}{}{The intruder! Alarm!}
-{221}{}{Shel intruso! Shalerta!}
-{222}{}{You shouldn't have done that...}
-{223}{}{Hey, you just misunderstood me...}
+{220}{}{Intruder! Alert!}
+{221}{}{¡El intruso! ¡Alerta!}
+{222}{}{Shouldn't have done that...}
+{223}{}{Hey, this is all a big misunderstanding...}
 
-{230}{}{Me alegro de escucharlo. Hm. De donde vienes?}
-{231}{}{[switching to Spanish] I'm from a small village far to the north. I had to travel a long way in search of my relatives.}
-{232}{}{Have you crossed the Sonoran desert? It's hard to believe. But in any case, turn around and go back.}
-{1232}{}{Have you crossed the Sonoran desert? It's hard to believe. But in any case, turn around and go back.}
-{233}{}{Why are you sending me away?}
-{234}{}{In front of you is the fort of the United Mexican Army. Civilians are not allowed here. I have orders to shoot anyone who violates the garrison border without permission.}
-{235}{}{I understand. OK, I'll leave.}
-{236}{}{Can I join your ranks?}
-{237}{}{For a gringo from the north to become one of us? This is ridiculous. Just get out of here. Believe me, you have nothing to do here.}
-{238}{}{Oh...}
-{239}{}{The hell with two. I'm not going anywhere.}
+{230}{}{Me alegro de escucharlo. Hm. ¿De dƒnde vienes?}
+{231}{}{[in spanish] I'm from a small village to the far north. I have traveled a long way in search of my relatives.}
+{232}{}{You crossed the Sonora desert? I find that hard to believe. In any case, turn around and head back.}
+{1232}{}{You crossed the Sonora desert? I find that hard to believe. In any case, turn around and head back.}
+{233}{}{Why?}
+{234}{}{This fort belongs to the United Mexican Army. Civilian entry is forbidden. My orders are to kill anyone who tries to enter without permission.}
+{235}{}{I understand. Alright, I'm leaving.}
+{236}{}{Could I join you?}
+{237}{}{A northern gringo becoming one of us? No. Just get out.}
+{238}{}{Ouch...}
+{239}{}{To hell with that. I'm not leaving.}
 
-{240}{}{Don't you understand the first time? If you go into the garrison, you'll get a bullet in the forehead. Got it?}
-{241}{}{OK, OK, I'll leave...}
-{242}{}{If you do that again, I can't vouch for myself.}
-{243}{}{You're not otra vez? (raises his weapon threateningly) Shvete! Savoy a dispararte!}
-{244}{}{You know, one of you took away a radio transmitter from the Dominguez family.}
-{245}{}{Seriously? I didn't know that. It's a pity they were treated like that.}
-{246}{}{Can you return the radio?}
-{247}{}{To be honest, I don't believe you care about the fate of these farmers. You're probably being tricky.}
-{248}{}{I understand them well. I have also experienced injustice from people with guns.}
-{249}{}{I'm just trying to help.}
-{250}{}{Forget it, it's really not worth it.}
-{251}{}{[Threatening with a weapon] Radio or life?}
-{252}{}{Gringos cannot be trusted.}
-{253}{}{Beautiful speech. I almost shed tears. Okay, I'll talk to the commander...}
-{254}{}{I'll wait...}
-{255}{}{We found a radio in the barracks. Give it to Dominguez's family. We don't want to get a bad name about us.}
-{256}{}{Smart guys. And it was also possible to behave like this from the very beginning.}
-{257}{}{Gracias.}
-{258}{}{And if I give you this bottle of invigorating?}
-{259}{}{Okay, I'll talk to the commander...}
-{260}{}{Return it.}
-{261}{}{Please return it. It's unfair.}
+{240}{}{Don't understand? Don't leave - you get a bullet in your head. Got it?}
+{241}{}{Okay, okay, I'm leaving...}
+{242}{}{You do that again - I can't vouch for myself.}
+{243}{}{¿Eres TŸ otra vez? (raises weapon threateningly) ¡Vete! ¡Voy a dispararte!}

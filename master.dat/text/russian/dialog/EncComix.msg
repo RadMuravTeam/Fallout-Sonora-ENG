@@ -1,1 +1,1 @@
-{100}{}{This issue turned out to be surprisingly very informative.}
+{100}{}{This issue was surprisingly informative.}

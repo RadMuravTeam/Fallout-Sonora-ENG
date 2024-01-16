@@ -1,16 +1,16 @@
-{110}{}{This bomb can be very dangerous, but it lacks some components.}
-{111}{}{This bomb is ready to explode.}
+{110}{}{This bomb can be very dangerous, but lacks only a few components.}
+{111}{}{Bomb ready to explode.}
 {112}{}{You have successfully installed the fuses.}
-{113}{}{The bomb is ready to explode. Use the trap skill to activate it.}
-{114}{}{Damn, this is the biggest bomb you can find.}
-{115}{}{There's no need for that. The story has already gone according to the right scenario.}
+{113}{}{The bomb is ready to explode. Use the traps skill to activate it.}
+{114}{}{Damn, this has got to be the biggest bomb imaginable.}
+{115}{}{There is no need. History has already been corrected.}
 
-{120}{}{This is a low-power nuclear warhead. Although it is not finished, it can still be blown up.}
-{121}{}{This bomb is devoid of fuses, so it is safe at the moment.}
-{122}{}{You have successfully activated the nuclear bomb timer.}
-{123}{}{You have successfully deactivated the timer of a nuclear bomb.}
-{124}{}{There is no point in repairing the warhead.}
-{125}{}{It is impossible to deactivate the timer.}
+{120}{}{You see a low-yield nuclear warhead. Though not finished, it can still be blown up.}
+{121}{}{The bomb lacks fuses, which at the moment means it's safe.}
+{122}{}{You've successfully activated the timer on the atomic bomb.}
+{123}{}{You've successfully deactivated the timer on the atomic bomb.}
+{124}{}{Repairing a warhead is pointless.}
+{125}{}{Deactivating the timer is impossible.}
 
-{505}{}{Until the explosion left }
-{506}{}{ seconds.}
+{505}{}{}
+{506}{}{ seconds to detonation.}

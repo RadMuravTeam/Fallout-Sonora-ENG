@@ -1,8 +1,8 @@
-{100}{}{You see a child of Santa Ana.}
+{100}{}{You see one of Santa Ana's children.}
 {101}{}{You see a local child.}
 
-{110}{}{Â¡Hola!}
-{111}{}{Â¡Hola, heroe!}
-{112}{}{Â¡Hola, amigo!}
-{1112}{}{Â¡Hola, amiga!}
-{113}{}{Â¡Vete, traidor!}
+{110}{}{¡Hola!}
+{111}{}{¡Hola, hroe!}
+{112}{}{¡Hola, amigo!}
+{1112}{}{¡Hola, amiga!}
+{113}{}{¡Vete, traidor!}

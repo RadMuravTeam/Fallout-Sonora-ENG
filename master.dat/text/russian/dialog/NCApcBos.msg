@@ -1,224 +1,224 @@
 {100}{}{You see Nestor.}
-{101}{}{You see a tall blond man in a clean cassock. He delicately adjusts his glasses on his nose.}
-{102}{}{Please put the gun away. You won't need it here.}
-{103}{}{Please leave your armor somewhere outside the clinic. We have cleanliness and order here.}
+{101}{}{You see a tall, blonde man in clean robes. He is gently adjusting his glasses.}
+{102}{}{Please put away your weapon. You will not need it here.}
+{103}{}{Please put your armor away, somewhere outside the clinic. This environment must be kept clean and orderly.}
 
-#First meeting
-{200}{}{Welcome, traveler. Hmm. I suppose you have a lot of questions and requests. Let me explain right away: this is a clinic, and people are treated here. And I'm her manager, Nestor. Are you sick? Or do you want to know something?}
-{1200}{}{Welcome, traveler. Hmm. I suppose you have a lot of questions and requests. Let me explain right away: this is a clinic, and people are treated here. And I'm her manager, Nestor. Are you sick? Or do you want to know something?}
-{201}{}{First of all, I have questions.}
+#First encounter
+{200}{}{Welcome, wanderer. Hm-m. I suppose that you have many questions and requests. Let me say this up front: this is a clinic, people are healed here. And I'm it's manager, Nestor. Are you hurt? Or do you want to learn something?}
+{1200}{}{Welcome, traveler. Hm-m. I suppose that you have many questions and requests. Let me say this up front: this is a clinic, people are healed here. And I'm it's manager, Nestor. Are you hurt? Or do you want to learn something?}
+{201}{}{Questions first.}
 
-#Repeat meeting
-{210}{}{Okay. I'm listening.}
-{211}{}{We talked and that's enough. I have things to do.}
-{212}{}{Good to see you.}
+#Repeated encounters
+{210}{}{Alright. I'm listening.}
+{211}{}{That's enough talk for now. I've got stuff to do.}
+{212}{}{Happy to see you.}
 {213}{}{Why did you come back?}
 {1213}{}{Why did you come back?}
 
 #Medicine
-{220}{}{I need treatment.}
-{221}{}{Strange. I don't see how I can help you. Many would envy your health.}
-{222}{}{What a joy, Doctor! I feel better somehow.}
-{223}{}{Oh, I'm sorry... I can cure you. But the drugs are too expensive. We will spend on your treatment }
-{224}{}{ caps. What can you offer for compensation?}
-{225}{}{bottlecaps. Exactly as much as you need.}
+{220}{}{I need to be healed.}
+{221}{}{Strange. I don't see any way I could help you. Many would envy your health.}
+{222}{}{That's very good, doc! I don't even feel that bad now.}
+{223}{}{Oh, I'm sorry... I can heal you, but the medicine is far too expensive. We will have to spend }
+{224}{}{ caps on it. What can you offer as compensation?}
+{225}{}{Cold hard caps. Exactly how many are necessary, no more, no less.}
 {226}{}{I don't have anything of value.}
 
-{230}{}{Wait a minute, are you okay? You don't look well.}
-{231}{}{Doctor, I'm tired. I want to get rid of this addiction!}
-{1231}{}{Doctor, I'm tired. I want to get rid of this addiction!}
-{232}{}{My heart shrinks when I see your torment. If you really WANT to stop, then I will do my best to help you.}
+{230}{}{Wait, are you alright? You don't look good.}
+{231}{}{Doc, I'm sick of this. I want to get rid of my addiction!}
+{1231}{}{Doc, I'm sick of this. I want to get rid of my addiction!}
+{232}{}{My heart aches when I see your suffering. If you really do WANT to stop, then I will do everything in my power to help you.}
 {233}{}{Yes! What is needed for this?}
-{234}{}{Rehabilitation is an expensive and lengthy process. I'm afraid the clinic won't be able to fully cover these costs yet.}
-{235}{}{Your clinic is just a way of removing the bottlecaps. I'm leaving here!}
-{236}{}{I don't have anything. I'm going to ask good people.}
+{234}{}{Rehabilitation is a long and expensive process. I'm afraid the clinic won't be able to fully cover the costs.}
+{235}{}{Your clinic is just a way of extorting caps. I'm outta here!}
+{236}{}{I don't have anything. I'll go ask kinder people.}
 {237}{}{I understand. I'll pay }
-{238}{}{ caps. Is that enough?}
-{239}{}{Hmm. It's not much, but there's nothing you can do - after all, you need to be saved.}
-{240}{}{Before we start, I need to leave. I'll be back a little later.}
-{241}{}{Here are the bottlecaps. When do we start?}
-{242}{}{The sooner the better. First, you should take a bath...}
-{243}{}{A whole bath? Wow!}
-{244}{}{The ability "Rehabilitation" was obtained.}
-{245}{}{After a week of treatment and training, you got rid of your addiction and got stronger for a possible relapse.}
+{238}{}{ caps. Will that be enough?}
+{239}{}{Hm-m. It's not much, but we don't have a choice - we do need to help you.}
+{240}{}{Before we start, I need to do some things. I'll be back later.}
+{241}{}{Here are the caps. When do we start?}
+{242}{}{The earlier, the better. First, you should take a bath...}
+{243}{}{An entire bath? Wow!}
+{244}{}{You have received the "Rehabilitation" perk.}
+{245}{}{After a week of healing and training, you have dealt with your addiction and have gained resistance to relapses.}
 
-{250}{}{Did you talk about pre-war medicine and some experiments?}
-{251}{}{Oh, yeah. We have vaccinations against various diseases, a pre-war system for health promotion, and Vault-Tec equipment for special training in bomb Vaults. But none of us seriously conducted these experiments.}
+{250}{}{I recall you talking about Pre-War medicine and some experiments.}
+{251}{}{Ah, yes. We have vaccines for various illnesses, a Pre-War system for improving health and Vault-Tec equipment for special training in a fallout shelter environment. But none of us have conducted these experiments in a serious fashion.}
 {252}{}{Sounds promising.}
-{253}{}{The problem is also high costs. Such procedures are not essential and take a lot of resources and time. Therefore, the clinic cannot provide such a service at its own expense.}
+{253}{}{The problem also lies in the high costs. Such procedures are not top priority and also demand many resources and time. Which is why the clinic cannot finance them by itself.}
 {254}{}{How much does it cost?}
-{255}{}{Hmm. Let me count it... It will cost in }
-{256}{}{ bottlecaps and ten days of strict regime. It's expensive, but this way you buy yourself extra health.}
-{257}{}{Uh, no. Thanks for the offer, Doc, but I can't get those caps.}
-{258}{}{I'm taking the bait, Doc. Here is the payment for the service.}
-{259}{}{Very good. To begin with, we will conduct a survey...}
-{260}{}{Hey, it tickles, Doctor!}
-{261}{}{You have received a bonus to health points.}
-{262}{}{After passing a boring but useful course of treatment, you feel an unprecedented surge of strength!}
-{263}{}{Can I take that wellness course again?}
-{264}{}{It's possible. But the effect will no longer be so noticeable. This time you will have to spend more time and effort to achieve the same results.}
+{255}{}{Hm-m. Let me calculate it... It will cost }
+{256}{}{ caps and ten days of strict regime. Expensive, but you are effectively buying additional health.}
+{257}{}{Uhh, no. Thanks for the offer, doc, but I just can't get that kind of money.}
+{258}{}{I'm swallowing the bait, doc. Here is the payment.}
+{259}{}{Very good. First, let's begin with an examination...}
+{260}{}{Hey, it tickles, doctor!}
+{261}{}{You have received additional health points.}
+{262}{}{After completing a boring, but useful course, you feel like you have become much stronger!}
+{263}{}{Can I go through this wellness course again?}
+{264}{}{You can. But the effects will not be as noticable. This time you'll have to spend more time and energy to achieve the same results.}
 {265}{}{How much does it cost?}
 {266}{}{}
-{267}{}{ bottlecaps and will take two weeks.}
-{268}{}{Oh, no, it would be too wasteful now.}
-{269}{}{Here's the fee. When do we start?}
+{267}{}{ caps and two weeks of your life.}
+{268}{}{No, this will be too wasteful at this moment.}
+{269}{}{Here is the money. When will we begin?}
 
 {300}{}{I need to talk to you about my friend Carlos.}
 {301}{}{Of course. What happened to him?}
-{302}{}{He is interested in old technologies. Do you have a vacancy for him?}
-{303}{}{An intriguing suggestaion. But where is he?}
-{304}{}{He is currently staying in Two-Sun and is waiting for your answer.}
-{305}{}{What a surprise. So he is... tinker?}
-{306}{}{No, no, he's from my village. The tinkerers accepted Carlos, appreciating his talents.}
-{307}{}{However, I am not sure that it is worth discussing with anyone. Sorry to bother you.}
-{308}{}{Oh, curious. I'm relying on your reputation. If you believe in the cleanliness of his thoughts, then that's enough for me. Tell him that we are ready to welcome your friend with all the hospitality.}
+{302}{}{He is interested in old technologies. Will you find a place for him?}
+{303}{}{An intriguing offer. But where is he?}
+{304}{}{Right now, he's in Two Sun and is awaiting your reply.}
+{305}{}{How unexpected. So he is a... tinsmith?}
+{306}{}{No, he's from my village. The tinsmiths accepted Carlos, seeing value in his talents.}
+{307}{}{Now that I think of it, I'm not actually sure whether this is worth discussing with anyone. I apologize for the disturbance.}
+{308}{}{Huh, curious. I'm relying on your reputation. If you believe in the purity of his motives, that is enough for me. Tell him that we are ready to offer your friend a place among us.}
 {309}{}{Thank you!}
-{310}{}{Oh, curious. But at the same time, it is very doubtful. I'm afraid we can't take risks with untested assistants right now.}
-{311}{}{I understand. It's a pity my reputation doesn't convince you.}
+{310}{}{Huh, curious. But at the same time, suspicious. I'm afraid at the moment we cannot take risks with our assistants.}
+{311}{}{I understand. It is a shame that my reputation has not convinced you.}
 
-#A questa to clean up plantations
-{320}{}{I know about the infection that turns peasants into monsters.}
-{321}{}{So you know...}
-{322}{}{No need to roll your eyes and make these heavy sighs. It's your fault, isn't it?}
-{323}{}{Yes, it's our mistake. And it's getting harder to hide it. But I ask for your understanding - you can't create panic. It's already difficult for us to manage with so many worries in the city.}
-{324}{}{Why don't you declare quarantine?}
-{325}{}{This is unthinkable! People should keep an eye on the plantations so that they do not disappear into the sands. And if the population escapes from the city altogether, looters will come here and spread the infection even further.}
+#Plantation cleanup quest
+{320}{}{I know all about the disease turning peasants into monsters.}
+{321}{}{So you are aware...}
+{322}{}{No need to roll your eyes and make deep sighs. You're responsible, aren't you?}
+{323}{}{Yes, it was an error on our part. And it is becoming more and more difficult to hide it. But you must understand - under no circumstances can there be panic in the population. It's difficult enough dealing with the currently present problems of this town.}
+{324}{}{Why haven't you declared quarantine?}
+{325}{}{It's out of the question! People must look after the plantations so that they don't dissapear into the sands. And if the population flees the town entirely, marauders will come and spread the disease even further.}
 {326}{}{Really?}
-{327}{}{In addition, the risk of a widespread epidemic is still extremely small. All the victims were infected only because they were close to the laboratory where the leak occurred. Although insects are beginning to spread it further and further.}
-{328}{}{Is it true?}
-{329}{}{Something is hard to believe.}
-{330}{}{In any case, there is no point in panicking. We almost know how to solve the problem. There are only a few unknowns missing from this equation.}
-{331}{}{Hmm. I don't know if I believe you.}
-{332}{}{How did you even let this happen?}
-{333}{}{We tried to solve the food problem by creating the most resilient and fruitful fauna. Infection is a side effect of experiments on plants and insects, which was difficult to foresee.}
-{334}{}{Hmm. I don't know if I believe you.}
-{335}{}{Are you going to correct your mistake?}
-{336}{}{Of course. We spend all our free time calculating and experimenting. But so far we are missing some data.}
-{337}{}{I hope you will sort out this problem. Otherwise, it will be bad for everyone.}
-{338}{}{Wait. You're not going to create a panic, are you? Now we need help, not new problems. Moreover, we will pay generously for the service.}
-{339}{}{And what do you want from me?}
-{340}{}{Is there anything I can help you with?}
-{341}{}{We need help now more than ever. Moreover, we will pay generously for the service.}
+{327}{}{And even then, the risk of an epidemic is quite low at the moment. All the victims became infected only because they happened to be near the laboratory where the leak occured. Though data suggests insects are starting to spread it further and further.}
+{328}{}{Is this true?}
+{329}{}{I find that hard to believe.}
+{330}{}{In any case, panic is pointless. We almost know how to solve this. There are only a few unknowns in this equation.}
+{331}{}{Hm-m. I don't know whether I can trust you or not.}
+{332}{}{How did you make this happen anyway?}
+{333}{}{We were trying to end food scarcity here by creating the most lively and fertile flora possible. The disease is but a side effect of experiments on plants and insects, which was hard to predict.}
+{334}{}{Hm-m. I don't know whether I can trust you or not.}
+{335}{}{You *are* going to be cleaning after the mess you made, right?}
+{336}{}{Of course. We're spending all the time we have on calculations and experiments. But right now, we lack some data.}
+{337}{}{I hope you're going to solve this problem. Otherwise, everyone will suffer.}
+{338}{}{Wait. You aren't going to make the people panic, right? We need help now, not more problems. And more than that - we will provide proper compensation.}
+{339}{}{And what is it you want me to do?}
+{340}{}{Can I help you in any way?}
+{341}{}{Right now, we need help like never before. And more than that - we will provide proper compensation.}
 {342}{}{What can I do for you?}
-{343}{}{Our laboratory outside the city has become a hotbed of infection. There is also all the laboratory documentation that we did not have time to take out before quarantine. And some chemical reagents needed for experiments.}
-{344}{}{Are you suggesting I go there?}
-{345}{}{Now the laboratory is closed under quarantine, and residents are forbidden to even approach there. God knows what this place has turned into now, but it is overgrown with vegetation. There are a lot of insects there and perhaps some infected are still alive.}
-{346}{}{But then I risk getting infected, don't I?}
-{347}{}{Yes. And this is the main problem. We'll give you an antidote for insect bites. But against spores in the air, you will have to look for a gas mask. We offered the tinsmiths to make gas masks, but apparently, they have higher priority orders.}
-{348}{}{Okay. I will help you.}
-{349}{}{Thank you. When you're ready, come to me. I'll take you to the lab so that the rest of the residents won't notice you.}
-{350}{}{See you later.}
-{351}{}{You are as crazy a scientist as those who created a nuclear bomb before the War. I refuse to cooperate with you.}
-{352}{}{I understand. You don't trust us and you don't want to take any chances. But now it does not matter who is to blame for what happened, it is more important to solve the problem. Think about what a heroic service you will render to the city. You will be remembered for generations. If you change your mind, come back.}
+{343}{}{Our laboratory outside of the town is spreading the disease. All the documentation that we didn't manage to take with us before quarantine is also located there. In addition to some chemical reagents needed for our experiments.}
+{344}{}{And you're saying I need to go there?}
+{345}{}{Right now, the laboratory is under quarantine, and the population is prohibited from even going near it. God knows what that place has turned into, but we know for certain that it has been overtaken by vegetation. There are many insects there, and it is possible some of the infected are still alive.}
+{346}{}{But am I not risking infection, then?}
+{347}{}{Yes. That's the main problem. We'll give you an antidote for the insect bites. But to not inhale the spores in the air, you'll have to find a gas mask. We offered the tinsmiths to make them, but it seems they have prioritized other offers.}
+{348}{}{Okay. I'll help you.}
+{349}{}{Thank you. When you're ready, come to me. I'll show you a way to the laboratory that will avoid you being seen by the population.}
+{350}{}{See you.}
+{351}{}{You're a mad scientist, no different from the ones that created the atom bomb before the War. I refuse to work with you.}
+{352}{}{I understand. You don't trust us and don't want to risk yourself. But who is responsible is irrelevant now. Solving the problem is the important thing. Think what a heroic deed you'll do for the town. You'll be remembered for generations. If you change your mind, come back.}
 {353}{}{Bye.}
-{354}{}{I can't figure out how to use this poison properly.}
-{355}{}{Go to the plantation and spray it somewhere in the most densely overgrown place.}
-{356}{}{Okay.}
-{357}{}{Well, that's another thing.}
+{354}{}{I have no idea how to correctly use this poison.}
+{355}{}{Go to the plantation and spray it in the most overgrown place you see.}
+{356}{}{Understood.}
+{357}{}{Now we're talking.}
 
-{360}{}{I'll help you. It's time to end this infection!}
-{361}{}{I'm glad to hear that. Maybe we won't be able to do anything without you.}
-{362}{}{I'm ready to go.}
-{1362}{}{I'm ready to go.}
-{363}{}{Wait. I need to grab a couple more things. I'll be back soon.}
-{364}{}{Your task is to find laboratory documents and components to create an insecticide that they tried to develop there. The faster you do it, the less harm your body will get. Here, take the antidote and the stimpack. Good luck.}
-{365}{}{[Go to the lab]}
-{366}{}{Here are the laboratory data and reagents.}
-{367}{}{Finally! Now we are one step away from victory. I need time to study and check the materials...}
-{368}{}{Please.}
-{369}{}{...So that's what our colleague suggested? How could I not have guessed right away! Yes, different specialization effects. I am not strong in insects, so I could not take into account such a symbiosis with fungal spores... Oh, Wang Chong, how his boring maxims are missing now.}
+{360}{}{I'll help you. Time to rid the world of this disease!}
+{361}{}{Happy to hear it. It may very well be possible that we won't be able to do anything without you.}
+{362}{}{I'm ready to head out.}
+{1362}{}{I'm ready to head out.}
+{363}{}{Wait. I need some time to pick a few things. I'll be back.}
+{364}{}{Your goal is to find the documents and chemicals needed to create the insecticide that we were trying to develop there. The quicker you do it, the less harm will be done to your body. Here, take this antidote and stimpak. Good luck and godspeed.}
+{365}{}{[Head out to the laboratory]}
+{366}{}{Here are the reagents and the data from the laboratory.}
+{367}{}{Finally! Victory is practically already in our reach. But I need some time to examine and check the materials...}
+{368}{}{Go on.}
+{369}{}{...So this was what our colleague was proposing? How did I not think of it right away! The fact that we are specialized in different fields is obvious here. I am not particularly knowledgable in entomology, which is why I could not have considered the development of such a symbiotic relationship with the spores of the fungi... Oh, Van Chun, you have no idea how much we miss you.}
 {370}{}{What are you going to do?}
-{371}{}{First of all, I will make an insecticide to stop the spread of the infection. I think it won't take much time because the reagents from the laboratory are well-preserved. Please wait in the corridor for a couple of hours.}
+{371}{}{First things first, create an insecticide that will prevent the disease from spreading. I don't think it should take much time. After all, the reagents from the laboratory are quite well-preserved. Please wait in the corridor for a few hours.}
 {372}{}{Okay...}
-{373}{}{Ready! It is a mixture of a fungicide against fungal spores and an insecticide against parasite carriers. It must be sprayed on plantations. Do it while we do the rest of the work.}
+{373}{}{We did it! This is a mixture of a fungicide against fungi spores and an insecticide against the parasitic disease carriers. It must be sprayed over the plantations. Go do that while we conclude other tasks.}
 {374}{}{Okay.}
-{375}{}{I sprayed poisons on the plantation. The effect did not take long to wait.}
-{1375}{}{I sprayed poisons on the plantation. The effect did not take long to wait.}
-{376}{}{It's probably in your genes to be diligent. All this pest control work is a model for the rest of the Followers. Someday we will send a report describing this story to the Burial Ground.}
-{377}{}{I'm sorry, bespectacled. But I risked for the promised caps, not for the sake of science.}
-{1377}{}{I'm sorry, bespectacled. But I risked for the promised caps, not for the sake of science.}
-{378}{}{All work must be paid. I asked the mayor for a bonus - 350 caps are due to you. Spend them wisely. And thanks again.}
-{379}{}{I am also delighted with the work done.}
+{375}{}{I sprayed the poison all over the plantation. The results showed themselves quickly.}
+{1375}{}{I sprayed the poison all over the plantation. The results showed themselves quickly.}
+{376}{}{Diligence must be part of your DNA. All this pest control is an example other Followers ought to look up to. One day we'll send a report describing this story to the Boneyard.}
+{377}{}{Sorry, nerd. I took this risk for the caps, not for science.}
+{1377}{}{Sorry, nerd. I took this risk for the caps, not for science.}
+{378}{}{Effort must be rewarded. I asked the mayor for a reward - these 350 caps belong to you. Spend them wisely. And once again, thank you.}
+{379}{}{I'm amazed too.}
 
-{380}{}{The laboratory has been destroyed. She was burned in a fire.}
-{381}{}{We saw smoke from the fire. This is your doing, isn't it? (sigh) What a fool you are...}
-{1381}{}{We saw smoke from the fire. This is your doing, isn't it? (sigh) What a stupid thing to do...}
-{382}{}{Is something wrong? Isn't the breeding ground of infection destroyed?}
-{383}{}{There were other ways to destroy the nursery! But along with the laboratory, all scientific works that could help people in the future were destroyed!}
-{384}{}{I hadn't thought of that.}
-{1384}{}{I hadn't thought of that.}
-{385}{}{This was the most effective way to stop the infection.}
-{386}{}{Of course! Well, of course! Who else besides you knows how to solve a scientific problem... Ugh. We need to calm down.}
-{387}{}{?}
-{388}{}{I'm sorry, of course, what you did was right. Safety comes first. But what if the infection grows again in another place? Without scientific data from the laboratory, it will be much more difficult to cope with it. On the other hand, we now have a lot of time to prepare. So in any case, thank you.}
-{389}{}{The main thing is that the problem has been solved. Good luck with your research, Nestor.}
-{390}{}{Hey, hey! Will I get paid? It wasn't that easy.}
-{391}{}{Formally, you have not completed your task. After all, I asked to get documents and chemicals. But in order not to offend you, I will pay 100 caps. That's enough.}
-{1391}{}{Formally, you have not completed your task. After all, I asked to get documents and chemicals. But in order not to offend you, I will pay 100 caps. That's enough.}
-{392}{}{It's better than nothing.}
-{393}{}{Deception is all around! I won't trust my Followers anymore.}
-{394}{}{I'm sorry it happened like that. Goodbye.}
-{395}{}{In the laboratory, I came across these chemicals.}
-{396}{}{Perhaps these chemicals will be useful in the manufacture of poison. Look more carefully in the laboratory, there should be detailed documentation and the necessary equipment.}
-{397}{}{Okay, I'm going to look further.}
-{398}{}{Well, it already seemed to me that the job was done ...}
+{380}{}{The laboratory is destroyed. Burned down.}
+{381}{}{We saw the smoke. It was your doing, wasn't it? (sigh) What an idiot you are...}
+{1381}{}{We saw the smoke. It was your doing, wasn't it? (sigh) How stupid...}
+{382}{}{What's wrong? Wasn't the thing that was spreading the disease destroyed?}
+{383}{}{It could have been destroyed in other ways! But along with the laboratory, all the scientific efforts that could have helped people in the future have been destroyed as well!}
+{384}{}{I didn't think of that.}
+{1384}{}{I didn't think of that.}
+{385}{}{It was the most effective way to stop the disease.}
+{386}{}{Of course! Oh, surely! Who else but you knows how to solve a scientific problem... Ooh. I need to calm down.}
+{387}{}{Excuse me?}
+{388}{}{I apologize, your actions were, of course, called for. Safety above all else. But what if the disease springs up again in another place? Without the scientific data from the laboratory it will be much more difficult to deal with it. On the other hand, we now have a lot of time to prepare. So, in any case - thank you.}
+{389}{}{The most important thing is that the problem is solved. Good luck with your research, Nestor.}
+{390}{}{Hey, hey! Will I get paid? That wasn't easy, you know.}
+{391}{}{Strictly speaking, you have not completed your objective. After all, I asked you to get the documents and the chemicals. But to avoid any grievances, I will give you 100 caps. That will be enough.}
+{1391}{}{Strictly speaking, you have not completed your objective. After all, I asked you to get the documents and the chemicals. But to avoid any grievances, I will give you 100 caps. That will be enough.}
+{392}{}{Better than nothing, I suppose.}
+{393}{}{Deceit, deceit everywhere! I will not believe a single word coming from the mouth of a Follower.}
+{394}{}{I'm sorry it ended this way. Farewell.}
+{395}{}{I managed to find these chemicals in the laboratory.}
+{396}{}{Perhaps they will prove useful in manufacturing a poison. Search more carefully in the laboratory, there has to be detailed documentation and the necessary equipment there.}
+{397}{}{Alright, I'll go continue my search.}
+{398}{}{And here I thought I was done with this...}
 
 #Questions
-{400}{}{Tell us about the Followers.}
-{401}{}{There are only three of us if you count my assistant. I run a clinic and a chemical laboratory. Teresa is engaged in teaching and mathematical calculations.}
-{402}{}{ And recently Diana joined us.}
-{403}{}{I have no more questions.}
-{404}{}{Who is the main one among you?}
-{405}{}{We don't have the main ones. Each Follower does his own thing, and together we form a board to solve common issues. Yes, it's different from the crude primitive relationships you're used to on the wastelands.}
-{406}{}{How do you like Diana?}
-{407}{}{Every employee is valuable to us, especially with such a wealth of experience and motivation. And the data she gathered on the way here is simply priceless. I am sure it will bring a lot of benefits here.}
-{408}{}{That's good.}
-{409}{}{Unfortunately, she still does not understand that in Casa Nueva it is important to follow the rules and not go against the authorities. And yes, I know that Diana survived because of you. Thank you.}
-{410}{}{I see. Remind me who's who here?}
-{411}{}{Why is Theresa so obstinate?}
-{412}{}{Excuse her. After all, working with children is a difficult matter, and almost no one has such experience nowadays. All she can do is read old books on child psychology and figure it out on the go. And this is despite the fact that she still has to do science.}
+{400}{}{Tell me about the Followers.}
+{401}{}{There are three of us, if you count my assistant. I manage the clinic and the chemical laboratory. Teresa teaches and deals with mathematical calculations.}
+{402}{}{Diana has joined you lately.}
+{403}{}{My questions have come to an end.}
+{404}{}{Who's the leader here?}
+{405}{}{We don't have leaders. Every Follower does their part, but together, we form the board - made to give everyone a voice in solving common problems. Yes, I know that's not like the crude, primitive relationships you, people from the Wastes are used to.}
+{406}{}{What do you think about Diana?}
+{407}{}{Every person is valuable, and one with such experience and motivation - especially so. The data she collected while on her way here has proved itself invaluable. I am sure she will prove very useful here.}
+{408}{}{That's great.}
+{409}{}{Unfortunately, she still fails to understand that in Casa Nueva, it is important to follow the rules and not go against authority. And yes, I know Diana survived thanks to you. You have done us a great service.}
+{410}{}{Alright. Remind me, who are the important people here?}
+{411}{}{Why is Teresa so obstinate?}
+{412}{}{Excuse her. After all, working with kids is hard, and in the times we live in, barely anyone has any kind of experience in that field. The only thing she can do is read old books about child psychology and figure things out on the go. That is not even mentioning the scientific endeavors she is also involved in.}
 {413}{}{Why do you need an assistant?}
-{414}{}{I'm not coping. I have a clinic and a chemical laboratory, although I am not a specialist in chemistry. Alexandra relieves me of this burden.}
-{415}{}{But which of you was engaged in plantations?}
-{416}{}{This person is not with us. He sacrificed himself to science. Please don't ask about him, so as not to hurt someone's feelings.}
-{417}{}{But there was another Follower, right?}
-{418}{}{Wang Chun... He was unlucky. He spent most of his time in greenhouses. He didn't like communicating with people, but he loved plants and science. That's what killed him when mutagenic spores took over his body. You know, it's better if you don't ask about him, so as not to hurt someone's feelings.}
-{419}{}{Plantations are also your business?}
-{420}{}{That's right.}
+{414}{}{I can't handle all the things I have to do. I'm responsible for the clinic and the chemical laboratory, even though I'm not specialized in chemistry. Alexandra takes off that pressure from me.}
+{415}{}{But which one of you is responsible for the plantations?}
+{416}{}{That man is no longer with us. He has sacrificed himself. For science. Please, do not ask anymore about him. It could hurt someone's feelings.}
+{417}{}{But he was a Follower too, right?}
+{418}{}{Van Chun... He got unlucky. Essentially, he spent a lot of time in the greenhouses. He did not like talking to other people, but he did love plants and science. That proved to be fatal when the mutagenic spores took over his body. You know, it would be better if you did not ask anyone about him. You know, to avoid hurting someone's feelings.}
+{419}{}{The plantations are also your creation?}
+{420}{}{Yes.}
 {421}{}{Isn't it strange to grow plants in the middle of the desert?}
-{422}{}{Believe me, we had a reason to be here. This decision is the result of extensive scientific research.}
+{422}{}{Oh, believe me, we had our reasons to be exactly in this spot. This decision was the result of extensive research.}
 
 {430}{}{Tell me about the clinic.}
-{431}{}{I don't even know what to say. We opened it mainly to serve soldiers from Puerto. It was part of the general agreement with the military, otherwise we would not have been allowed here. And then local workers began to come asking for help.}
-{432}{}{Okay. Let's change the subject.}
-{433}{}{Where did all this equipment come from?}
-{434}{}{Some things were made by tinsmiths to order. Some things were brought with caravans from different places.}
-{435}{}{I see.}
-{436}{}{I'm interested in your methods. In our Villa, apart from herbs and mushrooms, it is difficult to find anything.}
-{437}{}{I don't have any special prejudices about folk medicine. She was useful for her time. But gradually the pre-war methods are returning. We have finally launched a vaccination system against the wasteland disease. Isn't this a miracle?}
-{438}{}{And where do you get medicines?}
-{439}{}{We produce it ourselves, of course. For example, ethanol is easily produced from fire agave. And the resulting drugs are sold or exchanged for chemical raw materials.}
+{431}{}{I really don't know what to say. We opened it mainly to serve soldiers from Puerto. That was part of our agreement with the military, otherwise we wouldn't be let in here. And then the local workers started asking us for help.}
+{432}{}{Fine. Let's change the subject.}
+{433}{}{Where is all this equipment from?}
+{434}{}{Some of it was made by the tinsmiths as part of contracts. Some brought in by various caravans.}
+{435}{}{Alright.}
+{436}{}{I'm interested in your methods. It's hard to find anything other than herbs and mushrooms in Villa, where my people live.}
+{437}{}{I am not prejudiced against folk medicine. For it's time, it was useful. But gradually, Pre-War methods are returning. We have finally launched a vaccination program against wasteland disease. Isn't that a miracle?}
+{438}{}{Where do you get the medicine from?}
+{439}{}{From our own labor. For instance, ethanol can be easily produced from fiery agave. And the resulting drugs can be sold or are exchanged for raw chemical material.}
 
-{440}{}{How do you live here?}
-{441}{}{Just fine. It's hard to find a better city right now.}
-{442}{}{It's good that you feel good.}
-{443}{}{With such prohibitions?}
-{444}{}{What confuses you about the prohibitions? They were before the War. The authorities also have reasons to restrict ordinary residents. And they have to be reckoned with.}
-{445}{}{Has lack of will and totalitarianism ever made people happy?}
-{446}{}{And have ordinary people ever been completely free? Such a story is possible only in a cave, in isolation from the rest of the world. And most likely, all alone. So, the conclusion is simple - to appreciate what we have.}
-{447}{}{Hmm. It's worth thinking about.}
-{448}{}{What can you tell us about your mayor?}
-{449}{}{Alvaro has a heavy load on his shoulders. He has to be responsible for the city only because there is no one else to do it. Don't give him any trouble.}
-{450}{}{Not even in my thoughts.}
+{440}{}{How is life here?}
+{441}{}{Close to perfect. In our times it's hard to find a better place.}
+{442}{}{It's good that your lives are good.}
+{443}{}{With these kinds of rules?}
+{444}{}{Why do rules bother you? They were there before the War, too. The powers that be have their own reasons to limit the things ordinary people can do. And they have to be reckoned with.}
+{445}{}{Has the lack of choice and totalitarianism ever made people happy?}
+{446}{}{Was there ever a time when people were truly, completely free? That is possible only in a cave, detached from the rest of the world. And most likely, completely alone while you're at it. The conclusion is obvious - we must value what we have.}
+{447}{}{I see.}
+{448}{}{What can you tell me about your mayor?}
+{449}{}{Alvaro carries much on his shoulders. He has to take care of the town only because nobody else can do it. You shouldn't bother him.}
+{450}{}{I wasn't thinking about doing that at all.}
 
-{451}{}{Do you know anything about Vault 24? }
-{452}{}{This Vault is located on the ruins of San Diego. The founders of our mission came out of it. But I've never been there myself, because this place is cursed with radiation for many generations to come.}
-{453}{}{How did the founders live there then?}
-{454}{}{Vaults were built just in order to survive hard times in them after a nuclear attack. According to legend, the founders left the Vault in order to help the world reborn. This sacrifice of theirs is appreciated by all Followers.}
-{455}{}{I was there. The place is really cursed. And they also stole everything useful that was only there.}
-{456}{}{Not surprising. I heard about the Great Exodus of ghouls to the south, to the Glow. It looks like they found a suitable place for themselves. Well, let this radioactive earth be lenient with them.}
-{457}{}{Yes, something like that. Can we talk about something else?}
-{458}{}{I have a piece of this Vault. Look, this is a copy of the diaries of the local caretaker.}
-{459}{}{Really? Let me see... It turns out that the founders were forced by the situation. How corny. The legend sounded more beautiful, but... But now I see that they were just as simple people as everyone else. Thank you for this text. I'll save it for our history.}
-{460}{}{You are welcome. Can we talk about something else?}
-{461}{}{Can we talk about something else?}
+{451}{}{Do you have any information regarding Vault 24?}
+{452}{}{It's located in the ruins of San Diego. The first Followers originated from it. But I've never been there myself, and don't plan to visit it. It's so irradiated that it will remain unsafe to visit for many generations.}
+{453}{}{If it's so irradiated, how did those first Followers live there?}
+{454}{}{The Vaults were built for this exact purpose, to allow those inside to survive the aftermath of nuclear attack. Legends say those first Followers decided to leave the Vault to assist in the restoration of the world. Every Follower values their sacrifice greatly.}
+{455}{}{I've been there. It is irradiated, indeed. There wasn't even anything particularly useful. Everything valuable was taken away a while ago.}
+{456}{}{Unsurprising. I've heard about it, the Great Exodus of ghouls to the south, towards the Glow. Looks like they found themselves a nice place to settle. Well, may that irradiated land be kind to them.}
+{457}{}{Yeah, something like that. Let's change the subject.}
+{458}{}{I've got something from that Vault. Take a look. It's a copy of the journals of the Vault's overseer.}
+{459}{}{Really? Let's see... Huh. So the first Followers didn't leave to improve the world? The legends were more inspiring, but... But now I see that they were just people. Like us. Thank you for these documents. I'll save them as an addition to our history.}
+{460}{}{You're welcome. Why don't we talk about something else?}
+{461}{}{Let's change the subject.}

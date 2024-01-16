@@ -1,54 +1,54 @@
-{100}{}{There is a passerby in front of you.}
+{100}{}{You see a passerby.}
 {101}{}{You see a robber.}
-{102}{}{You see a passerby in secretive clothes. He does not want to attract attention to himself ahead of time.}
-{103}{}{You see a street robber. He better not get in the way.}
-{104}{}{Are you following me?}
-{105}{}{The robber cowardly escaped.}
+{102}{}{You see a passerby in a cloak. Looks like he doesn't want to be noticed until the right moment.}
+{103}{}{You see a street robber. It's best not to get in his way.}
+{104}{}{You watching me or something?}
+{105}{}{The robber cowardly runs away.}
 
-#Dialog
-{200}{}{(Walking down the street, you notice that you are being followed. For a while, a young man in secretive clothes follows you uncertainly. When you enter a deserted alley, he runs up and pulls out something like a gun.)}
-{201}{}{[Next]}
-{202}{}{Stop! Give me your caps or I'll shoot.}
-{203}{}{Hey, take it easy...}
-{204}{}{bottlecaps! Now! Or, I swear, I'll shoot! (looking over your shoulder, you examine your opponent: his face is covered with a handkerchief, ...... )}
-{205}{}{bottlecaps! Now!}
-{206}{}{Try to take it, bitch.}
-{207}{}{Thu... It's a gun. It's loaded. Do you understand? Don't make me shoot.}
-{208}{}{So you have to. I'm attacking!}
+#Dialogue
+{200}{}{(Walking along the street, you notice that you are being watched. For some time, an unsure man in stealthy clothes follows you. When you enter an empty alley, he runs up to you and takes out what appears to be a pistol.)}
+{201}{}{[Continue]}
+{202}{}{Stop! Give me all your caps or I'll shoot.}
+{203}{}{Hey, easy...}
+{204}{}{Caps! Now! Or I'll swear I'll shoot! (looking over your shoulder you examine your opponent: his face is covered with a headscarf)}
+{205}{}{Caps! Now!}
+{206}{}{Try and take them, bitch.}
+{207}{}{Wh... This is a pistol. It's loaded. Do you understand the situation you are in? Don't make me shoot you.}
+{208}{}{Then you'll have to. I'm attacking!}
 
 {210}{}{Here are 30 caps, just don't shoot.}
-{211}{}{Give it here. (picks up the bottlecaps and looks around) Now go along the street. If you turn around, you're dead.}
+{211}{}{Give them to me. (takes caps and looks around) Now go along the street. You turn your back - you're dead.}
 {212}{}{Whatever you say...}
 {213}{}{[Turn around and attack the robber]}
-{214}{}{I only have one cap. Here, take it, but not anymore.}
-{215}{}{Here are two bottlecaps. Not anymore. True.}
-{216}{}{Here are three bottlecaps. Not anymore. Really.}
-{217}{}{Damn, come here... so. Now walk along the street. Turn around and you're dead.}
-{218}{}{Don't shoot. Here are all the bottlecaps I have.}
+{214}{}{I only have one cap. Here, take it, but I don't have any more.}
+{215}{}{Here are two caps. I don't have any more. Really.}
+{216}{}{Here are three caps. I don't have any more. Really.}
+{217}{}{Dammit, give them to me... There. Now go along the street. You turn your back - you're dead.}
+{218}{}{Don't shoot. Here are all the caps I have.}
 
-{220}{}{I don't have caps. True.}
-{221}{}{Don't piss me off, bitch, and GIVE ME THE bottlecaps!}
-{222}{}{I don't have caps. Check your pockets.}
-{223}{}{Damn... (looks around in difficulty) So... Walk along the street and don't turn around.}
-{224}{}{Stay back or I'll shoot!}
-{225}{}{Whoa, take it easy.}
-{226}{}{So shoot, bitch.}
-{227}{}{You're forcing me to take extreme measures, you bastard.}
+{220}{}{I have no caps. Really.}
+{221}{}{Don't make me mad, bitch, and GIVE ME THE CAPS!}
+{222}{}{I really have no caps. Check my pockets.}
+{223}{}{Fuck... (looks around stressed) There... Now go along the street and don't turn back.}
+{224}{}{Don't come any closer or I'll shoot!}
+{225}{}{Whoa, easy.}
+{226}{}{So shoot me, bitch.}
+{227}{}{You're making me resort to extreme measures, bastard.}
 
-{230}{}{Listen, are you a guy or a girl?}
-{231}{}{Thu... Don't piss me off or I'm going TO SHOOT!}
-{232}{}{Seriously. Because of these rags, I can't make out...}
-{233}{}{One more word and you're a corpse. LET'S GET THE bottlecaps!}
-{234}{}{Eh, can we talk?}
-{235}{}{Then aim for the head right away. You have no other chance.}
-{236}{}{Damn, who are you... (the robber starts to get nervous and looks around in difficulty) So... Don't turn around. Or I'll shoot. Seriously, I'm going to shoot!}
-{237}{}{Of course I believe you...}
-{238}{}{So shoot, bitch, shoot!}
-{239}{}{You're taking a serious risk, baby. Do you know who I am? The invincible Mario fell from my hands in the ring.}
-{240}{}{Damn it... I don't want to shoot you... Okay. Go on and don't look back. Understand?}
-{241}{}{Of course you're the boss.}
-{242}{}{Not so fast. You'll have to answer for your words...}
-{243}{}{How dare you stop a peaceful monk? The punishment of the Nuclear Flame will punish you, worm!}
-{244}{}{You're pathetic. We, the highway workers, hang the likes of you on road signs and drain the blood.}
-{245}{}{Mind you, you've got a ranger in your sights. You won't get away with it that easily.}
-{246}{}{Now it's not me, but you who will become a corpse.}
+{230}{}{Listen, are you a guy or a gal?}
+{231}{}{Wh... Don't make me mad or I'll SHOOT!}
+{232}{}{Really. I can't tell because of those rags...}
+{233}{}{One more word and you're dead. GIVE ME THE CAPS!}
+{234}{}{Uhh, maybe we could talk?}
+{235}{}{Then aim for the head. You've got no other choice.}
+{236}{}{Damn, who the fuck are you... (robber is nervous and looks around stressed) There... Don't turn around. Or I'll shoot. Really, I'll shoot!}
+{237}{}{Of course, I believe you...}
+{238}{}{So shoot already, bitch, shoot!}
+{239}{}{You're taking a serious risk, kid. You know who I am? The undefeatable Mario died at my hands.}
+{240}{}{Dammit... I don't want to shoot you... Fine. Go along and don't turn back. Clear?}
+{241}{}{Of course, you're the boss.}
+{242}{}{Not so fast. You will have to answer for your words...}
+{243}{}{How dare you stop a peaceful monk? The Atomic Flame shall punish you, worm!}
+{244}{}{You're pathetic. We highwaymen hang people like you on road signs and let the blood flow.}
+{245}{}{Keep in mind that you're aiming at a Ranger. You won't get away with this.}
+{246}{}{It's not me, but you who's going to be dead soon.}

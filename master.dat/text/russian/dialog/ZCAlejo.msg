@@ -1,19 +1,19 @@
-{100}{}{You see Alekhno.}
-{101}{}{You see a half-naked man with a crazy look. He brandishes his machete threateningly.}
+{100}{}{You see Alejo.}
+{101}{}{You see a half-naked man with a crazy look. He threateningly waves his machete around.}
 
-{110}{}{And die, you creatures!}
-{111}{}{Viper house!}
+{110}{}{Die, bastards!}
+{111}{}{Snake!}
 {112}{}{I was kidnapped! I was kidnapped!}
-{113}{}{Alex! The Times! Moscow!}
+{113}{}{Alex! Times! Moscow!}
 {114}{}{You will report directly to me.}
-{115}{}{This will be my answer to the bastards.}
-{116}{}{I went here, collected food, didn't touch anyone.}
+{115}{}{This is my answer to these bastards.}
+{116}{}{I was walking around, gathering food, not bothering anybody.}
 {117}{}{They're watching me!}
-{118}{}{What Mexican scum took the cart?}
-{119}{}{Riot and death! Riot and death!}
-{120}{}{I'll feed you with a grenade launcher.}
-{121}{}{Tu! Murda!}
-{122}{}{Monkeys are walking around here, there's a monkey over there.}
-{123}{}{Here are the motherfuckers!}
-{124}{}{U-u-u!}
+{118}{}{What mexican scum took the cart?}
+{119}{}{Death! Rebellion! Death! Rebellion!}
+{120}{}{Hungry for more bullets?}
+{121}{}{Twu! Merda!}
+{122}{}{The monkeys keep walking in a circle. Look at that one- it looks funny.}
+{123}{}{Bastards!}
+{124}{}{Ou-u-u!}
 {125}{}{I love animals.}

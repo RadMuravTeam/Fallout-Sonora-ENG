@@ -1,23 +1,23 @@
-{100}{}{You see an old acquaintance.}
-{101}{}{This is one of the Followers of Fire... since recently.}
+{100}{}{You see an old friend.}
+{101}{}{This is one of the Followers of the Holy Fire... that has only recently joined them.}
 
-{200}{}{(In front of you is your old acquaintance who spied on the rangers; he seems depressed and weak-willed, his gaze has dimmed, and his former gangster manners seem to be in the past)}
-{201}{}{Well, wow, what a meeting ...}
-{202}{}{ (cloudy eyes rise heavily and barely distinguish you) You... I remember you. The Sacred Fire must have brought us together that day. Thanks to you, I am here among the Followers. Thank you.}
-{203}{}{Uh, please. It's nice to participate in someone's personal growth.}
-{204}{}{I thought you wouldn't survive this journey. Oh well.}
+{200}{}{(You see your old friend that once spied on the Rangers; he seems depressed and weak-willed, his eyes have dimmed, and the old bandit-like manners seem to have completely become a thing of the past)}
+{201}{}{Well, well, well, what a surprise...}
+{202}{}{(the muddy eyes rise up with some effort and barely identify you) You... I remember you. Looks like the Holy Fire brought us together that day. Thanks to you, I am now here, among the Followers. Thank you.}
+{203}{}{Uhh, you're welcome. It's good to be participating in someone else's personal growth.}
+{204}{}{I didn't think you'd survive that journey. But that doesn't matter.}
 
-{210}{}{I have to pray. Please leave me alone.}
+{210}{}{I must now pray. Please, don't bother me.}
 {211}{}{Bye.}
 
-{220}{}{How did you manage to overcome the path from Parker Dam?}
-{221}{}{Don't ask me about such nonsense. Now I'm above that.}
-{222}{}{Then stay alone with your own... prayers.}
-{223}{}{What is it like to be a novice in the Temple of Fire?}
-{224}{}{Work and prayers. That's all we need. Until I'm ready for something more important. And only my mentor can determine that.}
-{225}{}{Hmm, let me take a look at your pupils.}
-{226}{}{What is it? Stupid jokes of a villager?}
-{227}{}{Yeah, uh, sort of.}
-{228}{}{Looks like they're drugging you here, huh?}
-{229}{}{Well... We are given a couple of relaxing pills at lunch, this is part of the dedication. We have to clear our minds of arrogance, that's what the monks say... Ugh... I think I need to go to the toilet...}
-{230}{}{Uh, it's better to leave you.}
+{220}{}{How did you manage to come here all the way from Parker Dam?}
+{221}{}{Don't ask me about such nonsense. I am above such things now.}
+{222}{}{Then I'll leave you alone with your... prayer.}
+{223}{}{What is it like being a novice in the Temple of Fire?}
+{224}{}{Labor and prayer. This is all that we need. Until I become mature enough for something more important. And that can be decided only by my mentor.}
+{225}{}{Hm, let me take a look at your pupils.}
+{226}{}{What are these? The silly jokes of a peasant?}
+{227}{}{Well, uhh, yes, kind of.}
+{228}{}{Looks like you're being pumped full of drugs here.}
+{229}{}{Well... Our lunch does contain a few laxatives. It's all part of the initiation process. We must rid our mind of hubris, the monks say... oof... I think I ought to go...}
+{230}{}{Uhh, I should leave you alone.}

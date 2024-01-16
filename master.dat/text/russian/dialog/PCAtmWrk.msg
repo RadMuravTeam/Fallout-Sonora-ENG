@@ -1,14 +1,17 @@
-{100}{}{You see an atomist.}
-{101}{}{You see a man with burnt skin. He is wearing well-worn work clothes with a pre-war symbol.}
-{102}{}{Well, well, and here is our main pest. Get out of here while your legs are intact.}
+#---------------------------------------------------------
+#  Translated by Georg; revised by garwert, nuk.
+#---------------------------------------------------------
+{100}{}{You see an atomic worker.}
+{101}{}{You see a person covered in old burns. He is wearing is a visibly aged, tattered uniform with a pre-War symbol on it.}
+{102}{}{Well, well, well, if it ain't our little vermin. Get out. Right now, while your kneecaps are still intact.}
 
-{110}{}{Shh, the stranger will hear.}
+{110}{}{Shhh! The outsider is going to h-hear you.)
 
-{200}{}{Hey, hello, tramp. Strangers are rarely allowed in here.}
-{201}{}{Do you have a pass? Okay, whatever.}
-{202}{}{Yes, look around. It's interesting here.}
-{203}{}{What are you sniffing around for?}
-{204}{}{Eh? Speak up, I'm a little deaf.}
-{205}{}{The entrance to the station is prohibited. But you can pass.}
-{206}{}{It's strange that they let you in. You know, all these racists...}
-{207}{}{We don't look like this from a good life, baby.}
+{200}{}{Oh. Hey there, wanderer. We don't let many outsiders in here.}
+{201}{}{Do you have an entry pass?... Eh, whatever.}
+{202}{}{Ah yes, look around. It's interesting in here.}
+{203}{}{What are you snooping around here for?}
+{204}{}{Huh? Speak up, I'm a bit on the deaf side.}
+{205}{}{The power plant is off-limits. But you can go in, sure.}
+{206}{}{It's strange to see how someone like you was allowed in. You know, considering all the racism...}
+{207}{}{Listen, baby: the life we live ain't sweet. There's a reason we look like this.}

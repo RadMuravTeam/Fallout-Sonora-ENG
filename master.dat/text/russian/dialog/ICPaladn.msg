@@ -1,275 +1,275 @@
-{100}{}{You see Paladin Barkley.}
-{101}{}{You see a thick-skinned soldier. His unwavering face depicts full readiness for battle.}
-{102}{}{Change of construction.}
+{100}{}{You see paladin Barkley.}
+{101}{}{You see a thick-skinned fighter. His unswerving face shows complete readiness for battle.}
+{102}{}{Repositioning.}
 {103}{}{Thanks, doc.}
-{104}{}{The traitor! You'll die like a lousy dog!}
-{105}{}{Bastards! You will pay for the death of my comrades!}
-{106}{}{M-mutants, fuck them! A little more, and I'll shoot them. Are you with them for the same thing?}
+{104}{}{Traitor! You'll die a dog's death!}
+{105}{}{Bastards! You'll pay for the deaths of my comrades!}
+{106}{}{M-mutants, damn them! A bit more and I'll shoot 'em all down. What, are you with them?}
 
-{110}{}{I can't believe my eyes! How did this happen?}
+{110}{}{Can't believe my eyes! How did this happen?}
 {111}{}{Welcome to the Brotherhood.}
-{112}{}{That's not why I serve as a paladin.}
-{113}{}{Hmm, it looks like the intelligence made a mistake by a couple of zeros in the number of the enemy.}
-{114}{}{Eh, reminds me of the old days...}
+{112}{}{I didn't become a paladin for this shit.}
+{113}{}{Hmm, looks like, reconnaissance was mistaken about the enemy's numbers by a couple of zeroes.}
+{114}{}{Eh, reminds me of the good old days...}
 
-#Counter dialogue
-{200}{}{Argh, damn... I almost shot you. I thought you were another mutant. Are you from a support group?}
-{201}{}{What kind of group? What are we talking about?}
-{202}{}{Damn it. So the Brotherhood didn't send you to help? It's a bad business. Then what are you doing in this cursed place?}
-{203}{}{Just looking for useful things. Usually, deserted ruins are full of them.}
-{204}{}{Ugh. So you're a scavenger? (sigh) It looks like all my luck came out last year.}
+#Meeting dialogue
+{200}{}{Agh, dammit... I almost shot you. Thought you were another mutant. Are you from the support group?}
+{201}{}{What group? What are you talking about?}
+{202}{}{Shit. So the Brotherhood didn't send you to help? Fuck. Then what are you doing in this forsaken place?}
+{203}{}{You know, looking for valuable stuff. Usually there is a lot of it in desolate ruins.}
+{204}{}{Dammit. So you're a scavenger? (sigh) Looks like all my luck ran out last year.}
 {205}{}{What is it?}
 {206}{}{I'm looking for someone. But it's personal.}
-{207}{}{OK... Let's assume that this is true. Do you want to look for someone else for me?}
-{208}{}{Have you lost someone?}
-{209}{}{It was I who responded to a radio request for help.}
-{1209}{}{It was me who responded to a radio request for help.}
-{210}{}{At least one happy news for the whole day.}
+{207}{}{Okay... Let's assume that's true. You sure you don't want to find someone else for me?}
+{208}{}{Did you lose someone?}
+{209}{}{I answered the radio request for help.}
+{1209}{}{I answered the radio request for help.}
+{210}{}{At least some good news this terrible day.}
 {211}{}{Tell me what happened.}
-{212}{}{You should have shot, you idiot. Now it's my turn...}
+{212}{}{You should have shot, you fool. Now is my turn...}
 {213}{}{So you're from the Brotherhood of Steel? I hate you all. Die, scum!}
 
-{220}{}{Yes, the Brotherhood of Steel sent me on a rescue mission.}
-{221}{}{Hmm. I don't remember you. Show me your badge.}
-{222}{}{Token? But I don't serve the Brotherhood. I was just hired.}
-{223}{}{That's it. I was warned that the Brotherhood in Arizona is not in the best shape. Sadly. Where are the others?}
+{220}{}{Yes, the Brotherhood of Steel sent me on a rescue operation.}
+{221}{}{Hmm. I don't remember you. Show me your dog tag.}
+{222}{}{Dog tag? But I don't serve the Brotherhood. I was just hired.}
+{223}{}{So that's how it is. I was warned the Brotherhood in Arizona isn't in the best shape. Sad. And where are the others?}
 {224}{}{Who are you talking about? I'm alone.}
 {1224}{}{Who are you talking about? I'm alone.}
-{225}{}{Damn it! What are they thinking about? That one mercenary can handle such a situation? However, a small group has a tactical advantage among the ruins... Okay, I hope that at least you won't get in the way.}
+{225}{}{Dammit! What were they thinking? That one hired gun would resolve such a situation? Though, a small group does have a tactical advantage among ruins... Fine, I very much hope that at the very least you won't get in the way.}
 {226}{}{So what happened?}
-{227}{}{Em... Here, I have the Brotherhood badge. Do you believe it now?}
-{228}{}{I know the name on this badge. You have one attempt to justify your lies.}
-{229}{}{Em... To hell with it. Die!}
-{230}{}{Yes, I'm not from the Brotherhood. I just thought you were about to shoot me...}
-{231}{}{Ugh, you pussy shit, and how can I trust you now?}
-{232}{}{Why don't you tell me what happened and we'll try to help each other?}
-{233}{}{Look, I know you're in trouble. Now it doesn't matter who serves where. It is important to help each other.}
-{234}{}{OK. Don't try to fool my balls anymore. I don't tolerate lies.}
-{235}{}{Uh, okay. Maybe then you'll tell the truth, what are you doing here?}
+{227}{}{Umm... Here, look, I have a Brotherhood dog tag. Do you believe me now?}
+{228}{}{I know the name on that dog tag. You have exactly one chance to explain yourself.}
+{229}{}{Umm... Eh, go to hell. Die!}
+{230}{}{Yes, I am not from the Brotherhood. It just looked like you were going to shoot me...}
+{231}{}{Dammit, cowardly piece of shit, and how am I supposed to trust you now?}
+{232}{}{Maybe you could tell me what happened, and then we could try helping each other out?}
+{233}{}{Look, I know that you're in trouble. Right now who serves who is not important - helping each other out is.}
+{234}{}{Okay. But don't you dare try and fool me. I don't tolerate lying.}
+{235}{}{Uhh, okay. Maybe you should then tell the truth about why you're here?}
 
-{240}{}{My squad was ambushed by local creatures. In all this turmoil, I have lost the rest of the team and cannot contact them. Besides, I injured my leg during the fight.}
-{241}{}{Aren't you military? And even with a full set.}
-{242}{}{Clear. The operation failed before it even started.}
-{243}{}{No one expected to encounter resistance in these ruins. We thought there was no life here, so we went through the city so as not to encounter mutants in the desert.}
-{244}{}{Okay. So what's your plan?}
-{245}{}{I need to assemble a squad if there is anyone else to assemble. And somehow put yourself in order to continue to follow to the destination... Hey, show your civic duty - do me a favor.}
-{246}{}{Sure. I can't leave a man in trouble.}
-{247}{}{I knew I could rely on you. If I complete my mission, I will not remain in debt.}
-{248}{}{That's right.}
-{249}{}{You're out of luck, soldier. I'm not the kind of person who cares about other people's problems. Give away all your ammunition in a good way...}
-{250}{}{You're talking about a dangerous event. Why on earth would I take such a risk?}
-{251}{}{Don't worry about the payment. When we get to the base, you will be rewarded handsomely.}
-{252}{}{I really hope so.}
-{253}{}{Yes, by the way. My name is Paladin Barkley. You can look around for now. But be careful on the way out, I've set a couple of traps there.}
-{254}{}{OK.}
-{255}{}{I'm not interested in awards. My village needs protection.}
-{256}{}{If we get to the base, I'll talk about your problem with the elders. In the meantime, help me.}
+{240}{}{My unit walked into an ambush made by these... by the things that live here. Amidst the chaos and confusion, I lost the other team members and now I can't establish communications with them. And I hurt my leg while fighting.}
+{241}{}{But aren't you military? And more than that, fully equipped.}
+{242}{}{I see. The operation failed before it could even begin.}
+{243}{}{Nobody expected to encounter resistance in these ruins. We were assuming there was no life here, so we chose to walk through the city to not deal with the mutants in the desert.}
+{244}{}{Alright. What's the plan, then?}
+{245}{}{I need to gather the unit, if there is anyone left to gather, that is. And somehow deal with my leg, otherwise I won't be able to go to the destination... Hey, can you do your civic duty - that is, do me a favor?}
+{246}{}{Of course. I can't just leave a fellow human being in trouble.}
+{247}{}{I knew I could count on you. If I continue my mission, then I won't owe anything to anyone.}
+{248}{}{Damn right.}
+{249}{}{You really aren't a lucky person, soldier. I am not the kind of person to care about other people's problems. Now, you can give me your ammo either the easy way, or the hard way...}
+{250}{}{You're talking about quite a dangerous activity. Why should I take that kind of risk?}
+{251}{}{Don't worry about the reward. When we get to the base, you will be generously rewarded.}
+{252}{}{Very much hope so.}
+{253}{}{Oh, and by the way. My name is Barkley. Paladin Barkley. You can take a look around, but be careful at the exit, I set up a couple of traps.}
+{254}{}{Okay.}
+{255}{}{I need no reward. My village needs protection.}
+{256}{}{If we get to the base, I'll talk about your problem with the elders. And right now, you help me.}
 {257}{}{Okay.}
 
-{260}{}{Show me how to get out of here safely.}
-{261}{}{There are several traps in the corridor. Watch your feet carefully.}
+{260}{}{Show me how I can safely get out of here.}
+{261}{}{The corridor has a few traps. Look where you step.}
 {262}{}{Thank you.}
-{263}{}{Listen, I have a bunch of questions.}
+{263}{}{Listen, I have a ton of questions.}
 
-#Repeat dialog
+#Repeated dialogue
 {300}{}{Report the situation.}
-{301}{}{Everything is calm.}
+{301}{}{All clear.}
 {302}{}{Yes?}
 {303}{}{We need to talk.}
 {304}{}{What do you want to know?}
-{305}{}{Enough talking.}
-{306}{}{Put aside the conversations. We're not up to it right now.}
-{307}{}{Yes, I guess you're right.}
-{308}{}{A little more, and I'll shoot all these mutants!}
-{309}{}{Come on, never mind.}
+{305}{}{Enough talk.}
+{306}{}{No talk. This is not the time.}
+{307}{}{Yes, I suppose you're right.}
+{308}{}{A bit more and I'll shoot 'em all down!}
+{309}{}{Fine, forget it.}
 
-{310}{}{So, what should I do?}
-{311}{}{Heal my injury and find the rest of the team. After that, we will discuss the further plan.}
-{312}{}{The task is clear.}
-{313}{}{A serious wound. I may not be able to cope.}
-{314}{}{Just find the medicines. They were among the things in our convoy. Hurry up, while the ghouls haven't gutted everything yet.}
-{315}{}{How did you manage to do that?}
-{316}{}{Caught in a trap. These creatures set traps in our path and set a smoke screen. Sons of bitches, got caught like a rookie...}
-{317}{}{Clearly. Let's repeat our plan.}
-{318}{}{I'm starting the task.}
-{319}{}{I'm going on a search.}
+{310}{}{Alright, what do I need to do?}
+{311}{}{Heal my trauma and find the other members of the team. After that, we'll make a plan of what to do next.}
+{312}{}{The goal is clear.}
+{313}{}{A serious injury. I won't be able to do it.}
+{314}{}{Just find medicine. They were among the things in our convoy. Hurry up before the ghouls scatter them.}
+{315}{}{How did this happen to you?}
+{316}{}{The fuckers set up traps behind us and put up a smoke screen. I walked into one. Dammit, they played us like a fiddle...}
+{317}{}{Alright. Could you repeat our plan?}
+{318}{}{Beginning task.}
+{319}{}{I'm off to find them.}
 
-{320}{}{Who else was in the squad?}
-{321}{}{Several people. Half of them are dead, I don't know anything about the rest.}
+{320}{}{Who else is in the unit?}
+{321}{}{A few people. A half are definitely dead, and about the others I have no idea.}
 {322}{}{Go on.}
-{323}{}{I'm going on a search.}
-{324}{}{The last time I was contacted by a squire in the supermarket area, but since then the connection with him has been lost.}
-{325}{}{The knight held the defense at the ambush point, right next to the monument.}
-{326}{}{Diana was also with us, she is one of the Followers of the Apocalypse. I heard her screams in the distance the ghouls were dragging her somewhere.}
-{327}{}{Who else was on the team?}
-{328}{}{What if they're all dead?}
-{329}{}{Then I am obliged to collect their name tags to inform the command and honor their memory.}
-{330}{}{Where did the attack on the convoy take place?}
-{331}{}{It's in the northwest, on the fifth highway. Right next to some monument.}
-{332}{}{Clear.}
-{333}{}{I don't understand how the ghouls were able to overcome an armed convoy.}
-{334}{}{These creatures are wild, but they are smart enough to fight. A long life in the ruins has taught them a lot.}
+{323}{}{I'm off to find them.}
+{324}{}{The last time the squire talked to me was around the supermarket, since then I lost contact with him.}
+{325}{}{The knight was holding them off right in the middle of the ambush, by the monument.}
+{326}{}{Diana was also with us, she's from the Followers of the Apocalypse. I heard her screaming in the distance. Looks like the ghouls were carrying her somewhere.}
+{327}{}{Who else was in the team?}
+{328}{}{And what if they're all dead?}
+{329}{}{Then it is my duty to collect all their dog tags, to inform my superiors and honor their memory.}
+{330}{}{Where was the convoy attacked?}
+{331}{}{To the north-west, on the fifth highway. Right beside some kind of monument.}
+{332}{}{Alright.}
+{333}{}{How come ghouls could defeat an armed convoy?}
+{334}{}{These things may be closer to animal than humankind, but they have enough intelligence left to fight. Looks like their long lives among the ruins taught them well.}
 {335}{}{What did they do?}
-{336}{}{We were ambushed. Ghouls set traps on the road and lured us to the most inconvenient place for protection. We were surrounded and began to throw bags of dust. A smoke screen rose around them, from which everyone was dragged away in turn.}
+{336}{}{We walked right into an ambush. The ghouls set up traps along the road and lured us into a hard-to-defend place. We were surrounded and were bombarded with bags containing dust. This caused a smoke screen to appear, which the ghouls promptly used to capture them all.}
 {337}{}{Go on.}
-{338}{}{We killed a few of the creatures, but there were too many of them. And when the frontal attack began, only I managed to cope. I had to retreat... Damn, what a pity I didn't have time to use the power armor!}
-{339}{}{I'm sorry.}
-{340}{}{Everyone has failures, Paladin. You are no exception.}
-{341}{}{Someone else?}
-{342}{}{OK. Let's see what's left there.}
+{338}{}{We killed some, but there was just too damn many of them. And when they attacked us head-on, only I managed to get out. I had to retreat... Dammit, if only I could have used the power armor!}
+{339}{}{I'm very sorry.}
+{340}{}{Everyone fails sometimes, paladin. You are no exception.}
+{341}{}{Anything else?}
+{342}{}{Good. Let's see what's left there.}
 {343}{}{You have a serious wound. What can I do?}
-{344}{}{I'm almost back to normal. It remains to find the missing members of the squad. After that, we will discuss the further plan.}
-{345}{}{We need to find Diana. Perhaps she is still alive and needs help.}
-{346}{}{We need to find Diana. Maybe she's still alive and needs help. I would also like to get some treatment.}
-{347}{}{I managed to find the knight's body. I will continue to search.}
-{348}{}{I managed to find the squire's body. I will continue to search.}
+{344}{}{I'm almost back to normal. We need to find the missing members of the unit. We'll discuss what to do next after that.}
+{345}{}{We have to find Diana. It may be possible that she is still alive and is in need of help.}
+{346}{}{We have to find Diana. It may be possible that she is still alive and is in need of help. And I would use some medical help.}
+{347}{}{I managed to find the body of a knight. I will continue searching.}
+{348}{}{I managed to find the body of a squire. I will continue searching.}
 
-{350}{}{Your brothers are dead. Here are their tokens. I'm sorry.}
-{351}{}{They died fighting like real warriors. Bright memory to them... What about the girl? We had a civilian with us, a teacher from the Followers of the Apocalypse.}
+{350}{}{Your brothers are dead. Here are their dog tags. I'm very sorry.}
+{351}{}{They died in battle like true warriors. Blessed be their memory... And what about the girl? There was a civilian with us, a teacher from the Followers of the Apocalypse.}
 {352}{}{I don't know anything about her.}
-{353}{}{I need to know for sure. The command gave a clear instruction to escort her to her destination. She was entrusted to my protection. I can't break orders by leaving her to her own devices.}
+{353}{}{I need to know everything about her. Command gave a clear directive - escort her to the destination. She was supposed to be under my protection. I can't disobey orders by leaving her behind.}
 {354}{}{I'll try to find out what happened to her.}
-{355}{}{Diana is forcibly detained in the building of the old church.}
-{356}{}{Holding back? Who! These mutants don't even have articulate speech.}
-{357}{}{No, not these, others. They have some kind of cult there.}
-{358}{}{I don't understand anything. Maybe this cult controls the rippers? We need to find out more information. But even more important is to save Diana from captivity.}
-{359}{}{I'll think about how it can be done.}
-{360}{}{Diana is dead. That's right.}
-{361}{}{It's a bad business. I'm going to get a big reprimand, and maybe a tribunal because of this girl. I wouldn't want to go back to a stuffy bunker in California. Okay, thanks for the help, comrade.}
-{362}{}{Is that all you've been looking for?}
-{363}{}{Diana is waiting for us at the exit. You can talk to her.}
-{364}{}{Great job, comrade. I owe you.}
-{365}{}{Is that all you've been looking for?}
-{366}{}{Diana has already left the city. She didn't want to linger in this hell.}
-{367}{}{She left and didn't warn you? What a bitch. I've been risking my life here trying to find her... Okay, let him roll wherever he wants. Now she is not under my command.}
-{368}{}{Is that all you've been looking for?}
+{355}{}{Diana is being forcibly kept in the old church building.}
+{356}{}{Forcibly kept? By who? These mutants can't even really talk in the same way we do.}
+{357}{}{No, not them, other mutants. They have some kind of cult there.}
+{358}{}{What the hell is going on. Maybe the cult is operated by rippers? We need to know more. But more importantly - save Diana.}
+{359}{}{I'll try to conjure up a way to do that.}
+{360}{}{Diana surely is dead.}
+{361}{}{Bad business. I will be heavily reprimanded, and maybe even be court-martialed because of that girl. I wouldn't want to return to the suffocating air in the California bunker. Alright, thanks for the help, comrade.}
+{362}{}{Is this everyone you were looking for?}
+{363}{}{Diana is awaiting us by the entrance. You can go talk to her.}
+{364}{}{Excellent work, comrade. I'm in your debt.}
+{365}{}{Is this everyone you have been looking for?}
+{366}{}{Diana already left. She didn't want to stay in this hellish place.}
+{367}{}{Left without telling me? What a bitch. Here I was risking my own life to find her... Fine, fuck her. She is now no longer under my command.}
+{368}{}{Is this everyone you have been looking for?}
 {369}{}{I managed to find Diana.}
-{370}{}{What's wrong with her? Is she alive?}
-{371}{}{I'm going to look for the others.}
-{372}{}{They died fighting like real warriors. Bright memory to them...}
-{373}{}{That's right. But I still can't return to the base without completing the main task.}
-{374}{}{What kind of task?}
-{375}{}{Delivery of power armor. This was the main cargo that we were taking to the base in Puerto. Now the armor is in the hands of the Rippers. This is a huge loss.}
-{376}{}{There is no power armor where you were attacked. The mutants dragged her along with other things to the old church.}
-{377}{}{So we need to return it. You already know how to get in and out there without much risk. I rely on your resourcefulness, comrade.}
-{378}{}{It won't be easy to get this piece of hardware out. But really - who else, if not me? I'm going on a mission.}
-{379}{}{The armor is with me. If it wasn't for her, I wouldn't have gotten out of there alive.}
-{1379}{}{The armor is with me. If it wasn't for her, I wouldn't have gotten out of there alive.}
-{380}{}{Delivery of power armor. We were taking her to the base in Puerto. You'll have to bring her back to our base.}
-{381}{}{Great job. But you'll have to bring her back to our base.}
-{382}{}{What, to give away such a cool armor? Don't you want too much?}
-{383}{}{This is the property of the Brotherhood of Steel. Is there a problem, civilian?}
-{384}{}{Yes. Problems. At you. Suck it, because the armor is mine now!}
-{385}{}{No, no problem. I will be happy to get rid of the extra load.}
-{386}{}{Of course, I will be happy to get rid of the extra load.}
-{387}{}{Thank you for your help. You'll make a great fighter. When I get to the base, I'll tell the command about everything. In the meantime, take the armor to the quartermaster. I still need to recuperate before sending it.}
-{388}{}{See you at the base, Paladin Barkley.}
-{389}{}{Sorry, but I've already taken the armor to the quartermaster in Puerto.}
-{1389}{}{Sorry, but I already took the armor to the quartermaster in Puerto.}
-{390}{}{Thank you for your help. You'll make a great fighter. When I get to the base, I'll tell the command about everything. In the meantime, I need to recuperate before leaving.}
-{391}{}{See you at the base, Paladin Barkley.}
-{392}{}{Thank you for your help. You remind me of a resident from the vault who helped us deal with super mutants in California. No civilian has ever been so useful to the Brotherhood. Keep it up, fighter.}
-{393}{}{For the sake of the Brotherhood, it's worth trying. Do you mind if we continue our journey?}
-{394}{}{That's right. Now I can go to the base with a clear conscience. Although I can already imagine what a shame awaits me there. The whole squad was killed, and the cargo was lost. It will be remembered for a long time, even if the tribunal recognizes that I did everything right.}
-{395}{}{Surely your brothers will understand you.}
-{396}{}{You're definitely in trouble. Beyond any doubt.}
-{397}{}{Thank you for your help. You'll make a great fighter. When I get to the base, I'll tell the command about everything. In the meantime, I need to recuperate before sending.}
-{398}{}{Maybe we'll see each other again. Good luck.}
-{399}{}{Then come along with me? I need combat support.}
+{370}{}{What happened to her? Is she alive?}
+{371}{}{I'll go find the others.}
+{372}{}{They died in battle like true warriors. Blessed be their memory...}
+{373}{}{Exactly. But still, I can't return to base until I complete the main objective.}
+{374}{}{What kind of objective?}
+{375}{}{Delivering a set of power armor. This was the main object that we were delivering to the Puerto base. Now it's under their control. This is a terrible loss.}
+{376}{}{There was no power armor in the place where you were attacked. The mutants carried it away to the old church building just as they did with all your other items.}
+{377}{}{That needs it has to be returned. Looks like you already know how to go in and out of there without much risk. I'm relying on your resourcefulness, comrade.}
+{378}{}{It'll be hard carrying that hunk of metal out of there. But it's true - if not me, who else? Proceeding.}
+{379}{}{I have the power armor. If not for it, I wouldn't get out of there alive.}
+{1379}{}{I have the power armor. If not for it, I wouldn't get out of there alive.}
+{380}{}{Power armor delivery. We were delivering it to the Puerto base. You'll have to return it to our base.}
+{381}{}{Excellent work. But you'll have to return it to our base.}
+{382}{}{Wha-at, giving up this cool armor? Aren't you asking a bit too much?}
+{383}{}{This set of T-51b powered infantry armor is the property of the Brotherhood of Steel. You got a problem with that, civilian?}
+{384}{}{Yes, someone here has problems. It's you. Take it if you can, that power armor is mine now!}
+{385}{}{No, no problems at all. I'm happy to get rid of this excess cargo.}
+{386}{}{Of course, I'll happily get rid of this excess cargo.}
+{387}{}{Thanks for the help. You'll make a fine warrior. When I get to the base, I'll explain everything to command. But for now, bring the armor to the quartermaster. And for now, I need some rest.}
+{388}{}{See you at the base, paladin Barkley.}
+{389}{}{Sorry, but I already delivered the armor to the quartermaster in Puerto.}
+{1389}{}{Sorry, but I already delivered the armor to the quartermaster in Puerto.}
+{390}{}{Thanks for the help. You'll make a fine warrior. When I get to the base, I'll explain everything to command. And for now, I need some rest.}
+{391}{}{See you at the base, paladin Barkley.}
+{392}{}{Thanks for the help. You know, you remind me of one Vault dweller, he helped us get rid of the supermutants in California. Since then, no civilian has been as helpful as they were. Right on, warrior.}
+{393}{}{The Brotherhood is worth fighting for. Maybe we could continue our adventure, if you don't mind?}
+{394}{}{Exactly. Now I can go back to the base with a clear conscience. Even though I can already imagine the kind of shame that is waiting for me there. The entire unit wiped out, the cargo lost. This will be remembered for a long time, even if the tribunal admits I did everything right.}
+{395}{}{I'm sure your brothers will understand.}
+{396}{}{Yeah, trouble definitely is waiting for you. Without a doubt.}
+{397}{}{Thanks for the help. You'll make a fine warrior. When I get to the base, I'll explain everything to command. And for now, I need some rest.}
+{398}{}{Perhaps we'll see each other again sometime. Good luck.}
+{399}{}{Then why not come with me? I need combat support.}
 
 #Team
-{400}{}{Will you come with me? I could use the protection of an experienced soldier.}
-{401}{}{I have no doubt. But, as you can see, I'm not in proper shape right now. With such an injury, I can hardly even defend myself.}
-{402}{}{Clearly. But can you at least talk?}
-{403}{}{Okay, I'll manage on my own.}
-{404}{}{I have no doubt. But it's easier to show up in front of the rippers together. This is not the best tactic right now.}
-{405}{}{If you were soldiers, I would still take command of you. But with such a squad, we will lose any tactical advantage. Get rid of the ballast if you want my protection.}
-{406}{}{Then I withdraw my offer.}
-{407}{}{Okay, I'll talk to the others.}
-{408}{}{I'm in your debt. If you're going to our base in Puerto, then I can accompany you.}
-{409}{}{Yes. That's where I'm going. Let's go together.}
-{410}{}{No. I have another destination. Maybe another time our paths will converge.}
-{411}{}{Now we need to put the weapons away.}
-{412}{}{Are you out of your mind? Do you want to put me under attack?}
-{413}{}{Really, a stupid idea. Forget it.}
-{414}{}{No, we need to show our friendliness so as not to create a conflict.}
-{415}{}{Hmm. Okay. But keep in mind - I'm pulling out a gun at a speed of 0.75 seconds.}
-{416}{}{That's great.}
-{417}{}{Let's get your old armor back. And give this one to me.}
-{418}{}{With pleasure. The old one was my size.}
-{419}{}{That's great.}
-{420}{}{Defend this position. I need to get close.}
-{421}{}{Good idea. Go scouting, and I'll clean the ammunition.}
-{422}{}{Uh, okay.}
-{423}{}{Get ready. We can move on.}
-{424}{}{Lead the way. I hope you know a safe route.}
-{425}{}{Uh, sure. Let's go.}
-{426}{}{It's time to say goodbye. Then our paths diverge.}
-{427}{}{Are you sure? Okay. But don't forget about Barclay, old man.}
-{1427}{}{Are you sure? Okay. But don't forget about Barclay, Sister.}
-{428}{}{I won't forget. See you later, Paladin Barkley.}
-{429}{}{What am I doing? I need you not to become a breakfast of glowing ants.}
-{430}{}{Come with me. I need the protection of an experienced soldier.}
-{431}{}{But without your protection, I could die.}
-{432}{}{Believe me, alone you have more chances to stay in the shadows. It'll attract too much ghoul attention.}
-{433}{}{Clear.}
-{434}{}{I definitely can't do it without you. If you refuse to participate, then I'm leaving town.}
-{435}{}{I knew I couldn't rely on you... Okay, my leg doesn't hurt so much anymore, I can move.}
-{436}{}{That's good.}
-{437}{}{You know, you're going to be a burden. I'd rather walk alone. Later.}
-{438}{}{I'm in your debt. If you need protection and escort, then I am at your disposal.}
-{439}{}{Let's go, we are waiting for a long and dangerous road.}
+{400}{}{Will you come with me? Having an experienced warrior defend me would definitely help.}
+{401}{}{Sure. But, as you see, I am not in the best shape. With that kind of trauma I'll have a hard time defending even myself.}
+{402}{}{Alright. But can you at least talk?}
+{403}{}{Fine, I'll do it myself.}
+{404}{}{Yes. But with two, it's easier to glow in front of these things. At the moment, this is not the best approach.}
+{405}{}{If you were soldiers, I'd give you orders. But with this kind of unit we'll lose any kind of tactical superiority we could have. Get rid of the ballast if you want me to defend you.}
+{406}{}{Then I am no longer interested.}
+{407}{}{Fine, I'll talk to the others.}
+{408}{}{I'm in your debt. If you're going to our base in Puerto, then I can escort you there.}
+{409}{}{Yes, I'm heading right there. Let's go there together.}
+{410}{}{No. My destination is different. Perhaps some other time our paths will cross.}
+{411}{}{We need to put away our weapons for now.}
+{412}{}{Are you out of your mind? You want to stab me in the back or something?}
+{413}{}{On a second thought, you're right, it was a dumb idea. Forget it.}
+{414}{}{No, we need to show that we are friendly. To avoid creating conflict.}
+{415}{}{Hm-m. Fine. But keep in mind - I can take out my gun in 0,75 seconds.}
+{416}{}{Great.}
+{417}{}{Why don't you wear your previous armor, and give this one to me?}
+{418}{}{With pleasure. The previous one was tailored for me.}
+{419}{}{Great.}
+{420}{}{Defend this position. I need to go somewhere nearby.}
+{421}{}{Good idea. Go scout while I clean the ammunition.}
+{422}{}{Uhh, okay.}
+{423}{}{Prepare to go further.}
+{424}{}{Lead the way. I hope you know of a safe route.}
+{425}{}{Uhh, of course. Let's go.}
+{426}{}{It is time to say goodbye. This is where our paths diverge.}
+{427}{}{You sure? Fine. But don't forget about Barkley, friend.}
+{1427}{}{You sure? Fine. But don't forget about Barkley, friend.}
+{428}{}{I won't. Until we meet again, paladin Barkley.}
+{429}{}{What was I even thinking of doing? I need you to not be breakfast for glowing ants.}
+{430}{}{Let's go. I need an experienced warrior to defend me.}
+{431}{}{But I could die without your help.}
+{432}{}{Believe me, alone you have a much better chance of remaining in the dark. I'll draw the attention of too many ghouls.}
+{433}{}{Alright.}
+{434}{}{I'll definitely not manage to do it without you. If you refuse, then I'm outta here.}
+{435}{}{I just knew I couldn't count on you... Fine, the leg doesn't hurt that much, I can move.}
+{436}{}{Good.}
+{437}{}{You know, you really will be a burden. It will be better to go alone. Bye.}
+{438}{}{I'm in your debt. If you need help, I'm listening to you.}
+{439}{}{Let's go. A long and dangerous trek awaits us.}
 
-{450}{}{What do you think about this place?}
-{451}{}{Nothing special. There's no point in lingering here.}
-{452}{}{Clear.}
-{453}{}{This is an outpost of the Brotherhood. Welcome. But keep in mind that this is a strict regime object. The command won't like it if you flit around here without permission.}
-{454}{}{I still can't believe our fort has been destroyed. The best of the best served in it.}
-{455}{}{The next ruins of the old city. All of California lies in similar ruins.}
-{456}{}{After Inferno, this place seems like paradise. And it seems that there was not without the Brotherhood of Steel.}
-{457}{}{It seems that tinsmiths live here. The Brotherhood had a contract with them to maintain the outpost.}
-{458}{}{A big developing city. In California, only the Hub can compare with it. It's nice to see that civilization is getting back on its feet.}
-{459}{}{I read about this church in the scribes' reports. It seems the local leader is on good terms with the Brotherhood.}
+{450}{}{What do you think of this place?}
+{451}{}{Not much. There is no point staying here.}
+{452}{}{Right.}
+{453}{}{This is a Brotherhood outpost. Welcome. But keep in mind that there are strict rules here. Command won't like you going around without permission.}
+{454}{}{I still can't believe our fort was destroyed. The best of the best served there.}
+{455}{}{Just some more ruins of an old city. All of California is in a similar shape.}
+{456}{}{This place looks like heaven after Inferno. But still, the Brotherhood was there too.}
+{457}{}{Looks like tinsmiths live here. They had an agreenment with the Brotherhood to maintain technology in the outpost.}
+{458}{}{A big developing city. Only place in California one could compare it to is the Hub. It's good to see civilization getting back on it's feet.}
+{459}{}{I read about this church in the reports made by the scribes. Looks like the local leader has good relations with the Brotherhood.}
 {460}{}{Sorry, this is classified information, I can't discuss it with you.}
-{461}{}{Not bad organization. Although they are far from the order in our Brotherhood.}
-{462}{}{This is not a Vault. This is a crypt.}
-{463}{}{This is our outpost. Of course, it does not compare with the main base. But it's better than nothing.}
-{464}{}{I would tell you a lot, but you already know everything perfectly, brother.}
-{1464}{}{I would tell you a lot, but you already know everything perfectly, sister.}
-{465}{}{There's nothing else I can do. Without Brotherhood, I can only help people like you.}
-{466}{}{This is the fort you were going to. Aren't you happy?}
-{467}{}{A complete disappointment. The General Staff in California will be angry if they find out how things are going here. You know, I wouldn't mind accompanying you to the nearest settlements. I want to get some fresh air before returning to work.}
-{468}{}{Inferno still dreams in nightmares, right? I understand.}
+{461}{}{The way they organize themselves isn't bad. Even though they have a long way to go to achieve the kind of order we have in our Brotherhood.}
+{462}{}{This is no vault. It's a crypt.}
+{463}{}{This is our outpost. Of course, one can't even begin to compare to the main base, but it's better than nothing.}
+{464}{}{I'd say a lot, but you know it perfectly well, brother.}
+{1464}{}{I'd say a lot, but you know it perfectly well, sister.}
+{465}{}{There's nothing left for me. Without the Brotherhood, I can only help people like you.}
+{466}{}{Isn't this the fort you were heading to. Are you not happy?}
+{467}{}{Just pure dissapointment. California HQ will be mad if they know how things are going here. You know, I wouldn't mind following you to the nearby settlements. I want to breathe some fresh air before returning to service.}
+{468}{}{Still having nightmares about Inferno, yes? I understand.}
 
 {470}{}{Tell me about your Brotherhood.}
-{471}{}{I can't tell you much. Some information may have strategic value.}
-{472}{}{Then let's go.}
-{473}{}{Where is the main base of the Brotherhood?}
-{474}{}{I see. That's all I was interested in about the Brotherhood.}
+{471}{}{I can't say much. Some of the information may be strategically important.}
+{472}{}{Then forget it.}
+{473}{}{Where is the main base of the Brotherhood located?}
+{474}{}{Alright. This is everything I wanted to know about the Brotherhood.}
 {475}{}{Where is your local base located?}
-{476}{}{On the Gulf coast, in Rocky Point. Locals call it simply Puerto.}
-{477}{}{This question should be asked to the command. I'm just a soldier, following orders.}
-{478}{}{What are you doing in the Sonoran desert?}
-{479}{}{The General Staff is far away in California. And here, in the Sonoran desert, we have a small fort.}
-{480}{}{I don't want to talk about it. Such a ridiculous defeat in Puerto only fills me with anger.}
-{481}{}{I can't believe...}
+{476}{}{On the coast of the bay, in Rocky Point. Locals just call it Puerto.}
+{477}{}{That question should be reserved for command. I'm just a soldier fulfilling my orders.}
+{478}{}{What are you doing in the Sonora desert?}
+{479}{}{HQ is a long way from here, in California. And here, in the Sonora desert, we have a small fort.}
+{480}{}{I don't want to talk about it. Such a preposterous defeat in Puerto only fills me with anger.}
+{481}{}{I can't believe it...}
 {482}{}{Are you okay?}
 {483}{}{My brothers and sisters... Such a ridiculous death... What could have happened?}
-{484}{}{Probably the negligence of the quartermaster or some kind of leak.}
-{485}{}{Nonsense!  We have always been careful about weapons and equipment! I refuse to believe that it was a mistake by someone from the staff. It could only be a diversion.}
-{486}{}{Well, you have a lot of enemies...}
-{487}{}{Okay, I'm sorry I yelled. After the events in Inferno, it's too much to get such a blow to the Brotherhood.}
-{488}{}{I understand. But now you are completely free from regulations and orders, aren't you?}
-{489}{}{I don't think I can put up with rural life in these wild lands. We should move on. Lead on, I'm still with you, comrade.}
+{484}{}{Probably some negligent quartermaster интенданта или какая-нибудь протечка.}
+{485}{}{Nonsense! We were always very careful with our technology and weaponry! I refuse to believe it was an error on behalf of the personnel. It could have only been sabotage.}
+{486}{}{Well, you do have plenty of enemies...}
+{487}{}{Fine, I'm sorry that I yelled at you. It's just after the events in Inferno, to discover such a blow to the Brotherhood - it's too much.}
+{488}{}{I understand. But on the bright side, you're now completely free and no longer have to fulfill orders, no?}
+{489}{}{I don't think I could ever be fine with rural life in these wild lands. We should continue moving on. Lead the way, I'm still with you, comrade.}
 {490}{}{Let's go.}
-{491}{}{Apparently, someone didn't like your Brotherhood very much.}
-{492}{}{Precisely! It could only be a diversion.}
-{493}{}{I blew up a couple of torpedoes in the hold. Are you not satisfied with this?}
-{1493}{}{I blew up a couple of torpedoes in the hold. Are you not satisfied with this?}
-{494}{}{Why?! What did the Brotherhood do to you?!}
-{495}{}{You have created too many troubles in Sonora. You don't belong here.}
-{496}{}{I don't even know. I just wanted to see the big bang.}
-{497}{}{I think I pressed the wrong button. I don't know how it happened.}
-{1497}{}{I think I pressed the wrong button. I don't know how it happened.}
-{498}{}{You're a beaten-up redneck! You should have died in the womb!}
-{499}{}{Well, well.}
+{491}{}{Looks like someone really didn't like your Brotherhood.}
+{492}{}{Exactly! It could have only been sabotage.}
+{493}{}{I blew up a couple of torpedoes in the hold. Problem?}
+{1493}{}{I blew up a couple of torpedoes in the hold. Problem?}
+{494}{}{Why?! What did the Brotherhood even do to you?!}
+{495}{}{You have caused too much trouble in Sonora. There is no place for you here.}
+{496}{}{I dunno, really. I just wanted to watch the big explosion.}
+{497}{}{Looks like I hit the wrong button. I have no idea how it happened.}
+{1497}{}{Looks like I hit the wrong button. I have no idea how it happened.}
+{498}{}{You're an idiot redneck! You should have died in the womb!}
+{499}{}{Hey, hey.}

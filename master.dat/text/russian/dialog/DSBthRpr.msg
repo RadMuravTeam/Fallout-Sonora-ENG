@@ -1,5 +1,5 @@
-{110}{}{This water heater needs repair.}
-{111}{}{This water heater is in working condition.}
-{112}{}{You have successfully repaired the heater.}
-{113}{}{It doesn't make sense to fix it.}
-{114}{}{The heater is not working. Local residents damaged the boiler room when they robbed this institution.}
+{110}{}{This water heater is in need of repair.}
+{111}{}{This water heater is in working order.}
+{112}{}{You have successfully repaired the water heater.}
+{113}{}{There's no point repairing this.}
+{114}{}{The heater doesn't work. The locals damaged the boiler room when they looted this establishment.}

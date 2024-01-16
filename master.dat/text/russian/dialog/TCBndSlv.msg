@@ -1,13 +1,13 @@
 {100}{}{You see a runaway slave.}
-{101}{}{You see one of the runaway slaves who settled in these ruins.}
+{101}{}{You see one of the runway slaves that have established themselves in these ruins.}
 
-{110}{}{The tinsmiths will pay for everything.}
-{111}{}{Did the tinsmiths separate you from your family? I understand...}
-{112}{}{If you hate tinkers, then you are among your own.}
-{113}{}{Do you want to join us?}
-{114}{}{Join us. We need more kamikaze saboteurs.}
-{115}{}{Do you have a weapon? And food or drink?}
-{116}{}{What are you staring at?}
-{117}{}{I have no idea what the Arizona National Bank is.}
-{118}{}{Money? We light fires with them. And what?}
-{119}{}{The struggle for freedom is all that remains for us.}
+{110}{}{Tinsmiths are gonna pay for everything.}
+{111}{}{Tinsmiths separated you from your relatives too? I understand...}
+{112}{}{If you hate tinsmiths, you're in the right place.}
+{113}{}{Want to join us?}
+{114}{}{Join us. We need more suicide saboteurs.}
+{115}{}{Got a weapon? What about food or booze?}
+{116}{}{What are you looking at?}
+{117}{}{I have no idea what the hell "National Bank of Arizona" means.}
+{118}{}{Money? We light fires with it. What's wrong with that?}
+{119}{}{Fighting for freedom is the only thing we have left to do.}

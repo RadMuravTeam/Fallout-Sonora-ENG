@@ -1,8 +1,8 @@
 {100}{}{You see a scientist.}
-{101}{}{You see a man with terrible skin. He is busy with some calculations.}
+{101}{}{You see a man with terrible skin. He is busy performing some kind of calculations.}
 
-{200}{}{hello}
-{201}{}{for now}
+{200}{}{Hi}
+{201}{}{Bye}
 
-{210}{}{hello}
-{211}{}{for now}
+{210}{}{Hi}
+{211}{}{Bye}
