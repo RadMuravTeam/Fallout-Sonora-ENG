@@ -7,9 +7,9 @@
 {213}{}{Goodbye.}
 
 {220}{}{What is that smell?}
-{221}{}{I'm cooking brahmin offal. Hands off! It's not for you. Now get out!}
+{221}{}{I'm cooking brahmin giblets. Hands off! It's not for you. Now get out!}
 {222}{}{Alright, alright.}
-{223}{}{I'm cooking brahmin offal. It's my favourite dish, but it's hard to get the correct spices.}
+{223}{}{I'm cooking brahmin giblets. It's my favourite dish, but it's hard to get the correct spices.}
 {224}{}{Smells wonderful! Can I try it?}
 {225}{}{The smell is certainly... unique. Is it even eatable?}
 {226}{}{Nothing I wouldn't give to our hero. Here, take a plate.}
