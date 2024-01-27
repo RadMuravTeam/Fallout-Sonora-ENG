@@ -21,8 +21,8 @@
 {109}{}{Fix the weather station}
 {110}{}{Eliminate the sect in Phoenix}
 {111}{}{Find Chris, he's probably hiding somewhere}
-{112}{}{The council decided to undermine the Flagstaff mines}
-{113}{}{The council decided to destroy the machine in Garage City}
+{112}{}{The Council decided to undermine the Flagstaff mines}
+{113}{}{The Council decided to destroy the machine in Garage City}
 {114}{}{The Council believes that Villa needs allies}
 
 #---------------------------------------------------------
@@ -30,11 +30,11 @@
 #---------------------------------------------------------
 
 {200}{}{Find Villa people in the Prisoner pen}
-{201}{}{In any way to release the tribesmen from prison}
+{201}{}{Release the tribesmen from the prison by any means necessary}
 {202}{}{Rescue the tribesmen from the trap in the mine}
 {203}{}{Repair the drilling robot}
 {204}{}{Eliminate the rat king in the mine}
-{205}{}{Someone attacks patrols in an abandoned area}
+{205}{}{Someone attacks patrols in the Abandoned Area}
 {206}{}{Take lunch to the mine administrator}
 {207}{}{Mercenary Davis owed the bar a hundred caps}
 {208}{}{Eliminate the infidel in the name of the Sacred Fire}

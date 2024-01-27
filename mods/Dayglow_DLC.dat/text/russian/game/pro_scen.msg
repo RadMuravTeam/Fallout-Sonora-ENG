@@ -2976,7 +2976,7 @@
 {153301}{}{This sign says "The road is closed."}
 {153400}{}{Commemorative plate}
 {153401}{}{A piece of polished stone with a metal plate on which the text is immortalized.}
-{153500}{}{Potty}
+{153500}{}{Pot}
 {153501}{}{An overturned pot with overripe fruits.}
 {153600}{}{Dryer}
 {153601}{}{Homemade hay dryer.}

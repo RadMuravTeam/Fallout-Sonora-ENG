@@ -6,27 +6,27 @@
 
 
 # Villa
-{200}{}{Sleeping area}
+{200}{}{Residential Area}
 {201}{}{Plaza de la Sombra}
 {202}{}{Villa Cellars}
-{203}{}{Maize plantations}
-{204}{}{Ancient ruins}
+{203}{}{Maize Plantations}
+{204}{}{Ancient Ruins}
 {205}{}{Founder's Crypt}
 #
 # Flagstaff
 {210}{}{Colony}
 {211}{}{Garrison}
-{212}{}{Uranium mine}
-{213}{}{Abandoned area}
-{214}{}{Mine drifts}
+{212}{}{Uranium Mine}
+{213}{}{Abandoned Area}
+{214}{}{Mine Drifts}
 {215}{}{Randy's Farm}
 #
 # Garage City
-{220}{}{Business district}
+{220}{}{Business District}
 {221}{}{Shacks}
-{222}{}{Abandoned factory}
+{222}{}{Abandoned Factory}
 {223}{}{Route 66}
-{224}{}{Cattle breeders' camp}
+{224}{}{Cattle Breeders' Camp}
 {225}{}{Mojave Water Pump}
 {226}{}{Clek Canyon}
 #
@@ -42,7 +42,7 @@
 {241}{}{Workshop}
 {242}{}{Storage}
 {243}{}{Control Center}
-{244}{}{Ambush site}
+{244}{}{Ambush Site}
 {245}{}{Old Town}
 #
 # Puerto Penasco
@@ -51,20 +51,20 @@
 {252}{}{Brotherhood of Steel Base}
 #
 # Rangers
-{260}{}{The road to the dam}
+{260}{}{The Road to the Dam}
 {261}{}{Dam}
 {262}{}{Aqueduct}
-{263}{}{Radio station}
+{263}{}{Radio Station}
 {264}{}{Crossing}
 {265}{}{Repeater}
 {266}{}{Giers-Wash}
 {267}{}{Citadel}
 #
 # Phoenix
-{270}{}{City gates}
+{270}{}{City Gates}
 {271}{}{Downtown}
 {272}{}{Slums}
-{273}{}{Power plant}
+{273}{}{Power Plant}
 {274}{}{The Area of the Atom}
 {275}{}{Cathedral}
 {276}{}{Vault 25}
@@ -74,18 +74,18 @@
 #
 # Oil Platform
 {280}{}{Fishermen's Village}
-{281}{}{Oil platform}
-{282}{}{Oil platform}
-{283}{}{Oil platform}
+{281}{}{Oil Platform}
+{282}{}{Oil Platform}
+{283}{}{Oil Platform}
 {284}{}{Black Lagoon}
 #
 # Casa Grande
-{290}{}{Water station}
+{290}{}{Water Station}
 {291}{}{Hacienda}
-{292}{}{Burial ground}
-{293}{}{Ruins of the school}
-{294}{}{Abandoned bar}
-{295}{}{Railway station}
+{292}{}{Burial Ground}
+{293}{}{Ruins of the School}
+{294}{}{Abandoned Bar}
+{295}{}{Railway Station}
 #
 # Hermosillo
 {300}{}{Rancho Dominguez}
@@ -93,21 +93,21 @@
 {302}{}{Fort}
 #
 # San Felipe (Old Lighthouse)
-{310}{}{Settlement at the lighthouse}
+{310}{}{Settlement at the Lighthouse}
 {311}{}{Fondeport}
 {312}{}{Cerro Picacho del Diablo}
 #
 # Inferno
-{320}{}{Traffic congestion}
-{321}{}{Sleeping quarter}
+{320}{}{Traffic Congestion}
+{321}{}{Sleeping Quarter}
 {322}{}{Supermarket}
-{323}{}{Police station}
-{324}{}{The mysterious mansion}
+{323}{}{Police Station}
+{324}{}{The Mysterious Mansion}
 {325}{}{Main Highway}
 #
 # Casa Nueva
 {330}{}{Settlement}
-{331}{}{Agave plantations}
+{331}{}{Agave Plantations}
 {332}{}{Greenhouses}
 {333}{}{Greenhouses}
 {334}{}{Quarry}
@@ -136,8 +136,8 @@
 #
 # Santa Ana
 {380}{}{Plaza Zaragoza}
-{381}{}{Ancient monument}
-{382}{}{Ancient cemetery}
+{381}{}{Ancient Monument}
+{382}{}{Ancient Cemetery}
 #
 # ! Empty slot
 {390}{}{Desert}
@@ -158,7 +158,7 @@
 # Brotherhood Camp
 {440}{}{Desert camp}
 {441}{}{Camp in Kaborka}
-{442}{}{Camp in the mountains}
+{442}{}{Camp in the Mountains}
 #
 # Raiders
 {450}{}{Mainline Camp}
@@ -194,9 +194,9 @@
 {489}{}{Highway}
 #
 # Random Encounter Coast
-{490}{}{The coast}
-{491}{}{The coast}
-{492}{}{The coast}
+{490}{}{The Coast}
+{491}{}{The Coast}
+{492}{}{The Coast}
 {493}{}{Coast}
 #
 # Explosion crater in Puerto
@@ -263,7 +263,7 @@
 {679}{}{Desert}
 #
 # Winon Camp
-{680}{}{Camp in the mountains}
+{680}{}{Camp in the Mountains}
 
 
 #######################################################
@@ -276,7 +276,7 @@
 {1000}{}{Desert}
 {1001}{}{Mountains}
 {1002}{}{Ruins}
-{1003}{}{The coast}
+{1003}{}{The Coast}
 
 # Signature of the location not yet studied:
 {1004}{}{Unknown}
