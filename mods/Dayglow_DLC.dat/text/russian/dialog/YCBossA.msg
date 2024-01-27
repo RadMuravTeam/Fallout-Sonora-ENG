@@ -1,5 +1,5 @@
-{100}{}{You see Senor Gustavo.}
-{101}{}{You see Senor Gustavo, the manager of San Isidro.}
+{100}{}{You see senor Gustavo.}
+{101}{}{You see senor Gustavo, the manager of San Isidro.}
 {102}{}{Here I am the law!}
 {103}{}{Do ghouls need radio communication? We will help them — and then they will respect us a lot.}
 {104}{}{Meet me at the pier.}
@@ -54,7 +54,7 @@
 #Repeat dialog
 {250}{}{Speak, smooth-skinned.}
 {1250}{}{Speak, smooth-skinned.}
-{251}{}{Goodbye, Senor Gustavo.}
+{251}{}{Goodbye, senor Gustavo.}
 {252}{}{What are you up to, normie?}
 {1252}{}{What are you up to, smooth face?}
 {253}{}{Look who we have here. A smooth muzzle begs for a good spanking. Don't worry, I'll save your skin for grafting onto my mortal body. In the meantime, you will tell me everything.}

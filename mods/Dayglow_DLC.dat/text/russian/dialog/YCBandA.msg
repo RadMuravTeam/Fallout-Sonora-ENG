@@ -33,8 +33,8 @@
 {224}{}{.}
 {225}{}{I know you, }
 {226}{}{. You're nothing but trouble. Be reasonable and don't bother me in vain.}
-{227}{}{Greetings, Senor normie.}
-{1227}{}{Greetings, Senora Normalka.}
+{227}{}{Greetings, senor normie.}
+{1227}{}{Greetings, senora normie.}
 {228}{}{Greetings, }
 {229}{}{. I hope you're smart enough not to cause problems here.}
 {230}{}{I think I should go.}
