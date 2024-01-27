@@ -24,28 +24,28 @@
 {123}{}{Something is happening in the southeast. I hope it won't affect us.}
 {124}{}{It looks like a war has started in the southeast.}
 
-{125}{}{I would rather señor Andres returned from slavery.}
+{125}{}{I would rather senor Andres returned from slavery.}
 {126}{}{Our new leader lacks the maturity to manage the community.}
 {127}{}{Our leader should not be contradicted.}
 
-{128}{}{Someone has to save señora Maria from slavery.}
-{129}{}{After the death of señora Maria, it will be difficult.}
+{128}{}{Someone has to save senora Maria from slavery.}
+{129}{}{After the death of senora Maria, it will be difficult.}
 {130}{}{Thank heaven, Maria has also returned to the Villa!}
 
 {131}{}{Glory to our savior!}
-{132}{}{señor Andres brought up a real hero.}
+{132}{}{Senor Andres brought up a real hero.}
 {133}{}{The viceroy of Andres shows great promise.}
 
-{134}{}{Hush! That bastard of señor Andres is up to something.}
-{135}{}{señor Andres raised a real devil.}
+{134}{}{Hush! That bastard of senor Andres is up to something.}
+{135}{}Senor Andres raised a real devil.}
 {136}{}{In bad times, we need a strong leader.}
 
 {1131}{}{Glory to our savior!}
-{1132}{}{señor Andres brought up a real heroine.}
+{1132}{}{Senor Andres brought up a real heroine.}
 {1133}{}{The viceroy of Andres shows great promise.}
 
-{1134}{}{Hush! That bastard of señor Andres is up to something.}
-{1135}{}{señor Andres raised a she-devil.}
+{1134}{}{Hush! That bastard of senor Andres is up to something.}
+{1135}{}{Senor Andres raised a she-devil.}
 {1136}{}{In bad times, we need a strong leader.}
 
 #Retaliatory remarks

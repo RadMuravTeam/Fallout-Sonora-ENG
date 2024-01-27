@@ -81,7 +81,7 @@
 {267}{}{Thank you, Chief.}
 
 {270}{}{I ask you to reopen the caravan route to Garage City.}
-{271}{}{All roads and trade routes with the Phoenix colonies are closed. So the council of elders decided.}
+{271}{}{All roads and trade routes with the Phoenix colonies are closed. So has the Council of Elders decided.}
 {272}{}{Apparently, you won't change your mind until your relationship with Phoenix is better.}
 {273}{}{We have already opened caravan routes with Phoenix. Let all his colonies return to peaceful trade.}
 {274}{}{Great. }

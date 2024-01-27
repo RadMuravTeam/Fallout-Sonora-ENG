@@ -19,7 +19,7 @@
 {208}{}{Sancho, I remember you disliked me at the Villa and called me a "one-legged mantis".}
 {209}{}{Okay, let's go.}
 
-{210}{}{We were separated when we were brought to this city. Some were left in the pen, including señora Maria, your madre. The others were taken away somewhere, I haven't seen them since.}
+{210}{}{We were separated when we were brought to this city. Some were left in the pen, including senora Maria, your madre. The others were taken away somewhere, I haven't seen them since.}
 {211}{}{It was a failed plan. We wanted to dig a tunnel right into the wasteland and run through it, and for this we had to steal explosives. But everything went wrong. The explosion caused a chain of collapses, and we were cut off from the world.}
 {212}{}{One of the slaves said that collars do not work in the mines. }
 {213}{}{Just a deep, damp hole. And there are these giant rodents all around. You won't find them in our Villa. They say that there are even more. Lucky we didn't come across them.}

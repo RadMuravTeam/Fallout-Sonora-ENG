@@ -42,7 +42,7 @@
 {251}{}{[Next]}
 {252}{}{There was a life beyond the valley that we didn't know about. The outsiders have also heard about us and our plantations. Not now, so later all sorts of robbers and traders will come here to snatch from our fruits.}
 {253}{}{[Next]}
-{254}{}{We must prepare for their appearance. Remember how easily the robbers broke into the village and took everyone prisoner? Even señor Andres could not fend off the attack in the town hall. (the hall is filled with a roar of indignation)}
+{254}{}{We must prepare for their appearance. Remember how easily the robbers broke into the village and took everyone prisoner? Even senor Andres could not fend off the attack in the town hall. (the hall is filled with a roar of indignation)}
 {255}{}{[Next]}
 {256}{}{Hush. We are all tense. But all is not lost yet. We have returned from slavery, our homes have survived, and the plantations will soon yield a new crop. We still have some time.}
 {257}{}{[Next]}
@@ -75,12 +75,12 @@
 {277}{}{Friends, let's continue.}
 {278}{}{Of course, we can't expect any other attitude from you.}
 
-{280}{}{The fact is that slavery and the journey through the desert have undermined the health of señor Andres. He won't be able to get far from the Villa and is barely coping with the rebuilding of the village. }
+{280}{}{The fact is that slavery and the journey through the desert have undermined the health of senor Andres. He won't be able to get far from the Villa and is barely coping with the rebuilding of the village. }
 {281}{}{, you'll have to do some of his work. It's time to take on the responsibility that your padre used to have.}
 {282}{}{Of course. I've been preparing for this all my life.}
 {1282}{}{Of course. I've been preparing for this all my life.}
 {283}{}{Is this a joke? Hey, Daddy, what's going on?}
-{284}{}{I also have to tell you the sad news. señor Andres, the padre of your savior, died during his slave wanderings. (universal exclamation) His place of honor according to the rules of the community is occupied by his direct descendant. }
+{284}{}{I also have to tell you the sad news. senor Andres, the padre of your savior, died during his slave wanderings. (universal exclamation) His place of honor according to the rules of the community is occupied by his direct descendant. }
 {285}{}{, now you are our leader.}
 {286}{}{Of course. I've been preparing for this all my life.}
 {1286}{}{Of course. I've been preparing for this all my life.}
@@ -211,7 +211,7 @@
 {422}{}{(universal shout of approval) Hooray! Blow up these diggers! Do it!}
 {423}{}{Agreed.}
 {424}{}{Give me time to think. Perhaps I can find a compromise with the owner of the mine.}
-{425}{}{(the audience looks at each other in bewilderment) Can you really do that? Hmm, the wastelands have given you a lot of experience. But for now, the council is sticking to the proposal with an explosion. I hope you make the right decision.}
+{425}{}{(the audience looks at each other in bewilderment) Can you really do that? Hmm, the wastelands have given you a lot of experience. But for now, the Council is sticking to the proposal with an explosion. I hope you make the right decision.}
 {426}{}{Okay.}
 {427}{}{ (Ugo rises) }
 

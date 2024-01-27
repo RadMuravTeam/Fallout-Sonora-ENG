@@ -14,8 +14,8 @@
 {119}{}{It is worth turning away, as something disappears from the counter.}
 
 #The first dialog
-{200}{}{Come here, señor! Junk and junk - that's what you need. And all this you will find in my shop.}
-{1200}{}{Come on, señorita! Junk and junk - that's what you need. And all this you will find in my shop.}
+{200}{}{Come here, senor! Junk and junk - that's what you need. And all this you will find in my shop.}
+{1200}{}{Come on, senorita! Junk and junk - that's what you need. And all this you will find in my shop.}
 {201}{}{Wow, there's a whole carload of garbage here.}
 {202}{}{}
 {203}{}{Not garbage, no, no! Everything you need is here. Take a closer look. Maybe you need those rusty spoons? Or do you prefer to eat with dirty hands? Then you will surely be interested in this toaster. It has a bit of a button jam, but it works. Or maybe you need...}

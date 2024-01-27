@@ -55,10 +55,10 @@
 {264}{}{Let's chat a little more before we part?}
 {265}{}{Let's chat a little more?}
 
-{270}{}{The council wants to blow up the Flagstaff mines. How do you like this idea?}
+{270}{}{The Council wants to blow up the Flagstaff mines. How do you like this idea?}
 {271}{}{Please take care of yourself. I don't want to let you go on such a dangerous mission. But this mine needs to be stopped. Otherwise, the hand of the slaveholders will reach our village again. And we don't have the strength to fight it.}
 {272}{}{Clear.}
-{273}{}{The council decided to destroy the Garage City plant. What do you think about it?}
+{273}{}{The Council decided to destroy the Garage City plant. What do you think about it?}
 {274}{}{The scavengers have already shown their corrupt nature. They cannot be trusted, they do not have warm neighborly feelings for us. When they launch the plant, a flood of new labor will flow here. This cannot be allowed if we want to preserve our way of life and peaceful life.}
 {275}{}{Clearly.}
 {276}{}{How do you feel about the alliance with the Rangers?}

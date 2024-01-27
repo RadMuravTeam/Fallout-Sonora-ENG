@@ -14,7 +14,7 @@
 {203}{}{Make me, shorty.}
 {204}{}{Oh, please. This is your treasure.}
 {205}{}{Think hard, gringo. No one can help you here. I found this treasure. And it belongs to me. Now kindly move over and GO to HELL!}
-{1205}{}{Think carefully, señora. No one can help you here. I found this treasure. And it belongs to me. Now be a good girl -move over and GO TO HELL!}
+{1205}{}{Think carefully, senora. No one can help you here. I found this treasure. And it belongs to me. Now be a good girl -move over and GO TO HELL!}
 {206}{}{Oh, please, look.}
 {207}{}{And that's it? Not too much. The old man was a miser, he could have put something more serious. I'd like to take everything, but I'll have to share. What do you choose from this?}
 {208}{}{50 pre-war dollars.}

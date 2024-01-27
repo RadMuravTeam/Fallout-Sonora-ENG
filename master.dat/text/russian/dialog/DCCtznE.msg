@@ -18,8 +18,8 @@
 {213}{}{Oh, now you understand me, right?}
 {214}{}{That's better. Why all this representation?}
 {215}{}{It can't be that you don't understand English at least a little.}
-{216}{}{Have pity on the old man, señor. Strangers come and go. And I have to look for food. I'm hungry, maldita sea.}
-{1216}{}{Have pity on the old man, señora. Strangers come and go. And I have to look for food. I'm hungry, maldita sea.}
+{216}{}{Have pity on the old man, senor. Strangers come and go. And I have to look for food. I'm hungry, maldita sea.}
+{1216}{}{Have pity on the old man, senora. Strangers come and go. And I have to look for food. I'm hungry, maldita sea.}
 {217}{}{OK, I'll look for food for you.}
 {218}{}{It looks like you and I won't be able to have a conversation. And fuck you.}
 {219}{}{It looks like you and I won't be able to have a conversation. Fuck you, el decrepito viejo.}
@@ -33,8 +33,8 @@
 
 {250}{}{(Gestures ready to talk)}
 {251}{}{Bye, old man.}
-{252}{}{Ah, the food! Thank you, señor.}
-{1252}{}{Ah, the food! Thank you, señorita.}
+{252}{}{Ah, the food! Thank you, senor.}
+{1252}{}{Ah, the food! Thank you, senorita.}
 {253}{}{Shah, comida! Gracias, Seœog.}
 {1253}{}{Shah, comida! Gracias, SeœOrita.}
 {254}{}{You are welcome. Now can you tell us a little about yourself and the city?}

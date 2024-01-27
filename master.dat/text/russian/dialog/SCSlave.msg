@@ -1,20 +1,20 @@
 {100}{}{You see a servant.}
 {101}{}{You see a thin Mexican. He is wearing a striped shirt and a collar, and he is holding a mop in his hands.}
 
-{110}{}{That's right, señor!}
+{110}{}{That's right, senor!}
 {111}{}{Glad to try, sir!}
-{112}{}{Am I detaining you, señor?}
-{113}{}{I'm sorry, señor.}
-{114}{}{As you say, señor.}
+{112}{}{Am I detaining you, senor?}
+{113}{}{I'm sorry, senor.}
+{114}{}{As you say, senor.}
 
-{1110}{}{That's right, señora!}
-{1111}{}{Glad to try, señora!}
-{1112}{}{Am I detaining you, señora?}
-{1113}{}{I'm sorry, señora.}
-{1114}{}{Whatever you say, señora.}
+{1110}{}{That's right, senora!}
+{1111}{}{Glad to try, senora!}
+{1112}{}{Am I detaining you, senora?}
+{1113}{}{I'm sorry, senora.}
+{1114}{}{Whatever you say, senora.}
 
-{200}{}{What can I do for you, señor... Oh, you're not from the Brotherhood. Then you better not talk to me, paladins don't like it.}
-{1200}{}{What can I do for you, señora... Oh, you're not from the Brotherhood. Then you better not talk to me, paladins don't like it.}
+{200}{}{What can I do for you, senor... Oh, you're not from the Brotherhood. Then you better not talk to me, paladins don't like it.}
+{1200}{}{What can I do for you, senora... Oh, you're not from the Brotherhood. Then you better not talk to me, paladins don't like it.}
 {201}{}{Why?}
 {202}{}{They're always imagining a conspiracy. And when they find a reason, they arrange inspections and even a public flogging. Here with this strictly. One was recently drowned for stealing food from the supreme Paladin. I don't want to be in his place.}
 {203}{}{Clear. Well, come on.}
@@ -31,8 +31,8 @@
 {219}{}{Gr-r...}
 
 {220}{}{Who are you? You're not in the Brotherhood, are you?}
-{221}{}{No way, señor. See the collar? I'm a prisoner, here's my number.}
-{1221}{}{No way, señora. See the collar? I'm a prisoner, here's my number.}
+{221}{}{No way, senor. See the collar? I'm a prisoner, here's my number.}
+{1221}{}{No way, senora. See the collar? I'm a prisoner, here's my number.}
 {222}{}{Clearly. Another question.}
 {223}{}{Prisoner? But why are you being held against your will?}
 {224}{}{I just took a couple of ears from the plantation... Well, a couple of fruits... Not a couple, but a whole bag... But I had to eat something! Now I'm working on the ship until I've served my sentence.}
