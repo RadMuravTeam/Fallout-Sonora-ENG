@@ -1,3 +1,3 @@
-1: The story has neither beginning nor end.
-2: When the bombs fell on the ground, the world changed.
-3: When strangers came to the Villa, the world changed again.
+1: The story has neither a beginning nor an end.
+2: When the bombs hit the earth, the world changed.
+3: When strangers came to Villa, the world changed again.

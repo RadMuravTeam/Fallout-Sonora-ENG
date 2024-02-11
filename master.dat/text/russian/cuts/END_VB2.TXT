@@ -1,3 +1,3 @@
-1: Our Hero has prepared such a fate for his house.
-2: Having despised the old way of life, he left his native lands and never returned there.
-3: The surviving peasants soon forgot his name.
+1: Such is the fate our Hero arranged for their home.
+2: Despising the old way of life, they left their homelands and never returned.
+3: The surviving peasants soon forgot their name.

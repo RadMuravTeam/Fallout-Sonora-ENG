@@ -1,3 +1,3 @@
-1: A large fire destroyed a breeding ground of infection in the greenhouses of Casa Nueva.
-2: But along with it, the residents lost the scientific experience that was obtained in the laboratory.
-3: The result was a drop in yields on local plantations.
+1: A large fire destroyed the sources of the infection in Casa Nueva's greenhouses.
+2: But with it, the town lost the data the laboratory held.
+3: The result was a drop in crop yields at the local plantations.
