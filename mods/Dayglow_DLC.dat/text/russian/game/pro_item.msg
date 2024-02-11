@@ -333,7 +333,7 @@
 {16300}{}{Minigun}
 {16301}{}{Portable minigun Rockwell CZ53. A multi-barrel machine gun firing 5 mm rounds at an incredible speed. Min ST: 8.}
 {16400}{}{Shotgun}
-{16401}{}{Winchester Video Maker is a double-barreled shotgun of 12 caliber. Short-barreled, with a trimmed mahogany butt. Min ST: 6.}
+{16401}{}{Winchester "Widowmaker" is a double-barreled shotgun of 12 caliber. Short-barreled, with a trimmed mahogany butt. Min ST: 6.}
 {16500}{}{Combat shotgun}
 {16501}{}{Combat shotgun Winchester "City Killer", in good condition. It comes with a "Desert War" sealant that increases the reliability of weapons. Min ST: 6.}
 {16600}{}{Assault shotgun}
@@ -449,9 +449,9 @@
 {22001}{}{A caravan wagon converted from the body of an ancient car.}
 {22100}{}{Pot}
 {22101}{}{A large pot for storing crops or water.}
-{22200}{}{Potty}
+{22200}{}{Pot}
 {22201}{}{An artfully made clay pot.}
-{22300}{}{Potty}
+{22300}{}{Pot}
 {22301}{}{An artfully made clay pot.}
 {22400}{}{Box}
 {22401}{}{A wooden box filled with various things.}

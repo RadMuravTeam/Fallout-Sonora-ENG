@@ -14,7 +14,7 @@
 {205}{}{What happened?}
 {206}{}{Well, I can tell you if you pour me something refreshing from the bar.}
 {207}{}{Okay, I'll get something now.}
-{208}{}{No booze, señorita. Adios.}
+{208}{}{No booze, senorita. Adios.}
 {209}{}{Here are 5 caps for you, take it yourself.}
 {210}{}{Muchas gracias!}
 {211}{}{Now tell me what's going on here.}

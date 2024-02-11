@@ -64,10 +64,10 @@
 {266}{}{Talk to the people on the ground, maybe I don't know the whole situation in the Villa. And don't forget about the community meeting. Your word will be especially weighty when making decisions.}
 {267}{}{OK, I'll come.}
 
-{270}{}{The council wants to blow up the Flagstaff mines. How do you like this idea?}
+{270}{}{The Council wants to blow up the Flagstaff mines. How do you like this idea?}
 {271}{}{It's very risky, but it needs to be done. And no one else but you can do it. If we leave the mines as they are, then slavery will only expand and someday it will reach us again. We have too little strength to confront this problem.}
 {272}{}{Clearly.}
-{273}{}{The council decided to destroy the Garage City plant. What do you think about it?}
+{273}{}{The Council decided to destroy the Garage City plant. What do you think about it?}
 {274}{}{Scavengers deserve this fate. They have already betrayed us by providing the raiders with everything they need for a raid. Now they decided to start the old factory. We will lose a lot if this happens. We will lose our privacy, peaceful life and our way of life, which has been developing for decades. To hell with this factory!}
 {275}{}{Clear.}
 {276}{}{How do you feel about the alliance with the Rangers?}

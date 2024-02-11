@@ -2,8 +2,8 @@
 {101}{}{You see a fishmonger.}
 {102}{}{Hide behind the counter. I don't think these dead people will find us here.}
 
-{200}{}{Hello, señor. How can I help you?}
-{1200}{}{Hello, señora. How can I help?}
+{200}{}{Hello, senor. How can I help you?}
+{1200}{}{Hello, senora. How can I help?}
 {201}{}{I don't need anything right now. I'll come back some other time.}
 {202}{}{I need to exchange supplies for the road.}
 {203}{}{Is that all? Then have a good trip.}

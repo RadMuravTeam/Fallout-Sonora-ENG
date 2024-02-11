@@ -95,7 +95,7 @@
 {280}{}{Do you only have alcoholic beverages?}
 {281}{}{For the most part, yeah. I can also offer clean water, if you'd like. But few are able to obtain that luxury.}
 {282}{}{Where do you get the beverages from?}
-{283}{}{We have numerous sources. The beer is produced by a couple of moonshiners. Sometimes we find something out of the ordinary in ancient ruins. For instance, Pre-War whiskey. But the tequila we produce ourselves.}
+{283}{}{We have numerous sources. The beer is produced by a couple of moonshiners. Sometimes we find something out of the ordinary in Ancient Ruins. For instance, Pre-War whiskey. But the tequila we produce ourselves.}
 {284}{}{Yourselves? Are you kidding me?}
 {285}{}{Tequila is our specialty. We order raw material from the southern plantations and turn it into drinks and rubbing alcohol right here. As far as I know, we are the only ones doing such things.}
 {286}{}{Real production in our times? Very impressive.}
@@ -106,6 +106,6 @@
 {291}{}{I'm sorry, there's a small force majeure at the production site. We're in the process of solving the problem, but it will take some time.}
 {292}{}{What a terrible tragedy. I hope you find a solution soon.}
 {293}{}{What kind of a casino is this that you can't even order a drink? One truly can't find a worse establishment.}
-{294}{}{We have numerous sources. The beer is produced by a couple of moonshiners. Sometimes we find something out of the ordinary in the ancient ruins. For instance, Pre-War whiskey. The tequila we used to produce ourselves, but the machine stopped working. We're still working on that problem.}
+{294}{}{We have numerous sources. The beer is produced by a couple of moonshiners. Sometimes we find something out of the ordinary in the Ancient Ruins. For instance, Pre-War whiskey. The tequila we used to produce ourselves, but the machine stopped working. We're still working on that problem.}
 {295}{}{You made your own tequila? Go on, I'm curious.}
 {296}{}{You made it yourselves? What a shame it ended.}

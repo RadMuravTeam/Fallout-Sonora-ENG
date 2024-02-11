@@ -6,13 +6,13 @@
 
 {200}{}{Oh! Salute, compañero! First time in the city?}
 {201}{}{Is this a city?}
-{202}{}{And why not, señor? There is everything that the city should have - a bar, a hotel, housing, work. Live a little, you'll see for yourself.}
-{1202}{}{And why not, señorita? There is everything that the city should have - a bar, a hotel, housing, and work. Live a little, you'll see for yourself.}
+{202}{}{And why not, senor? There is everything that the city should have - a bar, a hotel, housing, work. Live a little, you'll see for yourself.}
+{1202}{}{And why not, senorita? There is everything that the city should have - a bar, a hotel, housing, and work. Live a little, you'll see for yourself.}
 {203}{}{Uh, I'll think about it. And who are you?}
 {204}{}{My name is Pedro Fuerte... or just Pete.}
 {205}{}{I'll call you Pete.}
-{206}{}{As it will be more convenient, señor. As it will be more convenient.}
-{1206}{}{As it will be more convenient, señora. As it will be more convenient.}
+{206}{}{As it will be more convenient, senor. As it will be more convenient.}
+{1206}{}{As it will be more convenient, senora. As it will be more convenient.}
 {207}{}{Nice to meet you, Pedro.}
 {208}{}{(smiles) And to me, amigo, the garage doors are always open to good people. How can I help?}
 {209}{}{I think I'll come back later.}
@@ -25,13 +25,13 @@
 {215}{}{Do you call this handful of dirty shacks a city?}
 
 #Questions
-{220}{}{Si, señor?}
-{1220}{}{Si, señora?}
+{220}{}{Si, senor?}
+{1220}{}{Si, senora?}
 {221}{}{What is this place?}
 {222}{}{This is Mr. Kogan's own garage-the main office of the scavenger cartel. Here we recycle garbage from the ruins. Useful things go with caravans, and the rest - as it turns out. Do you need parts or wires? I can exchange it.}
 {223}{}{Tell me about your work.}
 {224}{}{I'm a mechanic, sir. I recycle what the scavengers bring. I fix it, if necessary, and prepare it for shipment.}
-{1224}{}{I'm a mechanic, señora. I recycle what the scavengers bring. I fix it, if necessary, and prepare it for shipment.}
+{1224}{}{I'm a mechanic, senora. I recycle what the scavengers bring. I fix it, if necessary, and prepare it for shipment.}
 {225}{}{How does the boss feel about you?}
 {226}{}{He appreciates my work! I am his main assistant in working with scavengers.}
 {227}{}{Sounds more like he's pushing you around.}
@@ -48,8 +48,8 @@
 {238}{}{Scavengers do not forgive this, no way. Within the clan, all the extracted resource is given to the leader, and the income is divided among all. If someone breaks the rules, then he doesn't stay here for long.}
 
 {240}{}{Your boss is dead. What are you going to do now?}
-{241}{}{This is bad, señor. The boss humiliated me and paid half a penny for hard work, but without him... without him, the whole Garage City would become a dump!}
-{1241}{}{This is bad, señora. The boss humiliated me and paid half a penny for hard work, but without him... without him, the whole Garage City would become a dump!}
+{241}{}{This is bad, senor. The boss humiliated me and paid half a penny for hard work, but without him... without him, the whole Garage City would become a dump!}
+{1241}{}{This is bad, senora. The boss humiliated me and paid half a penny for hard work, but without him... without him, the whole Garage City would become a dump!}
 {242}{}{Are you sure?}
 {243}{}{Only he knew how to run a business. And now there will be a war for the mine among the scavengers. I don't know what to do... Maybe it's time to leave these places. But where will I go?}
 {244}{}{Looks like you don't have a choice. Let's talk about something more pleasant.}
@@ -62,20 +62,20 @@
 {254}{}{You know, you don't have to always be so executive.}
 {255}{}{Great. So what do you say you're selling?}
 {256}{}{Just look at this junk. You'll be selling it forever! And I can buy it right now.}
-{257}{}{Your truth, señor. (reveals some part of the product)}
-{1257}{}{Your truth, señora. (reveals some part of the product)}
+{257}{}{Your truth, senor. (reveals some part of the product)}
+{1257}{}{Your truth, senora. (reveals some part of the product)}
 {258}{}{If you refuse me a good product, you will miss a valuable customer.}
-{259}{}{Your truth, señor. (reveals all his goods)}
-{1259}{}{Your truth, señora. (reveals all his goods)}
+{259}{}{Your truth, senor. (reveals all his goods)}
+{1259}{}{Your truth, senora. (reveals all his goods)}
 {260}{}{Mr. Kogan has been dead for a long time. Can I count on full service now?}
-{261}{}{Si, señor. (reveals all his goods)}
-{1261}{}{Si, señora. (reveals all his goods)}
+{261}{}{Si, senor. (reveals all his goods)}
+{1261}{}{Si, senora. (reveals all his goods)}
 {262}{}{Mr. Kogan recognized my right to a good product. Open everything you have.}
-{263}{}{Si, señor. (reveals all his goods)}
-{1263}{}{Si, señora. (reveals all his goods)}
+{263}{}{Si, senor. (reveals all his goods)}
+{1263}{}{Si, senora. (reveals all his goods)}
 {264}{}{What kind of device is this?}
-{265}{}{Geiger counter? (takes the device and holds it over your body) Oh, señor, yes, you should buy this thing! The meter shows the radiation level, many scavengers would like to get it. But it's too expensive for them.}
-{1265}{}{Geiger counter? (takes the device and holds it over your body) Oh, señora, yes, you should buy this thing! The meter shows the radiation level, many scavengers would like to get it. But it's too expensive for them.}
+{265}{}{Geiger counter? (takes the device and holds it over your body) Oh, senor, yes, you should buy this thing! The meter shows the radiation level, many scavengers would like to get it. But it's too expensive for them.}
+{1265}{}{Geiger counter? (takes the device and holds it over your body) Oh, senora, yes, you should buy this thing! The meter shows the radiation level, many scavengers would like to get it. But it's too expensive for them.}
 {266}{}{I'll think about it.}
 {267}{}{I need the parts to fix the radio station.}
 {268}{}{Seriously? You must have big plans. Few people use their radio stations nowadays. Rangers, for example. Did they send you?}

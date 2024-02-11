@@ -1,5 +1,5 @@
-{100}{}{in front of you is a resident of an—elipe.}
-{101}{}{you see an ordinary cross of a Mexican appearance.}
+{100}{}{You see a resident of an—elipe.}
+{101}{}{You see an ordinary cross of a Mexican appearance.}
 
 {110}{}{°Hola!}
 {111}{}{°Hola, hêroe!}
