@@ -1,3 +1,3 @@
-1: Having lost their patrons, the inhabitants of Casa Nueva fell into despair.
-2: Unable to cope with their problems alone, they left their homes.
-3: Over time, the desert covered the city with sand, and they forgot about it.
+1: Without their benefactors, the inhabitants of Casa Nueva fell into despair.
+2: Finding themselves unable to deal with their problems, they left their homes.
+3: Over time, the desert covered the city with sand, until it was eventually entirely forgotten.

@@ -1,1 +1,1 @@
-1: You died. Again.
+1: You are dead. Again.
